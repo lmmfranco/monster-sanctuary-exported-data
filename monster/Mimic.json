@@ -1,0 +1,621 @@
+{
+  "guid": "e6ff55ce973168142b8983c52b291147",
+  "filename": "Mimic",
+  "ID": 1537,
+  "Name": "Mimic",
+  "baseStats": {
+    "attack": 7,
+    "magic": 1,
+    "defense": 4,
+    "health": 4,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 5
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -20
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1402140077838650,
+      "guid": "30100117dd43b0a43918a3037cf838b7",
+      "type": 2
+    },
+    {
+      "fileID": 1873762428142600,
+      "guid": "f99d69b27ade4b749a71ace3d6c20d23",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1079285706125740,
+      "guid": "38bb721fb38db564e831d65ceceba144",
+      "type": 2
+    },
+    {
+      "fileID": 1138626002809889,
+      "guid": "0696ce3a4f826174da1ba28cb861b586",
+      "type": 2
+    },
+    {
+      "fileID": 1507782361152152,
+      "guid": "e856142fe02aba74397c0e142cb7a01e",
+      "type": 2
+    }
+  ],
+  "StartLevel": 37,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 5,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1358486953526444,
+    "guid": "021337e29b33e3140a4ac7eb48c67478",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.3
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -16,
+    "true": -16,
+    "z": 0
+  },
+  "MonsterTypes": "090000000500000003000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    },
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    },
+    {
+      "fileID": 1668838556209825,
+      "guid": "489b4926b82fd2f4ba0584ee4a04de9e",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    },
+    {
+      "fileID": 1491963978909647,
+      "guid": "47e9be12d68e8834eb41eef35979c8b0",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    },
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    },
+    {
+      "fileID": 1227144640793239,
+      "guid": "64df5b30600dae84a9d97fc9c8f1f4a5",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1138183496759795,
+      "guid": "9d1b3188cce25dc44a8cc952f92d455e",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1026648773384252,
+      "guid": "e8205962878f3cd478ebd03923e098c3",
+      "type": 2
+    },
+    {
+      "fileID": 1055114856425583,
+      "guid": "fa4b380ffa730e44796190243190675f",
+      "type": 2
+    },
+    {
+      "fileID": 1365192170748494,
+      "guid": "28d48ecbcbd92f24b90fb3b9d6affd2c",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1971418480301751,
+    "guid": "a896846f85415944ebb5accf0fe051a3",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1624721887418744,
+      "guid": "e5aa6fb23c0a0d34eba7a1bff010935b",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1731515195765440,
+      "guid": "9037c2a9d3eb3d74b99f0d7f21103057",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1974223868971265,
+      "guid": "f482029fdb59d5349b2ad8259a4015df",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1639015182491661,
+      "guid": "71e0b9c539f03ac46bdfda97d6baff81",
+      "type": 2
+    },
+    {
+      "fileID": 1138183496759795,
+      "guid": "9d1b3188cce25dc44a8cc952f92d455e",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1815603730581760,
+      "guid": "35b389ac66aea06458fa6ba9335e6dc9",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1968964994863623,
+      "guid": "5d9893c8cf62c6f4e8a8a4c2c095b0b4",
+      "type": 2
+    },
+    {
+      "fileID": 1918707403924769,
+      "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1001993485527291,
+      "guid": "547449601fe852d4fa91de66d9ab082b",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1954995645601857,
+      "guid": "9b54a867d9c7c7e48a903e56250390ec",
+      "type": 2
+    },
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1651059093572208,
+      "guid": "1a118ab728608f941b5c3780b759a972",
+      "type": 2
+    },
+    {
+      "fileID": 1848976509214236,
+      "guid": "7163a4c1b4d4d004d88283230565969e",
+      "type": 2
+    },
+    {
+      "fileID": 1894619493732826,
+      "guid": "0d05ea13ad3ee5f4c9f192ba837a187a",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1292216902401061,
+      "guid": "d2dad1f5b406bc1448ef972c045d9308",
+      "type": 2
+    },
+    {
+      "fileID": 1322665121467318,
+      "guid": "5f08bb4c009ca2142b41f59f33bc1795",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    },
+    {
+      "fileID": 1167711869062211,
+      "guid": "bbdf6ff6d91e6874682aec5109c90b99",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1873145632361084,
+      "guid": "aa2807184b2df464796e188a5af1605c",
+      "type": 2
+    },
+    {
+      "fileID": 1376851347434414,
+      "guid": "151cfdbff913d75488cbacf040846755",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1681263221853254,
+      "guid": "b378faed7ea854f4da99612f0569dc8f",
+      "type": 2
+    },
+    {
+      "fileID": 1078407986811500,
+      "guid": "d75e9e9a56a4e834dba3d32bf57b29b4",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1369336062061498,
+      "guid": "71a2338bfbda5874590399a4cc57a6bc",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1651821398517240,
+      "guid": "c6367ea1aeabb994fb6cf7b228cd7917",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1711615903268756,
+      "guid": "0bcc1dbf96b83c74eb59b3ae62ea736b",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1046720121458202,
+      "guid": "ad049961afb584045bab9640bb00ee5f",
+      "type": 2
+    },
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1637226370776333,
+      "guid": "46b92a6076355054fa4ccf45b219b6f3",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__4": [
+    {
+      "fileID": 1227144640793239,
+      "guid": "64df5b30600dae84a9d97fc9c8f1f4a5",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__4": [
+    {
+      "fileID": 1421611678294282,
+      "guid": "b385b14a283a77f4895b905e2225424a",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1978035727466006,
+      "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__4": [
+    {
+      "fileID": 1780617805323052,
+      "guid": "7b535f52920d35641ad3aaeec12675ba",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__4": [
+    {
+      "fileID": 1817039896507635,
+      "guid": "91854259835df834ba562a3adba011d6",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__4": [
+    {
+      "fileID": 1239359350124161,
+      "guid": "69d5d25e3e354a444a240103a2363806",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    }
+  ],
+  "Bio": "Mimics are spirits that are cursed to remain inside of treasure chests. With nothing better to do, they tend to sit still and wait patiently for adventurers to approach, longing for the opportunity to let out their anger on them.",
+  "History": "Mimics were originally gluttonous spirits that haunted a certain wealthy kingdom of the Old World. It was a godless kingdom that was known as a paradise for commerce, imposing no rules whatsoever on what kinds of goods could be bought and sold. One day, Mimics started appearing in the kingdom, seeking out treasuries and any other places with coffers filled to the brim with coin, gemstones or other precious treasures. They would go from one treasure chest to another, eating up everything that they could find inside. Eventually, a wandering priest came to that realm and decided to take on the gluttonous spirits. He used richly-decorated treasure chests that were now empty and turned them into spirit traps. When a Mimic next entered the chest, it got trapped inside, cursed to remain inside for all eternity. The Mimics were successfully conquered, but it was already too late for the now impoverished kingdom.",
+  "StatOrientation": 3
+}

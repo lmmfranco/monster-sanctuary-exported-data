@@ -1,0 +1,24 @@
+{
+  "guid": "011b3a62b803b7a449e5380efdfe7345",
+  "filename": "VertraagChampion",
+  "ID": 1694,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.6,
+  "ActionCount": 3,
+  "DamageMultiplier": 1.25,
+  "ManaMultiplier": 3.4,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 1200,
+  "EncounterLevel": 40,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1036985526460713,
+    "guid": "baf9f1650a1bdbf4f91570e3b3db96fb",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

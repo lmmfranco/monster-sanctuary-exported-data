@@ -1,0 +1,454 @@
+{
+  "guid": "338fee4a2924e8e408b2bc6d94a790cd",
+  "filename": "SkillTreeView",
+  "Icons": [
+    {
+      "fileID": 114056249770665970
+    },
+    {
+      "fileID": 114166482719276210
+    },
+    {
+      "fileID": 114695582443572620
+    },
+    {
+      "fileID": 114993600983211000
+    },
+    {
+      "fileID": 114083814402921360
+    }
+  ],
+  "Background": {
+    "fileID": 114617488810251310
+  },
+  "Icon": {
+    "fileID": 114488080257970930
+  },
+  "UpperConnector": {
+    "fileID": 114422535180390200
+  },
+  "LowerConnector": {
+    "fileID": 114087277577001250
+  },
+  "HorizontalConnector": {
+    "fileID": 114313110197978530
+  },
+  "Outline": {
+    "fileID": 114720700745270020
+  },
+  "Level": {
+    "fileID": 114928455060382020
+  },
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114943383757002140,
+      "guid": "9ac2fe0ca2af9ff489694e085625e4d8",
+      "type": 2
+    },
+    "text": 2,
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 6,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "Icon__1": {
+    "fileID": 114901000304914960
+  },
+  "UpperConnector__1": {
+    "fileID": 114767817382090940
+  },
+  "LowerConnector__1": {
+    "fileID": 114074763156309310
+  },
+  "HorizontalConnector__1": {
+    "fileID": 114958359924031170
+  },
+  "Outline__1": {
+    "fileID": 114247553908676590
+  },
+  "Level__1": {
+    "fileID": 114756672419045950
+  },
+  "_font__1": {
+    "fileID": 0
+  },
+  "_text__1": null,
+  "_color__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__1": 0,
+  "_textureGradient__1": 0,
+  "_anchor__1": 6,
+  "_scale__1": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__1": 0,
+  "_maxChars__1": 16,
+  "_inlineStyling__1": 0,
+  "_formatting__1": 0,
+  "_wordWrapWidth__1": 0,
+  "spacing__1": 0,
+  "lineSpacing__1": 0,
+  "data__1": {
+    "version": 1,
+    "font": {
+      "fileID": 114943383757002140,
+      "guid": "9ac2fe0ca2af9ff489694e085625e4d8",
+      "type": 2
+    },
+    "text": 2,
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 6,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "Icon__2": {
+    "fileID": 114860397096418690
+  },
+  "UpperConnector__2": {
+    "fileID": 114017096564219490
+  },
+  "LowerConnector__2": {
+    "fileID": 114152537344458460
+  },
+  "HorizontalConnector__2": {
+    "fileID": 114719072122989840
+  },
+  "Outline__2": {
+    "fileID": 114381578098888290
+  },
+  "Level__2": {
+    "fileID": 114911882224699020
+  },
+  "_font__2": {
+    "fileID": 0
+  },
+  "_text__2": null,
+  "_color__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__2": 0,
+  "_textureGradient__2": 0,
+  "_anchor__2": 6,
+  "_scale__2": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__2": 0,
+  "_maxChars__2": 16,
+  "_inlineStyling__2": 0,
+  "_formatting__2": 0,
+  "_wordWrapWidth__2": 0,
+  "spacing__2": 0,
+  "lineSpacing__2": 0,
+  "data__2": {
+    "version": 1,
+    "font": {
+      "fileID": 114943383757002140,
+      "guid": "9ac2fe0ca2af9ff489694e085625e4d8",
+      "type": 2
+    },
+    "text": 2,
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 6,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "Icon__3": {
+    "fileID": 114757110827033540
+  },
+  "UpperConnector__3": {
+    "fileID": 114556474137270240
+  },
+  "LowerConnector__3": {
+    "fileID": 114373308157382450
+  },
+  "HorizontalConnector__3": {
+    "fileID": 114907367511060500
+  },
+  "Outline__3": {
+    "fileID": 114989795913242370
+  },
+  "Level__3": {
+    "fileID": 114682825017643410
+  },
+  "_font__3": {
+    "fileID": 0
+  },
+  "_text__3": null,
+  "_color__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__3": 0,
+  "_textureGradient__3": 0,
+  "_anchor__3": 6,
+  "_scale__3": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__3": 0,
+  "_maxChars__3": 16,
+  "_inlineStyling__3": 0,
+  "_formatting__3": 0,
+  "_wordWrapWidth__3": 0,
+  "spacing__3": 0,
+  "lineSpacing__3": 0,
+  "data__3": {
+    "version": 1,
+    "font": {
+      "fileID": 114943383757002140,
+      "guid": "9ac2fe0ca2af9ff489694e085625e4d8",
+      "type": 2
+    },
+    "text": 2,
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 6,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "Icon__4": {
+    "fileID": 114595342905711540
+  },
+  "UpperConnector__4": {
+    "fileID": 114898739684022930
+  },
+  "LowerConnector__4": {
+    "fileID": 114141676257539920
+  },
+  "HorizontalConnector__4": {
+    "fileID": 114761453199996240
+  },
+  "Outline__4": {
+    "fileID": 114290844926812720
+  },
+  "Level__4": {
+    "fileID": 114261036535359150
+  },
+  "_font__4": {
+    "fileID": 0
+  },
+  "_text__4": null,
+  "_color__4": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__4": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__4": 0,
+  "_textureGradient__4": 0,
+  "_anchor__4": 6,
+  "_scale__4": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__4": 0,
+  "_maxChars__4": 16,
+  "_inlineStyling__4": 0,
+  "_formatting__4": 0,
+  "_wordWrapWidth__4": 0,
+  "spacing__4": 0,
+  "lineSpacing__4": 0,
+  "data__4": {
+    "version": 1,
+    "font": {
+      "fileID": 114943383757002140,
+      "guid": "9ac2fe0ca2af9ff489694e085625e4d8",
+      "type": 2
+    },
+    "text": 2,
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 6,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  }
+}

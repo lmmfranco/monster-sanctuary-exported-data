@@ -1,0 +1,12 @@
+{
+  "guid": "489b4926b82fd2f4ba0584ee4a04de9e",
+  "filename": "MagicalWeakness",
+  "ID": 410,
+  "Name": "Magical Weakness",
+  "Icon": "icon_magical_weakness",
+  "Description": "Magical damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 6,
+  "Modifier": 0.5
+}

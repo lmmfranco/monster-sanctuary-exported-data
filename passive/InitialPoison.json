@@ -1,0 +1,11 @@
+{
+  "guid": "0ffd1cf2021192b44836dc5dbee8cd6d",
+  "filename": "InitialPoison",
+  "ID": 1199,
+  "Name": "Initial Poison",
+  "Icon": "icon_initial_poison",
+  "Description": "Apply {Poison} (Debuff) on a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 2
+}

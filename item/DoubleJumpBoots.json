@@ -1,0 +1,12 @@
+{
+  "guid": "26fafc9240b649b4ebd7bc06f27c1567",
+  "filename": "DoubleJumpBoots",
+  "ID": 71,
+  "Name": "Double Jump Boots",
+  "Price": 0,
+  "Icon": "icon_high_jump_boots",
+  "ItemID": 0,
+  "DisplayInInventory": 1,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "Allows an additional jump mid air"
+}

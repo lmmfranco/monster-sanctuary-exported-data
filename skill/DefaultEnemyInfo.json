@@ -1,0 +1,19 @@
+{
+  "guid": "17f6d5d9615ee084bbfce3040373e6ca",
+  "filename": "DefaultEnemyInfo",
+  "ID": 233,
+  "Name": "Enemy Info",
+  "Icon": "icon_default_enemy_info",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 0,
+  "Duration": 1.5,
+  "IsDefaultAction": 1,
+  "Tooltip": "Show enemy stats & weaknesses",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "e3e627d6151f82d4d9ba86e7b595633c",
+  "filename": "PowerHealing",
+  "ID": 1100,
+  "Name": "Power Healing",
+  "Icon": "icon_power_healing",
+  "Description": "Healing actions trigger an additional Heal on the Monster with the lowest Health equal to {1%} of Attack value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealMagicScale": 0,
+  "HealAttackScale": 0.5,
+  "HealDefenseScale": 0
+}

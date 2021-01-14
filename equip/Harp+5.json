@@ -1,0 +1,28 @@
+{
+  "guid": "4f62dee9182f36442830c4c69488f300",
+  "filename": "Harp+5",
+  "ID": 1510,
+  "Name": "Harp",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_harp",
+  "Attack": 0,
+  "Magic": 220,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 18,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0.2,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

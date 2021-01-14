@@ -1,0 +1,47 @@
+{
+  "guid": "84ab7a2070760154c9e38264cd875dba",
+  "filename": "Belt+3",
+  "ID": 779,
+  "Name": "Belt",
+  "Price": 1050,
+  "Type": 5,
+  "Icon": "icon_belt",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 45,
+  "CritChance": 0,
+  "CritDamage": 0.13,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1229382858309707,
+    "guid": "77f08aa701462d04ba9449fcc879b872",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1177786864638448,
+        "guid": "4f367a9a0c470a1428609d362cb71fab",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "73f9f9de340d33b479c57093cef28345",
+  "filename": "IceBlobEgg",
+  "ID": 612,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1562664637414168,
+    "guid": "be2e48e106638a74b9338a93a391dab3",
+    "type": 2
+  }
+}

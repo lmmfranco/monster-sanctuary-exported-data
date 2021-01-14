@@ -1,0 +1,47 @@
+{
+  "guid": "6a34fd3e8d5cd7d4894dcf8655095c16",
+  "filename": "Coat",
+  "ID": 938,
+  "Name": "Coat",
+  "Price": 200,
+  "Type": 1,
+  "Icon": "icon_coat",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.05,
+  "CritDamage": 0,
+  "Health": 100,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1934626952949791,
+    "guid": "86d9244876805c44fbb3433651378af2",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1832258850283049,
+        "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1979148939231785,
+        "guid": "fb7806c89741472478f451cd10abf730",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

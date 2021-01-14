@@ -1,0 +1,81 @@
+{
+  "guid": "fdb1bcb7cbc1b25478178511dd71b5b2",
+  "filename": "Encapsulate3",
+  "ID": 998,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 120,
+  "TargetType": 3,
+  "Duration": 2.6,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114492824425902270,
+    "guid": "32670586d681f4f4288489f996e38957",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "HealAmount": 60,
+  "ScaleMagic": 0.2,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "ShieldAmount": 0,
+  "ScaleDefense": 0,
+  "ScaleMagic__1": 0,
+  "ScaleAttack__1": 0,
+  "ScaleMana__1": 1.2,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    2.3
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1581368644375656,
+    "guid": "beab630f0b1495841afb323caaf5400a",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

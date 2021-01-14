@@ -1,0 +1,417 @@
+{
+  "guid": "fcd8f82387ae67742bad1dafd3618be3",
+  "filename": "Player",
+  "interactMask": {
+    "serializedVersion": 2
+  },
+  "Inventory": {
+    "fileID": 114708626385397940
+  },
+  "Minimap": {
+    "fileID": 114750361928394940
+  },
+  "InteractHint": {
+    "fileID": 1281158633373231
+  },
+  "InteractButtonView": {
+    "fileID": 114741428087856420
+  },
+  "InteractButtonText": {
+    "fileID": 114104504439064210
+  },
+  "BuffInfo": {
+    "fileID": 1224055568269974
+  },
+  "Physics": {
+    "fileID": 114554907923661200
+  },
+  "MinVelocityForLandingEffects": -100,
+  "HeightTreshholdLanding": 200,
+  "MinVelocityForLandingSFX": -100,
+  "HitLandingDelay": 0.25,
+  "JumpBufferTime": 0.1,
+  "FollowerClass": {
+    "fileID": 1158547828183142,
+    "guid": "78c17db52ac94ea43922860619d73538",
+    "type": 2
+  },
+  "Rank": {
+    "fileID": 114791829519845730
+  },
+  "LandingParticleEffect": {
+    "fileID": 1102166262255215,
+    "guid": "313a5ec860e7e2c41b3b26a3f80c1484",
+    "type": 2
+  },
+  "LandingHeavyParticleEffect": {
+    "fileID": 1002226507965791,
+    "guid": "a5fb557873d87cc4d81a1ad77e31b1df",
+    "type": 2
+  },
+  "DoubleJumpParticleEffect": {
+    "fileID": 1419108047712081,
+    "guid": "f2095db5b14dda74f87dd77d19b7bc60",
+    "type": 2
+  },
+  "DefaultWeapon": {
+    "fileID": 1663902985996277,
+    "guid": "6226fb3430bf14b4ebc045bc22a5a8c0",
+    "type": 2
+  },
+  "StartingItems": [
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1674500266451039,
+      "guid": "e56d66e7942ae1d4e8b5ecefa8dcbd41",
+      "type": 2
+    },
+    {
+      "fileID": 1674500266451039,
+      "guid": "e56d66e7942ae1d4e8b5ecefa8dcbd41",
+      "type": 2
+    }
+  ],
+  "CollisionMask": {
+    "serializedVersion": 2
+  },
+  "HorizontalAcceleration": 750,
+  "HorizontalAirAcceleration": 600,
+  "SwimmingAcceleration": 1000,
+  "HorizontalDeceleration": 1500,
+  "SwimDeceleration": 500,
+  "SwimWaveVelocity": 30,
+  "HorizontalAirDeceleration": 1500,
+  "MaxHorizontalVelocity": 170,
+  "MaxSwimmingVelocity": 200,
+  "Gravity": 1000,
+  "JumpAcceleration": 1100,
+  "DoubleJumpAcceleration": 330,
+  "JumpKickAcceleration": 250,
+  "MaxFallingSpeed": 450,
+  "JumpApplyTime": 0.2,
+  "SafeTreshhold": {
+    "x": 0,
+    "true": 0
+  },
+  "PhysObject": {
+    "fileID": 114568806828580320
+  },
+  "InputType": 6,
+  "Button": {
+    "fileID": 114627483489022770
+  },
+  "Key": {
+    "fileID": 114074568648515460
+  },
+  "KeyName": {
+    "fileID": 114369590841096300
+  },
+  "ForceKeyboardVisuals": 0,
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114864510056220220,
+      "guid": "d5161222cb4b7bb4ba9b6bafe7ba0d40",
+      "type": 2
+    },
+    "text": "D",
+    "color": {
+      "r": 0.2745098,
+      "g": 0.1568628,
+      "b": 0.2156863,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "_font__1": {
+    "fileID": 0
+  },
+  "_text__1": null,
+  "_color__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__1": 0,
+  "_textureGradient__1": 0,
+  "_anchor__1": 6,
+  "_scale__1": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__1": 0,
+  "_maxChars__1": 16,
+  "_inlineStyling__1": 0,
+  "_formatting__1": 0,
+  "_wordWrapWidth__1": 0,
+  "spacing__1": 0,
+  "lineSpacing__1": 0,
+  "data__1": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Interact",
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 3,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "InputType__1": 10,
+  "Button__1": {
+    "fileID": 114891107095863900
+  },
+  "Key__1": {
+    "fileID": 114899652748711800
+  },
+  "KeyName__1": {
+    "fileID": 114163360100569170
+  },
+  "ForceKeyboardVisuals__1": 0,
+  "_font__2": {
+    "fileID": 0
+  },
+  "_text__2": null,
+  "_color__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__2": 0,
+  "_textureGradient__2": 0,
+  "_anchor__2": 6,
+  "_scale__2": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__2": 0,
+  "_maxChars__2": 16,
+  "_inlineStyling__2": 0,
+  "_formatting__2": 0,
+  "_wordWrapWidth__2": 0,
+  "spacing__2": 0,
+  "lineSpacing__2": 0,
+  "data__2": {
+    "version": 1,
+    "font": {
+      "fileID": 114864510056220220,
+      "guid": "d5161222cb4b7bb4ba9b6bafe7ba0d40",
+      "type": 2
+    },
+    "text": "D",
+    "color": {
+      "r": 0.2745098,
+      "g": 0.1568628,
+      "b": 0.2156863,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "_font__3": {
+    "fileID": 0
+  },
+  "_text__3": null,
+  "_color__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__3": 0,
+  "_textureGradient__3": 0,
+  "_anchor__3": 6,
+  "_scale__3": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__3": 0,
+  "_maxChars__3": 16,
+  "_inlineStyling__3": 0,
+  "_formatting__3": 0,
+  "_wordWrapWidth__3": 0,
+  "spacing__3": 0,
+  "lineSpacing__3": 0,
+  "data__3": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Buff Info",
+    "color": {
+      "r": 0.5019608,
+      "g": 0.5019608,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 3,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  }
+}

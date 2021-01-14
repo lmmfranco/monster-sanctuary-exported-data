@@ -1,0 +1,19 @@
+{
+  "guid": "ba79dba687455eb4e98263bb73a27d50",
+  "filename": "BlobFormAbility",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Blob Form",
+  "Description": "- Transforms player into a blob\n- Allows to trespass narrow corridors",
+  "CastDuration": 1,
+  "BlobTransformTimer": 0.3,
+  "Anim": {
+    "fileID": 1552273374862837,
+    "guid": "52e4b8fda2ead194fad544192468d062",
+    "type": 2
+  },
+  "IsMorphBall": 0
+}

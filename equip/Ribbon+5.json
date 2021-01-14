@@ -1,0 +1,28 @@
+{
+  "guid": "a9f53472b2b1feb468d7c592ae06e3a0",
+  "filename": "Ribbon+5",
+  "ID": 1500,
+  "Name": "Ribbon",
+  "Price": 2250,
+  "Type": 5,
+  "Icon": "icon_ribbon",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 750,
+  "Mana": 70,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

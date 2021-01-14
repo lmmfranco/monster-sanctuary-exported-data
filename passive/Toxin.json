@@ -1,0 +1,14 @@
+{
+  "guid": "d09a3e63303980843a6b0833fc18241e",
+  "filename": "Toxin",
+  "ID": 180,
+  "Name": "Toxin",
+  "Icon": "icon_toxin",
+  "Description": "Every hit has a {0%} chance to apply {Poison}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 2,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

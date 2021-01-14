@@ -1,0 +1,11 @@
+{
+  "guid": "ca1747e282f64514584819a32568aa32",
+  "filename": "TrueDarkness",
+  "ID": 1702,
+  "Name": "True Darkness",
+  "Icon": "icon_true_darkness",
+  "Description": "Whenever a Monster in the party applies a {Blind} stack on an enemy, {0%} chance to apply a random Debuff on them.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 0.3
+}

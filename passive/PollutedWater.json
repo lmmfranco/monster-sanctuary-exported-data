@@ -1,0 +1,12 @@
+{
+  "guid": "642955da2144ca441a996a0558e612a4",
+  "filename": "PollutedWater",
+  "ID": 1161,
+  "Name": "Polluted Water",
+  "Icon": "icon_polluted_water",
+  "Description": "Debuffs are {0%} more effective against enemies for every {Aquatic} Monster in the party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Increase": 0.08,
+  "TypeRestriction": 1
+}

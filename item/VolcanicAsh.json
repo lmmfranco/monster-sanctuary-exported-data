@@ -1,0 +1,19 @@
+{
+  "guid": "c97027247a141b94e94f17ab807a7809",
+  "filename": "VolcanicAsh",
+  "ID": 1080,
+  "Name": "Volcanic Ash",
+  "Price": 500,
+  "Icon": "icon_volcanic_ash",
+  "BaseMonster": {
+    "fileID": 1343571813875799,
+    "guid": "bcea027bb1f36ab49bd5ba4aba96b6f3",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1445856579876091,
+    "guid": "4af9ac1390ad63b4681852da4a586f4a",
+    "type": 2
+  }
+}

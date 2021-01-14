@@ -1,0 +1,12 @@
+{
+  "guid": "09fbbf2c61623374ca2df9d8bbc89f92",
+  "filename": "RareSeashell",
+  "ID": 1010,
+  "Name": "Rare Seashell",
+  "Price": 0,
+  "Icon": "icon_rare_seashell",
+  "ItemID": 3,
+  "DisplayInInventory": 0,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "A very unique looking seashell."
+}

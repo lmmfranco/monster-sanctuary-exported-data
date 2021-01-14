@@ -1,0 +1,11 @@
+{
+  "guid": "38db0b66c8bd0d9428b15658c761f2c6",
+  "filename": "Variety",
+  "ID": 359,
+  "Name": "Variety",
+  "Icon": "icon_variety",
+  "Description": "Every attack deals {0%} increased damage when used for the first time during combat. (Different levels count as same attack)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageIncrease": 0.15
+}

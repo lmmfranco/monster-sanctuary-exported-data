@@ -1,0 +1,13 @@
+{
+  "guid": "742da173ef5b95846aad29dd6bc0d903",
+  "filename": "SlimeInfestation",
+  "ID": 1538,
+  "Name": "Slime Infestation",
+  "Icon": "icon_slime_infestation",
+  "Description": "Each {Slime} in your party applies {Armor Break} on a random enemy after each action.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestrition": 10,
+  "TypeRestrition2": 0,
+  "Debuff": 5
+}

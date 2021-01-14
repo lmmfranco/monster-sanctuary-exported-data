@@ -1,0 +1,11 @@
+{
+  "guid": "82c764a2e65205140a22ab26c5bccd93",
+  "filename": "HealMastery",
+  "ID": 210,
+  "Name": "Heal Mastery",
+  "Icon": "icon_heal_mastery",
+  "Description": "Healing skills (active and passive) are increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "IncreaseAmount": 0.2
+}

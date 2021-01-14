@@ -1,0 +1,58 @@
+{
+  "guid": "d6107ab27b604cc4193c7cc212466b23",
+  "filename": "PoisonedDart+1",
+  "ID": 1455,
+  "Name": "Poisoned Dart",
+  "Price": 2500,
+  "Type": 5,
+  "Icon": "icon_poisoned_dart",
+  "Attack": 20,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1637824043535795,
+    "guid": "219b271b1b552894c85e2dde094682e9",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "Debuff1": 2,
+  "Debuff2": 0,
+  "Chance": 0.03
+}

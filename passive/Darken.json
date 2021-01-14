@@ -1,0 +1,13 @@
+{
+  "guid": "dcbb0ede6c0228945b5b955e691ff5a0",
+  "filename": "Darken",
+  "ID": 985,
+  "Name": "Darken",
+  "Icon": "icon_darken",
+  "Description": "Every hit has a {0%} chance to apply a stack of {Blind}. (Stacks don't count as Debuffs)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Buff": 8,
+  "Chance": 0.15,
+  "ElementRestriction": null
+}

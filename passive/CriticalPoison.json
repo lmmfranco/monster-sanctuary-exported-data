@@ -1,0 +1,11 @@
+{
+  "guid": "d8b2370486393c64b86ad6d6adaef9c5",
+  "filename": "CriticalPoison",
+  "ID": 1344,
+  "Name": "Critical Poison",
+  "Icon": "icon_critical_poison",
+  "Description": "The first critical hit of an attack applies {Poison} (Debuff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 2
+}

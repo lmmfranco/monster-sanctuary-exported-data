@@ -1,0 +1,58 @@
+{
+  "guid": "85d8e92b4df2e6740b0dca2ec5a21e57",
+  "filename": "Totem+4",
+  "ID": 1366,
+  "Name": "Totem",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_totem",
+  "Attack": 35,
+  "Magic": 35,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 400,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1548696698287580,
+    "guid": "76951e1b6903f3b4fa096cc8deed019e",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 3
+    }
+  ],
+  "ShieldAmount": 800,
+  "ManaScaling": 0,
+  "ShieldType": 1
+}

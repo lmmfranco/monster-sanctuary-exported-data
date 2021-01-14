@@ -1,0 +1,11 @@
+{
+  "guid": "34d5b1b0f305b5a4fbd6dc9a71ec645e",
+  "filename": "DragonMastery",
+  "ID": 1395,
+  "Name": "Dragon Mastery",
+  "Icon": "icon_dragon_mastery",
+  "Description": "Actions by Dragons apply a Debuff to an enemy based on element. Fire: {Burn}, Ice: {Chill}, Wind: {Shock}, Earth: {Poison}, Neutral: {Armor Break}, Support: {Weakness}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestriction": 8
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "36012d4a9955b354086044598c368d8c",
+  "filename": "ChargedHealing",
+  "ID": 1144,
+  "Name": "Charged Healing",
+  "Icon": "icon_charged_healing",
+  "Description": "This Monster's healing actions are affected by Charge stacks as if they were attacks.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

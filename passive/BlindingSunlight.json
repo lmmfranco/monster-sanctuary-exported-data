@@ -1,0 +1,13 @@
+{
+  "guid": "72611bbe04b17744e8163f7864ee3364",
+  "filename": "BlindingSunlight",
+  "ID": 984,
+  "Name": "Blinding Sunlight",
+  "Icon": "icon_blinding_sunlight",
+  "Description": "Every Fire and every Wind hit has a {0%} chance to apply a stack of {Blind}. (Stacks don't count as Debuffs)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Buff": 8,
+  "Chance": 0.2,
+  "ElementRestriction": 13194139795456
+}

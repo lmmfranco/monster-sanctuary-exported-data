@@ -1,0 +1,533 @@
+{
+  "guid": "330e6c7a01f7bc24e9ba8c46be936e7a",
+  "filename": "Nightwing",
+  "ID": 540,
+  "Name": "Nightwing",
+  "baseStats": {
+    "attack": 7,
+    "magic": 1,
+    "defense": 2,
+    "health": 2,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 0,
+    "health": 2,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 0
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1290670056421272,
+      "guid": "66c2db95e50b65743acf4847f24ef8f8",
+      "type": 2
+    },
+    {
+      "fileID": 1676211359093659,
+      "guid": "1807da16437f9db438fe21142fc9ccf0",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1979148939231785,
+      "guid": "fb7806c89741472478f451cd10abf730",
+      "type": 2
+    },
+    {
+      "fileID": 1516023345446420,
+      "guid": "2833fd21545719742a11c4db5b2298b4",
+      "type": 2
+    },
+    {
+      "fileID": 1726525799877510,
+      "guid": "09423f4a6027a594ca6b8549e0f6a85a",
+      "type": 2
+    }
+  ],
+  "StartLevel": 15,
+  "FlyingOffset": 10,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1289788543884116,
+    "guid": "97e079162be97d341b4508ab9c608c84",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0200000007000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    },
+    {
+      "fileID": 1993657088372823,
+      "guid": "32f9a32f13fb5984d8fb091251b3851e",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1519317673400736,
+      "guid": "c472a18ec9307854781fb018a5af33a3",
+      "type": 2
+    },
+    {
+      "fileID": 1459349708180249,
+      "guid": "2d6f33c856b90c14f93300006bffcb31",
+      "type": 2
+    },
+    {
+      "fileID": 1421478752196826,
+      "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1289704341483935,
+      "guid": "47b6306dda881814a97e14500993a7bd",
+      "type": 2
+    },
+    {
+      "fileID": 1913071607404626,
+      "guid": "297bd04f5ff6fc74fafde5fb2d7180e2",
+      "type": 2
+    },
+    {
+      "fileID": 1025820735137448,
+      "guid": "2b7272a4a36d8b042ab1ab486cc1a317",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1533410295781656,
+    "guid": "0a0c288f59f76134c82ddb84b754db28",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1131838578677488,
+    "guid": "33a371f5df3d82f499ef4a4094ad3ec0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1624721887418744,
+      "guid": "e5aa6fb23c0a0d34eba7a1bff010935b",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    },
+    {
+      "fileID": 1921874275492894,
+      "guid": "8ac1b57211b4ee94d82b39413c71d74e",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1731515195765440,
+      "guid": "9037c2a9d3eb3d74b99f0d7f21103057",
+      "type": 2
+    },
+    {
+      "fileID": 1459349708180249,
+      "guid": "2d6f33c856b90c14f93300006bffcb31",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1974223868971265,
+      "guid": "f482029fdb59d5349b2ad8259a4015df",
+      "type": 2
+    },
+    {
+      "fileID": 1569165889814076,
+      "guid": "669f1437533a1ce4fa79dc4ba40810ed",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    },
+    {
+      "fileID": 1829198217806200,
+      "guid": "396e84a72c85e634caa93b680213eb5b",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1639015182491661,
+      "guid": "71e0b9c539f03ac46bdfda97d6baff81",
+      "type": 2
+    },
+    {
+      "fileID": 1202478521645276,
+      "guid": "a6b5784ba0d0a254981c37382e502f78",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    },
+    {
+      "fileID": 1087513755488245,
+      "guid": "acbb3a3386055e24bb8eb73accf0a20b",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1993657088372823,
+      "guid": "32f9a32f13fb5984d8fb091251b3851e",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1452935857193487,
+      "guid": "666062c076e60b54fb0170cd109d65ef",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1892580574904001,
+      "guid": "fca6cc5519fff07499487c06a7df5ed6",
+      "type": 2
+    },
+    {
+      "fileID": 1519317673400736,
+      "guid": "c472a18ec9307854781fb018a5af33a3",
+      "type": 2
+    },
+    {
+      "fileID": 1646982856376719,
+      "guid": "4cc54c3b6c77aa94db4d44b8cd082a1f",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1411900583866437,
+      "guid": "5aa39ce5691f2af47b92e6cdfd1cb032",
+      "type": 2
+    },
+    {
+      "fileID": 1902250538642268,
+      "guid": "d09481c8dce577641b493daee8588dad",
+      "type": 2
+    },
+    {
+      "fileID": 1423799989169967,
+      "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1972393823562220,
+      "guid": "671a9209bbfc1794d810e29212b6ba4d",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1990007855836108,
+      "guid": "2fdd6bf739f0bb4408a3b898c37ca59b",
+      "type": 2
+    },
+    {
+      "fileID": 1781539976789515,
+      "guid": "b01044d7584921e46a5ebb316ad7fd09",
+      "type": 2
+    },
+    {
+      "fileID": 1423799989169967,
+      "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1132929607721990,
+      "guid": "53a29af8d9ce755488dae03c7c3ec048",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1794849776302609,
+      "guid": "97842a46653ce2d449dcd887531d066f",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1889064990384249,
+      "guid": "f873ad8d138c4fd4dbe34e29d503f665",
+      "type": 2
+    },
+    {
+      "fileID": 1934718613494600,
+      "guid": "7fcee10340abb834cbc76f58b0dc2dfe",
+      "type": 2
+    },
+    {
+      "fileID": 1421478752196826,
+      "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1477889835073817,
+      "guid": "cbf07aeb1de616348b0c13cd118b1ad3",
+      "type": 2
+    },
+    {
+      "fileID": 1976101868196755,
+      "guid": "10c22a5f2849c334fbee5f52fb3067d4",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1171859836952631,
+      "guid": "e6b04de6ed7330244a89b5258b5dab97",
+      "type": 2
+    },
+    {
+      "fileID": 1914785686382309,
+      "guid": "4b1ee009942cc7344bda4068dca305f8",
+      "type": 2
+    },
+    {
+      "fileID": 1433500002296603,
+      "guid": "0b03f9ed311a26144a7b2e70ce22e013",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1918707403924769,
+      "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+      "type": 2
+    }
+  ],
+  "NoIdleChance": 0.7,
+  "IdleTime": {
+    "Min": 0.3,
+    "Max": 1.4
+  },
+  "MovingTime": {
+    "Min": 0.5,
+    "Max": 1.2
+  },
+  "HorizontalMovementSpeed": {
+    "Min": 30,
+    "Max": 80
+  },
+  "VerticalMovementSpeed": {
+    "Min": 0,
+    "Max": 60
+  },
+  "Bio": "The Nightwing is possibly the most stealthy predator that nature has ever produced. It produces no audible sound and it seems as if it's able to meld with the shadows - a combination of extremely keen instincts and magic. It is known to feed on the blood of humans, animals and even other Monsters. It is believed to be able to see in the dark, sense the blood of any warm-blooded being from miles away, and hear the breathing sound of a sleeping human or animal.",
+  "History": "There are many stories and myths in the Old World surrounding the Nightwing. The names of the Nightwing are countless: King of the Night, Blood-Demon, Vampire and Chupacabra are only a few of them. However, it was only a matter of time until humanity's desire for expansion encroached on their territory. More and more forests vanished so that factories and cities could be built, until the Nightwing was pushed away into the caves, sewers and ruins of the Old World. In 129 AC, a group of Monster Keepers decided to bring the Nightwings to the Sanctuary, despite the perceived difficulty of such a mission. They were surprised to find that the Nightwings were quite eager to come with them.",
+  "StatOrientation": 0
+}

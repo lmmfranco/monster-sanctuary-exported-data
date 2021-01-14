@@ -1,0 +1,21 @@
+{
+  "guid": "97e079162be97d341b4508ab9c608c84",
+  "filename": "SonarAbility",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Sonar",
+  "Description": "- Dark room vision",
+  "TotalRadius": 16,
+  "FalloffRadius": 8,
+  "Color": {
+    "r": 1,
+    "g": 0,
+    "b": 0.003921569,
+    "a": 1
+  },
+  "ApplyForEnemies": 0,
+  "OnlyApplyOnDarkAreas": 1
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "df69284828a26134eb5c07ec5163cc80",
+  "filename": "SorceryChannel2",
+  "ID": 344,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 120,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114100596432026290,
+    "guid": "b4015cd62291bb4498c7d645a82b7a2a",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 4398047559680,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 2,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "guid": "919f456e6d7dc09409b3f8860147e0b5",
+  "filename": "MonsterSelectorView",
+  "MonsterSprite": {
+    "fileID": 114996581295945460
+  },
+  "Animator": {
+    "fileID": 114193013737102270
+  },
+  "Shadow": {
+    "fileID": 114705400883406400
+  },
+  "DisabledLayer": {
+    "fileID": 1908173164573922
+  },
+  "text": {
+    "fileID": 0
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114898112237313950
+  },
+  "infoText": {
+    "fileID": 0
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 0
+  },
+  "DisplayWhenEmpty": 0,
+  "UpdateColors": 0,
+  "ExpandBackgroundDimension": 0,
+  "ExpandedItemSize": {
+    "x": 54,
+    "true": 46
+  },
+  "ShrinkedItemSize": {
+    "x": 54,
+    "true": 46
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 0
+  },
+  "AdditionalElements": [],
+  "IconGO": {
+    "fileID": 0
+  },
+  "OverwriteTargetColor": 1,
+  "TargetColor": {
+    "r": 0.5019608,
+    "g": 0.5019608,
+    "b": 0.5019608,
+    "a": 0.2509804
+  },
+  "OverwriteTargetColor__1": 1,
+  "TargetColor__1": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0.1254902
+  },
+  "OverwriteTargetColor__2": 1,
+  "TargetColor__2": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0.5019608
+  }
+}

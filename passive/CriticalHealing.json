@@ -1,0 +1,10 @@
+{
+  "guid": "08abadc05f84ea6408783e043d6733c3",
+  "filename": "CriticalHealing",
+  "ID": 637,
+  "Name": "Critical Healing",
+  "Icon": "icon_critical_healing",
+  "Description": "Healing actions can land a \"Critical Heal\" to heal for an increased amount, based on Critical Chance and Critical Damage. (Triggering any Crit-based skills)",
+  "IsAura": 0,
+  "IsUnique": 0
+}

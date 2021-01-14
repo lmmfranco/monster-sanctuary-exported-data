@@ -1,0 +1,13 @@
+{
+  "guid": "18c38b559336ce54cac52ce10d7aebf0",
+  "filename": "Blacksmithing",
+  "ID": 923,
+  "Name": "Blacksmithing",
+  "Icon": "icon_dark_passive",
+  "Description": "Increases {Defense}, {Health}, {Mana}, {Mana Regeneration}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied monsters.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stats": 6.968983497616492e+41,
+  "Bonus": 0.15,
+  "TypeRestriction": 0
+}

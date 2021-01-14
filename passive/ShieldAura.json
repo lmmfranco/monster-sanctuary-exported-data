@@ -1,0 +1,11 @@
+{
+  "guid": "8de13a95052126d458b27467060b0341",
+  "filename": "ShieldAura",
+  "ID": 621,
+  "Name": "Shield Aura",
+  "Icon": "icon_shield_aura",
+  "Description": "All Shield effects of Monsters in the party are increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ShieldBonus": 0.1
+}

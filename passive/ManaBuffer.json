@@ -1,0 +1,11 @@
+{
+  "guid": "064544571a4da6546a67a7f784668eeb",
+  "filename": "ManaBuffer",
+  "ID": 1839,
+  "Name": "Mana Buffer",
+  "Icon": "icon_mana_buffer",
+  "Description": "When consuming or losing mana, shield self by {0%} of that amount.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Multiplier": 3
+}

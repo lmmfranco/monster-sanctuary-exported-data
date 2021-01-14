@@ -1,0 +1,12 @@
+{
+  "guid": "03cbf6522fe131c4ea8b700f898f90b8",
+  "filename": "StrongholdDungeonKey",
+  "ID": 524,
+  "Name": "Stronghold Dungeon key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1558836272714450,
+    "guid": "d893f86fa53fdf84c858524e94e4a5c0",
+    "type": 2
+  }
+}

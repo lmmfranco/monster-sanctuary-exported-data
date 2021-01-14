@@ -1,0 +1,47 @@
+{
+  "guid": "a20b38ed2da772841a94de7f594081de",
+  "filename": "Kunai",
+  "ID": 11,
+  "Name": "Kunai",
+  "Price": 250,
+  "Type": 0,
+  "Icon": "icon_kunai",
+  "Attack": 30,
+  "Magic": 30,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 12,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1346860765661663,
+    "guid": "de2bb57fc0ef7ea44b15d8f082d70a0d",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

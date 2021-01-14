@@ -1,0 +1,14 @@
+{
+  "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+  "filename": "Protector",
+  "ID": 125,
+  "Name": "Protector",
+  "Icon": "icon_protector",
+  "Description": "All Monsters in the party receive {0%} less damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "damageReduction": 0.075,
+  "MonsterType": 0,
+  "MonsterType2": 0,
+  "OnlyMassAttacks": 0
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "98f99383effdcbc4084a3b8d3a5fd8a3",
+  "filename": "SmallAntidoteAction",
+  "ID": 231,
+  "Name": "Small Antidote",
+  "Icon": "icon_potion",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 3,
+  "Duration": 1.6,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 1,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "aa47772eea5f37844b1aca8df3895e2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "Count": 2,
+  "Delay": 0.7
+}

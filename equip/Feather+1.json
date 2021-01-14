@@ -1,0 +1,47 @@
+{
+  "guid": "790284d7a6bc8714b82f5e514eac0016",
+  "filename": "Feather+1",
+  "ID": 47,
+  "Name": "Feather",
+  "Price": 400,
+  "Type": 5,
+  "Icon": "icon_feather",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.07,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 12,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1975451755342349,
+    "guid": "c97671e53becc7a40ab829a4b66d0ed0",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "guid": "967eacff24b0e1c4e989d63717b47913",
+  "filename": "Fin+1",
+  "ID": 816,
+  "Name": "Fin",
+  "Price": 2000,
+  "Type": 5,
+  "Icon": "icon_fin",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.04,
+  "CritDamage": 0.11,
+  "Health": 140,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1184485154117690,
+    "guid": "726498986f6a97448b96cb34fe30679e",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1979148939231785,
+        "guid": "fb7806c89741472478f451cd10abf730",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

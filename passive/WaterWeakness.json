@@ -1,0 +1,12 @@
+{
+  "guid": "7553b32405de4ee43bc2c1daf5427657",
+  "filename": "WaterWeakness",
+  "ID": 115,
+  "Name": "Water Weakness",
+  "Icon": "icon_water_weakness",
+  "Description": "Water damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 2,
+  "Modifier": 0.5
+}

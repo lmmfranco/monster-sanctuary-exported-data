@@ -1,0 +1,15 @@
+{
+  "guid": "042692fed87f2a744b155d0311db6909",
+  "filename": "SmallAntidote",
+  "ID": 34,
+  "Name": "Small Antidote",
+  "Price": 50,
+  "EffectAction": {
+    "fileID": 1523774504326508,
+    "guid": "98f99383effdcbc4084a3b8d3a5fd8a3",
+    "type": 2
+  },
+  "Icon": "icon_small_antidote",
+  "Description": null,
+  "RetreatItem": 0
+}

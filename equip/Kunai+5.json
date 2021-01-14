@@ -1,0 +1,28 @@
+{
+  "guid": "6f8f523a6b0c3fb478a91fc8f1808785",
+  "filename": "Kunai+5",
+  "ID": 1513,
+  "Name": "Kunai",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_kunai",
+  "Attack": 220,
+  "Magic": 220,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 40,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

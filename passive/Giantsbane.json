@@ -1,0 +1,13 @@
+{
+  "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+  "filename": "Giantsbane",
+  "ID": 821,
+  "Name": "Giantsbane",
+  "Icon": "icon_giantsbane",
+  "Description": "This Monster deals {0%} more damage. Against enemies with a Health rating of {2} or higher, damage is increased by {1%} instead.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.05,
+  "DamageBonusGiant": 0.2,
+  "HealthRating": 7
+}

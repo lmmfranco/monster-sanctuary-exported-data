@@ -1,0 +1,40 @@
+{
+  "guid": "206c465b0d479c144912ef820191e278",
+  "filename": "BloodVessel+3",
+  "ID": 1801,
+  "Name": "Blood Vessel",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_blood_vessel",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1249694572401659,
+    "guid": "642aa47cb1d7a794a89285e6c3d2295a",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "ManaRegenerated": 4
+}

@@ -1,0 +1,34 @@
+{
+  "guid": "0045c80e0eb7633408e3918f4c9db1f7",
+  "filename": "Agility",
+  "ID": 109,
+  "Name": "Agility",
+  "Icon": "icon_agility",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 50,
+  "TargetType": 4,
+  "Duration": 1.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 1572864,
+  "ApplyDelay": 1,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

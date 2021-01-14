@@ -1,0 +1,39 @@
+{
+  "guid": "c4273fa894638664a912c0988408cc91",
+  "filename": "MagmapillarNPC",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 2
+  },
+  "Name": "Magmapillar",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1189359940891960,
+    "guid": "bde0be71eccfbcc47a7f30e216a1f049",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1189359940891960,
+    "guid": "bde0be71eccfbcc47a7f30e216a1f049",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 2,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "guid": "4884d77937dd70b43ac892e4d12f6c79",
+  "filename": "MassRestore3",
+  "ID": 1245,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 220,
+  "TargetType": 4,
+  "Duration": 2.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114753177133261660,
+    "guid": "cb1a3ef23b74634438a58b1f776ad952",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "HealAmount": 250,
+  "ScaleMagic": 0.5,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.7,
+    1.2
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "Count": 2,
+  "Delay": 1.7,
+  "AnimElement": {
+    "fileID": 1138274946371051,
+    "guid": "01e374f70c430994581b9a699d0f5bb0",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay__1": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

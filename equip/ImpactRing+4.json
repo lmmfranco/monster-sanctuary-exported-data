@@ -1,0 +1,55 @@
+{
+  "guid": "7d123af4a682a8e46855d7d0bebfc60c",
+  "filename": "ImpactRing+4",
+  "ID": 1113,
+  "Name": "Impact Ring",
+  "Price": 1350,
+  "Type": 4,
+  "Icon": "icon_ring",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0.28,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1066695878766055,
+    "guid": "f64b090981329a4488c8655dc03e979b",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1079285706125740,
+        "guid": "38bb721fb38db564e831d65ceceba144",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

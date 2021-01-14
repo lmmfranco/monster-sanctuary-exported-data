@@ -1,0 +1,47 @@
+{
+  "guid": "0933912a1739b4b4892a590d8b4ea62d",
+  "filename": "Claws",
+  "ID": 76,
+  "Name": "Claws",
+  "Price": 250,
+  "Type": 0,
+  "Icon": "icon_claws_weapon",
+  "Attack": 40,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 12,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1491089697062336,
+    "guid": "27b2c9cc4eca7034b8114ce766161452",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

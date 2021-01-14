@@ -1,0 +1,28 @@
+{
+  "guid": "413cf2c30738cdc44ab9f693e56c08d2",
+  "filename": "Bracer+5",
+  "ID": 1369,
+  "Name": null,
+  "Price": 2400,
+  "Type": 5,
+  "Icon": "icon_bracer",
+  "Attack": 60,
+  "Magic": 60,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 650,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

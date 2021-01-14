@@ -1,0 +1,86 @@
+{
+  "guid": "ccd8eaa3c984be84ab9ecdde60b76a39",
+  "filename": "ThunderStrike1",
+  "ID": 839,
+  "Name": "Thunder Strike",
+  "Icon": "icon_thunder_strike",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 0,
+  "Duration": 1.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 3.7,
+  "TotalDamage": 3.7,
+  "CalculatedDamage": 4.038975,
+  "CalculatedTotalDamage": 4.038975,
+  "HitTimings": [
+    0.7
+  ],
+  "Element": 3,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1393124992556887,
+    "guid": "abf78391d4fd38b43952e41ebbab4bd7",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "requiredDebuff": 1,
+  "HitForEveryDebuffStack": 0,
+  "PerHitDelay": 0.2,
+  "DamageMultiplicator__1": 0.2,
+  "HitTimings__1": [
+    1.5,
+    1.75,
+    2
+  ],
+  "DurationIncrease": 1,
+  "AnimElement__1": {
+    "fileID": 1700075576232421,
+    "guid": "382b390b94de2e549b01a0c7217a1935",
+    "type": 2
+  },
+  "FlippedAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 1.1
+}

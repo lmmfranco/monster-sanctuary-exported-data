@@ -1,0 +1,540 @@
+{
+  "guid": "9fb63f90986421a459e69077ab3d8cfe",
+  "filename": "Shockhopper",
+  "ID": 1398,
+  "Name": "Shockhopper",
+  "baseStats": {
+    "attack": 1,
+    "magic": 8,
+    "defense": 4,
+    "health": 4,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 0,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 0,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -13
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1917030411297482,
+      "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [],
+  "StartLevel": 30,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1943731101093701,
+    "guid": "2d147856ca6b557409e4678fd2a997d4",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.25
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -18,
+    "true": -16,
+    "z": 0
+  },
+  "MonsterTypes": "0c00000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    },
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1255965339420086,
+      "guid": "9261ca37b3d30fa44a4fa7efe2f7844b",
+      "type": 2
+    },
+    {
+      "fileID": 1093058909407038,
+      "guid": "19fc4b43fb9f9064cb795ab30b3630e0",
+      "type": 2
+    },
+    {
+      "fileID": 1261507460360729,
+      "guid": "add1720ed46488b4eb1478354bf84b63",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1415020920430536,
+      "guid": "6620defd679cba244aee5cbee50f6895",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    },
+    {
+      "fileID": 1606999370654739,
+      "guid": "4b29be9aaec52e445af5f6a5c82a9248",
+      "type": 2
+    },
+    {
+      "fileID": 1172010299157386,
+      "guid": "16b6f3f88d117194d9339b5c8cc738c3",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1923782053611373,
+      "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+      "type": 2
+    },
+    {
+      "fileID": 1133902113864759,
+      "guid": "5a02d70d49d83314c933072a4f054d20",
+      "type": 2
+    },
+    {
+      "fileID": 1277807512553830,
+      "guid": "6c71b2031830e5440b360508fd72eede",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1925904739013070,
+    "guid": "98fdaeff8929ff140a7fade1cb077cf6",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [],
+  "Tier2Skills": [
+    {
+      "fileID": 1255965339420086,
+      "guid": "9261ca37b3d30fa44a4fa7efe2f7844b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1415877923848818,
+      "guid": "b2eef5f88b28ffb41934add99999d118",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1932409453178944,
+      "guid": "79c8331ffd2ae4f468ed667b6aba038b",
+      "type": 2
+    },
+    {
+      "fileID": 1093058909407038,
+      "guid": "19fc4b43fb9f9064cb795ab30b3630e0",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1036992131767194,
+      "guid": "f37939b325438bd428451477dc151835",
+      "type": 2
+    },
+    {
+      "fileID": 1242712887221725,
+      "guid": "bc0c25508a6ddc542be03f2700c778cc",
+      "type": 2
+    },
+    {
+      "fileID": 1881162992438339,
+      "guid": "3291da68dde01314c93d516ba9e25595",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1431132250607598,
+      "guid": "b4b065f8f1100cb4287024f5cf193af5",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1263415653908315,
+      "guid": "f5cbfc7a56cb6984991d562b3f6bf808",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1273771702851302,
+      "guid": "d5fadaf0bdd7e424cb88500a25160b82",
+      "type": 2
+    },
+    {
+      "fileID": 1828013560203577,
+      "guid": "68fd5a3bfdd4d4042b3b7b6fdd365e94",
+      "type": 2
+    },
+    {
+      "fileID": 1814293025132086,
+      "guid": "c125599c5a7fcf24e885fabe895acb19",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1436916231208232,
+      "guid": "e830bd3421d6efc468c5f01528f6e46a",
+      "type": 2
+    },
+    {
+      "fileID": 1971848765728096,
+      "guid": "edfc59b845e69684d8dcd01628ebde92",
+      "type": 2
+    },
+    {
+      "fileID": 1833705403979091,
+      "guid": "01ce7a07d24a582459c20d95f6d07578",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1057421354318522,
+      "guid": "0be0ed1a805913a48b32f584b7db1aa5",
+      "type": 2
+    },
+    {
+      "fileID": 1310254812922162,
+      "guid": "67b397820d5d62b4ba5690599ab2928e",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1501515000697170,
+      "guid": "0b4c369ca8929d44b954aaa16fd25bad",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1255297132688082,
+      "guid": "cc12b113205729047bee09118bc6666c",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1839620051600772,
+      "guid": "83ac2ce12d07c0540b0a2c5d2bb487aa",
+      "type": 2
+    },
+    {
+      "fileID": 1802235129374209,
+      "guid": "327d92f0082599c4ebf747b14a9c1dac",
+      "type": 2
+    },
+    {
+      "fileID": 1648095587854657,
+      "guid": "d859b872754a62348a0216269523208a",
+      "type": 2
+    },
+    {
+      "fileID": 1230709447252372,
+      "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1917879644750694,
+      "guid": "1936ae62e02a7224db52cb15ca7c989c",
+      "type": 2
+    },
+    {
+      "fileID": 1870273491555547,
+      "guid": "ccd8eaa3c984be84ab9ecdde60b76a39",
+      "type": 2
+    },
+    {
+      "fileID": 1866860416887032,
+      "guid": "14ebb834e5adf7d4197f234938d99ad3",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1834008435221690,
+      "guid": "5c914b2e90ff2b94a938d78fb0021c35",
+      "type": 2
+    },
+    {
+      "fileID": 1728554097957976,
+      "guid": "11188db4357ae6345b9be60bf0c74921",
+      "type": 2
+    },
+    {
+      "fileID": 1415020920430536,
+      "guid": "6620defd679cba244aee5cbee50f6895",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1261507460360729,
+      "guid": "add1720ed46488b4eb1478354bf84b63",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1202578188081413,
+      "guid": "7b4d3121e4939e74d9b9d5709e2c84f2",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1676659560786677,
+      "guid": "cb1a3ef23b74634438a58b1f776ad952",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1052215531421750,
+      "guid": "4884d77937dd70b43ac892e4d12f6c79",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Bio": "Shockhoppers used to make their homes on remote icy islands. Never having had contact with humans, they were very friendly to visitors. Their feathers were short and coursed with static electricity at all times, giving anyone quite the shock when they tried to pet the fuzzy little penguins. They could use their electricity to propel themselves into the air to leap from rock to rock, aiding in evading predators.",
+  "History": "In 62 AC, Shockhoppers were first discovered by Old World explorers. At this point in time, the Old World was beginning to grasp the possibility of using electricity as a source of energy. Since Shockhoppers quickly became known for their ability to generate electricity, many experiments were conducted with Shockhoppers. Nearly every experiment ended with the Shockhoppers being completely converted into electricity, ending up as only a short-lived source of energy. Those experiments were soon outlawed, but poachers continued supplying illicit laboratories with Shockhopper eggs. Eventually, the population of Shockhoppers was damaged beyond the point of recovery and they vanished from the world. The tragedy that befell the Shockhoppers is counted among one of the Old World's biggest crimes.",
+  "StatOrientation": 1,
+  "PredefinedActions": []
+}

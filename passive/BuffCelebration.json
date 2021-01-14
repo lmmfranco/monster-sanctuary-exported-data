@@ -1,0 +1,12 @@
+{
+  "guid": "27e2f5e50e94207498394593f772cf24",
+  "filename": "BuffCelebration",
+  "ID": 860,
+  "Name": "Buff Celebration",
+  "Icon": "icon_buff_celebration",
+  "Description": "As long as a monster in your party has {0} or more {Buffs} at the beginning of a turn, it gains {1} {Charge} stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "BuffTreshold": 4,
+  "ChargeStacks": 2
+}

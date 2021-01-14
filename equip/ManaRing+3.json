@@ -1,0 +1,47 @@
+{
+  "guid": "2de0919a80b5c3241bde03bc630b312b",
+  "filename": "ManaRing+3",
+  "ID": 563,
+  "Name": "Mana Ring",
+  "Price": 900,
+  "Type": 4,
+  "Icon": "icon_ring",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 80,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1450725785638240,
+    "guid": "9f5c7e3461c3ecb48b0b8c4b6e2e73bd",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1735445830266374,
+        "guid": "40219434937e68b438cab2c0b83c648e",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

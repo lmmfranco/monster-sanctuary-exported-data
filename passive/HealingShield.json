@@ -1,0 +1,11 @@
+{
+  "guid": "69227fadee4612d4aa9f1a5c91158899",
+  "filename": "HealingShield",
+  "ID": 383,
+  "Name": "Healing Shield",
+  "Icon": "icon_healing_shield",
+  "Description": "Healing skills (active and passive) also apply a Shield equal to {0%} of the amount healed.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ConversionAmount": 0.2
+}

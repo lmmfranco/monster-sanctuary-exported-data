@@ -1,0 +1,524 @@
+{
+  "guid": "19078f937a24de0498eda49e5b06a79e",
+  "filename": "Dracogran",
+  "ID": 1086,
+  "Name": "Dracogran",
+  "baseStats": {
+    "attack": 7,
+    "magic": 7,
+    "defense": 4,
+    "health": 9,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 0,
+    "health": 0,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 0,
+    "health": 2,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 6,
+    "true": -34
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1462509074111700,
+      "guid": "55719d3982e4d124a8ce1fd01bc6bd76",
+      "type": 2
+    },
+    {
+      "fileID": 1513134570362313,
+      "guid": "a756b827242b8c64fb31940f24cbc133",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1934989386943369,
+      "guid": "c871511f6c4fe9546971d8b5734ef0d8",
+      "type": 2
+    },
+    {
+      "fileID": 1986107840101502,
+      "guid": "8b1c5b0c54a243d4ba3a8b19d79e8a3f",
+      "type": 2
+    },
+    {
+      "fileID": 1437311463910768,
+      "guid": "bb9472ab9e1c3f6419145f18b53db2bf",
+      "type": 2
+    }
+  ],
+  "StartLevel": 28,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1534628300973075,
+    "guid": "725eb2dc8cc83d3409eaa96e1122f053",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.35
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -32,
+    "true": -32,
+    "z": 0
+  },
+  "MonsterTypes": "020000000600000008000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 1,
+  "BaseSkills": [
+    {
+      "fileID": 1210478171372487,
+      "guid": "2aa959f40cf51f54c9a2f733c3cc3078",
+      "type": 2
+    },
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    },
+    {
+      "fileID": 1675082497399280,
+      "guid": "57f8186a359d2a14d83c06829148075b",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1653128372325643,
+      "guid": "573d43a15d27f9347ac78192d798f7e1",
+      "type": 2
+    },
+    {
+      "fileID": 1856878175669602,
+      "guid": "76c7d8a6b9e87ae40993692751ad6d23",
+      "type": 2
+    },
+    {
+      "fileID": 1684681450247155,
+      "guid": "349e87f9d9b6484449122c66a3a96ea8",
+      "type": 2
+    },
+    {
+      "fileID": 1632353448970348,
+      "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1143783304097802,
+      "guid": "76b8f69a9b1bda341ab0ef6ff73bf7e9",
+      "type": 2
+    },
+    {
+      "fileID": 1630045011413729,
+      "guid": "a9a97bcb50555a34e926c83ee81b667d",
+      "type": 2
+    },
+    {
+      "fileID": 1936107618644887,
+      "guid": "bf507168938b9164da9b681b93664e21",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1898991034744691,
+    "guid": "18c38b559336ce54cac52ce10d7aebf0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1210478171372487,
+      "guid": "2aa959f40cf51f54c9a2f733c3cc3078",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1646899529702950,
+      "guid": "660a8b60654b86340a3fab59fe32fcac",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1684681450247155,
+      "guid": "349e87f9d9b6484449122c66a3a96ea8",
+      "type": 2
+    },
+    {
+      "fileID": 1231868669997934,
+      "guid": "ff424ef992f2fa442ad6d63211ed81f9",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1048467534227984,
+      "guid": "5966aa158932bae438581183fbd37bf4",
+      "type": 2
+    },
+    {
+      "fileID": 1653128372325643,
+      "guid": "573d43a15d27f9347ac78192d798f7e1",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1446023957395197,
+      "guid": "81f789157660c414ea8d334a0f7bdcbf",
+      "type": 2
+    },
+    {
+      "fileID": 1344567203957636,
+      "guid": "881f09b55920033418ada9b4d2ed9608",
+      "type": 2
+    },
+    {
+      "fileID": 1481861532246719,
+      "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1187338392170639,
+      "guid": "a2a38c26faa0f62499b784109a847a8d",
+      "type": 2
+    },
+    {
+      "fileID": 1385630587371033,
+      "guid": "6268dfc014f39084d829a4047e5bfc47",
+      "type": 2
+    },
+    {
+      "fileID": 1729154241302233,
+      "guid": "c0ded43d430430546aa91ea0bdfb29dc",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1136285923989078,
+      "guid": "2752c32a30e631b44838b03c7b63afce",
+      "type": 2
+    },
+    {
+      "fileID": 1038496172469354,
+      "guid": "a9f6d4a80e9e3fa4984fb350568b59ea",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1772218334561172,
+      "guid": "3f03247ddb605054392ff7ec7b6a4214",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1814249351645721,
+      "guid": "4866392d1f593e84b84b3cb48e1f6a14",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1746292756075379,
+      "guid": "4b9104b116388dd438c74d5a82660d76",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1078452884879712,
+      "guid": "0a17041754d15a34eb1bd9577aa68a3d",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1618223174622287,
+      "guid": "ae8bb40b86104c5468fd4ec006174dd9",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1728407180064904,
+      "guid": "5c7f19e9b6f4f6a4bacb73ec6376ae87",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1530168420274776,
+      "guid": "72c1850a3d9fc9d46a391bda3901477c",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1917052883789989,
+      "guid": "4c5f4c954d29c3e4399d61c078320f9d",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1632353448970348,
+      "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1476974744721574,
+      "guid": "3d22872bb97e65d489222bc163abeb49",
+      "type": 2
+    },
+    {
+      "fileID": 1459349708180249,
+      "guid": "2d6f33c856b90c14f93300006bffcb31",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1123197375305887,
+      "guid": "761c3b65393defa49aca3241fc2b2055",
+      "type": 2
+    },
+    {
+      "fileID": 1569165889814076,
+      "guid": "669f1437533a1ce4fa79dc4ba40810ed",
+      "type": 2
+    },
+    {
+      "fileID": 1856878175669602,
+      "guid": "76c7d8a6b9e87ae40993692751ad6d23",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1146315800798299,
+      "guid": "4f40de5a32a1f494d8ed91801291d0c9",
+      "type": 2
+    },
+    {
+      "fileID": 1202478521645276,
+      "guid": "a6b5784ba0d0a254981c37382e502f78",
+      "type": 2
+    },
+    {
+      "fileID": 1339922553316995,
+      "guid": "563a6497a396c244ca725b9894f47fbb",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    }
+  ],
+  "Bio": "When one studies the Dracograns, it becomes obvious very quickly that these are hot-blooded reptiles - in fact, their blood would burn through most materials known to us. Dracograns are also known for their pride, as they only accept Keepers in charge of them who have proven themselves.",
+  "History": "When the Dragon Empress was of age, she joined the rebels who were fighting against the usurper who had taken the throne - still unaware of her royal heritage. However, there was a betrayer among her group who sold them out. The rebels were imprisoned in the usurper's dungeon, while the Empress's Draconov was put in an enchanted cage, put on display in the usurper's throne room. The cage was resistant to the Draconov's claws and its fire. When the Empress was brought out to be executed, the Draconov cried so loudly that it could be heard all across the town. Suddenly, the sky blackened as if the sun had been blotted out - a host of Dracograns had arrived. They rescued the Empress with mighty dragonfire. On that day, it became clear that she was the rightful heir to the throne.",
+  "StatOrientation": 2
+}

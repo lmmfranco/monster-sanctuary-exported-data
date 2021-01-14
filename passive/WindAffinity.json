@@ -1,0 +1,12 @@
+{
+  "guid": "396e84a72c85e634caa93b680213eb5b",
+  "filename": "WindAffinity",
+  "ID": 276,
+  "Name": "Wind Affinity",
+  "Icon": "icon_wind_affinity",
+  "Description": "{Wind} attacks deal {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "Element": 3
+}

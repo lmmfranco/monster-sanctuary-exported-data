@@ -1,0 +1,11 @@
+{
+  "guid": "d491260ac102e92469d9bc81d96c1de3",
+  "filename": "MassMystify",
+  "ID": 1687,
+  "Name": "Mass Mystify",
+  "Icon": "icon_light_passive",
+  "Description": "When an allied monster applies a {Debuff}, it has a {0%} chance to gain a random {Buff}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 0.6
+}

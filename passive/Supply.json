@@ -1,0 +1,15 @@
+{
+  "guid": "46b92a6076355054fa4ccf45b219b6f3",
+  "filename": "Supply",
+  "ID": 272,
+  "Name": "Supply",
+  "Icon": "icon_supply",
+  "Description": "Heal all Monsters in the party by {0%} of this Monster's Max Health at the start of every turn.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.04,
+  "TargetType": 4,
+  "BaseOnOwnHealth": 1,
+  "MonsterType": 0,
+  "MonsterType2": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "62dad9312f3819b418ab318b48b34cd0",
+  "filename": "ElectricField",
+  "ID": 523,
+  "Name": "Electric Field",
+  "Icon": "icon_electric_field",
+  "Description": "When this Monster gets attacked, {0%} chance to apply {Shock} on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 1,
+  "Chance": 0.4
+}

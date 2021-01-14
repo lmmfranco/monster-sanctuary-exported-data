@@ -1,0 +1,28 @@
+{
+  "guid": "24604d6eae75e054ea89a1e8bd0f51df",
+  "filename": "Hammer+5",
+  "ID": 1509,
+  "Name": "Hammer",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_hammer",
+  "Attack": 190,
+  "Magic": 170,
+  "Defense": 46,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 28,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

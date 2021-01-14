@@ -1,0 +1,73 @@
+{
+  "guid": "69a14d9034bd1b74498df9186909e19d",
+  "filename": "LavaRush2",
+  "ID": 1234,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 220,
+  "TargetType": 0,
+  "Duration": 2.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114877851238638780,
+    "guid": "71e2de4746ba1754c862c6a01f2f5fa1",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.95,
+  "TotalDamage": 4.75,
+  "CalculatedDamage": 0.9553711,
+  "CalculatedTotalDamage": 4.776855,
+  "HitTimings": [
+    0.9,
+    1.2,
+    1.5,
+    1.8,
+    2.1
+  ],
+  "Element": 1,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0.5,
+  "DefenseBypassBurnCondition": 1,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1777762282567041,
+    "guid": "528f202b1373a7a44bffbe2bb9a35b2e",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

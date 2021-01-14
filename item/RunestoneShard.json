@@ -1,0 +1,12 @@
+{
+  "guid": "f8f94968a5794214e9a64915644d5e9e",
+  "filename": "RunestoneShard",
+  "ID": 1075,
+  "Name": "Runestone Shard",
+  "Price": 0,
+  "Icon": "icon_runestone_shard",
+  "ItemID": 5,
+  "DisplayInInventory": 0,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "A missing piece of a runestone"
+}

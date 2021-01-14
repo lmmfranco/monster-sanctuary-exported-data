@@ -1,0 +1,11 @@
+{
+  "guid": "947e65e777bc95c4baa476ef163fec94",
+  "filename": "CenterOfMass",
+  "ID": 603,
+  "Name": "Center of Mass",
+  "Icon": "icon_center_of_mass",
+  "Description": "Multi-Target-Attacks deal {0%} extra damage to the enemy with the highest Health. Multi-Target-Heals heal the ally with the lowest Health by {0%} more.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Bonus": 0.25
+}

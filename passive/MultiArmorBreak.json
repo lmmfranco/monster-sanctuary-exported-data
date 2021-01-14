@@ -1,0 +1,12 @@
+{
+  "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+  "filename": "MultiArmorBreak",
+  "ID": 532,
+  "Name": "Multi Armor Break",
+  "Icon": "icon_multi_armorbreak",
+  "Description": "{Armor Break} (Debuff) can be stacked two additional times on enemies. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 5
+}

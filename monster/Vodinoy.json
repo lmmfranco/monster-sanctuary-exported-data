@@ -1,0 +1,522 @@
+{
+  "guid": "514486272c6c15a4ea881e56c442677d",
+  "filename": "Vodinoy",
+  "ID": 1635,
+  "Name": "Vodinoy",
+  "baseStats": {
+    "attack": 8,
+    "magic": 1,
+    "defense": 5,
+    "health": 5,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 0,
+    "defense": 2,
+    "health": 1,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -10
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 8,
+  "RewardsCommon": [
+    {
+      "fileID": 1095870700680833,
+      "guid": "c9c7c19e44e73d548834298b74b76049",
+      "type": 2
+    },
+    {
+      "fileID": 1079285706125740,
+      "guid": "38bb721fb38db564e831d65ceceba144",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1863530737455918,
+      "guid": "2687e603435a54a439d4234b6924bf5b",
+      "type": 2
+    },
+    {
+      "fileID": 1227981036681887,
+      "guid": "580adf510a669c44498cba9e6607a058",
+      "type": 2
+    },
+    {
+      "fileID": 1889296458287237,
+      "guid": "747cd8e7619c99e40b5207b03891fd5c",
+      "type": 2
+    }
+  ],
+  "StartLevel": 35,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1399612446177768,
+    "guid": "2b7bfef6ee01bbc4ca369f9fb4f8baa8",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.24
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -12,
+    "true": -12,
+    "z": 0
+  },
+  "MonsterTypes": "010000000d000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    },
+    {
+      "fileID": 1056524521070767,
+      "guid": "ba276f3494030aa46b0066e6702a0f82",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1643101330552660,
+      "guid": "43b2b9a2ec179d84fac41747300778b2",
+      "type": 2
+    },
+    {
+      "fileID": 1930657513963069,
+      "guid": "b62d5e1ed80719c47884d1e261fb6a86",
+      "type": 2
+    },
+    {
+      "fileID": 1268592533335796,
+      "guid": "4ccfdf89332f3654888e72d70efefdaf",
+      "type": 2
+    },
+    {
+      "fileID": 1268592533335796,
+      "guid": "4ccfdf89332f3654888e72d70efefdaf",
+      "type": 2
+    },
+    {
+      "fileID": 1147684712412141,
+      "guid": "aae5b9e64de7dab498415bba3af11828",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [
+    {
+      "fileID": 1069334697946294,
+      "guid": "99cbe6894773f8a448762d68e86f544e",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1365192170748494,
+      "guid": "28d48ecbcbd92f24b90fb3b9d6affd2c",
+      "type": 2
+    },
+    {
+      "fileID": 1016634856842108,
+      "guid": "0ba212adb4a26764680f59a21b9283bb",
+      "type": 2
+    },
+    {
+      "fileID": 1693649016652791,
+      "guid": "ca61e2b326a5a0340b245adf825c12ff",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1397011885445541,
+    "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1056524521070767,
+      "guid": "ba276f3494030aa46b0066e6702a0f82",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1165603342428603,
+      "guid": "fb9585d97b2027a4b8f9355a92cfcaec",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1901337506164947,
+      "guid": "e699c3e00cd4a6c49a7de16df78f8bf5",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1637226370776333,
+      "guid": "46b92a6076355054fa4ccf45b219b6f3",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1353522657491811,
+      "guid": "52823835a18bd5849bbffe26623c700d",
+      "type": 2
+    },
+    {
+      "fileID": 1469567831571877,
+      "guid": "c152f56070771964ba708f3b63186ddc",
+      "type": 2
+    },
+    {
+      "fileID": 1268592533335796,
+      "guid": "4ccfdf89332f3654888e72d70efefdaf",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1773860023919509,
+      "guid": "a994a3ac6948b0e42a7f5c253afc48ff",
+      "type": 2
+    },
+    {
+      "fileID": 1770496248900442,
+      "guid": "809fca0bfbebdf44a9928aa45ff22a8a",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1147684712412141,
+      "guid": "aae5b9e64de7dab498415bba3af11828",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1342103471352290,
+      "guid": "6ab296dcadda2774aa75c3c75ace25e7",
+      "type": 2
+    },
+    {
+      "fileID": 1612209697827141,
+      "guid": "b7028527f8cefca4eb579485cb08f636",
+      "type": 2
+    },
+    {
+      "fileID": 1806701225140974,
+      "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1663534110222255,
+      "guid": "91344f43ef222f3429aa3ff1629cc622",
+      "type": 2
+    },
+    {
+      "fileID": 1848331359346750,
+      "guid": "1888d56e4c91b254582a8918de626e21",
+      "type": 2
+    },
+    {
+      "fileID": 1913413179634950,
+      "guid": "bb5b80bb22669f947bbdae48e39ab395",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1373500535463777,
+      "guid": "c71dcc97d8b97de49a4e192427220b03",
+      "type": 2
+    },
+    {
+      "fileID": 1873970627140771,
+      "guid": "e6346c55fd79bc24eaa50caaa050069c",
+      "type": 2
+    },
+    {
+      "fileID": 1643101330552660,
+      "guid": "43b2b9a2ec179d84fac41747300778b2",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1227892271767198,
+      "guid": "08ec6b6b379ec274980ae2537ed7e146",
+      "type": 2
+    },
+    {
+      "fileID": 1006040247518965,
+      "guid": "de9c9968c80486847b4bd0b0211584c9",
+      "type": 2
+    },
+    {
+      "fileID": 1291887861448701,
+      "guid": "1a194cac9eb44ee4882faf628431af81",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1736891885927352,
+      "guid": "726a2774285b55646a199dd3a30bb79e",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1879650514797604,
+      "guid": "045d9e9d8d8522940a047ab5b5738412",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1876804914422526,
+      "guid": "b85aa22aabf72dd4eb666ff8e0a25f17",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1713598610571065,
+      "guid": "b206978db519ee14c8461b31ff82c4c7",
+      "type": 2
+    },
+    {
+      "fileID": 1932244800654605,
+      "guid": "efe75013f72dec94095cbb9defa22a89",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1916936909460876,
+      "guid": "51d1ede2be2fd15449e850036357f32d",
+      "type": 2
+    },
+    {
+      "fileID": 1930657513963069,
+      "guid": "b62d5e1ed80719c47884d1e261fb6a86",
+      "type": 2
+    },
+    {
+      "fileID": 1268592533335796,
+      "guid": "4ccfdf89332f3654888e72d70efefdaf",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1505314436865728,
+      "guid": "1aa82dfd0ee676e4596494df63682bbd",
+      "type": 2
+    },
+    {
+      "fileID": 1754529178024501,
+      "guid": "6dd1769a03dbb3e40a591eedfe1dd83b",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1646982856376719,
+      "guid": "4cc54c3b6c77aa94db4d44b8cd082a1f",
+      "type": 2
+    },
+    {
+      "fileID": 1265523716473364,
+      "guid": "8de13a95052126d458b27467060b0341",
+      "type": 2
+    }
+  ],
+  "Bio": "Vodinoy are fierce, resilient mermen that can sometimes be found in ponds and rivers near villages, although their home is said to lie in the deepest ocean depths, where no human has ever been.",
+  "History": "Although the true origin of Vodinoys is unknown, there are many stories of people living in remote fishing villages that turned into Vodinoys. The signs would first show when a young man approached adulthood. He would begin to dream of a majestic underwater city where he would be free of the trials and tribulations of everyday life. Next, the body would gradually change, taking on fish-like features, which causes much horror, grief and shame to the affected one's family. Later on, the affected one would lose the ability to communicate with others, as they start to talk in a strange, croak-like language that only other Vodinoys understand. Lastly, they would vanish in the nearby waters to chase their dreams of a paradise hidden underwater in the vast oceans. Still, Vodinoys can sometimes be seen nearby villages, often wearing old, patchy clothes - a futile attempt to return to their original homes.",
+  "StatOrientation": 2
+}

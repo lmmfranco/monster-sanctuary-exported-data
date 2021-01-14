@@ -1,0 +1,13 @@
+{
+  "guid": "b9caabb8e3d061d40ac3150874c834b1",
+  "filename": "Lifelink",
+  "ID": 921,
+  "Name": "Lifelink",
+  "Icon": "icon_light_passive",
+  "Description": "When landing a critical hit, heal the whole party by {0%} of the damage dealt.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "LifestealPercent": 0.2,
+  "OnlyOnCriticalHits": 1,
+  "AffectsWholeParty": 1
+}

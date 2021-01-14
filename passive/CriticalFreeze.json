@@ -1,0 +1,11 @@
+{
+  "guid": "03e6b86aa0ba6434691e33e8b0bd096c",
+  "filename": "CriticalFreeze",
+  "ID": 1105,
+  "Name": "Critical Freeze",
+  "Icon": "icon_critical_chill",
+  "Description": "The first critical hit of an attack applies {Chill} (Debuff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3
+}

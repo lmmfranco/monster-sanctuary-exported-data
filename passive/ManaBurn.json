@@ -1,0 +1,11 @@
+{
+  "guid": "c2f03c5e647af234790d81d92a481933",
+  "filename": "ManaBurn",
+  "ID": 363,
+  "Name": "Mana Burn",
+  "Icon": "icon_mana_burn",
+  "Description": "Whenever an enemy takes {Burn} (Debuff) damage, regenerate {0} Mana.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Mana": 10
+}

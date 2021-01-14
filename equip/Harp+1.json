@@ -1,0 +1,47 @@
+{
+  "guid": "862745eb539a72e41a6ef4231ea01968",
+  "filename": "Harp+1",
+  "ID": 7,
+  "Name": "Harp",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_harp",
+  "Attack": 0,
+  "Magic": 50,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 7,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0.16,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1005357276525527,
+    "guid": "081639bb46cc9ea42bb50a60337f8e31",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "77ca50555d51f0d42b04a80acc34f585",
+  "filename": "JollySpirit",
+  "ID": 1836,
+  "Name": "Jolly Spirit",
+  "Icon": "icon_jolly_spirit",
+  "Description": "For each Monster in the party, the first time they use a non-damaging action in combat, the skill costs {0%} less {Mana}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ManaReduction": 0.5
+}

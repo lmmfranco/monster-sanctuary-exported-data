@@ -1,0 +1,13 @@
+{
+  "guid": "6d6ef9a78375f454b8e090d2d9964ded",
+  "filename": "Tranquility",
+  "ID": 1546,
+  "Name": "Tranquility",
+  "Icon": "icon_tranquility",
+  "Description": "Each {Nature} and {Spirit} monster in your party applies {Weakness} on a random enemy after each action.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestrition": 5,
+  "TypeRestrition2": 4,
+  "Debuff": 0
+}

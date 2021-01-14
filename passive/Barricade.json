@@ -1,0 +1,12 @@
+{
+  "guid": "87d4822a4b6d27b4198c893110fc7c09",
+  "filename": "Barricade",
+  "ID": 1111,
+  "Name": "Barricade",
+  "Icon": "icon_barricade",
+  "Description": "Every shield that comes from this Monster (active and passive) has a {0%} chance to apply {Barrier} (Buff). ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.04,
+  "Buff": 8
+}

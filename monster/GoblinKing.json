@@ -1,0 +1,527 @@
+{
+  "guid": "db2ffb110c10bc245a91b3b5912f3f2a",
+  "filename": "GoblinKing",
+  "ID": 554,
+  "Name": "Goblin King",
+  "baseStats": {
+    "attack": 4,
+    "magic": 4,
+    "defense": 2,
+    "health": 7,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 3,
+    "magic": 3,
+    "defense": 2,
+    "health": 1,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 1
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1676211359093659,
+      "guid": "1807da16437f9db438fe21142fc9ccf0",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1377502260470853,
+      "guid": "3e0e7e86a39c30140b03ce56cb91536a",
+      "type": 2
+    },
+    {
+      "fileID": 1238773190584411,
+      "guid": "b49d1360157ac8c46b653f2311077fd9",
+      "type": 2
+    },
+    {
+      "fileID": 1650462927840936,
+      "guid": "15a773bb5ed3fc047a536af05666a983",
+      "type": 2
+    }
+  ],
+  "StartLevel": 15,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 2,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1432725573133075,
+    "guid": "a7339e13729c5774bb9193ba6d3265e8",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0e0000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    },
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    },
+    {
+      "fileID": 1675082497399280,
+      "guid": "57f8186a359d2a14d83c06829148075b",
+      "type": 2
+    },
+    {
+      "fileID": 1857342971716595,
+      "guid": "f25fe6956aae0df409f93844ef39c4d7",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1297550991700615,
+      "guid": "a1955d37ceb7afd44abe1e8119d86734",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [
+    {
+      "fileID": 1062575145816890,
+      "guid": "9b483263d1efb554687a9c77eb1d86c5",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1346620869320867,
+      "guid": "e48f3d7930c570c41b1f9ddf3e8ddcaa",
+      "type": 2
+    },
+    {
+      "fileID": 1332087868471981,
+      "guid": "e733c0e031bcd1a4a8f664cf6483874f",
+      "type": 2
+    },
+    {
+      "fileID": 1888953310552929,
+      "guid": "7854136e160e5e54c832f540bd3d378a",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1114742255258586,
+    "guid": "f8bcee81d64cc684887215a241c754ac",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1848976509214236,
+      "guid": "7163a4c1b4d4d004d88283230565969e",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1643905612096491,
+      "guid": "9866ff1eacf34b047b6880e820983539",
+      "type": 2
+    },
+    {
+      "fileID": 1878659198837542,
+      "guid": "98e29f1abc54e154db23dcf004fa24c9",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1827291720385422,
+      "guid": "b331cd532fbd64342b6786b199514486",
+      "type": 2
+    },
+    {
+      "fileID": 1868990838550000,
+      "guid": "ef3628c9f91cbcd4e9c9649b6ed29148",
+      "type": 2
+    },
+    {
+      "fileID": 1310787608983681,
+      "guid": "efc8795ab51123f4989b418f3376bb75",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1605518385899461,
+      "guid": "15bbd415b00d0324c941d34d9ab3b8a6",
+      "type": 2
+    },
+    {
+      "fileID": 1640627791648003,
+      "guid": "772d9973f770284428401ab796bef85f",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1038496172469354,
+      "guid": "a9f6d4a80e9e3fa4984fb350568b59ea",
+      "type": 2
+    },
+    {
+      "fileID": 1734804120631767,
+      "guid": "2199b879f1500cf4b9c328d054f61958",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    },
+    {
+      "fileID": 1349092676614706,
+      "guid": "82c764a2e65205140a22ab26c5bccd93",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1848750103429178,
+      "guid": "d80919e35b116f748895639eded31a53",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1554803805287482,
+      "guid": "66b000cbbbb486e4091cb2f3dd4a1c75",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1358024216363682,
+      "guid": "755b4d7c27d13c74b873956d5e697c31",
+      "type": 2
+    },
+    {
+      "fileID": 1297550991700615,
+      "guid": "a1955d37ceb7afd44abe1e8119d86734",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1917406033391920,
+      "guid": "7f36f372b8a78154aabaccb479609319",
+      "type": 2
+    },
+    {
+      "fileID": 1345732927675517,
+      "guid": "b7891f50ae858c642b40d454a584d730",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1184565554093666,
+      "guid": "87e7cce93a693784b81cee46a907fe8a",
+      "type": 2
+    },
+    {
+      "fileID": 1861067242472366,
+      "guid": "1a0729a6cd3ebcd469dbd6d5f68bf424",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1177920882222364,
+      "guid": "2e9f8a647c4722f449565fde2e32ef9d",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1263765811182381,
+      "guid": "275997d5f64365143b3f7c66063ee5fa",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1811849764862644,
+      "guid": "b71d90419425d1647a845e5ae4be17b4",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1085898870576219,
+      "guid": "bc6455fb2e1d6ef48abb141124ab08a6",
+      "type": 2
+    },
+    {
+      "fileID": 1497274092111541,
+      "guid": "c7d7501841ba4ae41ab4ba402b5f63f1",
+      "type": 2
+    },
+    {
+      "fileID": 1918707403924769,
+      "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1832505366857474,
+      "guid": "3453d53376b1fbd4ba1dfff8a57584cb",
+      "type": 2
+    },
+    {
+      "fileID": 1403983715107243,
+      "guid": "400fbd0810cc69f42b631c49ba8c80a1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1993664557776837,
+      "guid": "acd557f84e902a34d85b3f0240db9711",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1804906434757800,
+      "guid": "6d4cff81139bf5744829f0182f8a8800",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1242394876270034,
+      "guid": "221e558dd1880a74d87ae43aa29e0917",
+      "type": 2
+    },
+    {
+      "fileID": 1659188227955396,
+      "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1690277376349555,
+      "guid": "cd6f5ec1c4f47544ab83194803b78a35",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1481079166927516,
+      "guid": "8766052c01a245c40b68d99742fdc670",
+      "type": 2
+    },
+    {
+      "fileID": 1417726058680459,
+      "guid": "8e34872c5d8442f4fb64841be81aec98",
+      "type": 2
+    },
+    {
+      "fileID": 1948469986891550,
+      "guid": "77cdbf03d08ad8e428037b8bf569f22d",
+      "type": 2
+    },
+    {
+      "fileID": 1259004832558812,
+      "guid": "f0315ff6614a58d4d8c9f6aa278d7846",
+      "type": 2
+    }
+  ],
+  "Bio": "A great number of Goblin \"tribes\" populate the Ancient Woods, although each tribe functions more like a big family. There is too much squabbling and infighting among the Goblins to form a true tribe. Only when a Champion emerges from among the Goblins will the many tribe-families come together under one ruler - the Goblin King.",
+  "History": "The Goblins were on the brink of extinction, as the human warlock Ryslind hunted them down for defying him. The tide of the war only turned when the Goblin Warlocks used their newfound powers to create a new type of Goblin: stronger, bigger, and more willful. This first Goblin King gathered all of the remaining Goblins around him, shouting them into submission. A legion of Goblins had been hiding in the caves and tunnels of the forest, and they all came out to fight as an army united by fear. They took the human warlock by surprise and defeated him.",
+  "StatOrientation": 0
+}

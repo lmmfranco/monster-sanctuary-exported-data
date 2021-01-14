@@ -1,0 +1,47 @@
+{
+  "guid": "25d5e37ec05c7634fa95a91baf617d61",
+  "filename": "CritRing+2",
+  "ID": 403,
+  "Name": "Crit Ring",
+  "Price": 620,
+  "Type": 4,
+  "Icon": "icon_ring",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.12,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1662934004504131,
+    "guid": "82bfd34b508f0364e99d54591312f252",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1430211027732074,
+        "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

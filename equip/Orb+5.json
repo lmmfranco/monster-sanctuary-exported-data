@@ -1,0 +1,28 @@
+{
+  "guid": "5e6eced6d4bb4b64087bd67929ff7764",
+  "filename": "Orb+5",
+  "ID": 1516,
+  "Name": "Orb",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_orb",
+  "Attack": 0,
+  "Magic": 250,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 40,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

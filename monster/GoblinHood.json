@@ -1,0 +1,509 @@
+{
+  "guid": "e161f30504d5f594ca8352873eb1cb99",
+  "filename": "GoblinHood",
+  "ID": 432,
+  "Name": "Goblin Hood",
+  "baseStats": {
+    "attack": 7,
+    "magic": 1,
+    "defense": 2,
+    "health": 4,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 0
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1674500266451039,
+      "guid": "e56d66e7942ae1d4e8b5ecefa8dcbd41",
+      "type": 2
+    },
+    {
+      "fileID": 1290670056421272,
+      "guid": "66c2db95e50b65743acf4847f24ef8f8",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1979148939231785,
+      "guid": "fb7806c89741472478f451cd10abf730",
+      "type": 2
+    },
+    {
+      "fileID": 1557805961087026,
+      "guid": "50e9790e8b1c0994dbe5576559ecaa15",
+      "type": 2
+    },
+    {
+      "fileID": 1354272411221756,
+      "guid": "946a4f63157583141a6cf2062e3a39dd",
+      "type": 2
+    }
+  ],
+  "StartLevel": 15,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 2,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1358486953526444,
+    "guid": "021337e29b33e3140a4ac7eb48c67478",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0e0000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    },
+    {
+      "fileID": 1227144640793239,
+      "guid": "64df5b30600dae84a9d97fc9c8f1f4a5",
+      "type": 2
+    },
+    {
+      "fileID": 1675082497399280,
+      "guid": "57f8186a359d2a14d83c06829148075b",
+      "type": 2
+    },
+    {
+      "fileID": 1857342971716595,
+      "guid": "f25fe6956aae0df409f93844ef39c4d7",
+      "type": 2
+    }
+  ],
+  "AISkills": [],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [
+    {
+      "fileID": 1590644436946511,
+      "guid": "479a1b37a21f4bd43b68e3305c09990f",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1819633600397590,
+      "guid": "721ecd9db24fd904f9865a477b204469",
+      "type": 2
+    },
+    {
+      "fileID": 1365192170748494,
+      "guid": "28d48ecbcbd92f24b90fb3b9d6affd2c",
+      "type": 2
+    },
+    {
+      "fileID": 1016634856842108,
+      "guid": "0ba212adb4a26764680f59a21b9283bb",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1066478450441581,
+    "guid": "00dc91af69a4d9a4aa901041bf27db39",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1590644436946511,
+      "guid": "479a1b37a21f4bd43b68e3305c09990f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1616194369699563,
+      "guid": "c95f56be6400cbd47be0381baf105c76",
+      "type": 2
+    },
+    {
+      "fileID": 1619897769243904,
+      "guid": "d51fbbd2ccef58c4f96a1d206e0de555",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1693411950761831,
+      "guid": "fb3c1f4143ea3914f92e0c1a1a62ec85",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1618223174622287,
+      "guid": "ae8bb40b86104c5468fd4ec006174dd9",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1613535094900345,
+      "guid": "50311fb424585054f807770c4706dc5b",
+      "type": 2
+    },
+    {
+      "fileID": 1469567831571877,
+      "guid": "c152f56070771964ba708f3b63186ddc",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1124435812239137,
+      "guid": "a06eebb5e8cbe8e49b074dd918a2d43d",
+      "type": 2
+    },
+    {
+      "fileID": 1770496248900442,
+      "guid": "809fca0bfbebdf44a9928aa45ff22a8a",
+      "type": 2
+    },
+    {
+      "fileID": 1117585765222542,
+      "guid": "b504efae5c7263847a7cb201e358cc75",
+      "type": 2
+    },
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1918707403924769,
+      "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1815603730581760,
+      "guid": "35b389ac66aea06458fa6ba9335e6dc9",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1746068447926949,
+      "guid": "c918d60878f738247a74457c1d1aa3b9",
+      "type": 2
+    },
+    {
+      "fileID": 1423799989169967,
+      "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1968964994863623,
+      "guid": "5d9893c8cf62c6f4e8a8a4c2c095b0b4",
+      "type": 2
+    },
+    {
+      "fileID": 1456250495846756,
+      "guid": "c1853f2e9465a714f8b8ce1312b8007d",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1036567678415013,
+      "guid": "3e972b9c39233474d85706801fe12724",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1001993485527291,
+      "guid": "547449601fe852d4fa91de66d9ab082b",
+      "type": 2
+    },
+    {
+      "fileID": 1651378559451527,
+      "guid": "736952ecd6bd9a14a961a157f771369a",
+      "type": 2
+    },
+    {
+      "fileID": 1060520641591204,
+      "guid": "fc990280656efd141ac491a08a3c1ad1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1351397312410143,
+      "guid": "2e18c17cdb297d447b54e193682cf83d",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1954995645601857,
+      "guid": "9b54a867d9c7c7e48a903e56250390ec",
+      "type": 2
+    },
+    {
+      "fileID": 1426636294964911,
+      "guid": "c0aa2c352f3768645b30a973364d1e87",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    },
+    {
+      "fileID": 1257024486048629,
+      "guid": "7def2797b72f2a243b48ee20ceb3b810",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1227144640793239,
+      "guid": "64df5b30600dae84a9d97fc9c8f1f4a5",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1421611678294282,
+      "guid": "b385b14a283a77f4895b905e2225424a",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1263415653908315,
+      "guid": "f5cbfc7a56cb6984991d562b3f6bf808",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1780617805323052,
+      "guid": "7b535f52920d35641ad3aaeec12675ba",
+      "type": 2
+    },
+    {
+      "fileID": 1420189229468253,
+      "guid": "9e5fd0691e79696418215be3f514640d",
+      "type": 2
+    },
+    {
+      "fileID": 1978035727466006,
+      "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1817039896507635,
+      "guid": "91854259835df834ba562a3adba011d6",
+      "type": 2
+    },
+    {
+      "fileID": 1589929438339581,
+      "guid": "20cbdd80703d86343a15b9a5c17717b4",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1289038678748016,
+      "guid": "cf39424cf76399e438f1986c17affda9",
+      "type": 2
+    },
+    {
+      "fileID": 1828013560203577,
+      "guid": "68fd5a3bfdd4d4042b3b7b6fdd365e94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1239359350124161,
+      "guid": "69d5d25e3e354a444a240103a2363806",
+      "type": 2
+    },
+    {
+      "fileID": 1738377241459128,
+      "guid": "12dd995508fdc2c48bb83b326bef64c3",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    },
+    {
+      "fileID": 1926918902237438,
+      "guid": "c88698d028d422941b9d4c998563d17f",
+      "type": 2
+    }
+  ],
+  "Bio": "Their deadly aim is rivalled only by their survival instincts - for Goblins are a crafty folk who find ways to survive in any corner of this world. The Goblin Hood represents this quality more than any other type of Goblin. They are the hunters, trappers and survivalists of the tribe. Thanks to ingenuity and just a pinch of makeshift sorcery, they are able to hunt down almost any beast - with only a minimum of Goblin casualties.",
+  "History": "It is believed that the warlock Ryslind created only a handful of Goblins. But they quickly multiplied, populating the forest around Ryslind's looming tower and constructing makeshift huts and villages. The Goblins had to find ways to fend for themselves, as Ryslind didn't provide his Goblin offsprings with anything but tasks. And so the first Goblin Hood arose, using bow and arrow to hunt game. However, he was soon eaten by a wild beast that roamed the forest. The second Goblin Hood learned from the first Hood's mistake. He snuck into the warlock's tower and spied on the warlock as he practiced his magic. And so the Goblins learned to harness the power of fire and ice.",
+  "StatOrientation": 1,
+  "PredefinedActions": [
+    {
+      "Turn": 0,
+      "Action": {
+        "fileID": 1590644436946511,
+        "guid": "479a1b37a21f4bd43b68e3305c09990f",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 1,
+      "OrderInTurn": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "guid": "fe753e7e0cfd22e4c8fe80dba86eb52e",
+  "filename": "RestoringWand+5",
+  "ID": 1663,
+  "Name": "Restoring Wand",
+  "Price": 5500,
+  "Type": 0,
+  "Icon": "icon_restoring_wand",
+  "Attack": 0,
+  "Magic": 190,
+  "Defense": 35,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "RemoveDebuffCount": 2
+}

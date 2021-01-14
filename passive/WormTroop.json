@@ -1,0 +1,13 @@
+{
+  "guid": "427e5daff9a2c714198e5c5a4c6718cb",
+  "filename": "WormTroop",
+  "ID": 1743,
+  "Name": "Worm Troop",
+  "Icon": "icon_worm_troop",
+  "Description": "{Worms} in the party regenerate {0%} of their Max Health each turn and have +{1%} Mana Regeneration.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.1,
+  "ManaRegenValue": 0.1,
+  "MonsterType": 18
+}

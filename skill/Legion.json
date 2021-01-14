@@ -1,0 +1,61 @@
+{
+  "guid": "4a0eac73fe843f747ba4a3ecfc2ed555",
+  "filename": "Legion",
+  "ID": 1805,
+  "Name": "Legion",
+  "Icon": "icon_legion",
+  "Tier": 1,
+  "Ultimate": 1,
+  "Mana": 210,
+  "TargetType": 4,
+  "Duration": 2.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 100000008000000,
+  "ApplyDelay": 1,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.3
+  ],
+  "AnimElement": {
+    "fileID": 1360512678067396,
+    "guid": "55dfc6235b511554db2003924d17c726",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

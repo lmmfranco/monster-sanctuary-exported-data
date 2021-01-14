@@ -1,0 +1,11 @@
+{
+  "guid": "2479441e176f6ad47947c2142376a2da",
+  "filename": "ManaBolster",
+  "ID": 1576,
+  "Name": "Mana Bolster",
+  "Icon": "icon_mana_bolster",
+  "Description": "{Regeneration} (Buff) and {Barrier} (Buff) also increase the mana regeneration by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ManaRegeneration": 0.1
+}

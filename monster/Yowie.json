@@ -1,0 +1,546 @@
+{
+  "guid": "3503dba5e6a9050459540bae3e8752eb",
+  "filename": "Yowie",
+  "ID": 375,
+  "Name": "Yowie",
+  "baseStats": {
+    "attack": 3,
+    "magic": 3,
+    "defense": 3,
+    "health": 7,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 0,
+    "health": 4,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 3,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 8
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 1,
+  "RewardsCommon": [
+    {
+      "fileID": 1296005460283245,
+      "guid": "f4226769cbac11f4985c99d1366fe18a",
+      "type": 2
+    },
+    {
+      "fileID": 1832258850283049,
+      "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1938666508179504,
+      "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+      "type": 2
+    },
+    {
+      "fileID": 1367985945939876,
+      "guid": "6a34fd3e8d5cd7d4894dcf8655095c16",
+      "type": 2
+    },
+    {
+      "fileID": 1452493082887538,
+      "guid": "8de784dd477fdf14f80380a2cd79b9af",
+      "type": 2
+    }
+  ],
+  "StartLevel": 5,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1668502083587040,
+    "guid": "c7c2b1c2bb87fbf4b9046a89f1b08b8f",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "07000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1115353332436104,
+      "guid": "465fc77cf499450418f36feb1146d9e1",
+      "type": 2
+    },
+    {
+      "fileID": 1993657088372823,
+      "guid": "32f9a32f13fb5984d8fb091251b3851e",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1821478049369149,
+      "guid": "0e34d035edff710489b94fef9b710817",
+      "type": 2
+    },
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1923782053611373,
+      "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+      "type": 2
+    },
+    {
+      "fileID": 1092552982748897,
+      "guid": "2609902b2f16fbb43bda92d001f4aac3",
+      "type": 2
+    },
+    {
+      "fileID": 1656217717111730,
+      "guid": "90f1953fc9348bd4e9274f0cadc16fe5",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1257724385556133,
+    "guid": "3eb7234be8461e84d984a4a42711517e",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1115353332436104,
+      "guid": "465fc77cf499450418f36feb1146d9e1",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1841859809144766,
+      "guid": "d34e32f13d384704bb5fe790ca8adfe6",
+      "type": 2
+    },
+    {
+      "fileID": 1568630805100999,
+      "guid": "b8cf7e81d40b8b443b00a36ce2bbc4f2",
+      "type": 2
+    },
+    {
+      "fileID": 1307816080177528,
+      "guid": "271ff778b22e20c4096dea3c4ff2fb3b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1536188314808671,
+      "guid": "4defce6a43876f84d94ff68e3e1d5bf9",
+      "type": 2
+    },
+    {
+      "fileID": 1346453012941244,
+      "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1653249463519712,
+      "guid": "93d0c47662518f64ebae1a109cd794c1",
+      "type": 2
+    },
+    {
+      "fileID": 1461213575740669,
+      "guid": "2446a53f5f44a8143bf5ddc8dc60b255",
+      "type": 2
+    },
+    {
+      "fileID": 1828013560203577,
+      "guid": "68fd5a3bfdd4d4042b3b7b6fdd365e94",
+      "type": 2
+    },
+    {
+      "fileID": 1342727013980001,
+      "guid": "e36c9ef9f4e8e0f4bace5ad6dfa36544",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1204528743803114,
+      "guid": "c9aa3e1fbedc86746bd5d5bcad19d8bd",
+      "type": 2
+    },
+    {
+      "fileID": 1568998277078275,
+      "guid": "532f8d176703ca44c83187eeb211005d",
+      "type": 2
+    },
+    {
+      "fileID": 1833705403979091,
+      "guid": "01ce7a07d24a582459c20d95f6d07578",
+      "type": 2
+    },
+    {
+      "fileID": 1387279840199504,
+      "guid": "93953df7508b0864086addf5793665ad",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1741940009897867,
+      "guid": "d79fe2c0f0244744eb367abcdd4bd958",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1420189229468253,
+      "guid": "9e5fd0691e79696418215be3f514640d",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1589929438339581,
+      "guid": "20cbdd80703d86343a15b9a5c17717b4",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1738377241459128,
+      "guid": "12dd995508fdc2c48bb83b326bef64c3",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    },
+    {
+      "fileID": 1043744986219526,
+      "guid": "03e6b86aa0ba6434691e33e8b0bd096c",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1993657088372823,
+      "guid": "32f9a32f13fb5984d8fb091251b3851e",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1452935857193487,
+      "guid": "666062c076e60b54fb0170cd109d65ef",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1892580574904001,
+      "guid": "fca6cc5519fff07499487c06a7df5ed6",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1411900583866437,
+      "guid": "5aa39ce5691f2af47b92e6cdfd1cb032",
+      "type": 2
+    },
+    {
+      "fileID": 1373307052695354,
+      "guid": "7dfeb125948fe6a4a90d13697fc1acef",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1990007855836108,
+      "guid": "2fdd6bf739f0bb4408a3b898c37ca59b",
+      "type": 2
+    },
+    {
+      "fileID": 1398017782350498,
+      "guid": "3e4f83abbfe3427408c7e0c24bf3ed1e",
+      "type": 2
+    },
+    {
+      "fileID": 1227354877434880,
+      "guid": "e3e627d6151f82d4d9ba86e7b595633c",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1821478049369149,
+      "guid": "0e34d035edff710489b94fef9b710817",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1607617178347610,
+      "guid": "8d1e44873cef09841bdf39a2cd649874",
+      "type": 2
+    },
+    {
+      "fileID": 1637226370776333,
+      "guid": "46b92a6076355054fa4ccf45b219b6f3",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1482369931216627,
+      "guid": "5006340e6928dd449806cd39ef294981",
+      "type": 2
+    },
+    {
+      "fileID": 1557801845139300,
+      "guid": "ea653525c295edf40849a0127ac8befb",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1976026551407211,
+      "guid": "285602db4c3855244a498ee19a7fc773",
+      "type": 2
+    },
+    {
+      "fileID": 1638697548567420,
+      "guid": "a98d6cd72f493774cba7fe71a22083f8",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    },
+    {
+      "fileID": 1825927690767900,
+      "guid": "e59a41779be6a1242832f8ce44dffb8f",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1037899881982079,
+      "guid": "77ca50555d51f0d42b04a80acc34f585",
+      "type": 2
+    }
+  ],
+  "Bio": "The Yowies used to avoid humans at all costs, going to great lengths not to show themselves. However, ever since they were brought to the Sanctuary, they have become more jovial as well as battlesome, happily taking challenges from starting Monster Keepers. The Yowie is speculated to be a distant relative of humans.",
+  "History": "The Yowie was long thought to be just a myth. Many people collected footprints of this elusive beast, but they often varied in size and number of toes. Even the early Monster Keepers weren't sure of their existence, and it was complete happenstance that a Monster Keeper came upon a Yowie. In 97 AC, while traversing a desolate, icy mountainside in search of a village of Mogwais, Keeper Ranger Rianna was surprised by a relentless snowstorm. She found shelter in a nearby cave, where she met a Yowie mother and her infants. The Keeper Ranger showed the Yowie that she didn't mean harm and in turn was taught the ways of the Yowie. She convinced the Yowie mother to come to the Sanctuary and thereafter managed to find a great number of other Yowies that lived in the mountains and forests of that land.",
+  "StatOrientation": 2
+}

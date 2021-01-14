@@ -1,0 +1,11 @@
+{
+  "guid": "38a524ee4a28b6a4d848b1e658bdf21b",
+  "filename": "Glitter",
+  "ID": 1124,
+  "Name": "Glitter",
+  "Icon": "icon_gold_aura",
+  "Description": "For each instance of \"Gold Sense\" in the party, every Monster in the party deals {0%} more damage and receives {0%} less damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Bonus": 0.05
+}

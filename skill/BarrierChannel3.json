@@ -1,0 +1,36 @@
+{
+  "guid": "8975d26fde368ad4bbaffe32ee9ee1a5",
+  "filename": "BarrierChannel3",
+  "ID": 760,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114943540743528740,
+    "guid": "90302c4be2d978a49b011ad725330e7b",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 800000004000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

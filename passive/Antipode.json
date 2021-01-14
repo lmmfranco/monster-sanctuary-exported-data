@@ -1,0 +1,14 @@
+{
+  "guid": "3e972b9c39233474d85706801fe12724",
+  "filename": "Antipode",
+  "ID": 443,
+  "Name": "Antipode",
+  "Icon": "icon_antipode",
+  "Description": "When applying {Chill} or {Burn} (Debuffs) while the target already has the other Debuff, trigger an additional {0%} damage hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3,
+  "DamageValue": 1.25,
+  "requiresOtherDebuff": 1,
+  "SecondDebuff": 4
+}

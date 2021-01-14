@@ -1,0 +1,10 @@
+{
+  "guid": "77cdbf03d08ad8e428037b8bf569f22d",
+  "filename": "AntiToxins",
+  "ID": 879,
+  "Name": "Antitoxins",
+  "Icon": "icon_antitoxin",
+  "Description": "At the beginning of each turn, heal a random {Debuff} from this Monster.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

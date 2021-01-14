@@ -1,0 +1,12 @@
+{
+  "guid": "e31a15dcb48b24c43964c7be230fb3f8",
+  "filename": "ShockhopperEgg",
+  "ID": 1399,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1969437151674102,
+    "guid": "9fb63f90986421a459e69077ab3d8cfe",
+    "type": 2
+  }
+}

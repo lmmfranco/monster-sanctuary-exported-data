@@ -1,0 +1,36 @@
+{
+  "guid": "8d1e44873cef09841bdf39a2cd649874",
+  "filename": "ChannelGlory1",
+  "ID": 379,
+  "Name": "Glorycast",
+  "Icon": "icon_channel_glory",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114503341123125490,
+    "guid": "0e34d035edff710489b94fef9b710817",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 17592186568704,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

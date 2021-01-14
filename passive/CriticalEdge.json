@@ -1,0 +1,10 @@
+{
+  "guid": "680f88f236e79f040b6674ef44098ad3",
+  "filename": "CriticalEdge",
+  "ID": 852,
+  "Name": "Critical Edge",
+  "Icon": "icon_critical_edge",
+  "Description": "Each Critical Hit grant this Monster a {Charge} stack.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

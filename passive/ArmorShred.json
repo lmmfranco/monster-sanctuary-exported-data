@@ -1,0 +1,14 @@
+{
+  "guid": "b538a799480407449a13bdc6b9538de8",
+  "filename": "ArmorShred",
+  "ID": 470,
+  "Name": "Armor Shred",
+  "Icon": "icon_armor_shred",
+  "Description": "Every hit has a {0%} chance to apply {Armor Break}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

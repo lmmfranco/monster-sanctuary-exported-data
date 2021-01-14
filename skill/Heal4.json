@@ -1,0 +1,76 @@
+{
+  "guid": "b57c355b31d41154c8dd1428054a0c78",
+  "filename": "Heal4",
+  "ID": 632,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 140,
+  "TargetType": 3,
+  "Duration": 2.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114675379526814990,
+    "guid": "821a3aaae5bde0048be1798b989d683c",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "HealAmount": 100,
+  "ScaleMagic": 0.25,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "AnimElement": {
+    "fileID": 1433999133402651,
+    "guid": "a31092d79a7a9eb479e6c2c22eda8d21",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 1.6
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

@@ -1,0 +1,17 @@
+{
+  "guid": "239d9a8591858be4082278abd59b425b",
+  "filename": "Punishment",
+  "ID": 1526,
+  "Name": "Punishment",
+  "Icon": "icon_punishment",
+  "Description": "Whenever an allied monster removes a Buff from an enemy with an attack, there is a {0%} chance the attack deals an additional {1%} damage hit.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TriggerChance": 0.5,
+  "Damage": 0.3,
+  "AnimElement": {
+    "fileID": 1789147474085481,
+    "guid": "327e8ce7c7d6d9743901a9ee67162e45",
+    "type": 2
+  }
+}

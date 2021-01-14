@@ -1,0 +1,24 @@
+{
+  "guid": "866a3a6409e8e2940bd8f5bf67109edd",
+  "filename": "SpinnerChampion",
+  "ID": 1380,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.4,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.4,
+  "ManaMultiplier": 1.9,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 800,
+  "EncounterLevel": 32,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1162076275095980,
+    "guid": "f602c959add108f479cd0d9d97824dec",
+    "type": 2
+  },
+  "RewardQuantity": 5
+}

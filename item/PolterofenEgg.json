@@ -1,0 +1,12 @@
+{
+  "guid": "01a4fc8c9ff27814a8147cdd8b9d46b5",
+  "filename": "PolterofenEgg",
+  "ID": 1447,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1595124870545842,
+    "guid": "851db2bec2d854749bf46be9d62c4470",
+    "type": 2
+  }
+}

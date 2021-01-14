@@ -1,0 +1,49 @@
+{
+  "guid": "367de14c3fafca64993aff83d0775176",
+  "filename": "Spark+2",
+  "ID": 1735,
+  "Name": "Spark",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_spark",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 17,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 14,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1717739475094078,
+    "guid": "65b4a5991472a50489f9a60546913065",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1430211027732074,
+        "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "Debuff": 4,
+  "Chance": 0.29
+}

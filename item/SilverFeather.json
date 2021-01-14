@@ -1,0 +1,19 @@
+{
+  "guid": "0971a489d01e9a24e9d9a30bcd203c91",
+  "filename": "SilverFeather",
+  "ID": 1013,
+  "Name": "Silver Feather",
+  "Price": 500,
+  "Icon": "icon_silver_feather",
+  "BaseMonster": {
+    "fileID": 1460965695047037,
+    "guid": "cb0b0d52f08c5c84a9b7eed29bff4eb6",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1935341925867187,
+    "guid": "6c3efa1c862262a4f8fae849631183c3",
+    "type": 2
+  }
+}

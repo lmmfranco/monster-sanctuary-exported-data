@@ -1,0 +1,14 @@
+{
+  "guid": "8eca46d24694c3f42a5a2597b685dd24",
+  "filename": "Kindle",
+  "ID": 243,
+  "Name": "Kindle",
+  "Icon": "icon_kindle",
+  "Description": "Every hit has a {0%} chance to apply {Burn}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 4,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

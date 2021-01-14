@@ -1,0 +1,19 @@
+{
+  "guid": "871e0c225eadb7e45a498f5a9656aa4f",
+  "filename": "SunStone",
+  "ID": 808,
+  "Name": "Sun Stone",
+  "Price": 500,
+  "Icon": "icon_sun_stone",
+  "BaseMonster": {
+    "fileID": 1926330375971294,
+    "guid": "7237b71e6fb1b934ab1a936508461192",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1089702791640815,
+    "guid": "3a3cbb8ccd36a184e94d5a875cbb9b63",
+    "type": 2
+  }
+}

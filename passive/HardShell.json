@@ -1,0 +1,14 @@
+{
+  "guid": "b9f1c2bc4876c3d4ba2dc93dd7e3ebd1",
+  "filename": "HardShell",
+  "ID": 1603,
+  "Name": "Hard Shell",
+  "Icon": "icon_hard_shell",
+  "Description": "All {Insects} and {Warriors} in the party receive {0%} less damage and have a {1%} reduced chance to receive Critical Hits.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageReduction": 0.05,
+  "CritChanceReduction": 0.15,
+  "TypeRestriction1": 11,
+  "TypeRestriction2": 15
+}

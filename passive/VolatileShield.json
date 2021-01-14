@@ -1,0 +1,34 @@
+{
+  "guid": "83e39fc273039f14ead56f3115ab1571",
+  "filename": "VolatileShield",
+  "ID": 1414,
+  "Name": "Volatile Shield",
+  "Icon": "icon_volatile_shield",
+  "Description": "Every attack consumes {0%} of the current shield to do an additional hit equal to {1%} of that value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ShieldConsume": 0.5,
+  "Multiplier": 1.75,
+  "AnimElementProjectile": [
+    {
+      "fileID": 1730320894776089,
+      "guid": "85d6ef1d895b3be4e880338a19b51b1e",
+      "type": 2
+    },
+    {
+      "fileID": 1007798269438367,
+      "guid": "45e3a63cc9f3eb44fb73638a8c4f76ca",
+      "type": 2
+    },
+    {
+      "fileID": 1445878428683819,
+      "guid": "10bdb768a0e55b645aa1a039ed041858",
+      "type": 2
+    }
+  ],
+  "AnimElementImpact": {
+    "fileID": 1301815897700386,
+    "guid": "408c86f079a1e994984780862136dd3d",
+    "type": 2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "befb17d861ca3c143b9a5366613310ae",
+  "filename": "SpectralLionChampion",
+  "ID": 1831,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 1,
+  "HealthMultiplier": 7,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.35,
+  "ManaMultiplier": 2.2,
+  "DebuffMultiplier": 0.75,
+  "DifficultyBonus": 1000,
+  "EncounterLevel": 40,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1863530737455918,
+    "guid": "2687e603435a54a439d4234b6924bf5b",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

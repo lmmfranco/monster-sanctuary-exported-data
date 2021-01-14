@@ -1,0 +1,12 @@
+{
+  "guid": "cd6f5ec1c4f47544ab83194803b78a35",
+  "filename": "CriticalGround",
+  "ID": 466,
+  "Name": "Critical Ground",
+  "Icon": "icon_critical_earth",
+  "Description": "Earth attacks have {0%} increased Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritBonus": 0.1,
+  "Element": 4
+}

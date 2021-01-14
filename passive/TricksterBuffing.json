@@ -1,0 +1,11 @@
+{
+  "guid": "86a180e59666ec94cb3c21023877a243",
+  "filename": "TricksterBuffing",
+  "ID": 1708,
+  "Name": "Trickster Buffing",
+  "Icon": "icon_trickster_buffing",
+  "Description": "For every buff applied there is a 10% chance to apply {Chill}, {Shock} or {Burn} to a random enemy.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.1
+}

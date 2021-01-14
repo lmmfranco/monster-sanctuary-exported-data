@@ -1,0 +1,11 @@
+{
+  "guid": "03f25ac19f6cc724b9813491d3cf236d",
+  "filename": "ManaSyphon",
+  "ID": 1439,
+  "Name": "Mana Syphon",
+  "Icon": "icon_mana_syphon",
+  "Description": "Whenever an enemy takes {Poison} (Debuff) damage, each Monster in the party regenerates {0} Mana.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Mana": 5
+}

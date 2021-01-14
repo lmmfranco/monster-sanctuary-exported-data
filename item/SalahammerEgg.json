@@ -1,0 +1,12 @@
+{
+  "guid": "bf0acbe1e7e437c4cab7a47dff92a5ad",
+  "filename": "SalahammerEgg",
+  "ID": 1071,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1805093339884136,
+    "guid": "ef29244878bc23c4688ecb04e62fd748",
+    "type": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "72ec61c9e95343f4e9b6a765d714a3cb",
+  "filename": "AerialManeuvers",
+  "ID": 1115,
+  "Name": "Aerial Maneuvers",
+  "Icon": "icon_aerial_maneuvers",
+  "Description": "{Aerial} Monsters in the party have an additional {0%} chance to dodge enemy hits.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DodgeChance": 0.08,
+  "TypeRestriction": 2
+}

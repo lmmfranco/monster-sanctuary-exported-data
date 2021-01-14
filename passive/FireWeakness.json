@@ -1,0 +1,12 @@
+{
+  "guid": "1f71489026c4c3246958ae27b3a4d858",
+  "filename": "FireWeakness",
+  "ID": 194,
+  "Name": "Fire Weakness",
+  "Icon": "icon_fire_weakness",
+  "Description": "Fire damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 1,
+  "Modifier": 0.5
+}

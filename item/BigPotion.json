@@ -1,0 +1,15 @@
+{
+  "guid": "b6b136fbf5831aa448cb1a8a35f17673",
+  "filename": "BigPotion",
+  "ID": 288,
+  "Name": "Big Potion",
+  "Price": 650,
+  "EffectAction": {
+    "fileID": 1931006479207560,
+    "guid": "f2ec2b34658e20e4289f1e2124f0ce49",
+    "type": 2
+  },
+  "Icon": "icon_big_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

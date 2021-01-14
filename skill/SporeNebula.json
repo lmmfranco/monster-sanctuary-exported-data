@@ -1,0 +1,123 @@
+{
+  "guid": "799dfba164934294e98c7b6291b715b8",
+  "filename": "SporeNebula",
+  "ID": 1761,
+  "Name": "Spore Nebula",
+  "Icon": "icon_spore_storm",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 230,
+  "TargetType": 1,
+  "Duration": 3.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.95,
+  "TotalDamage": 2.85,
+  "CalculatedDamage": 0.9616794,
+  "CalculatedTotalDamage": 2.885038,
+  "HitTimings": [
+    1.2,
+    2,
+    2.8
+  ],
+  "Element": 4,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1470702340060636,
+    "guid": "1443059da734a624d8f69c1c2d5e6639",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "1a2422c52490f1247987858bf1915e71",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0,
+    0.45,
+    0.9,
+    1.35,
+    1.8,
+    2.25,
+    1.7,
+    3.15
+  ],
+  "Debuff": 0,
+  "dualDebuff": 0,
+  "Debuff2": 0,
+  "ApplyChance": 0.2,
+  "AnimElement__1": {
+    "fileID": 1549390774463163,
+    "guid": "c213d7f7912251948bf784838ae18eb4",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0.5,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0,
+  "ShakeDuration": 3.5,
+  "ShakeStrength": 1,
+  "ShakeTimings": [
+    0.3
+  ]
+}

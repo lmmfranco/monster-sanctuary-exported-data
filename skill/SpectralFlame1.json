@@ -1,0 +1,58 @@
+{
+  "guid": "f607a2f7c742e7e4491f5c8080139518",
+  "filename": "SpectralFlame1",
+  "ID": 223,
+  "Name": "Spectral Flame",
+  "Icon": "icon_spectral_flame",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 60,
+  "TargetType": 0,
+  "Duration": 1.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.7,
+  "TotalDamage": 2.1,
+  "CalculatedDamage": 0.6866667,
+  "CalculatedTotalDamage": 2.06,
+  "HitTimings": [
+    0.4,
+    0.7,
+    1
+  ],
+  "Element": 0,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "d2c283a38a18a914dba80cd43691d84e",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1,
+    1.25
+  ]
+}

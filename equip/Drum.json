@@ -1,0 +1,47 @@
+{
+  "guid": "f47c2edc85520fd488a8638fa605b995",
+  "filename": "Drum",
+  "ID": 565,
+  "Name": "Drum",
+  "Price": 2000,
+  "Type": 5,
+  "Icon": "icon_drum",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 12,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0.1,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1854602268982323,
+    "guid": "7cad4c0339f8ad7498ee77fa50e1cafd",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1427932154024413,
+        "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

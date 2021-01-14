@@ -1,0 +1,12 @@
+{
+  "guid": "87cfe82d5356fb14fbf2c670d8652efd",
+  "filename": "DebuffResistance",
+  "ID": 411,
+  "Name": "Debuff Resistance",
+  "Icon": "icon_debuff_resistance",
+  "Description": "Debuff effects reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 7,
+  "Modifier": -0.5
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "4d09027a56e92d440afd636e96d8cecb",
+  "filename": "Mentor",
+  "ID": 643,
+  "Name": "Mentor",
+  "Icon": "icon_mentor",
+  "Description": "Whenever this Monster uses a single-target skill on an ally, they gain a random Buff.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

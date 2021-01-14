@@ -1,0 +1,49 @@
+{
+  "guid": "f3319b84a31987249b5661558807aa1c",
+  "filename": "FishingRod",
+  "ID": 1006,
+  "Name": "Fishing Rod",
+  "Price": 2500,
+  "Type": 0,
+  "Icon": "icon_fishing_rod",
+  "Attack": 25,
+  "Magic": 35,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1487233030602580,
+    "guid": "cb427d2978f6b17448388edaccf6dcfb",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "AddType": 1,
+  "BuffCount": 1
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "3ec233ef40417704eb7c30be45299b55",
+  "filename": "BrutusChampion",
+  "ID": 1588,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4,
+  "ActionCount": 3,
+  "DamageMultiplier": 0.8,
+  "ManaMultiplier": 5,
+  "DebuffMultiplier": 0.8,
+  "DifficultyBonus": 1000,
+  "EncounterLevel": 21,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1015158428184655,
+    "guid": "f59269ba47ca3c14889122e33e7a2fad",
+    "type": 2
+  },
+  "RewardQuantity": 5
+}

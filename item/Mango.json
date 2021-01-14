@@ -1,0 +1,12 @@
+{
+  "guid": "43d4dce36d5427c428b672b2cf84da12",
+  "filename": "Mango",
+  "ID": 812,
+  "Name": "Mango",
+  "Price": 300,
+  "Icon": "icon_mango",
+  "Description": null,
+  "Stat": 4,
+  "Amount": 24,
+  "Level": 3
+}

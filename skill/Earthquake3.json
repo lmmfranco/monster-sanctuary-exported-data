@@ -1,0 +1,48 @@
+{
+  "guid": "8e34872c5d8442f4fb64841be81aec98",
+  "filename": "Earthquake3",
+  "ID": 1202,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 1,
+  "Duration": 2.3,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114381455359357280,
+    "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.3,
+  "TotalDamage": 2.6,
+  "CalculatedDamage": 1.31558,
+  "CalculatedTotalDamage": 2.63116,
+  "HitTimings": [
+    1.2,
+    1.7
+  ],
+  "Element": 4,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "ShakeDuration": 2,
+  "ShakeStrength": 2,
+  "ShakeTimings": [
+    0
+  ]
+}

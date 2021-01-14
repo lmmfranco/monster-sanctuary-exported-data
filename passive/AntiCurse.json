@@ -1,0 +1,11 @@
+{
+  "guid": "f449322e1dce9774d86bebf6c0256e08",
+  "filename": "AntiCurse",
+  "ID": 1835,
+  "Name": "Anti Curse",
+  "Icon": "icon_anti_curse",
+  "Description": "All Debuffs are {0%} less effective on Monsters in your party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Modifier": 0.2
+}

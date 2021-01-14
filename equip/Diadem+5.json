@@ -1,0 +1,28 @@
+{
+  "guid": "c2dd3c351264d5d4fb6251f80d9b9a52",
+  "filename": "Diadem+5",
+  "ID": 1355,
+  "Name": "Diadem",
+  "Price": 2100,
+  "Type": 2,
+  "Icon": "icon_diadem",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 62,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 85,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

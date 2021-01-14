@@ -1,0 +1,12 @@
+{
+  "guid": "748837cd79e5c684a82a1a7d4225f063",
+  "filename": "CrackleKnightEgg",
+  "ID": 520,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1926330375971294,
+    "guid": "7237b71e6fb1b934ab1a936508461192",
+    "type": 2
+  }
+}

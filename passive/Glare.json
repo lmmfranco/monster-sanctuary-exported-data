@@ -1,0 +1,11 @@
+{
+  "guid": "2c32577704e081047bafa995d9760e2a",
+  "filename": "Glare",
+  "ID": 1103,
+  "Name": "Glare",
+  "Icon": "icon_glare",
+  "Description": "When this Monster gets attacked, apply a stack of {Blind} on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Buff": 8
+}

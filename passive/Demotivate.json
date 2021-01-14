@@ -1,0 +1,12 @@
+{
+  "guid": "323d37c5270f60247b743666dbd003e9",
+  "filename": "Demotivate",
+  "ID": 1134,
+  "Name": "Demotivate",
+  "Icon": "icon_demotivate",
+  "Description": "{Weakness} (Debuff) reduces enemies' healing and shielding by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 0,
+  "HealShieldReductionValue": 0.2
+}

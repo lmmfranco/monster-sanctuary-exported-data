@@ -1,0 +1,13 @@
+{
+  "guid": "4e6a717031a257f4b8216b0e86146c40",
+  "filename": "Steampunk",
+  "ID": 1332,
+  "Name": "Steampunk",
+  "Icon": "icon_steampunk",
+  "Description": "Each {Construct} in your party applies {Shock} on a random enemy after each action.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestrition": 3,
+  "TypeRestrition2": 0,
+  "Debuff": 1
+}

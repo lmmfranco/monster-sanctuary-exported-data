@@ -1,0 +1,55 @@
+{
+  "guid": "d11e5ca3e42514b4c9304dafb4c25e24",
+  "filename": "WizardHat+4",
+  "ID": 1167,
+  "Name": "Wizard Hat",
+  "Price": 1500,
+  "Type": 2,
+  "Icon": "icon_wizard_hat",
+  "Attack": 0,
+  "Magic": 47,
+  "Defense": 47,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1650468996563027,
+    "guid": "fbf94f1b82ff32c4292473c3fcfff1b3",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

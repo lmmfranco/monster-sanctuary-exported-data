@@ -1,0 +1,47 @@
+{
+  "guid": "b4525ae9ab9e6a34391a59b78fb4febe",
+  "filename": "Scepter+1",
+  "ID": 6,
+  "Name": "Scepter",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_scepter",
+  "Attack": 0,
+  "Magic": 55,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 35,
+  "ManaRegeneration": 7,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1498791454336239,
+    "guid": "32560c99f58b0a64398daf70d6d01cd7",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

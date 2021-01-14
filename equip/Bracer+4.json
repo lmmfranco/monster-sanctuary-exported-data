@@ -1,0 +1,47 @@
+{
+  "guid": "95672b8ef1177dd46b70130d88b5475a",
+  "filename": "Bracer+4",
+  "ID": 1090,
+  "Name": null,
+  "Price": 1600,
+  "Type": 5,
+  "Icon": "icon_bracer",
+  "Attack": 47,
+  "Magic": 47,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 480,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1882164785813263,
+    "guid": "413cf2c30738cdc44ab9f693e56c08d2",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 4
+    },
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

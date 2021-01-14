@@ -1,0 +1,47 @@
+{
+  "guid": "aadab745309ae4244bf96afeedf8c306",
+  "filename": "Helmet+3",
+  "ID": 608,
+  "Name": "Helmet",
+  "Price": 1000,
+  "Type": 2,
+  "Icon": "icon_helmet",
+  "Attack": 35,
+  "Magic": 0,
+  "Defense": 35,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1112247880611079,
+    "guid": "8f4b7462ff1ec29449e27efd895dd6a5",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

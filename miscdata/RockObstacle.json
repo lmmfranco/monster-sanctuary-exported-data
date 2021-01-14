@@ -1,0 +1,12 @@
+{
+  "guid": "8ca2dc2e0fbf2584ca1db556444024c8",
+  "filename": "RockObstacle",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 2,
+  "DestroyParticleEffect": {
+    "fileID": 0
+  },
+  "DestroyConditionBool": null
+}

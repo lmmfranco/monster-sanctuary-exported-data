@@ -1,0 +1,12 @@
+{
+  "guid": "1a32304115fc44b4c934945734916c1a",
+  "filename": "SlimeSupport",
+  "ID": 1150,
+  "Name": "Slimy Support",
+  "Icon": "icon_slime_support",
+  "Description": "Healing and shielding skills (active and passive) of {Slimes} in your party are increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseAmount": 0.2,
+  "TypeRestriction": 10
+}

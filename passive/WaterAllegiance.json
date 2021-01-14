@@ -1,0 +1,11 @@
+{
+  "guid": "2fb15177ce475f0479d89fad961d3c35",
+  "filename": "WaterAllegiance",
+  "ID": 990,
+  "Name": "Water Allegiance",
+  "Icon": "icon_water_allegiance",
+  "Description": "Converts the element of all Neutral attacks to Water. Water attacks ignore water resistance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ToElement": 2
+}

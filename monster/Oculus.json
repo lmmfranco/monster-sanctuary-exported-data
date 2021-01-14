@@ -1,0 +1,551 @@
+{
+  "guid": "f68b5629c7dc80e44972be56f0ed24ec",
+  "filename": "Oculus",
+  "ID": 1531,
+  "Name": "Oculus",
+  "baseStats": {
+    "attack": 1,
+    "magic": 6,
+    "defense": 6,
+    "health": 3,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 2,
+    "health": 1,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 3,
+    "defense": 1,
+    "health": 0,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": -21
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1657570224997147,
+      "guid": "9fb3eeb68430b924a8e711072754eb5c",
+      "type": 2
+    },
+    {
+      "fileID": 1168011990567236,
+      "guid": "ff548838b039fa74bbc9ee164dbfb189",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1079285706125740,
+      "guid": "38bb721fb38db564e831d65ceceba144",
+      "type": 2
+    },
+    {
+      "fileID": 1859196778719966,
+      "guid": "507f3698a0f784542b241214d1bdd35a",
+      "type": 2
+    },
+    {
+      "fileID": 1365082148279837,
+      "guid": "76696d382ddceb649872c536f07e3e01",
+      "type": 2
+    }
+  ],
+  "StartLevel": 37,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.4,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1078436178403313,
+    "guid": "7d6eac104c38841409e7d262b81bb856",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.32
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -20,
+    "true": -20,
+    "z": 0
+  },
+  "MonsterTypes": "0b00000003000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    },
+    {
+      "fileID": 1348402763894274,
+      "guid": "24d110651a6ee67419f735f4ad8cfce5",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1801896827816093,
+      "guid": "87668478f916f7a44974b9a7dc71d60b",
+      "type": 2
+    },
+    {
+      "fileID": 1538896687575131,
+      "guid": "53a2162ac7ebd0c449a225e96570bee7",
+      "type": 2
+    },
+    {
+      "fileID": 1433500002296603,
+      "guid": "0b03f9ed311a26144a7b2e70ce22e013",
+      "type": 2
+    },
+    {
+      "fileID": 1606999370654739,
+      "guid": "4b29be9aaec52e445af5f6a5c82a9248",
+      "type": 2
+    },
+    {
+      "fileID": 1203889398795320,
+      "guid": "62dad9312f3819b418ab318b48b34cd0",
+      "type": 2
+    },
+    {
+      "fileID": 1866860416887032,
+      "guid": "14ebb834e5adf7d4197f234938d99ad3",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1909992068295273,
+      "guid": "53677ed109594fc4c8bc6a909c702b12",
+      "type": 2
+    },
+    {
+      "fileID": 1414454023635696,
+      "guid": "08449d435bddffb4795451717ca0549b",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1777959142031944,
+      "guid": "4809d40ca603a984dbbfd1f1c3d67f94",
+      "type": 2
+    },
+    {
+      "fileID": 1506530525744404,
+      "guid": "e029a8e89918b474e8b36c1b51ea39cf",
+      "type": 2
+    },
+    {
+      "fileID": 1802586631714151,
+      "guid": "86f55d63d23f9ad4ea0f8e823847d7be",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1222882901470936,
+    "guid": "7745d79721afec4488977cd9f25c98dc",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1022911926836978,
+    "guid": "c3f19f03d777eb8428f44b9107837e6b",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1001751917371072,
+      "guid": "50b366e358ab5b646a89858643caafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1760170391655695,
+      "guid": "07468b124d53ae741854a6b43a9bb6e1",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1644360230470818,
+      "guid": "7b89c67b5638ebd4098402a0a7afbeaf",
+      "type": 2
+    },
+    {
+      "fileID": 1982880555701097,
+      "guid": "e11f9865d2429094285ce2d887a11d26",
+      "type": 2
+    },
+    {
+      "fileID": 1606999370654739,
+      "guid": "4b29be9aaec52e445af5f6a5c82a9248",
+      "type": 2
+    },
+    {
+      "fileID": 1806701225140974,
+      "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1591553800542082,
+      "guid": "67d6ddbd22c10ba4c83e74ab1266db6b",
+      "type": 2
+    },
+    {
+      "fileID": 1042186458747074,
+      "guid": "55a31797c88729e4788c9aae6a5569ca",
+      "type": 2
+    },
+    {
+      "fileID": 1801896827816093,
+      "guid": "87668478f916f7a44974b9a7dc71d60b",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1689263143504150,
+      "guid": "8ccee682c8fadca40b5e5a2898affe5e",
+      "type": 2
+    },
+    {
+      "fileID": 1968498132055621,
+      "guid": "536d25dbd61fb8043a4d1e97d4078315",
+      "type": 2
+    },
+    {
+      "fileID": 1414543096986745,
+      "guid": "c133f0b2ccc8ecd4ba0977d602f5474d",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    },
+    {
+      "fileID": 1414454023635696,
+      "guid": "08449d435bddffb4795451717ca0549b",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    },
+    {
+      "fileID": 1348402763894274,
+      "guid": "24d110651a6ee67419f735f4ad8cfce5",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1340382948355362,
+      "guid": "f6db3e3e8dc8750439c84d1ea717ab05",
+      "type": 2
+    },
+    {
+      "fileID": 1114853035241488,
+      "guid": "32670586d681f4f4288489f996e38957",
+      "type": 2
+    },
+    {
+      "fileID": 1203889398795320,
+      "guid": "62dad9312f3819b418ab318b48b34cd0",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1237978282911539,
+      "guid": "3fc65e16e3c40574f8c7ce449acdc6a2",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1217174516935961,
+      "guid": "7012a05784edadd4caa671aecc78d06c",
+      "type": 2
+    },
+    {
+      "fileID": 1334460450849587,
+      "guid": "fdb1bcb7cbc1b25478178511dd71b5b2",
+      "type": 2
+    },
+    {
+      "fileID": 1866860416887032,
+      "guid": "14ebb834e5adf7d4197f234938d99ad3",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1937993924964313,
+      "guid": "34445d02be5d36a49a051355374a7154",
+      "type": 2
+    },
+    {
+      "fileID": 1119442036061306,
+      "guid": "b68b980750e26ea4b8007248d685b84d",
+      "type": 2
+    },
+    {
+      "fileID": 1909992068295273,
+      "guid": "53677ed109594fc4c8bc6a909c702b12",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1337511326195739,
+      "guid": "781a9c83438031b4aaee4fa088727b5b",
+      "type": 2
+    },
+    {
+      "fileID": 1555578573432210,
+      "guid": "bb8f507a6a375e64e8e130bfc3bad8e8",
+      "type": 2
+    },
+    {
+      "fileID": 1433500002296603,
+      "guid": "0b03f9ed311a26144a7b2e70ce22e013",
+      "type": 2
+    },
+    {
+      "fileID": 1703664524876045,
+      "guid": "dcf547ca2ab94ec4ba580dc49ceb5653",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1153667417895815,
+      "guid": "0705d810b20deda44aba462812b86af1",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1982115436588596,
+      "guid": "59d94809fbd8e8842a2492de1bfd8cbe",
+      "type": 2
+    },
+    {
+      "fileID": 1632620063454676,
+      "guid": "8eca46d24694c3f42a5a2597b685dd24",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1633908374626458,
+      "guid": "c14c459f6b9344c41a69ec431cbf372f",
+      "type": 2
+    },
+    {
+      "fileID": 1387279840199504,
+      "guid": "93953df7508b0864086addf5793665ad",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1376600265834220,
+      "guid": "5090acc92c701ea45b84980f0ff02fb7",
+      "type": 2
+    },
+    {
+      "fileID": 1538896687575131,
+      "guid": "53a2162ac7ebd0c449a225e96570bee7",
+      "type": 2
+    },
+    {
+      "fileID": 1805058663889825,
+      "guid": "02a57c95688c47b4fafe0e6e9dece4be",
+      "type": 2
+    },
+    {
+      "fileID": 1348044412847156,
+      "guid": "2f3d0c02d24542646957b3d0157c2c76",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1377813333813673,
+      "guid": "d7cbb286da4b6e1498c9ce99bc9a8b8b",
+      "type": 2
+    },
+    {
+      "fileID": 1372278204845333,
+      "guid": "da7a851ae0b4eda43b47e960feb36476",
+      "type": 2
+    },
+    {
+      "fileID": 1805578324925072,
+      "guid": "b9121997dfa40e44e90d2c563907191a",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1029752345908245,
+      "guid": "00c83b9f8ac59a545a6d99690fee493f",
+      "type": 2
+    },
+    {
+      "fileID": 1950284367657068,
+      "guid": "b81d4de153115c04bac3a0c8916156c6",
+      "type": 2
+    },
+    {
+      "fileID": 1554412500688381,
+      "guid": "63ee82e53e259514baa253eb5d73d0b0",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    }
+  ],
+  "Bio": "Oculi are a technological marvel without equal in the Sanctuary as well as in the Old World. An Oculus's eye is made of several state-of-the-art lenses of transparent adamantium that can be moved at will, granting the Oculus visual acuity that is possibly beyond any other being in existence.",
+  "History": "Oculi were created by Steam Golems in the Mystical Workshop at an unknown point in time. It is likely that their design was inspired by insects, both in terms of anatomy as well as behavior. The Oculi were presumably intended to use their precise vision and heat capabilities to be intelligent welding instruments for the Golems. The Oculi instead used their heat lasers to burrow into the walls of the Workshop, creating complex cave systems. The number of Oculi that occupy the walls of the Workshop is unknown. It seems that they have broken out into different colonies, working largely independently of the Steam Golems. Amusingly, there is a small group of individuals who believe that the Oculi have since created another type of intelligent mechanical Monsters that are too small for the human eye to see.",
+  "StatOrientation": 2
+}

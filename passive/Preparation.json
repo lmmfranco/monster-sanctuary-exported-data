@@ -1,0 +1,10 @@
+{
+  "guid": "78cc158390a48fe4db95af9ae2bd8122",
+  "filename": "Preparation",
+  "ID": 213,
+  "Name": "Preparation",
+  "Icon": "icon_preparation",
+  "Description": "Every Monster in the party starts the combat with a random Buff.",
+  "IsAura": 1,
+  "IsUnique": 0
+}

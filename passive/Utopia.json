@@ -1,0 +1,11 @@
+{
+  "guid": "8d8f0e313ca9f3d48af7eb40e7839b1f",
+  "filename": "Utopia",
+  "ID": 914,
+  "Name": "Utopia",
+  "Icon": "icon_light_passive",
+  "Description": "Every Monster in the party gains {0} {Charge} stacks at the start of each turn.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ChargeStacks": 3
+}

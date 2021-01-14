@@ -1,0 +1,12 @@
+{
+  "guid": "a896846f85415944ebb5accf0fe051a3",
+  "filename": "ManaPotential",
+  "ID": 1535,
+  "Name": "Mana Potential",
+  "Icon": "icon_dark_passive",
+  "Description": "Reduces damage taken and increases the damage dealt by {0%} for every {1} current Mana. (Calculated before the Mana is spent for an attack)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Multiplier": 0.01,
+  "ManaRequired": 20
+}

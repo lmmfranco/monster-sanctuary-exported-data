@@ -1,0 +1,16 @@
+{
+  "guid": "1b18e48a5521c4643a9bf984137c68af",
+  "filename": "ManaUpkeep",
+  "ID": 77,
+  "Name": "Mana Upkeep",
+  "Icon": "icon_mana_upkeep",
+  "Description": "Increases Mana Regeneration of the whole party by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.1,
+  "Stat": 7,
+  "IncreaseValue2": 0,
+  "Stat2": 0,
+  "IsMultiplicator": 1,
+  "MonsterType": 0
+}

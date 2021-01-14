@@ -1,0 +1,37 @@
+{
+  "guid": "128494cf299f630408d1d76a16f173f6",
+  "filename": "SummonRock",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Summon Rock",
+  "Description": "- Creates a rock obstacle\n- Activates ground switches",
+  "Obstacle": {
+    "fileID": 1423257963813515,
+    "guid": "fe9c996c5de933c49b5319d63883faa0",
+    "type": 2
+  },
+  "Offset": {
+    "x": 32,
+    "true": 24,
+    "z": 0
+  },
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "13873b61ca9746f41ab1fbad816a08af",
+    "type": 3
+  },
+  "Duration": 0.6,
+  "CheckDamageObstacleMask": {
+    "serializedVersion": 2
+  },
+  "SummonFailAnim": {
+    "fileID": 1636899836406865,
+    "guid": "05ab1c2ac0117da44985d7a14e96bf04",
+    "type": 2
+  },
+  "GroundHitTestDistance": 4,
+  "IsBigObstacle": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "caea68f583b468e45ab62a2b30109f44",
+  "filename": "MultiWeakness",
+  "ID": 535,
+  "Name": "Multi Weakness",
+  "Icon": "icon_multiweakness",
+  "Description": "{Weakness} (Debuff) can be stacked two additional times on enemies. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 0
+}

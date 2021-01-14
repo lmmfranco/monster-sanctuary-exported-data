@@ -1,0 +1,12 @@
+{
+  "guid": "e9e39d1a912467e419c2726d90425ca6",
+  "filename": "WormEgg",
+  "ID": 1744,
+  "Name": null,
+  "Price": 900,
+  "Monster": {
+    "fileID": 1616621392749433,
+    "guid": "21fc01b3b1279704582ad4a9f486c6b2",
+    "type": 2
+  }
+}

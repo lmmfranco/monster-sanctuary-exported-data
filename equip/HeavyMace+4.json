@@ -1,0 +1,47 @@
+{
+  "guid": "1401e5e098114c643b173761a1ec9b8a",
+  "filename": "HeavyMace+4",
+  "ID": 1470,
+  "Name": "Heavy Mace",
+  "Price": 4500,
+  "Type": 0,
+  "Icon": "icon_mace",
+  "Attack": 190,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0.14,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1452539813080597,
+    "guid": "437e632c88fc25f42ad816c29915e5fa",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 4
+    },
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "1d980869f62580d48a96522485addf03",
+  "filename": "AsuraEgg",
+  "ID": 1123,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1014157907785984,
+    "guid": "c27650340d1b341458a62a0c12f00591",
+    "type": 2
+  }
+}

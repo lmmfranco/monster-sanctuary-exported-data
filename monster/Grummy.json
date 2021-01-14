@@ -1,0 +1,516 @@
+{
+  "guid": "a88af5116a1c17e49a8970929d6892bf",
+  "filename": "Grummy",
+  "ID": 252,
+  "Name": "Grummy",
+  "baseStats": {
+    "attack": 2,
+    "magic": 4,
+    "defense": 4,
+    "health": 6,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 2,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 2,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -2
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 1,
+  "RewardsCommon": [
+    {
+      "fileID": 1283344633932040,
+      "guid": "9cf392768e7178343a34dee125556952",
+      "type": 2
+    },
+    {
+      "fileID": 1829897180538563,
+      "guid": "042692fed87f2a744b155d0311db6909",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1427932154024413,
+      "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+      "type": 2
+    },
+    {
+      "fileID": 1121538110078047,
+      "guid": "a20b38ed2da772841a94de7f594081de",
+      "type": 2
+    },
+    {
+      "fileID": 1264329016295598,
+      "guid": "8b133c9b4f683cd46a0f7260356057c0",
+      "type": 2
+    }
+  ],
+  "StartLevel": 7,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1257765134137246,
+    "guid": "bae9639eca460fa42885911dd11f5f90",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0100000009000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    },
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    },
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1676241385952260,
+      "guid": "6e7c98c271787d5499baf3ed45ca2e9e",
+      "type": 2
+    },
+    {
+      "fileID": 1026840841675598,
+      "guid": "624760d1327af864e8d091e8087f787b",
+      "type": 2
+    },
+    {
+      "fileID": 1059511061834792,
+      "guid": "4eb95e51c895dbf4b91f148ad4b30dbe",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1733933471001974,
+    "guid": "1a632594fba1fde47be822f0a087703d",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1022911926836978,
+    "guid": "c3f19f03d777eb8428f44b9107837e6b",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    },
+    {
+      "fileID": 1325998609352497,
+      "guid": "36eb940e04d9d3748a8aff783a889435",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1707284892461584,
+      "guid": "c2c84c7a9b88dfe48848a50ab9334611",
+      "type": 2
+    },
+    {
+      "fileID": 1077486870886727,
+      "guid": "3f02e325c13c3714b95308ff37b081dc",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1547447274293046,
+      "guid": "6a65b0ba49b5d7e4f9c5cc2be0efe9c9",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1335250518357692,
+      "guid": "a18678d5b2e932443b03f302998a5d8c",
+      "type": 2
+    },
+    {
+      "fileID": 1444029259816378,
+      "guid": "646945303350c49439aba1e9908efa20",
+      "type": 2
+    },
+    {
+      "fileID": 1815927616037408,
+      "guid": "0755ccd3e58b3944b9d35f2ad38c9463",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1867734379618117,
+      "guid": "7244c5a3fc76a05449e6d5b270f3c10b",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1730059661543035,
+      "guid": "d874756984dd94c49b1d3d0299c3a67b",
+      "type": 2
+    },
+    {
+      "fileID": 1469547985096463,
+      "guid": "09637acb40517a245b7743554a3f783e",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    },
+    {
+      "fileID": 1308667382414759,
+      "guid": "4910a5c964172ca4f91b77c70b9c33ba",
+      "type": 2
+    },
+    {
+      "fileID": 1612209697827141,
+      "guid": "b7028527f8cefca4eb579485cb08f636",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1884870905278009,
+      "guid": "821306266359cb64383f137206811568",
+      "type": 2
+    },
+    {
+      "fileID": 1724728372468134,
+      "guid": "1b7b9062c1cf0084683f0aabf9ac854a",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1277740172922163,
+      "guid": "ce1126defc1f9b948a4396d340da36b5",
+      "type": 2
+    },
+    {
+      "fileID": 1840563118407686,
+      "guid": "97e57aca8fdd22842a04790c37cf1467",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    },
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1490918961562267,
+      "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    },
+    {
+      "fileID": 1737919520185959,
+      "guid": "1b8748cdd37df0845a04fd391aac0e0a",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1001751917371072,
+      "guid": "50b366e358ab5b646a89858643caafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1583872378740514,
+      "guid": "f8bb56b73cf648d4dbb1bb5b54b89c96",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1644360230470818,
+      "guid": "7b89c67b5638ebd4098402a0a7afbeaf",
+      "type": 2
+    },
+    {
+      "fileID": 1910825748656073,
+      "guid": "f886dce5d9dbc1244ba0f40ae449e6fd",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1847891192154843,
+      "guid": "6100c6c9d3269e044aeed028aa8ba091",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1591553800542082,
+      "guid": "67d6ddbd22c10ba4c83e74ab1266db6b",
+      "type": 2
+    },
+    {
+      "fileID": 1992554332611988,
+      "guid": "3cf4b3eef512927419122b12f4f73064",
+      "type": 2
+    },
+    {
+      "fileID": 1078195525425779,
+      "guid": "bc66dc05a18c9e244a67233365608c32",
+      "type": 2
+    },
+    {
+      "fileID": 1230709447252372,
+      "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1689263143504150,
+      "guid": "8ccee682c8fadca40b5e5a2898affe5e",
+      "type": 2
+    },
+    {
+      "fileID": 1465611366670653,
+      "guid": "ed6efb4261b5a0045ac77c4e92659c25",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Bio": "These creatures from the dark corners of the ocean are known for their various supernatural qualities. They outlive humans by far, although scholars can't seem to agree on how long a Grummy can live for exactly. Old tales from the coastal areas say that a Grummy never forgets and never forgives, even as centuries pass and empires rise and fall. The skin of a Grummy is thick, spongy and toxic to a deadly degree, no matter how it is cooked or prepared. The insides of a Grummy are more similar to polyps than fishes or mammals.",
+  "History": "Their biology indicates an otherworldly origin, which coincides with cryptic passages from the Ahrimaaya written by the Blind Starseer. This ancient book of demons was written in times when man was sparsely able to glimpse the terrors that lurk within our planet or beyond, and it holds knowledge that is still considered dangerous and abhorrent. According to these scriptures, Grummies entered our planet as the unholy entourage of the great Graamu, the deathless dreamer who holds the key to the ancient fallen realms of Sygoth and Nar'kenth. Great Graamu is said to reside in unseen realms underneath the sea, biding his time until he can take charge of this planet.",
+  "StatOrientation": 2
+}

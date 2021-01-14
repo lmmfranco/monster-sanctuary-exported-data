@@ -1,0 +1,12 @@
+{
+  "guid": "c3579f1ca4c59324f8c86c24e33f2687",
+  "filename": "ImprovedSidekick",
+  "ID": 1048,
+  "Name": "Improved Sidekick",
+  "Icon": "icon_improved_sidekick",
+  "Description": "{Sidekick} (Buff) damage increased by an additional {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "BuffType": 3,
+  "Value": 0.5
+}

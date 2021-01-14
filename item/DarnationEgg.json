@@ -1,0 +1,12 @@
+{
+  "guid": "b251313b0e2bd66489a9dcd4a63a2fd9",
+  "filename": "DarnationEgg",
+  "ID": 1604,
+  "Name": null,
+  "Price": 700,
+  "Monster": {
+    "fileID": 1481984507270408,
+    "guid": "13c2174e6d7488840aea1eecc1b67644",
+    "type": 2
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "guid": "c53e76b8b9fd88741802bd300bf48203",
+  "filename": "Staff+5",
+  "ID": 1522,
+  "Name": "Staff",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_staff",
+  "Attack": 0,
+  "Magic": 250,
+  "Defense": 0,
+  "CritChance": 0.12,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

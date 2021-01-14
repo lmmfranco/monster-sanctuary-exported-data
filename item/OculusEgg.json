@@ -1,0 +1,12 @@
+{
+  "guid": "76696d382ddceb649872c536f07e3e01",
+  "filename": "OculusEgg",
+  "ID": 1532,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1715881272038395,
+    "guid": "f68b5629c7dc80e44972be56f0ed24ec",
+    "type": 2
+  }
+}

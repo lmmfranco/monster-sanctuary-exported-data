@@ -1,0 +1,11 @@
+{
+  "guid": "6761f3e7bd89852418f35f6b0100976d",
+  "filename": "SaboteursShield",
+  "ID": 94,
+  "Name": "Saboteur's Shield",
+  "Icon": "icon_saboteurs_shield",
+  "Description": "Apply Shield equal to {0%} of own defense when applying a Debuff.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Percent": 0.5
+}

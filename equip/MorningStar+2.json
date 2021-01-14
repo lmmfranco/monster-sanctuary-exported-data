@@ -1,0 +1,47 @@
+{
+  "guid": "f5fb7dca7686bed428f7efe1962d0910",
+  "filename": "MorningStar+2",
+  "ID": 489,
+  "Name": "Morning Star",
+  "Price": 850,
+  "Type": 0,
+  "Icon": "icon_morning_star",
+  "Attack": 90,
+  "Magic": 0,
+  "Defense": 33,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1313564084118584,
+    "guid": "45c243b991a867b498f90230b5d9a6e8",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

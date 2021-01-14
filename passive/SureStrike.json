@@ -1,0 +1,12 @@
+{
+  "guid": "1872ce802e75a2b4682f8345b0c3585f",
+  "filename": "SureStrike",
+  "ID": 1107,
+  "Name": "Sure Strike",
+  "Icon": "icon_sure_strike",
+  "Description": "First hit of an ability has a {0%} increased Critical Chance and cannot be dodged.",
+  "IsAura": 0,
+  "IsUnique": 1,
+  "critChance": 0.1,
+  "cannotMiss": 1
+}

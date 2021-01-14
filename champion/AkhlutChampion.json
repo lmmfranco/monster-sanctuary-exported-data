@@ -1,0 +1,24 @@
+{
+  "guid": "b45a7b408d9dda7468b7623d4b5f4fd0",
+  "filename": "AkhlutChampion",
+  "ID": 704,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.8,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.1,
+  "ManaMultiplier": 2.5,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 900,
+  "EncounterLevel": 12,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1951440096578158,
+    "guid": "6cdd9000856ffa547b8bbfd1cb19fed0",
+    "type": 2
+  },
+  "RewardQuantity": 3
+}

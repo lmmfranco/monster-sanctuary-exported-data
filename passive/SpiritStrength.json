@@ -1,0 +1,12 @@
+{
+  "guid": "d93e57bb6a3bb644fa4530e567d4b959",
+  "filename": "SpiritStrength",
+  "ID": 1114,
+  "Name": "Spirit Strength",
+  "Icon": "icon_spirit_strength",
+  "Description": "Buffs are {0%} more effective on {Spirit} Monsters in the party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Improve": 0.15,
+  "TypeRestriction": 5
+}

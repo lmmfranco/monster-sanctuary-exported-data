@@ -1,0 +1,19 @@
+{
+  "guid": "daef2dc3177fe694fb0a3bffce9bac77",
+  "filename": "GiantSeed",
+  "ID": 1347,
+  "Name": "Giant Seed",
+  "Price": 500,
+  "Icon": "icon_giant_seed",
+  "BaseMonster": {
+    "fileID": 1729604366680957,
+    "guid": "0700f0105cbc0dd4d811de34803d2f8b",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1840768282184710,
+    "guid": "dfc3f902de2a3a141a1ec940d1f4e1c3",
+    "type": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "76951e1b6903f3b4fa096cc8deed019e",
+  "filename": "Totem+5",
+  "ID": 1436,
+  "Name": "Totem",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_totem",
+  "Attack": 48,
+  "Magic": 48,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 500,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "ShieldAmount": 1000,
+  "ManaScaling": 0,
+  "ShieldType": 1
+}

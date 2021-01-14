@@ -1,0 +1,11 @@
+{
+  "guid": "76646dc25d8750d4780a56bbb19be834",
+  "filename": "WarlockHealing",
+  "ID": 1573,
+  "Name": "Warlock Healing",
+  "Icon": "icon_warlock_healing",
+  "Description": "For every heal applied there is a 10% chance to apply {Poison}, {Weakness} or {Armor Break} to a random enemy.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.1
+}

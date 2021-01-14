@@ -1,0 +1,549 @@
+{
+  "guid": "ef29244878bc23c4688ecb04e62fd748",
+  "filename": "Salahammer",
+  "ID": 1070,
+  "Name": "Salahammer",
+  "baseStats": {
+    "attack": 4,
+    "magic": 4,
+    "defense": 4,
+    "health": 7,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 2,
+    "defense": 0,
+    "health": 1,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 2,
+    "defense": 2,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -11
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    },
+    {
+      "fileID": 1168011990567236,
+      "guid": "ff548838b039fa74bbc9ee164dbfb189",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1236254572456791,
+      "guid": "907eade581dbacc4ebbf3880173e9561",
+      "type": 2
+    },
+    {
+      "fileID": 1255444895235189,
+      "guid": "946f2f14e47ebaa44b7d7849f779cd7a",
+      "type": 2
+    },
+    {
+      "fileID": 1717881963622202,
+      "guid": "bf0acbe1e7e437c4cab7a47dff92a5ad",
+      "type": 2
+    }
+  ],
+  "StartLevel": 28,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1192359474171270,
+    "guid": "238714c492322224b9343a31b105f8a7",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.25
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -14,
+    "true": -14,
+    "z": 0
+  },
+  "MonsterTypes": "060000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1153667417895815,
+      "guid": "0705d810b20deda44aba462812b86af1",
+      "type": 2
+    },
+    {
+      "fileID": 1916080860823766,
+      "guid": "c56e84fe09e82a74496dbaadcc6a0fa9",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1481861532246719,
+      "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1464382692633287,
+      "guid": "093566ebc39ee5a4486e1e8f03f2a5eb",
+      "type": 2
+    },
+    {
+      "fileID": 1494227369746003,
+      "guid": "aeb04d898b1120f4282355c774bebb98",
+      "type": 2
+    },
+    {
+      "fileID": 1561447034442896,
+      "guid": "4a0eac73fe843f747ba4a3ecfc2ed555",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1686252289676525,
+    "guid": "1addcfac4e61fde42bf4d3822479c34e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1898991034744691,
+    "guid": "18c38b559336ce54cac52ce10d7aebf0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1153667417895815,
+      "guid": "0705d810b20deda44aba462812b86af1",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1982115436588596,
+      "guid": "59d94809fbd8e8842a2492de1bfd8cbe",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1376600265834220,
+      "guid": "5090acc92c701ea45b84980f0ff02fb7",
+      "type": 2
+    },
+    {
+      "fileID": 1575434491505619,
+      "guid": "152896285d49da4409e1ac5f9fdb5cf2",
+      "type": 2
+    },
+    {
+      "fileID": 1632620063454676,
+      "guid": "8eca46d24694c3f42a5a2597b685dd24",
+      "type": 2
+    },
+    {
+      "fileID": 1171859836952631,
+      "guid": "e6b04de6ed7330244a89b5258b5dab97",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1377813333813673,
+      "guid": "d7cbb286da4b6e1498c9ce99bc9a8b8b",
+      "type": 2
+    },
+    {
+      "fileID": 1212320365182387,
+      "guid": "347c3f7c755fb0743997210d45477f1f",
+      "type": 2
+    },
+    {
+      "fileID": 1841984269241047,
+      "guid": "c2f03c5e647af234790d81d92a481933",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1029752345908245,
+      "guid": "00c83b9f8ac59a545a6d99690fee493f",
+      "type": 2
+    },
+    {
+      "fileID": 1762809354698780,
+      "guid": "da3ebddbc1c3eab41930e8d4062c9ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1171859836952631,
+      "guid": "e6b04de6ed7330244a89b5258b5dab97",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1916080860823766,
+      "guid": "c56e84fe09e82a74496dbaadcc6a0fa9",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1347280706692822,
+      "guid": "085e4de8d86dd98478f8995282c46c43",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1392451628703419,
+      "guid": "225327c9de2c6e440a995d2d25d8369b",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1066437600484723,
+      "guid": "55a5f5eb2c66f5644a0738bcdaf81b83",
+      "type": 2
+    },
+    {
+      "fileID": 1659188227955396,
+      "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+      "type": 2
+    },
+    {
+      "fileID": 1481861532246719,
+      "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1864778115394458,
+      "guid": "d350b42397058044ab890289c2b8bf7c",
+      "type": 2
+    },
+    {
+      "fileID": 1417726058680459,
+      "guid": "8e34872c5d8442f4fb64841be81aec98",
+      "type": 2
+    },
+    {
+      "fileID": 1729154241302233,
+      "guid": "c0ded43d430430546aa91ea0bdfb29dc",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1821478049369149,
+      "guid": "0e34d035edff710489b94fef9b710817",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1607617178347610,
+      "guid": "8d1e44873cef09841bdf39a2cd649874",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1482369931216627,
+      "guid": "5006340e6928dd449806cd39ef294981",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1976026551407211,
+      "guid": "285602db4c3855244a498ee19a7fc773",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1851896989527293,
+      "guid": "f43c49eba85b65240a5685e44ade46e3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1128665427760377,
+      "guid": "fd01805d9585c974ab1dd6d43e08b60d",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1835753180707839,
+      "guid": "c2e220f847156ba44bae113941928875",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1243632247960094,
+      "guid": "2438177754dc933429aebea0706e579f",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1036481918464091,
+      "guid": "8719edcb2bbf66c469e9a387feb6e491",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    }
+  ],
+  "Bio": "Throughout history, Salahammers have been known as master smiths, using their internal fires to fuel their forge. It is believed that some Salahammers are obsessed with the creation of the perfect weapon, which may even cut through diamond with ease, while other Salahammers instead seek out to create an indestructible suit of armor, which would protect its wearer from all harm.",
+  "History": "Salahammers have most often kept to themselves, working in volcanic caverns and other places that are hard to reach. Periodically, a lord would be able to entice one of them into his services, which gave the lord’s armies an edge over their opponents due to the quality of the gear the Salahammer would produce. Even more rare than an army equipped by a Salahammer were those with one in their ranks, who proved to be devastating in combat when they had a reason to fight. After the creation of the Monster Sanctuary, most Salahammers migrated there, attracted by the solitude it promised. Many of them developed a productive relationship with the Steam Golems and the other constructs of the workshop, while some Salahammers prefer the heat of the Magma Chamber.",
+  "StatOrientation": 3
+}

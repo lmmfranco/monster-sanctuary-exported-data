@@ -1,0 +1,12 @@
+{
+  "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+  "filename": "Overcast",
+  "ID": 447,
+  "Name": "Overcast",
+  "Icon": "icon_overcast",
+  "Description": "Increases the Mana Cost of all attacks, healing and shielding actions by {1%} and the power by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageIncrease": 0.15,
+  "ManaIncrease": 0.1
+}

@@ -1,0 +1,46 @@
+{
+  "guid": "c7c2b1c2bb87fbf4b9046a89f1b08b8f",
+  "filename": "TackleExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Tackle",
+  "Description": "- Breaks hidden walls\n- Moves heavy blocks",
+  "AnimElement": {
+    "fileID": 1732644235568831,
+    "guid": "39d7d28b8a12d1b42b86d07324f4541d",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 1770110278272709,
+    "guid": "34cade1550471d64797894f117545d94",
+    "type": 2
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 36,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.4
+  ],
+  "HitBox": {
+    "x": 40,
+    "true": 16
+  },
+  "HitOffset": {
+    "x": -10,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 300000009000000
+}

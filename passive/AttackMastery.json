@@ -1,0 +1,20 @@
+{
+  "guid": "32a702c4aa313dc41a435553753c0f98",
+  "filename": "AttackMastery",
+  "ID": 1838,
+  "Name": "Attack Mastery",
+  "Icon": "icon_attack_mastery",
+  "Description": "Every physical attack triggers an additional hit equal to {1%} of Attack value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.5,
+  "ScaleStat": 0,
+  "AnimElement": {
+    "fileID": 1393696802459613,
+    "guid": "856f88f9a32c6a0409b3798a4b1c6013",
+    "type": 2
+  },
+  "ElementRestriction": 5,
+  "TypeRestriction": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+  "filename": "MultiMight",
+  "ID": 850,
+  "Name": "Multi Might",
+  "Icon": "icon_multi_might",
+  "Description": "{Might} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 0
+}

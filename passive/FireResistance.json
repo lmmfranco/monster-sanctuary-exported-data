@@ -1,0 +1,12 @@
+{
+  "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+  "filename": "FireResistance",
+  "ID": 274,
+  "Name": "Fire Resistance",
+  "Icon": "icon_fire_resistance",
+  "Description": "Fire damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 1,
+  "Modifier": -0.5
+}

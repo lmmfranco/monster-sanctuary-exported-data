@@ -1,0 +1,47 @@
+{
+  "guid": "bed265393cde0de48a7743959ee529d5",
+  "filename": "Tome+3",
+  "ID": 562,
+  "Name": "Tome",
+  "Price": 1000,
+  "Type": 5,
+  "Icon": "icon_tome",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 46,
+  "ManaRegeneration": 27,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1032127685937134,
+    "guid": "87ef92762479ea044973c44fb65e8c26",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

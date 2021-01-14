@@ -1,0 +1,36 @@
+{
+  "guid": "535cc876b72d6e84b9a4052f7523a721",
+  "filename": "FullOffense3",
+  "ID": 1219,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 3,
+  "Duration": 2.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114158542645305060,
+    "guid": "047c93c2a85c2dd46b9d9fe89509b2db",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 1.237940186859346e+27,
+  "ApplyDelay": 0.5,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

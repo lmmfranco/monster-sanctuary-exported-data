@@ -1,0 +1,12 @@
+{
+  "guid": "d3b651446c559264aba3d3af960b362c",
+  "filename": "EarthAffinity",
+  "ID": 224,
+  "Name": "Earth Affinity",
+  "Icon": "icon_earth_affinity",
+  "Description": "{Earth} attacks deal {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "Element": 4
+}

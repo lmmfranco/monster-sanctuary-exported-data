@@ -1,0 +1,12 @@
+{
+  "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+  "filename": "ManaFocus",
+  "ID": 828,
+  "Name": "Mana Focus",
+  "Icon": "icon_mana_focus",
+  "Description": "Mana and Mana Regeneration values from equipment increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 4,
+  "Bonus": 0.25
+}

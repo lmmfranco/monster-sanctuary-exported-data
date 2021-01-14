@@ -1,0 +1,12 @@
+{
+  "guid": "7244c5a3fc76a05449e6d5b270f3c10b",
+  "filename": "MultiRegeneration",
+  "ID": 460,
+  "Name": "Multi Regeneration",
+  "Icon": "icon_multi_regenerate",
+  "Description": "{Regeneration} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 5
+}

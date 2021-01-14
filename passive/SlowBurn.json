@@ -1,0 +1,10 @@
+{
+  "guid": "563a6819dfd43654e85fb3d68e6e2671",
+  "filename": "SlowBurn",
+  "ID": 1143,
+  "Name": "Slow Burn",
+  "Icon": "icon_dark_passive",
+  "Description": "When this Monster uses an action, it only loses a third of its Charge stacks (rounded down).",
+  "IsAura": 0,
+  "IsUnique": 0
+}

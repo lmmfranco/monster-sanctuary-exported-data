@@ -1,0 +1,12 @@
+{
+  "guid": "2eb905ea00aafe7478049efdcf60c200",
+  "filename": "ShockCharging",
+  "ID": 1334,
+  "Name": "Shock Charging",
+  "Icon": "icon_shock_charging",
+  "Description": "Whenever a Monster in the party triggers {Shock} damage, it gets {0} {Charge} stacks.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Buff": 2,
+  "StackCount": 2
+}

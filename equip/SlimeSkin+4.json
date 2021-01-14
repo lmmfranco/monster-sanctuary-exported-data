@@ -1,0 +1,49 @@
+{
+  "guid": "1b4af5c6146378b468b396886436e6e1",
+  "filename": "SlimeSkin+4",
+  "ID": 1785,
+  "Name": "Slime Skin",
+  "Price": 3000,
+  "Type": 5,
+  "Icon": "icon_slime_skin",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 550,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1166886735690765,
+    "guid": "c1e7bf542831cd14aa45ea15c1366102",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 4
+    }
+  ],
+  "Debuff": 0,
+  "Chance": 0.33
+}

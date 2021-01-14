@@ -1,0 +1,14 @@
+{
+  "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+  "filename": "BreakingSpells",
+  "ID": 1141,
+  "Name": "Breaking Spells",
+  "Icon": "icon_breaking_spells",
+  "Description": "Every magical attack hit has a {0%} chance to apply {Armor Break}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 6
+}

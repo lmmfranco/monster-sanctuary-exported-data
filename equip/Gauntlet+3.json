@@ -1,0 +1,47 @@
+{
+  "guid": "bead6b2b720a2494bae2ae585a5eb61f",
+  "filename": "Gauntlet+3",
+  "ID": 568,
+  "Name": "Gauntlet",
+  "Price": 1000,
+  "Type": 1,
+  "Icon": "icon_gauntlet",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 38,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1680714932138626,
+    "guid": "0d3c72f9557309b47b2a56ecc8d072a4",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

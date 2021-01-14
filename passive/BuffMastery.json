@@ -1,0 +1,10 @@
+{
+  "guid": "1addcfac4e61fde42bf4d3822479c34e",
+  "filename": "BuffMastery",
+  "ID": 918,
+  "Name": "Buff Mastery",
+  "Icon": "icon_light_passive",
+  "Description": "This Monster may apply an additional stack of any Buff. Additional stacks are only half as strong.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

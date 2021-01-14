@@ -1,0 +1,12 @@
+{
+  "guid": "4c39c849afc6fd24b9e32ff7ddbc048a",
+  "filename": "MultiChannel",
+  "ID": 1125,
+  "Name": "Multi Channel",
+  "Icon": "icon_multi_channel",
+  "Description": "{Channel} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 4
+}

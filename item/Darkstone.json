@@ -1,0 +1,19 @@
+{
+  "guid": "8fa3d41bb649d67488e48c798d61de45",
+  "filename": "Darkstone",
+  "ID": 1370,
+  "Name": "Dark Stone",
+  "Price": 500,
+  "Icon": "icon_dark_stone",
+  "BaseMonster": {
+    "fileID": 1419693174018241,
+    "guid": "e60c34de05a3eed418269ea88f816cc8",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1465168489346931,
+    "guid": "482c768d146375342892a30dc4910814",
+    "type": 2
+  }
+}

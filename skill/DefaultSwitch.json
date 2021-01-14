@@ -1,0 +1,19 @@
+{
+  "guid": "da6e3478495e80547bcaa770587168dc",
+  "filename": "DefaultSwitch",
+  "ID": 1038,
+  "Name": "Switch Monster",
+  "Icon": "icon_switch",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 0,
+  "Duration": 1.5,
+  "IsDefaultAction": 1,
+  "Tooltip": "Switch Monster with another one from the reserves",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

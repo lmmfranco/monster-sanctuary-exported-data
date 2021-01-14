@@ -1,0 +1,36 @@
+{
+  "guid": "3119777ba43fdec43894cc51441be0bf",
+  "filename": "RegenerationSorcery3",
+  "ID": 767,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114509254144722860,
+    "guid": "72a03618a8f049149b1c771aff7ca0f9",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 21990232817664,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

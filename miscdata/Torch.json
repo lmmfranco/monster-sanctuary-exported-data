@@ -1,0 +1,36 @@
+{
+  "guid": "c8e9bca5d8b270943b31f67ef6e5279e",
+  "filename": "Torch",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 4,
+  "IsEnkindled": 1,
+  "timeOffset": 0,
+  "BrightTorch": {
+    "fileID": 114046869844237650
+  },
+  "TorchLight": {
+    "fileID": 114248581355913470
+  },
+  "Background": {
+    "fileID": 0
+  },
+  "SpeedMultiplier": 1.5,
+  "InnerSpeedMultiplier": 8.25,
+  "InnerIntensity": 0.5,
+  "AlphaFlickerRange": 0.05,
+  "BackgroundFlickerRange": 0.5,
+  "SizeFlickerRange": 0.1,
+  "FlickerSpeedRange": 0.15,
+  "FlickerSpeedRate": 1.5,
+  "Particles": [
+    {
+      "fileID": 198778348182881860
+    },
+    {
+      "fileID": 198797652124466400
+    }
+  ],
+  "ActivatesBoolOnEnkindle": null
+}

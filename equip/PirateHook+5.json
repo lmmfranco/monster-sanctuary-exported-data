@@ -1,0 +1,30 @@
+{
+  "guid": "1f3caf0b84859f14c9d7c69ce4611d2c",
+  "filename": "PirateHook+5",
+  "ID": 1517,
+  "Name": "Pirate Hook",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_pirate_hook",
+  "Attack": 210,
+  "Magic": 210,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "HealAmount": 500,
+  "HealType": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+  "filename": "EarthWeakness",
+  "ID": 232,
+  "Name": "Earth Weakness",
+  "Icon": "icon_earth_weakness",
+  "Description": "Earth damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 4,
+  "Modifier": 0.5
+}

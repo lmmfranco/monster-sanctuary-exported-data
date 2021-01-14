@@ -1,0 +1,12 @@
+{
+  "guid": "70d0888c53d54c443ade5b73654de65d",
+  "filename": "Carrot",
+  "ID": 809,
+  "Name": "Carrot",
+  "Price": 300,
+  "Icon": "icon_carrot",
+  "Description": null,
+  "Stat": 3,
+  "Amount": 150,
+  "Level": 3
+}

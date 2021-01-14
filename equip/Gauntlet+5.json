@@ -1,0 +1,28 @@
+{
+  "guid": "0b648a1cb53a8e348ae91617931b5db7",
+  "filename": "Gauntlet+5",
+  "ID": 1484,
+  "Name": "Gauntlet",
+  "Price": 2400,
+  "Type": 1,
+  "Icon": "icon_gauntlet",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 65,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

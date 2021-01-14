@@ -1,0 +1,12 @@
+{
+  "guid": "4229314f2df86134d8c55e698c14c362",
+  "filename": "FishScales",
+  "ID": 1158,
+  "Name": "Fish Scales",
+  "Icon": "icon_fish_scales",
+  "Description": "When a {Fish} monster in your party is hit there is a {0%} chance to apply a stack of {Bleed} onto the attacker equal to the damage received.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ReflectChance": 0.35,
+  "TypeRestriction": 13
+}

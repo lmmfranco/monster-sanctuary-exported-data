@@ -1,0 +1,28 @@
+{
+  "guid": "e2022e617119a014baa26e8ebb0a43f9",
+  "filename": "Shell+5",
+  "ID": 1485,
+  "Name": "Shell",
+  "Price": 2000,
+  "Type": 1,
+  "Icon": "icon_shell",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 100,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

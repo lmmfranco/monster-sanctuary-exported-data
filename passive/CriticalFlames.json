@@ -1,0 +1,12 @@
+{
+  "guid": "75c4476f476912e48a280c6902dd34cf",
+  "filename": "CriticalFlames",
+  "ID": 370,
+  "Name": "Critical Flames",
+  "Icon": "icon_critical_flames",
+  "Description": "Fire attacks have {0%} increased Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritBonus": 0.1,
+  "Element": 1
+}

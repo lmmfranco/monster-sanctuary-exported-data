@@ -1,0 +1,58 @@
+{
+  "guid": "03bbc76e8716eae429d88df9dbb6409e",
+  "filename": "LightningSphere+1",
+  "ID": 1637,
+  "Name": "Lightning Sphere",
+  "Price": 2500,
+  "Type": 5,
+  "Icon": "icon_lightning_sphere",
+  "Attack": 0,
+  "Magic": 20,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1424245009297137,
+    "guid": "5935a7fc7a1e87746bb8241c34a978dd",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "Debuff1": 1,
+  "Debuff2": 5,
+  "Chance": 0.03
+}

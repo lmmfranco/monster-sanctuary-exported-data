@@ -1,0 +1,11 @@
+{
+  "guid": "c125599c5a7fcf24e885fabe895acb19",
+  "filename": "SubZero",
+  "ID": 619,
+  "Name": "Sub Zero",
+  "Icon": "icon_sub_zero",
+  "Description": "{Chill} causes enemies affected by it to take {0%} increased damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DamageBonus": 0.1
+}

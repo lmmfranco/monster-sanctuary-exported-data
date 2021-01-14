@@ -1,0 +1,14 @@
+{
+  "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+  "filename": "AutoHeal",
+  "ID": 709,
+  "Name": "Auto Heal",
+  "Icon": "icon_auto_heal",
+  "Description": "When attacking, also heal the Monster with the lowest health in the party by {0%} of Magic.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "MagicScaling": 2,
+  "HealEffect": {
+    "fileID": 0
+  }
+}

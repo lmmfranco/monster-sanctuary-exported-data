@@ -1,0 +1,24 @@
+{
+  "guid": "99cbe6894773f8a448762d68e86f544e",
+  "filename": "VodinoyChampion",
+  "ID": 1634,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 6.2,
+  "ActionCount": 3,
+  "DamageMultiplier": 1.5,
+  "ManaMultiplier": 4.5,
+  "DebuffMultiplier": 0.75,
+  "DifficultyBonus": 1300,
+  "EncounterLevel": 40,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1036985526460713,
+    "guid": "baf9f1650a1bdbf4f91570e3b3db96fb",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

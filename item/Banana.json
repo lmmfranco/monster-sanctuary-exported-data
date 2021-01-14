@@ -1,0 +1,12 @@
+{
+  "guid": "c4f33991a81891d44b7de3a0c92299b6",
+  "filename": "Banana",
+  "ID": 1350,
+  "Name": "Banana",
+  "Price": 500,
+  "Icon": "icon_banana",
+  "Description": null,
+  "Stat": 3,
+  "Amount": 250,
+  "Level": 4
+}

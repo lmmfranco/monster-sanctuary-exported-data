@@ -1,0 +1,39 @@
+{
+  "guid": "18fd21f949ee7864ba02b7abfefd3339",
+  "filename": "Brooch+3",
+  "ID": 781,
+  "Name": "Brooch",
+  "Price": 3500,
+  "Type": 5,
+  "Icon": "icon_brooch",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 30,
+  "CritChance": 0.06,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 41,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1338244376100734,
+    "guid": "753c7e4e9c530dc4590ea956ada367ef",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

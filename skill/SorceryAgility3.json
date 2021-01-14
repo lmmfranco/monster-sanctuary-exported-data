@@ -1,0 +1,36 @@
+{
+  "guid": "ef7eab4da489b3348ab9aabbb20f39d2",
+  "filename": "SorceryAgility3",
+  "ID": 856,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114515951637658900,
+    "guid": "5131c1e00b9f8b6498518c4e3d86ff73",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 4398048083968,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

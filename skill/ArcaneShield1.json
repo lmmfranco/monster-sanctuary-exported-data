@@ -1,0 +1,63 @@
+{
+  "guid": "a45e8c6124ba14646999a56499b14065",
+  "filename": "ArcaneShield1",
+  "ID": 551,
+  "Name": "Arcane Shield",
+  "Icon": "icon_arcane_shield",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 100,
+  "TargetType": 3,
+  "Duration": 2.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 90,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0.4,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    0.9,
+    1.2,
+    1.5,
+    1.8
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1796481590718481,
+    "guid": "8d5641c2f6ba0fc49bb3a93c6de0cd53",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buffs": 262144,
+  "ApplyDelay": 2,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0
+}

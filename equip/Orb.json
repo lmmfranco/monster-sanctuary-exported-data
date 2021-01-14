@@ -1,0 +1,47 @@
+{
+  "guid": "99cc6c7016c814841a1b3b152f3b65a6",
+  "filename": "Orb",
+  "ID": 61,
+  "Name": "Orb",
+  "Price": 250,
+  "Type": 0,
+  "Icon": "icon_orb",
+  "Attack": 0,
+  "Magic": 40,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 12,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1692535299156431,
+    "guid": "1b24bd5561d18ed4680f08264a18e43c",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

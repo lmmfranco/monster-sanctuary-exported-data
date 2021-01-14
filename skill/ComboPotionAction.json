@@ -1,0 +1,54 @@
+{
+  "guid": "7854085b17346b544a9996ec37c5feb8",
+  "filename": "ComboPotionAction",
+  "ID": 558,
+  "Name": "Combo Potion",
+  "Icon": "icon_potion",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 3,
+  "Duration": 2.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 1,
+  "HealAmount": 200,
+  "ScaleMagic": 0,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.4,
+    0.65,
+    0.9,
+    1.15,
+    1.4,
+    1.65,
+    1.9,
+    2.15
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "aa47772eea5f37844b1aca8df3895e2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

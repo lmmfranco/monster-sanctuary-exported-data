@@ -1,0 +1,33 @@
+{
+  "guid": "44eb096c0fb8392408766e87393ab5bc",
+  "filename": "MinimapSmallView",
+  "Background": {
+    "fileID": 114033083206454160
+  },
+  "InnerSprite": {
+    "fileID": 114258170002266910
+  },
+  "Teleporter": {
+    "fileID": 1811002528168689
+  },
+  "Icon": {
+    "fileID": 0
+  },
+  "Doors": [
+    {
+      "fileID": 114273973248500480
+    },
+    {
+      "fileID": 114138437275105780
+    },
+    {
+      "fileID": 114878821255350750
+    },
+    {
+      "fileID": 114297246345127780
+    }
+  ],
+  "BoundingSprite": {
+    "fileID": 114033083206454160
+  }
+}

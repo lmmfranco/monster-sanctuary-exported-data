@@ -1,0 +1,9 @@
+{
+  "guid": "f99d69b27ade4b749a71ace3d6c20d23",
+  "filename": "SkillResetter",
+  "ID": 258,
+  "Name": "Skill Resetter",
+  "Price": 300,
+  "Icon": "icon_skill_resetter",
+  "Description": "Resets the skilltree of a monster"
+}

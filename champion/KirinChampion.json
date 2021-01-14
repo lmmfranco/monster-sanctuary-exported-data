@@ -1,0 +1,24 @@
+{
+  "guid": "cfbe7c793a4265148b3ac502670da389",
+  "filename": "KirinChampion",
+  "ID": 896,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.5,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.1,
+  "ManaMultiplier": 2,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 800,
+  "EncounterLevel": 19,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1015158428184655,
+    "guid": "f59269ba47ca3c14889122e33e7a2fad",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

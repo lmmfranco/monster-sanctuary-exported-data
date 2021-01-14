@@ -1,0 +1,12 @@
+{
+  "guid": "8c8bc0055e9964c4890ef7a2061cd853",
+  "filename": "ChangelingEgg",
+  "ID": 1685,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1507584277412065,
+    "guid": "3bcc21818746b8d47862ee61a8816737",
+    "type": 2
+  }
+}

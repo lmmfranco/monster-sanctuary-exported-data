@@ -1,0 +1,12 @@
+{
+  "guid": "5924221d35fe8004c91f535a2fbbd910",
+  "filename": "WindWeakness",
+  "ID": 110,
+  "Name": "Wind Weakness",
+  "Icon": "icon_wind_weakness",
+  "Description": "Wind damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 3,
+  "Modifier": 0.5
+}

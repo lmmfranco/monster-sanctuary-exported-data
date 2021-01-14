@@ -1,0 +1,41 @@
+{
+  "guid": "104aad64f48506c41a811ef4f580ba0e",
+  "filename": "ChargingSphere+3",
+  "ID": 1423,
+  "Name": "Charging Sphere",
+  "Price": 5500,
+  "Type": 5,
+  "Icon": "icon_charge_sphere",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 310,
+  "Mana": 0,
+  "ManaRegeneration": 17,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1137173220102086,
+    "guid": "df2d33967a06cb24ea923a5cd88942d8",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 4
+    }
+  ],
+  "ChargesCount": 2,
+  "ChargeType": 0
+}

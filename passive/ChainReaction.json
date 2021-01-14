@@ -1,0 +1,10 @@
+{
+  "guid": "576344f39a936274c963a372fd947533",
+  "filename": "ChainReaction",
+  "ID": 1411,
+  "Name": "Chain Reaction",
+  "Icon": "icon_chain_reaction",
+  "Description": "When attacking a single target, trigger {Shock} (Debuff) Damage on all enemies.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

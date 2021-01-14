@@ -1,0 +1,57 @@
+{
+  "guid": "1243dd538bbbdbe4d93783fd74da6448",
+  "filename": "TarotCard+4",
+  "ID": 1646,
+  "Name": "Tarot Card",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_tarot_card",
+  "Attack": 0,
+  "Magic": 47,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 400,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1891168972555433,
+    "guid": "0efaaad79992575408b5c7e28ea16025",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1095870700680833,
+        "guid": "c9c7c19e44e73d548834298b74b76049",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "BuffStacks": 4398047559680,
+  "StackIncrease": 1
+}

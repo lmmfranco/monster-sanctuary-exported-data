@@ -1,0 +1,340 @@
+{
+  "guid": "746503f9146c8d441b1d53eb43c241fd",
+  "filename": "LavaWave1",
+  "ID": 1054,
+  "Name": "Lava Wave",
+  "Icon": "icon_lava_wave",
+  "Tier": 2,
+  "Ultimate": 0,
+  "Mana": 85,
+  "TargetType": 1,
+  "Duration": 2.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.55,
+  "TotalDamage": 1.1,
+  "CalculatedDamage": 0.5505,
+  "CalculatedTotalDamage": 1.101,
+  "HitTimings": [
+    1.2,
+    1.8
+  ],
+  "Element": 1,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [
+    {
+      "OverrideType": 6,
+      "Parameter": 0.5
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0.25,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 0,
+  "MultipleEnemiesDelay__2": 0,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0,
+  "AnimElement__2": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__2": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__2": 0,
+  "Color__2": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__2": 0,
+  "Delay__2": 0.5,
+  "FlipHorizontally__2": 0,
+  "FlipVertically__2": 0,
+  "FlipDependingOnEnemies__2": 1,
+  "TriggerOnEverySingleTarget__2": 0,
+  "MultipleEnemiesDelay__3": 0,
+  "Overrides__2": [],
+  "PositionOnGround__2": 0,
+  "IncludeDeadMonsterPosition__2": 0,
+  "AnimElement__3": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__3": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__3": 0,
+  "Color__3": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__3": 0,
+  "Delay__3": 0.75,
+  "FlipHorizontally__3": 0,
+  "FlipVertically__3": 0,
+  "FlipDependingOnEnemies__3": 1,
+  "TriggerOnEverySingleTarget__3": 0,
+  "MultipleEnemiesDelay__4": 0,
+  "Overrides__3": [],
+  "PositionOnGround__3": 0,
+  "IncludeDeadMonsterPosition__3": 0,
+  "AnimElement__4": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__4": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__4": 0,
+  "Color__4": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__4": 0,
+  "Delay__4": 1,
+  "FlipHorizontally__4": 0,
+  "FlipVertically__4": 0,
+  "FlipDependingOnEnemies__4": 1,
+  "TriggerOnEverySingleTarget__4": 0,
+  "MultipleEnemiesDelay__5": 0,
+  "Overrides__4": [],
+  "PositionOnGround__4": 0,
+  "IncludeDeadMonsterPosition__4": 0,
+  "AnimElement__5": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__5": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__5": 0,
+  "Color__5": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__5": 0,
+  "Delay__5": 1.25,
+  "FlipHorizontally__5": 0,
+  "FlipVertically__5": 0,
+  "FlipDependingOnEnemies__5": 1,
+  "TriggerOnEverySingleTarget__5": 0,
+  "MultipleEnemiesDelay__6": 0,
+  "Overrides__5": [],
+  "PositionOnGround__5": 0,
+  "IncludeDeadMonsterPosition__5": 0,
+  "AnimElement__6": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__6": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__6": 0,
+  "Color__6": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__6": 0,
+  "Delay__6": 1.5,
+  "FlipHorizontally__6": 0,
+  "FlipVertically__6": 0,
+  "FlipDependingOnEnemies__6": 1,
+  "TriggerOnEverySingleTarget__6": 0,
+  "MultipleEnemiesDelay__7": 0,
+  "Overrides__6": [],
+  "PositionOnGround__6": 0,
+  "IncludeDeadMonsterPosition__6": 0,
+  "AnimElement__7": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__7": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__7": 0,
+  "Color__7": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__7": 0,
+  "Delay__7": 1.75,
+  "FlipHorizontally__7": 0,
+  "FlipVertically__7": 0,
+  "FlipDependingOnEnemies__7": 1,
+  "TriggerOnEverySingleTarget__7": 0,
+  "MultipleEnemiesDelay__8": 0,
+  "Overrides__7": [],
+  "PositionOnGround__7": 0,
+  "IncludeDeadMonsterPosition__7": 0,
+  "AnimElement__8": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__8": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__8": 0,
+  "Color__8": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__8": 0,
+  "Delay__8": 2,
+  "FlipHorizontally__8": 0,
+  "FlipVertically__8": 0,
+  "FlipDependingOnEnemies__8": 1,
+  "TriggerOnEverySingleTarget__8": 0,
+  "MultipleEnemiesDelay__9": 0,
+  "Overrides__8": [
+    {
+      "OverrideType": 13,
+      "Parameter": 0.35
+    }
+  ],
+  "PositionOnGround__8": 0,
+  "IncludeDeadMonsterPosition__8": 0,
+  "AnimElement__9": {
+    "fileID": 1046988074946438,
+    "guid": "2052fb8acecdb4a4c9148439677a11a7",
+    "type": 2
+  },
+  "Offset__9": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__9": 0,
+  "Color__9": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__9": 0,
+  "Delay__9": 2.25,
+  "FlipHorizontally__9": 0,
+  "FlipVertically__9": 0,
+  "FlipDependingOnEnemies__9": 1,
+  "TriggerOnEverySingleTarget__9": 0,
+  "MultipleEnemiesDelay__10": 0,
+  "Overrides__9": [
+    {
+      "OverrideType": 13,
+      "Parameter": 0.1
+    }
+  ],
+  "PositionOnGround__9": 0,
+  "IncludeDeadMonsterPosition__9": 0,
+  "ShakeDuration": 0.6,
+  "ShakeStrength": 1,
+  "ShakeTimings": [
+    0
+  ],
+  "ShakeDuration__1": 1.5,
+  "ShakeStrength__1": 2,
+  "ShakeTimings__1": [
+    0.6
+  ],
+  "Debuff": 5,
+  "dualDebuff": 0,
+  "Debuff2": 0,
+  "ApplyChance": 0.2
+}

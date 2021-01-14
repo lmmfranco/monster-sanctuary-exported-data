@@ -1,0 +1,16 @@
+{
+  "guid": "a9b427a1d62e1644e8f6b9283ae76185",
+  "filename": "Rampage",
+  "ID": 1139,
+  "Name": "Rampage",
+  "Icon": "icon_rampage",
+  "Description": "Increases the Critical Chance of {Beast} Monsters in the party by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.1,
+  "Stat": 5,
+  "IncreaseValue2": 0,
+  "Stat2": 0,
+  "IsMultiplicator": 0,
+  "MonsterType": 7
+}

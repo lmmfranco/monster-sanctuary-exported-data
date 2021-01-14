@@ -1,0 +1,14 @@
+{
+  "guid": "f49367a6165675c44974a40d823e30ae",
+  "filename": "GoblinDefense",
+  "ID": 424,
+  "Name": "Goblin Defense",
+  "Icon": "icon_goblin_defense",
+  "Description": "All {Goblins} in the party receive {0%} less damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "damageReduction": 0.1,
+  "MonsterType": 14,
+  "MonsterType2": 0,
+  "OnlyMassAttacks": 0
+}

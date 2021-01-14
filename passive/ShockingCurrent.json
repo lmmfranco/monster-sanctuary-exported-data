@@ -1,0 +1,14 @@
+{
+  "guid": "cc12b113205729047bee09118bc6666c",
+  "filename": "ShockingCurrent",
+  "ID": 442,
+  "Name": "Shocking Current",
+  "Icon": "icon_shocking_wind",
+  "Description": "Every Wind attack hit has a {0%} chance to apply {Shock}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 1,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 3
+}

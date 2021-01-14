@@ -1,0 +1,36 @@
+{
+  "guid": "d9b71956a28b0f04fa866938b3a91de2",
+  "filename": "TorchStrongholdDungeon",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 4,
+  "IsEnkindled": 1,
+  "timeOffset": 0,
+  "BrightTorch": {
+    "fileID": 114913086522735570
+  },
+  "TorchLight": {
+    "fileID": 114495484808391380
+  },
+  "Background": {
+    "fileID": 0
+  },
+  "SpeedMultiplier": 1.5,
+  "InnerSpeedMultiplier": 8.25,
+  "InnerIntensity": 0.5,
+  "AlphaFlickerRange": 0.05,
+  "BackgroundFlickerRange": 0.5,
+  "SizeFlickerRange": 0.1,
+  "FlickerSpeedRange": 0.15,
+  "FlickerSpeedRate": 1.5,
+  "Particles": [
+    {
+      "fileID": 198863702710300500
+    },
+    {
+      "fileID": 198280629851771900
+    }
+  ],
+  "ActivatesBoolOnEnkindle": null
+}

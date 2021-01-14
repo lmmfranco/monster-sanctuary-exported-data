@@ -1,0 +1,15 @@
+{
+  "guid": "c3c8bf0a6b4029c4682b830d3b157b6b",
+  "filename": "MagicAttackPassive",
+  "ID": 859,
+  "Name": "Magic Attack",
+  "Icon": "icon_magic_attack",
+  "Description": "This Monster's basic attack is replaced by {Magic Attack}: {6} x {50%} (300%) magical damage, gain a random {Buff}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "MagicAttackPrefab": {
+    "fileID": 1548540899569458,
+    "guid": "ee72c61d92a1f954a8e88cf5aa0b681e",
+    "type": 2
+  }
+}

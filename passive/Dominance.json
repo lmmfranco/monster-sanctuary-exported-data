@@ -1,0 +1,11 @@
+{
+  "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+  "filename": "Dominance",
+  "ID": 158,
+  "Name": "Dominance",
+  "Icon": "icon_dominance",
+  "Description": "Enemies receive {0%} increased damage for each Debuff on them.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.03
+}

@@ -1,0 +1,95 @@
+{
+  "guid": "6e7c98c271787d5499baf3ed45ca2e9e",
+  "filename": "AcidHurricane",
+  "ID": 1818,
+  "Name": "Acid Hurricane",
+  "Icon": "icon_acid_hurricane",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 230,
+  "TargetType": 1,
+  "Duration": 3.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.95,
+  "TotalDamage": 2.85,
+  "CalculatedDamage": 0.9450127,
+  "CalculatedTotalDamage": 2.835038,
+  "HitTimings": [
+    1,
+    1.8,
+    2.6
+  ],
+  "Element": 2,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Debuffs": 1310720,
+  "ApplyDelay": 3,
+  "ApplyChance": 0.75,
+  "TargetCount": 1,
+  "AnimElement": {
+    "fileID": 1562783494259833,
+    "guid": "ba216d0fe5a1770488596ddb0ae6b7e9",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "9218fbed5beb4634d93e2701d216f825",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.3
+  ],
+  "Color__1": {
+    "r": 0.372549,
+    "g": 0.4705882,
+    "b": 0.08627451,
+    "a": 0.1254902
+  },
+  "Duration__1": 2,
+  "StayDuration": 2,
+  "Timings": [
+    0
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "47fb8efdd0bd5ae4e82f4b077224dea3",
+  "filename": "ForcefulSorcery",
+  "ID": 1569,
+  "Name": "Forceful Sorcery",
+  "Icon": "icon_forceful_sorcery",
+  "Description": "Sorcery also makes all attacks ignore {0%} of enemy's damage reduction.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ReductionBypass": 0.1,
+  "Buff": 1
+}

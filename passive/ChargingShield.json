@@ -1,0 +1,11 @@
+{
+  "guid": "0b03f9ed311a26144a7b2e70ce22e013",
+  "filename": "ChargingShield",
+  "ID": 1059,
+  "Name": "Charging Shield",
+  "Icon": "icon_charging_shield",
+  "Description": "Shield self for {0} when receiving a {Charge} stack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ShieldAmount": 60
+}

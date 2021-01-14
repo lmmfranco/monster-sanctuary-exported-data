@@ -1,0 +1,40 @@
+{
+  "guid": "61d9a9f891e953b4eb1630b5c8a2aecf",
+  "filename": "DracozulChampion",
+  "ID": 1413,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.5,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.3,
+  "ManaMultiplier": 1.9,
+  "DebuffMultiplier": 0.9,
+  "DifficultyBonus": 300,
+  "EncounterLevel": 22,
+  "EncounterMonsters": [
+    {
+      "fileID": 1419693174018241,
+      "guid": "e60c34de05a3eed418269ea88f816cc8",
+      "type": 2
+    },
+    {
+      "fileID": 1588824352195413,
+      "guid": "c9e6e6ecfe2bdf342b6196f7f28be59d",
+      "type": 2
+    },
+    {
+      "fileID": 1419693174018241,
+      "guid": "e60c34de05a3eed418269ea88f816cc8",
+      "type": 2
+    }
+  ],
+  "Reward6thStar": {
+    "fileID": 1951440096578158,
+    "guid": "6cdd9000856ffa547b8bbfd1cb19fed0",
+    "type": 2
+  },
+  "RewardQuantity": 5
+}

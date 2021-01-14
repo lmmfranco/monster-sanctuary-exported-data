@@ -1,0 +1,11 @@
+{
+  "guid": "5b683cacb1951e84da6d882e46751aaf",
+  "filename": "ChannelingSupport",
+  "ID": 1572,
+  "Name": "Channeling Support",
+  "Icon": "icon_channeling_support",
+  "Description": "{Channel} also improves all healing and shielding skills (active and passive) by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Bonus": 0.15
+}

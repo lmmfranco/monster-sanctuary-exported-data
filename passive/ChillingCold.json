@@ -1,0 +1,14 @@
+{
+  "guid": "f5cbfc7a56cb6984991d562b3f6bf808",
+  "filename": "ChillingCold",
+  "ID": 441,
+  "Name": "Chilling Cold",
+  "Icon": "icon_chilling_cold",
+  "Description": "Every Water attack hit has a {0%} chance to apply {Chill}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 2
+}

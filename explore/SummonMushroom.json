@@ -1,0 +1,37 @@
+{
+  "guid": "5b2b61c2390b56642a9c421b09672f20",
+  "filename": "SummonMushroom",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Summon Mushroom",
+  "Description": "- Creates a mushroom obstacle\n- Activates ground switches",
+  "Obstacle": {
+    "fileID": 1010417600971431,
+    "guid": "540e188268aec90429955881ed146ee9",
+    "type": 2
+  },
+  "Offset": {
+    "x": 32,
+    "true": 24,
+    "z": 0
+  },
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "44122ad0d4ec166458f77f32a4282b81",
+    "type": 3
+  },
+  "Duration": 0.6,
+  "CheckDamageObstacleMask": {
+    "serializedVersion": 2
+  },
+  "SummonFailAnim": {
+    "fileID": 1545712306902344,
+    "guid": "c52fd2a50a8e9364dafe0014b1d9a05f",
+    "type": 2
+  },
+  "GroundHitTestDistance": 4,
+  "IsBigObstacle": 0
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "e32a4372056c5c64eb5d9d11236b26eb",
+  "filename": "ManaConflux",
+  "ID": 927,
+  "Name": "Mana Conflux",
+  "Icon": "icon_dark_passive",
+  "Description": "Throughout combat, gain a Charge stack for every {0} Mana spent by any allied Monster.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "StackPerManaSpent": 75
+}

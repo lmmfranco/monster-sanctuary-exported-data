@@ -1,0 +1,36 @@
+{
+  "guid": "0fa503b26aaa1bc44862ee5035227d00",
+  "filename": "DoubleImpact",
+  "ID": 251,
+  "Name": "Double Impact",
+  "Icon": "icon_double_impact",
+  "Description": "When exploiting an enemy's weakness with an attack, trigger an additional {0%} damage hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0.5,
+  "AnimElementFire": {
+    "fileID": 1925620052577271,
+    "guid": "6f19d803eeea31c48a02c821a5fa9db5",
+    "type": 2
+  },
+  "AnimElementWater": {
+    "fileID": 1513175436753608,
+    "guid": "cf4ef2d79d98ea743b6a79f171446456",
+    "type": 2
+  },
+  "AnimElementWind": {
+    "fileID": 1384186137426433,
+    "guid": "ce70b1ef45869ea49a9589da4c0f2c11",
+    "type": 2
+  },
+  "AnimElementEarth": {
+    "fileID": 1950428619967167,
+    "guid": "8353618083a311f44968009d1a64b43e",
+    "type": 2
+  },
+  "AnimElementNeutral": {
+    "fileID": 1602335056739035,
+    "guid": "e70ef783de4f31942b837e596da371c5",
+    "type": 2
+  }
+}

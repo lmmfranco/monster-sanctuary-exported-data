@@ -1,0 +1,11 @@
+{
+  "guid": "36f1935fe105a2247878761ec56281b8",
+  "filename": "Heroism",
+  "ID": 82,
+  "Name": "Heroism",
+  "Icon": "icon_heroism",
+  "Description": "Deals {0%} increased damage for every Buff on this monster.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.02
+}

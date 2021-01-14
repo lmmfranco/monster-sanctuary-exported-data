@@ -1,0 +1,12 @@
+{
+  "guid": "f50836fd642b7a8499ced04f15131594",
+  "filename": "SwimmingAbility",
+  "PlayerOffset": {
+    "x": 14,
+    "true": -14,
+    "z": 0
+  },
+  "Name": "Swimming",
+  "Description": "- Allows the player to swim",
+  "ResistsStreams": 0
+}

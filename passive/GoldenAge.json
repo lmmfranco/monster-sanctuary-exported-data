@@ -1,0 +1,10 @@
+{
+  "guid": "4349f753901590e4ca45e8b222d00afc",
+  "filename": "GoldenAge",
+  "ID": 995,
+  "Name": "Golden Age",
+  "Icon": "icon_golden_age",
+  "Description": "Whenever a Monster in the party receives an {Age} stack, remove a Debuff from it.",
+  "IsAura": 1,
+  "IsUnique": 0
+}

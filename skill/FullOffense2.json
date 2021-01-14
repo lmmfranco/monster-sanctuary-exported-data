@@ -1,0 +1,36 @@
+{
+  "guid": "047c93c2a85c2dd46b9d9fe89509b2db",
+  "filename": "FullOffense2",
+  "ID": 641,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 3,
+  "Duration": 2.3,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114392204092337760,
+    "guid": "d1d1470853169b24a9d6c1b6f49d51e7",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 73786985090932020000,
+  "ApplyDelay": 0.5,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

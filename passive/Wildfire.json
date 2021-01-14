@@ -1,0 +1,14 @@
+{
+  "guid": "5ebc767e670b878409d769f26792d1d8",
+  "filename": "Wildfire",
+  "ID": 1087,
+  "Name": "Wildfire",
+  "Icon": "icon_wildfire",
+  "Description": "When a Monster in the party applies {Burn} on an enemy, {0%} chance to spread it to another enemy.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 4,
+  "SpreadDebuff": 4,
+  "Chance": 0.4,
+  "OnSameEnemy": 0
+}

@@ -1,0 +1,520 @@
+{
+  "guid": "88e567f1f915c58459aac3237e2f45da",
+  "filename": "Aurumtail",
+  "ID": 644,
+  "Name": "Aurumtail",
+  "baseStats": {
+    "attack": 2,
+    "magic": 4,
+    "defense": 5,
+    "health": 5,
+    "mana": 9
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 2,
+    "health": 0,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 3,
+    "defense": 0,
+    "health": 0,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 7,
+    "true": 6
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1259841684164799,
+      "guid": "03d0a51216bc2564c99c83dee96e82da",
+      "type": 2
+    },
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1735445830266374,
+      "guid": "40219434937e68b438cab2c0b83c648e",
+      "type": 2
+    },
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1054471100142144,
+      "guid": "8b2353f9830c4214ea90b79c457dcf73",
+      "type": 2
+    }
+  ],
+  "StartLevel": 18,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 12,
+  "JumpFrequence": 0.4,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1302092253990615,
+    "guid": "7eec424bf4966564bb6c9d9214224ecf",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0600000007000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    },
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    },
+    {
+      "fileID": 1675082497399280,
+      "guid": "57f8186a359d2a14d83c06829148075b",
+      "type": 2
+    },
+    {
+      "fileID": 1857342971716595,
+      "guid": "f25fe6956aae0df409f93844ef39c4d7",
+      "type": 2
+    }
+  ],
+  "AISkills": [],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1888953310552929,
+      "guid": "7854136e160e5e54c832f540bd3d378a",
+      "type": 2
+    },
+    {
+      "fileID": 1802586631714151,
+      "guid": "86f55d63d23f9ad4ea0f8e823847d7be",
+      "type": 2
+    },
+    {
+      "fileID": 1870840998800765,
+      "guid": "89603da8c82e76a41ba29b7e97d19645",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1898991034744691,
+    "guid": "18c38b559336ce54cac52ce10d7aebf0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1966636764060011,
+      "guid": "666f6e29cbc768f4fb42b9d7b74121de",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1352380127628888,
+      "guid": "78907699465ef774dbd5a81c8d194d9b",
+      "type": 2
+    },
+    {
+      "fileID": 1109485832159856,
+      "guid": "92691af62cb62b04e89e42307bfccb06",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1026467856648302,
+      "guid": "1be6da44a2955524f805f1f41e5741f8",
+      "type": 2
+    },
+    {
+      "fileID": 1419201777112848,
+      "guid": "832bb55f10ff37a49b5b19cd5280642a",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1349092676614706,
+      "guid": "82c764a2e65205140a22ab26c5bccd93",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1056329583471328,
+      "guid": "72dcaa884809cfd46bf0f59663f7db02",
+      "type": 2
+    },
+    {
+      "fileID": 1859707025539207,
+      "guid": "707e80426d182aa4ba73e448d1beff76",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1917052883789989,
+      "guid": "4c5f4c954d29c3e4399d61c078320f9d",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1476974744721574,
+      "guid": "3d22872bb97e65d489222bc163abeb49",
+      "type": 2
+    },
+    {
+      "fileID": 1018485883065683,
+      "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1123197375305887,
+      "guid": "761c3b65393defa49aca3241fc2b2055",
+      "type": 2
+    },
+    {
+      "fileID": 1424160382439838,
+      "guid": "5db12690c328ec74ca1226c6e991e542",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1146315800798299,
+      "guid": "4f40de5a32a1f494d8ed91801291d0c9",
+      "type": 2
+    },
+    {
+      "fileID": 1768875704581525,
+      "guid": "30e6644eb180bd944be59002a29860de",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1920860117714978,
+      "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1926918902237438,
+      "guid": "c88698d028d422941b9d4c998563d17f",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1910150687214375,
+      "guid": "38a524ee4a28b6a4d848b1e658bdf21b",
+      "type": 2
+    },
+    {
+      "fileID": 1978035727466006,
+      "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+      "type": 2
+    },
+    {
+      "fileID": 1612209697827141,
+      "guid": "b7028527f8cefca4eb579485cb08f636",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1219677166417998,
+      "guid": "a45e8c6124ba14646999a56499b14065",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1564999759017876,
+      "guid": "20db3096fd27d4b459a83e3fd88ee85c",
+      "type": 2
+    },
+    {
+      "fileID": 1353275332259268,
+      "guid": "f28f3e52d493b184990264484ecbafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1453690147581180,
+      "guid": "17f8aee11e0a9d34ea69bbc5ba6d71d9",
+      "type": 2
+    },
+    {
+      "fileID": 1560282200114948,
+      "guid": "9340e6b93e996f34f9e91ff8bf99ee59",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    }
+  ],
+  "Bio": "A curious mix of reptilian and canine physiology with a unique set of skills. In particular, the Aurumtail's ability to find precious ores and minerals is singular among the inhabitants of the Monster Sanctuary. This ability might have developed due to the Aurumtail's peculiar feeding habits: Its primary diet consists of Mana which it obtains from specific minerals found in caves and underground. This renders their body fragile to physical forces, but gives them an almost impenetrable resistance to magical influences.",
+  "History": "The Aurumtail is loyal to its Keeper to a degree that sometimes proves tragic. When it was first discovered that this species had a knack for finding gemstones, many treasure seekers sought them out. However, removing them from their habitats which were rich in the Mana that they needed to survive proved fatal for many of the species. Since then, it has become a well-known fact that keeping an Aurumtail is a big responsibility that comes with certain challenges. However, a Keeper who is able to properly take care of the Aurumtail's needs is in turn rewarded with one of the most loyal and intelligent companions a Keeper can wish for.",
+  "StatOrientation": 2
+}

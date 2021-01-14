@@ -1,0 +1,176 @@
+{
+  "guid": "6cdd9000856ffa547b8bbfd1cb19fed0",
+  "filename": "RewardBoxLvl2",
+  "ID": 1016,
+  "Name": "Reward Box lvl 2",
+  "Price": 650,
+  "Icon": "icon_lootbox",
+  "Description": "Get a random item.",
+  "Loot": [
+    {
+      "fileID": 1227810096600977,
+      "guid": "c4f33991a81891d44b7de3a0c92299b6",
+      "type": 2
+    },
+    {
+      "fileID": 1657570224997147,
+      "guid": "9fb3eeb68430b924a8e711072754eb5c",
+      "type": 2
+    },
+    {
+      "fileID": 1327029775675991,
+      "guid": "7bb2f16bc8a2fca4aaff2ee219b72347",
+      "type": 2
+    },
+    {
+      "fileID": 1582992188549829,
+      "guid": "50632ae1d3446cf459c0f9317b4f34f0",
+      "type": 2
+    },
+    {
+      "fileID": 1519664530045061,
+      "guid": "871e0c225eadb7e45a498f5a9656aa4f",
+      "type": 2
+    },
+    {
+      "fileID": 1233455569348281,
+      "guid": "5dd1ce2122463394ba11e32c77d94191",
+      "type": 2
+    },
+    {
+      "fileID": 1874856975165494,
+      "guid": "ab35bd88f5d6dc845b508078f05cc371",
+      "type": 2
+    },
+    {
+      "fileID": 1510153061555548,
+      "guid": "d3eff52e41de09d4dbcaae1d4eea006d",
+      "type": 2
+    },
+    {
+      "fileID": 1719243044145975,
+      "guid": "93452e3b24f68d64aac0f8a31608ab1b",
+      "type": 2
+    },
+    {
+      "fileID": 1923523939160982,
+      "guid": "4be9d63e583ffb546ac9c098b337c044",
+      "type": 2
+    },
+    {
+      "fileID": 1466068612864108,
+      "guid": "8ba09ccb7b1a9c14ba4d26b6bebb4ac5",
+      "type": 2
+    },
+    {
+      "fileID": 1565878350055485,
+      "guid": "2b3082ee08fb0d340a54bb0649a73b52",
+      "type": 2
+    },
+    {
+      "fileID": 1695350552032573,
+      "guid": "7d123af4a682a8e46855d7d0bebfc60c",
+      "type": 2
+    },
+    {
+      "fileID": 1290864073448643,
+      "guid": "1fc7b8394f20353488f4f49e0f4e70a8",
+      "type": 2
+    },
+    {
+      "fileID": 1335032206642452,
+      "guid": "e25f414261316b2439b2cf279281661f",
+      "type": 2
+    },
+    {
+      "fileID": 1650462927840936,
+      "guid": "15a773bb5ed3fc047a536af05666a983",
+      "type": 2
+    },
+    {
+      "fileID": 1969004201925536,
+      "guid": "67fa468cf13f0254ab6d503d98c17104",
+      "type": 2
+    },
+    {
+      "fileID": 1248023941939989,
+      "guid": "d5585dea64ddc8b47986299488df7bf4",
+      "type": 2
+    },
+    {
+      "fileID": 1054471100142144,
+      "guid": "8b2353f9830c4214ea90b79c457dcf73",
+      "type": 2
+    },
+    {
+      "fileID": 1558319881203901,
+      "guid": "fa6e6ba49d2b2e842926391822caff5d",
+      "type": 2
+    },
+    {
+      "fileID": 1970372663668689,
+      "guid": "612b3d29f407d354dbc3f4117919ee50",
+      "type": 2
+    },
+    {
+      "fileID": 1806204304465893,
+      "guid": "c05743d8a9de6074b9421916ac37b877",
+      "type": 2
+    },
+    {
+      "fileID": 1498682778367946,
+      "guid": "9edfdf7b7768f71428ef650e6dc4fa75",
+      "type": 2
+    },
+    {
+      "fileID": 1238773190584411,
+      "guid": "b49d1360157ac8c46b653f2311077fd9",
+      "type": 2
+    },
+    {
+      "fileID": 1815621341462075,
+      "guid": "f47c2edc85520fd488a8638fa605b995",
+      "type": 2
+    },
+    {
+      "fileID": 1523721713151488,
+      "guid": "7a25a1842d248524eaeb614e7a8a4a60",
+      "type": 2
+    },
+    {
+      "fileID": 1996467748294059,
+      "guid": "243ea053a2fc0e54b8f835c5fb59f7e9",
+      "type": 2
+    },
+    {
+      "fileID": 1201016627007401,
+      "guid": "faa05d6ae04dab645a206e2b1c795e39",
+      "type": 2
+    },
+    {
+      "fileID": 1679687396889229,
+      "guid": "44e32df614a4fb642a30319dc9047cee",
+      "type": 2
+    },
+    {
+      "fileID": 1015158428184655,
+      "guid": "f59269ba47ca3c14889122e33e7a2fad",
+      "type": 2
+    },
+    {
+      "fileID": 1255444895235189,
+      "guid": "946f2f14e47ebaa44b7d7849f779cd7a",
+      "type": 2
+    },
+    {
+      "fileID": 1837169550514311,
+      "guid": "5dc90a05e46d33f448fb40336b8327b3",
+      "type": 2
+    }
+  ],
+  "SFXGetReward": {
+    "fileID": 8300000,
+    "guid": "bfe630adf6898854c83f11a0d31be086",
+    "type": 3
+  }
+}

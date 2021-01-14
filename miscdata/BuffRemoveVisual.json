@@ -1,0 +1,40 @@
+{
+  "guid": "ee633272dceea36479422cc9f662c392",
+  "filename": "BuffRemoveVisual",
+  "Sprite": {
+    "fileID": 114677107381098860
+  },
+  "ParticleEffectBuff": {
+    "fileID": 1846984708028938,
+    "guid": "24a76cfc094a81e4d937dfa00b742aad",
+    "type": 2
+  },
+  "ParticleEffectDebuff": {
+    "fileID": 1084269190430566,
+    "guid": "73c8a578dbf10bd4c8b6d3739e05fc8b",
+    "type": 2
+  },
+  "ParticleEffectSpecialBuff": {
+    "fileID": 1147061908903536,
+    "guid": "796c2271df385d04bbdfde9542a58806",
+    "type": 2
+  },
+  "Offset": {
+    "x": 10,
+    "true": 32,
+    "z": 0
+  },
+  "FadeOffset": {
+    "x": 15,
+    "true": 15,
+    "z": 0
+  },
+  "MoveDuration": 0.6,
+  "DisappearAfter": 0.6,
+  "DisappearDuration": 1,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "8e853fafc1b2f4e449b5a71fdcb6ce1f",
+    "type": 3
+  }
+}

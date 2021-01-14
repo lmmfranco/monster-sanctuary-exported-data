@@ -1,0 +1,12 @@
+{
+  "guid": "b04e8cf0021572c4bbd9a7f0df14ae28",
+  "filename": "WarmUnderwear",
+  "ID": 772,
+  "Name": "Warm Underwear",
+  "Price": 0,
+  "Icon": "icon_warm_underwear",
+  "ItemID": 1,
+  "DisplayInInventory": 1,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "Allows you to swim in cold water"
+}

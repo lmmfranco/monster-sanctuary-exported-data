@@ -1,0 +1,39 @@
+{
+  "guid": "1cf732042b366f54ea249e4c591b494a",
+  "filename": "VitalRing",
+  "ID": 33,
+  "Name": "Vital ring",
+  "Price": 150,
+  "Type": 4,
+  "Icon": "icon_ring",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 160,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1322036509161923,
+    "guid": "600857ae60b2776488ff9e798f2fa882",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1427932154024413,
+        "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

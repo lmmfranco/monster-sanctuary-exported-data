@@ -1,0 +1,14 @@
+{
+  "guid": "70ed061ecba09af4283e724d2ce335b9",
+  "filename": "ImprovedManaRegen",
+  "ID": 239,
+  "Name": "Improved Mana Regeneration",
+  "Icon": "icon_improved_mana_regen",
+  "Description": "+{0%} Mana Regeneration ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 7,
+  "Value": 0.2,
+  "IsPercent": 1,
+  "IsNegative": 0
+}

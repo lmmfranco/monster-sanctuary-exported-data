@@ -1,0 +1,11 @@
+{
+  "guid": "80a7c74e4fff6be47804c51852399d07",
+  "filename": "Sprawl",
+  "ID": 1772,
+  "Name": "Sprawl",
+  "Icon": "icon_sprawl",
+  "Description": "Each {Nature} Monster in the party gains a random Buff after each action. Non-damaging actions also apply a random debuff on an enemy.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestriction": 4
+}

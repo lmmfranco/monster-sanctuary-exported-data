@@ -1,0 +1,12 @@
+{
+  "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+  "filename": "CritChanceFocus",
+  "ID": 833,
+  "Name": "Crit Chance Focus",
+  "Icon": "icon_crit_chance_focus",
+  "Description": "Critical Chance values from equipment increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 5,
+  "Bonus": 0.25
+}

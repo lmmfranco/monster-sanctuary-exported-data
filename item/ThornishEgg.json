@@ -1,0 +1,12 @@
+{
+  "guid": "3357e6bfe89a28144bfdeeead1bbc971",
+  "filename": "ThornishEgg",
+  "ID": 976,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1492539890730068,
+    "guid": "f7b813f9e92c96d4ba6b8b6c0bbb0067",
+    "type": 2
+  }
+}

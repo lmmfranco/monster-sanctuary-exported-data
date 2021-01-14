@@ -1,0 +1,21 @@
+{
+  "guid": "c409dea9c2bf9e1489c4a7c13a6f6973",
+  "filename": "LightAbility",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Light",
+  "Description": "- Lights up dark rooms",
+  "TotalRadius": 17,
+  "FalloffRadius": 2,
+  "Color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "ApplyForEnemies": 1,
+  "OnlyApplyOnDarkAreas": 0
+}

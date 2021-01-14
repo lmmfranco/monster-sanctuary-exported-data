@@ -1,0 +1,112 @@
+{
+  "guid": "297bd04f5ff6fc74fafde5fb2d7180e2",
+  "filename": "Carnage",
+  "ID": 1714,
+  "Name": "Carnage",
+  "Icon": "icon_carnage",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 220,
+  "TargetType": 1,
+  "Duration": 2.6,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.65,
+  "TotalDamage": 3.3,
+  "CalculatedDamage": 1.654032,
+  "CalculatedTotalDamage": 3.308063,
+  "HitTimings": [
+    0.2,
+    0.6
+  ],
+  "Element": 0,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.6,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "HealAmount": 400,
+  "ScaleMagic": 0,
+  "ScaleHealth": 0,
+  "ScaleAttack": 1.25,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    2
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "AnimElement": {
+    "fileID": 1890770186025792,
+    "guid": "86d700d62672d2b458df8ef10116c24b",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0.6,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1890770186025792,
+    "guid": "86d700d62672d2b458df8ef10116c24b",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0.3,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 1,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0.6,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0
+}

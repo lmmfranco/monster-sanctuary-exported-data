@@ -1,0 +1,35 @@
+{
+  "guid": "0b44641e9c1693c489607cfc8dc0dc3a",
+  "filename": "MajesticCrown",
+  "ID": 1711,
+  "Name": "Majestic Crown",
+  "Price": 1000,
+  "Icon": "icon_majestic_crown",
+  "BaseMonster": {
+    "fileID": 1859148711493143,
+    "guid": "b127b30d1125f6644b843e26a0dbc3bc",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [
+    {
+      "fileID": 1562664637414168,
+      "guid": "be2e48e106638a74b9338a93a391dab3",
+      "type": 2
+    },
+    {
+      "fileID": 1420310900974842,
+      "guid": "8ead3839645467545bdcde5aa35680ee",
+      "type": 2
+    },
+    {
+      "fileID": 1747808599398501,
+      "guid": "14abf61507a39ce49b0f650f8ac81c65",
+      "type": 2
+    }
+  ],
+  "EvolveMonster": {
+    "fileID": 1461723772907758,
+    "guid": "d3d22a4ca85bf0444828ee09b0733079",
+    "type": 2
+  }
+}

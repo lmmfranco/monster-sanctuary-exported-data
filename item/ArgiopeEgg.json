@@ -1,0 +1,12 @@
+{
+  "guid": "6a77dc3d20fbc064abe5494f8b7c60fe",
+  "filename": "ArgiopeEgg",
+  "ID": 1322,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1205477721472439,
+    "guid": "684771c4629663149824bc9c401867c4",
+    "type": 2
+  }
+}

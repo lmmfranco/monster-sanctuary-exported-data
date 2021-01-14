@@ -1,0 +1,36 @@
+{
+  "guid": "3495a2a85249614458b357155fcb6b08",
+  "filename": "AgilitySidekick3",
+  "ID": 759,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114781017104243120,
+    "guid": "3e63903b7a485754a9f13e11c947b26c",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 26388279853056,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

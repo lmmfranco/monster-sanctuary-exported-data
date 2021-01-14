@@ -1,0 +1,13 @@
+{
+  "guid": "0a1d43e8d3122c44cafcc03a6ac15d83",
+  "filename": "Berserk",
+  "ID": 846,
+  "Name": "Berserk",
+  "Icon": "icon_berserk",
+  "Description": "If a single hit deals more than {0%} of the enemy's Max HP ({1%} against Champions), gain {2} Charge stacks.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageTreshold": 0.25,
+  "ChampionTreshold": 0.1,
+  "ChargeStacks": 8
+}

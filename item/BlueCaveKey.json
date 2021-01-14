@@ -1,0 +1,12 @@
+{
+  "guid": "bd29b4be0a5ae67468f1ed116c0fb7e1",
+  "filename": "BlueCaveKey",
+  "ID": 66,
+  "Name": "Blue Cave key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1120425442816209,
+    "guid": "b2583aa3d262e6b48baf44d6e20b7c82",
+    "type": 2
+  }
+}

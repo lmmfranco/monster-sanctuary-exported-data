@@ -1,0 +1,9 @@
+{
+  "guid": "d3eff52e41de09d4dbcaae1d4eea006d",
+  "filename": "SkillPotion",
+  "ID": 285,
+  "Name": "Skill Potion",
+  "Price": 1000,
+  "Icon": "icon_skill_potion",
+  "Description": "Grants a skill point. Can only be consumed once per monster"
+}

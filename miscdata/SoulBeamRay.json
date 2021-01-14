@@ -1,0 +1,22 @@
+{
+  "guid": "c9363dd704b160d489730d84a8162728",
+  "filename": "SoulBeamRay",
+  "LightningParts": [
+    "GreenBeam1",
+    "GreenBeam2",
+    "GreenBeam3"
+  ],
+  "SpriteCollection": {
+    "fileID": 114949216640010560,
+    "guid": "9d982af049900a14099edc1eaf70ec9c",
+    "type": 2
+  },
+  "FadeInTime": 0.1,
+  "FadeOutTime": 0.3,
+  "StayTime": 0,
+  "LengthRange": {
+    "Min": 15,
+    "Max": 25
+  },
+  "RandomRange": 8
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "c2a4d2fb3fb7cf840b1795e7336c6b97",
+  "filename": "Empower",
+  "ID": 157,
+  "Name": "Empower",
+  "Icon": "icon_empower",
+  "Description": "All Monsters in the party deal {0%} more damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "EmpowerValue": 0.05,
+  "MonsterType": 0
+}

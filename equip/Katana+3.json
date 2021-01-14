@@ -1,0 +1,55 @@
+{
+  "guid": "e967bf40d7a1cf24d841fa1b980ad67f",
+  "filename": "Katana+3",
+  "ID": 792,
+  "Name": "Katana",
+  "Price": 4000,
+  "Type": 0,
+  "Icon": "icon_katana",
+  "Attack": 95,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.12,
+  "CritDamage": 0.18,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1380137882438623,
+    "guid": "f165fce619423134c87a19688cd2ef9e",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1430211027732074,
+        "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

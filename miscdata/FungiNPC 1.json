@@ -1,0 +1,39 @@
+{
+  "guid": "412971214ce31fd4c8a9051cbcd93043",
+  "filename": "FungiNPC 1",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 2
+  },
+  "Name": "Fungi",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1330416415988730,
+    "guid": "f74f6f5cf8ed1b74baf13e4c9701921a",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1330416415988730,
+    "guid": "f74f6f5cf8ed1b74baf13e4c9701921a",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 0,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

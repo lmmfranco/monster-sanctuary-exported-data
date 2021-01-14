@@ -1,0 +1,11 @@
+{
+  "guid": "152c0ccea3345f34a81f9550e91dfe99",
+  "filename": "BuffingShield",
+  "ID": 128,
+  "Name": "Buffing Shield",
+  "Icon": "icon_buffing_shield",
+  "Description": "When applying a Buff, also apply a Shield equal to {0%} of this Monster's Defense. ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ShieldAmount": 0.3
+}

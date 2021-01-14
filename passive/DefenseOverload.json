@@ -1,0 +1,14 @@
+{
+  "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+  "filename": "DefenseOverload",
+  "ID": 1099,
+  "Name": "Defense Overload",
+  "Icon": "icon_defense_overload",
+  "Description": "Increase Attack and Magic by {0%} of this Monster's Defense.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DependantStat": 2,
+  "IncreasedStat": 8,
+  "Value": 0.15,
+  "Pass": 1
+}

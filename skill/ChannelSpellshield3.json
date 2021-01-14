@@ -1,0 +1,36 @@
+{
+  "guid": "519907da81b3bb74e8bdde3b0fb93c79",
+  "filename": "ChannelSpellshield3",
+  "ID": 695,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114858563122777180,
+    "guid": "942b0db62548b5a46b03954cfeb2c0ac",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 17592187879424,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

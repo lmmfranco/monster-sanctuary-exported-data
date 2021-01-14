@@ -1,0 +1,12 @@
+{
+  "guid": "01c7654c7269682438cbb96264168d63",
+  "filename": "MultiBarrier",
+  "ID": 473,
+  "Name": "Multi Barrier",
+  "Icon": "icon_multi_barrier",
+  "Description": "{Barrier} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 8
+}

@@ -1,0 +1,514 @@
+{
+  "guid": "37535f87cbe7adb47b6ceb4021ca2ec5",
+  "filename": "DruidOak",
+  "ID": 455,
+  "Name": "Druid Oak",
+  "baseStats": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 2,
+    "health": 8,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 6,
+    "magic": 6,
+    "defense": 0,
+    "health": 0,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 1,
+    "health": 4,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -6
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1259841684164799,
+      "guid": "03d0a51216bc2564c99c83dee96e82da",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1088420381907518,
+      "guid": "9467c12ac81aeff458a9f21483003805",
+      "type": 2
+    },
+    {
+      "fileID": 1135554091510877,
+      "guid": "1ae320e059852c24d98d4d61eaae9593",
+      "type": 2
+    }
+  ],
+  "StartLevel": 14,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1329267417568259,
+    "guid": "128494cf299f630408d1d76a16f173f6",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "040000000500000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    },
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1827461126557142,
+      "guid": "fb88c4495c43a75448413f2f3dc8721a",
+      "type": 2
+    },
+    {
+      "fileID": 1547447274293046,
+      "guid": "6a65b0ba49b5d7e4f9c5cc2be0efe9c9",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1799687610173434,
+      "guid": "f02dbe203ba7e694bac32785e52f4fc4",
+      "type": 2
+    },
+    {
+      "fileID": 1514378384392512,
+      "guid": "9641a415ffaf5c149a9ad526ebcf88df",
+      "type": 2
+    },
+    {
+      "fileID": 1656217717111730,
+      "guid": "90f1953fc9348bd4e9274f0cadc16fe5",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1707284892461584,
+      "guid": "c2c84c7a9b88dfe48848a50ab9334611",
+      "type": 2
+    },
+    {
+      "fileID": 1547447274293046,
+      "guid": "6a65b0ba49b5d7e4f9c5cc2be0efe9c9",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1335250518357692,
+      "guid": "a18678d5b2e932443b03f302998a5d8c",
+      "type": 2
+    },
+    {
+      "fileID": 1827461126557142,
+      "guid": "fb88c4495c43a75448413f2f3dc8721a",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1730059661543035,
+      "guid": "d874756984dd94c49b1d3d0299c3a67b",
+      "type": 2
+    },
+    {
+      "fileID": 1294378883854887,
+      "guid": "26908660096eda84f88e9f6b3c853e69",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1860447682648962,
+      "guid": "947e65e777bc95c4baa476ef163fec94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1884870905278009,
+      "guid": "821306266359cb64383f137206811568",
+      "type": 2
+    },
+    {
+      "fileID": 1685634449377827,
+      "guid": "6978de66086230f41897710c14b4a3ba",
+      "type": 2
+    },
+    {
+      "fileID": 1863986149130069,
+      "guid": "d30f6fc96318a5341b4fd7a707fcee77",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1369336062061498,
+      "guid": "71a2338bfbda5874590399a4cc57a6bc",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1651821398517240,
+      "guid": "c6367ea1aeabb994fb6cf7b228cd7917",
+      "type": 2
+    },
+    {
+      "fileID": 1109485832159856,
+      "guid": "92691af62cb62b04e89e42307bfccb06",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    },
+    {
+      "fileID": 1339082555015985,
+      "guid": "caea68f583b468e45ab62a2b30109f44",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1711615903268756,
+      "guid": "0bcc1dbf96b83c74eb59b3ae62ea736b",
+      "type": 2
+    },
+    {
+      "fileID": 1419201777112848,
+      "guid": "832bb55f10ff37a49b5b19cd5280642a",
+      "type": 2
+    },
+    {
+      "fileID": 1277740172922163,
+      "guid": "ce1126defc1f9b948a4396d340da36b5",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    },
+    {
+      "fileID": 1768581522094560,
+      "guid": "323d37c5270f60247b743666dbd003e9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1046720121458202,
+      "guid": "ad049961afb584045bab9640bb00ee5f",
+      "type": 2
+    },
+    {
+      "fileID": 1859707025539207,
+      "guid": "707e80426d182aa4ba73e448d1beff76",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1257024486048629,
+      "guid": "7def2797b72f2a243b48ee20ceb3b810",
+      "type": 2
+    },
+    {
+      "fileID": 1886700814108238,
+      "guid": "76646dc25d8750d4780a56bbb19be834",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1136285923989078,
+      "guid": "2752c32a30e631b44838b03c7b63afce",
+      "type": 2
+    },
+    {
+      "fileID": 1867734379618117,
+      "guid": "7244c5a3fc76a05449e6d5b270f3c10b",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1772218334561172,
+      "guid": "3f03247ddb605054392ff7ec7b6a4214",
+      "type": 2
+    },
+    {
+      "fileID": 1557801845139300,
+      "guid": "ea653525c295edf40849a0127ac8befb",
+      "type": 2
+    },
+    {
+      "fileID": 1349092676614706,
+      "guid": "82c764a2e65205140a22ab26c5bccd93",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1814249351645721,
+      "guid": "4866392d1f593e84b84b3cb48e1f6a14",
+      "type": 2
+    },
+    {
+      "fileID": 1638697548567420,
+      "guid": "a98d6cd72f493774cba7fe71a22083f8",
+      "type": 2
+    },
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1347586085850286,
+      "guid": "4521e04c5b22b6340830baae41327840",
+      "type": 2
+    },
+    {
+      "fileID": 1825927690767900,
+      "guid": "e59a41779be6a1242832f8ce44dffb8f",
+      "type": 2
+    },
+    {
+      "fileID": 1928671066116108,
+      "guid": "9a07f6101d02ffa4cb5dfbbe30dd0672",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1868990838550000,
+      "guid": "ef3628c9f91cbcd4e9c9649b6ed29148",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1640627791648003,
+      "guid": "772d9973f770284428401ab796bef85f",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1348044412847156,
+      "guid": "2f3d0c02d24542646957b3d0157c2c76",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1734804120631767,
+      "guid": "2199b879f1500cf4b9c328d054f61958",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Bio": "Druid Oaks might be one of the toughest, most resilient and long-lived Monsters of the Sanctuary. It is near impossible to pierce a Druid Oak's body. And while they are sensitive to fire, they can never be burned entirely - they always regenerate from any damage they sustain.",
+  "History": "Druid Oaks were created by an ancient magic that was practiced by the legendary druids of old. Some accounts call it a twisted, dark spell that created the Druid Oaks, but the Keepers don't abide by such superstition. As we know, aged druids often chose to let their soul return to nature, and the Druid Oaks represent a way to do so. Usually, a druid began the process during the last years of their life. They would take a chunk of a broken tree's dead wood and carve a face into it and add thick branches as limbs. Then, when the druid felt ready for it, they would transfer their soul into the piece of wood, creating a Druid Oak. The druid dies so that new life might flourish, and it is said that part of the druid's personality lives on in the Druid Oak they created.",
+  "StatOrientation": 3
+}

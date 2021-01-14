@@ -1,0 +1,28 @@
+{
+  "guid": "0c3e50ad4da95ac4b9c734626711e22f",
+  "filename": "FrozenTear+5",
+  "ID": 1496,
+  "Name": "Frozen Tear",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_frozen_tear",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0.15,
+  "Health": 600,
+  "Mana": 60,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

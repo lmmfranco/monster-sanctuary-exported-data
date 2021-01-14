@@ -1,0 +1,12 @@
+{
+  "guid": "1fc7b8394f20353488f4f49e0f4e70a8",
+  "filename": "ImoriEgg",
+  "ID": 891,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1494998382436511,
+    "guid": "1108173474fa00746917271355125951",
+    "type": 2
+  }
+}

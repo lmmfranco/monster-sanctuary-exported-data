@@ -1,0 +1,11 @@
+{
+  "guid": "0b68a0c0a38aef84eab573237c0adb85",
+  "filename": "MartialProwess",
+  "ID": 931,
+  "Name": "Martial Prowess",
+  "Icon": "icon_martial_prowess",
+  "Description": "Whenever a Monster in the party dodges a hit, {0%} chance that they gain a random Buff.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "chance": 0.75
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "43d8ff7c3d932dd4fae2c0962dcd7229",
+  "filename": "IgnitingGas",
+  "ID": 1621,
+  "Name": "Igniting Gas",
+  "Icon": "icon_igniting_gas",
+  "Description": "When an enemy takes {Poison} (Debuff) damage, {0%} chance to apply {Burn}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DebuffTrigger": 2,
+  "Chance": 0.4,
+  "AppliedDebuff": 4
+}

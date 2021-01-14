@@ -1,0 +1,12 @@
+{
+  "guid": "772388937c642eb47b0394e0c12b1f5d",
+  "filename": "MountainPathKey",
+  "ID": 277,
+  "Name": "Mountain Path key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1019571368892114,
+    "guid": "2f4cfe67f607ace4098689baa7f58cbd",
+    "type": 2
+  }
+}

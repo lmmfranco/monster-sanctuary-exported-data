@@ -1,0 +1,198 @@
+{
+  "guid": "04248da22bafbac4ca53ac79b7f3e4ed",
+  "filename": "MonsterTeamMenuItem",
+  "text": {
+    "fileID": 114917826155161070
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114626214713526720
+  },
+  "infoText": {
+    "fileID": 0
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 0
+  },
+  "DisplayWhenEmpty": 0,
+  "UpdateColors": 0,
+  "ExpandBackgroundDimension": 0,
+  "ExpandedItemSize": {
+    "x": 222,
+    "true": 14
+  },
+  "ShrinkedItemSize": {
+    "x": 222,
+    "true": 14
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 0
+  },
+  "AdditionalElements": [],
+  "IconGO": {
+    "fileID": 0
+  },
+  "OverwriteTargetColor": 0,
+  "TargetColor": {
+    "r": 0.0627451,
+    "g": 0.0627451,
+    "b": 0.0627451,
+    "a": 0.7529412
+  },
+  "Name": {
+    "fileID": 114917826155161070
+  },
+  "Portraits": [
+    {
+      "fileID": 114598572976268720
+    },
+    {
+      "fileID": 114375904457347200
+    },
+    {
+      "fileID": 114920099316173710
+    },
+    {
+      "fileID": 114870536100246750
+    },
+    {
+      "fileID": 114246970216233540
+    },
+    {
+      "fileID": 114588258874753360
+    }
+  ],
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Name",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 3,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 32,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "sprite": {
+    "fileID": 114528245988379070
+  },
+  "animator": {
+    "fileID": 114632703441268820
+  },
+  "background__1": {
+    "fileID": 0
+  },
+  "sprite__1": {
+    "fileID": 114553661459157200
+  },
+  "animator__1": {
+    "fileID": 114311939651896830
+  },
+  "background__2": {
+    "fileID": 0
+  },
+  "sprite__2": {
+    "fileID": 114809559775166580
+  },
+  "animator__2": {
+    "fileID": 114956465213050300
+  },
+  "background__3": {
+    "fileID": 0
+  },
+  "sprite__3": {
+    "fileID": 114090378016119070
+  },
+  "animator__3": {
+    "fileID": 114209494013385090
+  },
+  "background__4": {
+    "fileID": 0
+  },
+  "sprite__4": {
+    "fileID": 114312347456403620
+  },
+  "animator__4": {
+    "fileID": 114306026118224860
+  },
+  "background__5": {
+    "fileID": 0
+  },
+  "sprite__5": {
+    "fileID": 114812154555937460
+  },
+  "animator__5": {
+    "fileID": 114183162263800930
+  },
+  "background__6": {
+    "fileID": 0
+  }
+}

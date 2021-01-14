@@ -1,0 +1,12 @@
+{
+  "guid": "47e9be12d68e8834eb41eef35979c8b0",
+  "filename": "NeutralResistance",
+  "ID": 1003,
+  "Name": "Neutral Resistance",
+  "Icon": "icon_neutral_resistance",
+  "Description": "Neutral damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 0,
+  "Modifier": -0.5
+}

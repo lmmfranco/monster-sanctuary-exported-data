@@ -1,0 +1,10 @@
+{
+  "guid": "e36c9ef9f4e8e0f4bace5ad6dfa36544",
+  "filename": "Congeal",
+  "ID": 893,
+  "Name": "Congeal",
+  "Icon": "icon_congeal",
+  "Description": "{Chill} (Debuff) deals damage to enemies at the start of their turn based on their missing Mana.",
+  "IsAura": 1,
+  "IsUnique": 1
+}

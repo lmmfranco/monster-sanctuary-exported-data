@@ -1,0 +1,39 @@
+{
+  "guid": "3aad39ecf9a3b3b4fad1531bb1f136d4",
+  "filename": "OmniRing+3",
+  "ID": 1155,
+  "Name": "Omni Ring",
+  "Price": 3500,
+  "Type": 4,
+  "Icon": "icon_omni_ring",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.04,
+  "CritDamage": 0.08,
+  "Health": 200,
+  "Mana": 34,
+  "ManaRegeneration": 11,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1023914692960219,
+    "guid": "e38a11f969e026e4a85b8582b4e72e25",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

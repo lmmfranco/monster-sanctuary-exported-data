@@ -1,0 +1,12 @@
+{
+  "guid": "3cbf449cea180e547b23693118dfe094",
+  "filename": "AazerachEgg",
+  "ID": 1705,
+  "Name": null,
+  "Price": 2000,
+  "Monster": {
+    "fileID": 1164851568534283,
+    "guid": "7ce809bc7e7ac9d4485f0eda98eb7352",
+    "type": 2
+  }
+}

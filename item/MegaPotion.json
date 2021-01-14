@@ -1,0 +1,15 @@
+{
+  "guid": "d5f9b08da4c37f9408c23d4538d70dc2",
+  "filename": "MegaPotion",
+  "ID": 1665,
+  "Name": "Mega Potion",
+  "Price": 1000,
+  "EffectAction": {
+    "fileID": 1208750592223543,
+    "guid": "b8ca574779ff5034190ec7e0db08d0de",
+    "type": 2
+  },
+  "Icon": "icon_mass_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

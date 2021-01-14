@@ -1,0 +1,620 @@
+{
+  "guid": "7ce809bc7e7ac9d4485f0eda98eb7352",
+  "filename": "Aazerach",
+  "ID": 1706,
+  "Name": "Aazerach",
+  "baseStats": {
+    "attack": 1,
+    "magic": 8,
+    "defense": 2,
+    "health": 5,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 0,
+    "health": 2,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 1,
+    "health": 0,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 6,
+    "true": -10
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 8,
+  "RewardsCommon": [
+    {
+      "fileID": 1402140077838650,
+      "guid": "30100117dd43b0a43918a3037cf838b7",
+      "type": 2
+    },
+    {
+      "fileID": 1510153061555548,
+      "guid": "d3eff52e41de09d4dbcaae1d4eea006d",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1736132514891353,
+      "guid": "5e6eced6d4bb4b64087bd67929ff7764",
+      "type": 2
+    },
+    {
+      "fileID": 1864601804996684,
+      "guid": "73c130b78367e784eae23d1428d8d51b",
+      "type": 2
+    },
+    {
+      "fileID": 1813407671575928,
+      "guid": "3cbf449cea180e547b23693118dfe094",
+      "type": 2
+    }
+  ],
+  "StartLevel": 35,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1843074765412436,
+    "guid": "3545622b4f366f24cab2fc3c7c577fa4",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -14,
+    "true": -14,
+    "z": 0
+  },
+  "MonsterTypes": "050000000900000006000000",
+  "NormalParticles": [
+    {
+      "fileID": 198974087005188580
+    },
+    {
+      "fileID": 198501288956003260
+    },
+    {
+      "fileID": 198095752573060380
+    },
+    {
+      "fileID": 198266673263890780
+    }
+  ],
+  "LightParticles": [
+    {
+      "fileID": 198649202714719520
+    },
+    {
+      "fileID": 198766207138574140
+    },
+    {
+      "fileID": 198439886110824500
+    },
+    {
+      "fileID": 198244785543003170
+    }
+  ],
+  "DarkParticles": [
+    {
+      "fileID": 198916477913574600
+    },
+    {
+      "fileID": 198898709605319100
+    },
+    {
+      "fileID": 198175060852028000
+    },
+    {
+      "fileID": 198425440116246620
+    }
+  ],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1303240407121713,
+      "guid": "470e5efd8ffd7464494cbd4425f92b51",
+      "type": 2
+    },
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1966187809661785,
+      "guid": "d9fef001f9c4a0f44b06135a6c57cd02",
+      "type": 2
+    },
+    {
+      "fileID": 1138183496759795,
+      "guid": "9d1b3188cce25dc44a8cc952f92d455e",
+      "type": 2
+    },
+    {
+      "fileID": 1273173117743601,
+      "guid": "3ba485d23a2adce469b5e37e3ff6452f",
+      "type": 2
+    },
+    {
+      "fileID": 1864910825272742,
+      "guid": "0b68a0c0a38aef84eab573237c0adb85",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1640804108892319,
+      "guid": "ec3bb2bcd069ea84b94aa6839e3ae199",
+      "type": 2
+    },
+    {
+      "fileID": 1018485883065683,
+      "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [
+    {
+      "fileID": 1846573965790907,
+      "guid": "16fc085a451288a41bce320c5a360d50",
+      "type": 2
+    },
+    {
+      "fileID": 1013254702296858,
+      "guid": "ca1747e282f64514584819a32568aa32",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1698295117305144,
+      "guid": "829afbfa07bac7a44b2a25b0483ca597",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1314727600852395,
+      "guid": "152d21c1dd38fc44a85d26a7892b069c",
+      "type": 2
+    },
+    {
+      "fileID": 1013593639260334,
+      "guid": "f097af42606e28c40a186a9eceef1efc",
+      "type": 2
+    },
+    {
+      "fileID": 1445202511527547,
+      "guid": "e5cc05fcda9d35d4bba1f59ed1bdeb26",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1086804084829352,
+    "guid": "bdeedc84e59c0744496a44348cf49ae1",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [],
+  "Tier2Skills": [
+    {
+      "fileID": 1303240407121713,
+      "guid": "470e5efd8ffd7464494cbd4425f92b51",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1304510296261288,
+      "guid": "5c73ac7d47e87d843a7d3a513e0484bd",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1671836386122048,
+      "guid": "dcbb0ede6c0228945b5b955e691ff5a0",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1644946845273972,
+      "guid": "669ad5f402af5a54e9dbe42c42ba288a",
+      "type": 2
+    },
+    {
+      "fileID": 1966187809661785,
+      "guid": "d9fef001f9c4a0f44b06135a6c57cd02",
+      "type": 2
+    },
+    {
+      "fileID": 1873218084487076,
+      "guid": "34480cb68181c3340b5e92e3117298f6",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1621195628889368,
+      "guid": "623a8e8c2eefb174e922f5441883e9cc",
+      "type": 2
+    },
+    {
+      "fileID": 1506244020125937,
+      "guid": "23170a7204483d74585ed21a33a167d7",
+      "type": 2
+    },
+    {
+      "fileID": 1013254702296858,
+      "guid": "ca1747e282f64514584819a32568aa32",
+      "type": 2
+    },
+    {
+      "fileID": 1273173117743601,
+      "guid": "3ba485d23a2adce469b5e37e3ff6452f",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1917052883789989,
+      "guid": "4c5f4c954d29c3e4399d61c078320f9d",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1138183496759795,
+      "guid": "9d1b3188cce25dc44a8cc952f92d455e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1476974744721574,
+      "guid": "3d22872bb97e65d489222bc163abeb49",
+      "type": 2
+    },
+    {
+      "fileID": 1018485883065683,
+      "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+      "type": 2
+    },
+    {
+      "fileID": 1864910825272742,
+      "guid": "0b68a0c0a38aef84eab573237c0adb85",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1123197375305887,
+      "guid": "761c3b65393defa49aca3241fc2b2055",
+      "type": 2
+    },
+    {
+      "fileID": 1424160382439838,
+      "guid": "5db12690c328ec74ca1226c6e991e542",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1146315800798299,
+      "guid": "4f40de5a32a1f494d8ed91801291d0c9",
+      "type": 2
+    },
+    {
+      "fileID": 1768875704581525,
+      "guid": "30e6644eb180bd944be59002a29860de",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1287964077566189,
+      "guid": "b33da4a3780d1fc4e81f72c7b809fc7e",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1036017481979631,
+      "guid": "21ea0087ef3af1c45923679df5462796",
+      "type": 2
+    },
+    {
+      "fileID": 1202578188081413,
+      "guid": "7b4d3121e4939e74d9b9d5709e2c84f2",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1886700814108238,
+      "guid": "76646dc25d8750d4780a56bbb19be834",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1744983990326740,
+      "guid": "abc6bbd41a89d7b40afedf786785c2ae",
+      "type": 2
+    },
+    {
+      "fileID": 1676659560786677,
+      "guid": "cb1a3ef23b74634438a58b1f776ad952",
+      "type": 2
+    },
+    {
+      "fileID": 1373307052695354,
+      "guid": "7dfeb125948fe6a4a90d13697fc1acef",
+      "type": 2
+    },
+    {
+      "fileID": 1087513755488245,
+      "guid": "acbb3a3386055e24bb8eb73accf0a20b",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1461969233366980,
+      "guid": "6682739764b29ce4e86ba287cafe2eb1",
+      "type": 2
+    },
+    {
+      "fileID": 1052215531421750,
+      "guid": "4884d77937dd70b43ac892e4d12f6c79",
+      "type": 2
+    },
+    {
+      "fileID": 1398017782350498,
+      "guid": "3e4f83abbfe3427408c7e0c24bf3ed1e",
+      "type": 2
+    },
+    {
+      "fileID": 1626169879050506,
+      "guid": "1019eb0b94d17024c97fa76c2c61c7dc",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1640804108892319,
+      "guid": "ec3bb2bcd069ea84b94aa6839e3ae199",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1541457462591178,
+      "guid": "74d368308488f854f8340c220f1f3bc7",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1315206410215935,
+      "guid": "e7f18704b6e762d4d9632820c1ed8fa1",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1847891192154843,
+      "guid": "6100c6c9d3269e044aeed028aa8ba091",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1788857082445111,
+      "guid": "aef84d3e80034134f94f7c219ab425d2",
+      "type": 2
+    },
+    {
+      "fileID": 1300698189800767,
+      "guid": "748a549e8e496144b93e2c7e5a3926b3",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1591708911598351,
+      "guid": "105873c604d843b4b85423ae1e7dc759",
+      "type": 2
+    },
+    {
+      "fileID": 1302621861726127,
+      "guid": "a8f826a2de3a0d34f98113f225fd81b7",
+      "type": 2
+    },
+    {
+      "fileID": 1698295117305144,
+      "guid": "829afbfa07bac7a44b2a25b0483ca597",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Bio": "Aazerachs are demonic beings of pure magic that come from another world. Since they are able to freely cross the barrier between their world and ours, an occult summoning circle is necessary to trap them. Although Aazerachs seem to have eyes on their heads, they are actually blind. They detect living beings through some unknown supernatural sense.",
+  "History": "According to the Blind Starseer's own writing, she was visited by an Aazerach when she was very young. The demon took her eyesight, but granted her the same supernatural sense that Aazerachs possess. Over time, it allowed her to gain the demonic knowledge that led to the creation of the Ahrimaaya, the tome of demons. According to her later writings, she spent many years trying to escape other Aazerachs that were hunting her. Supposedly, Aazerachs watch over our world and step in whenever humans come too close to finding out about the worlds around us.",
+  "StatOrientation": 3
+}

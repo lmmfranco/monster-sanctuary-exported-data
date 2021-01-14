@@ -1,0 +1,80 @@
+{
+  "guid": "6838e110206a0d34d9f476287c137b70",
+  "filename": "LevelBadgeAnim",
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114467711090922690,
+      "guid": "acf79975dce340444a671e07da8c5774",
+      "type": 2
+    },
+    "text": "+1 Level Badge 40",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 32,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 115,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "Delay": 0.2,
+  "Color": {
+    "r": 0.1254902,
+    "g": 0.5019608,
+    "b": 0.4399022,
+    "a": 1
+  },
+  "MaxWidth": 115
+}

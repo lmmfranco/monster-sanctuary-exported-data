@@ -1,0 +1,11 @@
+{
+  "guid": "c4436d5c6b2fca04380b89b396b00929",
+  "filename": "HeroicAssault",
+  "ID": 937,
+  "Name": "Heroic Assault",
+  "Icon": "icon_dark_passive",
+  "Description": "Every Monster in the party gains {0%} Critical Chance for each Buff on it.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "CritChanceBonus": 0.01
+}

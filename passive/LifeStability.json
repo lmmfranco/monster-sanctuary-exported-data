@@ -1,0 +1,14 @@
+{
+  "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+  "filename": "LifeStability",
+  "ID": 185,
+  "Name": "Life Stability",
+  "Icon": "icon_life_stability",
+  "Description": "Increase Defense by {0%} of this Monster's Max Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DependantStat": 3,
+  "IncreasedStat": 2,
+  "Value": 0.015,
+  "Pass": 0
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "bdb21e0de63e62c4d8be2befd05c75dd",
+  "filename": "BurningFaith",
+  "ID": 230,
+  "Name": "Burning Desire",
+  "Icon": "icon_burning_faith",
+  "Description": "Apply Shield to the party when an enemy receives {Burn} (Debuff) damage equal to {0%} of each Monster's Max Health.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Shield": 0.04
+}

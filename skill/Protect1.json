@@ -1,0 +1,68 @@
+{
+  "guid": "88761dcb6e7948e40b54a0508580977b",
+  "filename": "Protect1",
+  "ID": 426,
+  "Name": "Protect",
+  "Icon": "icon_protect",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 60,
+  "TargetType": 3,
+  "Duration": 2.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 80,
+  "ScaleDefense": 0.25,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1.1,
+    1.4,
+    1.7
+  ],
+  "ShieldCaster": 1,
+  "AnimElement": {
+    "fileID": 1989056647552363,
+    "guid": "6734dce9b0c5e8b42864c282c2be9372",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1837960200758858,
+    "guid": "dd432bf1ecd3e384f9a3b7cf90e6b3f1",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  }
+}

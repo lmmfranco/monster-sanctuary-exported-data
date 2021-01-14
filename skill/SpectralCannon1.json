@@ -1,0 +1,67 @@
+{
+  "guid": "26290b236725ac048b97e940b848e648",
+  "filename": "SpectralCannon1",
+  "ID": 838,
+  "Name": "Spectral Cannon",
+  "Icon": "icon_spectral_cannon",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 170,
+  "TargetType": 0,
+  "Duration": 2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "AnimElement": {
+    "fileID": 1373761652351840,
+    "guid": "59bfd4eecfe7d6e478403d7cbf705ea0",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "DamageMultiplicator": 3.75,
+  "TotalDamage": 3.75,
+  "CalculatedDamage": 0,
+  "CalculatedTotalDamage": 0,
+  "HitTimings": [
+    1.4
+  ],
+  "Element": 0,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay__1": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0.5,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0
+}

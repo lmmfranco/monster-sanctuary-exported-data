@@ -1,0 +1,17 @@
+{
+  "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+  "filename": "ComboInitiator",
+  "ID": 824,
+  "Name": "Combo Initiator",
+  "Icon": "icon_combo_initiator",
+  "Description": "If this Monster acts first in the turn, it deals {0%} more damage with its attack and deals an additional {1%} damage hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.25,
+  "AdditionalHitDamage": 0.25,
+  "AnimElement": {
+    "fileID": 1393696802459613,
+    "guid": "856f88f9a32c6a0409b3798a4b1c6013",
+    "type": 2
+  }
+}

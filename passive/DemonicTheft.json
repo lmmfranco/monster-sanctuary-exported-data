@@ -1,0 +1,11 @@
+{
+  "guid": "729b96812061fbf48adb8d40da12649a",
+  "filename": "DemonicTheft",
+  "ID": 1120,
+  "Name": "Demonic Theft",
+  "Icon": "icon_demonic_theft",
+  "Description": "Whenever an {Occult} Monster in your party attacks an enemy, it steals one Buff from the enemy.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestriction": 9
+}

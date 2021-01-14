@@ -1,0 +1,11 @@
+{
+  "guid": "07b6d31289e4f9e409ee1c3a71d5af8e",
+  "filename": "EmergencyChannel",
+  "ID": 1194,
+  "Name": "Emergency Channel",
+  "Icon": "icon_emergency_channel",
+  "Description": "After an Action, if this Monster has less than {0%} of its mana left, gain {Channel} (Buff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Threshold": 0.25
+}

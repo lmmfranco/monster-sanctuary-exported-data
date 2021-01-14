@@ -1,0 +1,531 @@
+{
+  "guid": "8cfdd9d7e719904419c62881e9cd0aba",
+  "filename": "Kongamato",
+  "ID": 966,
+  "Name": "Kongamato",
+  "baseStats": {
+    "attack": 7,
+    "magic": 8,
+    "defense": 2,
+    "health": 5,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 0,
+    "health": 1,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 3,
+    "true": -14
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    },
+    {
+      "fileID": 1513134570362313,
+      "guid": "a756b827242b8c64fb31940f24cbc133",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1430211027732074,
+      "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+      "type": 2
+    },
+    {
+      "fileID": 1687533166792384,
+      "guid": "27737585f3b071b4aa8664e226a422e1",
+      "type": 2
+    },
+    {
+      "fileID": 1039598647823651,
+      "guid": "e2362bdccd3a6274d857ab34c23b62f1",
+      "type": 2
+    }
+  ],
+  "StartLevel": 25,
+  "FlyingOffset": 10,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1686525285499197,
+    "guid": "6db63e60c82a69d4e8fc5190c6690337",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.25
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -10,
+    "true": -16,
+    "z": 0
+  },
+  "MonsterTypes": "02000000060000000c000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    },
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1255965339420086,
+      "guid": "9261ca37b3d30fa44a4fa7efe2f7844b",
+      "type": 2
+    },
+    {
+      "fileID": 1093058909407038,
+      "guid": "19fc4b43fb9f9064cb795ab30b3630e0",
+      "type": 2
+    },
+    {
+      "fileID": 1339082555015985,
+      "guid": "caea68f583b468e45ab62a2b30109f44",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1445202511527547,
+      "guid": "e5cc05fcda9d35d4bba1f59ed1bdeb26",
+      "type": 2
+    },
+    {
+      "fileID": 1375457968774361,
+      "guid": "3c95b828ed2f7874a9ad499aa1a194f7",
+      "type": 2
+    },
+    {
+      "fileID": 1936107618644887,
+      "guid": "bf507168938b9164da9b681b93664e21",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1148441551846880,
+    "guid": "a46cf12e922c36f41a3e528e73eaaa19",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1066478450441581,
+    "guid": "00dc91af69a4d9a4aa901041bf27db39",
+    "type": 2
+  },
+  "Tier1Skills": [],
+  "Tier2Skills": [
+    {
+      "fileID": 1255965339420086,
+      "guid": "9261ca37b3d30fa44a4fa7efe2f7844b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1415877923848818,
+      "guid": "b2eef5f88b28ffb41934add99999d118",
+      "type": 2
+    },
+    {
+      "fileID": 1253406282318494,
+      "guid": "7a203c01ffe91b7419ba910cf9174463",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1932409453178944,
+      "guid": "79c8331ffd2ae4f468ed667b6aba038b",
+      "type": 2
+    },
+    {
+      "fileID": 1093058909407038,
+      "guid": "19fc4b43fb9f9064cb795ab30b3630e0",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1036992131767194,
+      "guid": "f37939b325438bd428451477dc151835",
+      "type": 2
+    },
+    {
+      "fileID": 1242712887221725,
+      "guid": "bc0c25508a6ddc542be03f2700c778cc",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1614195921606139,
+      "guid": "6c39a2afea787744c94482aeba0bee38",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1624721887418744,
+      "guid": "e5aa6fb23c0a0d34eba7a1bff010935b",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1731515195765440,
+      "guid": "9037c2a9d3eb3d74b99f0d7f21103057",
+      "type": 2
+    },
+    {
+      "fileID": 1459349708180249,
+      "guid": "2d6f33c856b90c14f93300006bffcb31",
+      "type": 2
+    },
+    {
+      "fileID": 1339082555015985,
+      "guid": "caea68f583b468e45ab62a2b30109f44",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1974223868971265,
+      "guid": "f482029fdb59d5349b2ad8259a4015df",
+      "type": 2
+    },
+    {
+      "fileID": 1569165889814076,
+      "guid": "669f1437533a1ce4fa79dc4ba40810ed",
+      "type": 2
+    },
+    {
+      "fileID": 1230709447252372,
+      "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1639015182491661,
+      "guid": "71e0b9c539f03ac46bdfda97d6baff81",
+      "type": 2
+    },
+    {
+      "fileID": 1202478521645276,
+      "guid": "a6b5784ba0d0a254981c37382e502f78",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1815603730581760,
+      "guid": "35b389ac66aea06458fa6ba9335e6dc9",
+      "type": 2
+    },
+    {
+      "fileID": 1560167735935722,
+      "guid": "41afd88780d6e7a4d9e52d1de396adb4",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1968964994863623,
+      "guid": "5d9893c8cf62c6f4e8a8a4c2c095b0b4",
+      "type": 2
+    },
+    {
+      "fileID": 1222964124650938,
+      "guid": "e4b043b37589f134783b1b583fa89d58",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1001993485527291,
+      "guid": "547449601fe852d4fa91de66d9ab082b",
+      "type": 2
+    },
+    {
+      "fileID": 1457573937035493,
+      "guid": "2dbcdb966e1c91e4cb942eb4692c1fec",
+      "type": 2
+    },
+    {
+      "fileID": 1334320262222354,
+      "guid": "c2a4d2fb3fb7cf840b1795e7336c6b97",
+      "type": 2
+    },
+    {
+      "fileID": 1421478752196826,
+      "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1954995645601857,
+      "guid": "9b54a867d9c7c7e48a903e56250390ec",
+      "type": 2
+    },
+    {
+      "fileID": 1532911914172557,
+      "guid": "a853fae8670a78a4b97ce7c88e43c907",
+      "type": 2
+    },
+    {
+      "fileID": 1257024486048629,
+      "guid": "7def2797b72f2a243b48ee20ceb3b810",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1865125493606626,
+      "guid": "0045c80e0eb7633408e3918f4c9db1f7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1362757140330309,
+      "guid": "cb1d4475ce15cc94d9f47fa50396635d",
+      "type": 2
+    },
+    {
+      "fileID": 1797691729293347,
+      "guid": "d1d1470853169b24a9d6c1b6f49d51e7",
+      "type": 2
+    },
+    {
+      "fileID": 1811849764862644,
+      "guid": "b71d90419425d1647a845e5ae4be17b4",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1664868254162074,
+      "guid": "4ff9efeaa8dafbb469a580fa67c55eed",
+      "type": 2
+    },
+    {
+      "fileID": 1409197818322483,
+      "guid": "047c93c2a85c2dd46b9d9fe89509b2db",
+      "type": 2
+    },
+    {
+      "fileID": 1633908374626458,
+      "guid": "c14c459f6b9344c41a69ec431cbf372f",
+      "type": 2
+    },
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1930240163745633,
+      "guid": "97529b173bcf87e4bbd093e7f88dabd6",
+      "type": 2
+    },
+    {
+      "fileID": 1820460998543651,
+      "guid": "535cc876b72d6e84b9a4052f7523a721",
+      "type": 2
+    },
+    {
+      "fileID": 1802931113180112,
+      "guid": "4d3eb80016caff64ba8dc6fb673b3a72",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "NoIdleChance": 0.8,
+  "IdleTime": {
+    "Min": 0.5,
+    "Max": 3
+  },
+  "MovingTime": {
+    "Min": 0.5,
+    "Max": 2
+  },
+  "HorizontalMovementSpeed": {
+    "Min": 10,
+    "Max": 70
+  },
+  "VerticalMovementSpeed": {
+    "Min": 0,
+    "Max": 50
+  },
+  "Bio": "The name of this Monster means \"breaker of boats\", which it was given due to its sheer strength. What most don't know, however, is that it is actually capable of crushing an entire boat to splinters through its super sonic scream. Another remarkable quality of them is the fact that - unlike bird chicks which require to be reared and taught carefully - Kongamatos hatch with fully developed wings and are able to take flight in a matter of seconds after hatching. Therefore, they are seen as more solitary and individualistic creatures than birds. ",
+  "History": "As we can tell from numerous fossil finds across the world, this flying reptile has populated our world for millions of years, similar to the Crystal Snail. It is even believed that the Kongamato was one of the first creatures on this world that was capable of powered flight. They are believed to be the ancestors of birds, birdlike Monsters and dragonlike Monsters as well. Somehow, a group of these prehistoric creatures survived to this day on a remote chain of small, mountainous islands. The native people of those islands revere them as godlike beings.",
+  "StatOrientation": 1
+}

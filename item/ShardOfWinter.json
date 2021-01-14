@@ -1,0 +1,19 @@
+{
+  "guid": "ab35bd88f5d6dc845b508078f05cc371",
+  "filename": "ShardOfWinter",
+  "ID": 807,
+  "Name": "Shard of Winter",
+  "Price": 400,
+  "Icon": "icon_shard_of_winter",
+  "BaseMonster": {
+    "fileID": 1176396047564003,
+    "guid": "290585bb34a390c45886465c94599ea3",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1040081731239887,
+    "guid": "cc51078116f108940a7be5f68e5cfe7c",
+    "type": 2
+  }
+}

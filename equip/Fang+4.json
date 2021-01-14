@@ -1,0 +1,55 @@
+{
+  "guid": "77e40b5c74c5b7443b676f433b645c61",
+  "filename": "Fang+4",
+  "ID": 1171,
+  "Name": "Fang",
+  "Price": 1600,
+  "Type": 5,
+  "Icon": "icon_fang",
+  "Attack": 35,
+  "Magic": 35,
+  "Defense": 0,
+  "CritChance": 0.09,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1791943169979944,
+    "guid": "9f2c841ce52408b4c81380e8b383b792",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

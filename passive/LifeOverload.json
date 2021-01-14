@@ -1,0 +1,14 @@
+{
+  "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+  "filename": "LifeOverload",
+  "ID": 315,
+  "Name": "Life Overload",
+  "Icon": "icon_life_overload",
+  "Description": "Increase Attack and Magic by {0%} of this Monster's Max Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DependantStat": 3,
+  "IncreasedStat": 8,
+  "Value": 0.015,
+  "Pass": 0
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "11b6d13d39e62bd45bb8804374137374",
+  "filename": "DeathBlow",
+  "ID": 1619,
+  "Name": "Death Blow",
+  "Icon": "icon_death_blow",
+  "Description": "Deals {0%} increased damage for each Debuff on the target.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.05
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "aae5b9e64de7dab498415bba3af11828",
+  "filename": "LordOfTheDeep",
+  "ID": 1632,
+  "Name": "Lord of the Deep",
+  "Icon": "icon_lord_of_the_deep",
+  "Description": "Critical Hits of {Fish} and {Aquatic} monsters apply {Bleed} stacks equal to {0%} of the damage dealt.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "BleedDamage": 0.15,
+  "TypeRestriction1": 1,
+  "TypeRestriction2": 13
+}

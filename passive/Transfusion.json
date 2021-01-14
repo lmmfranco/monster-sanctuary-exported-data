@@ -1,0 +1,11 @@
+{
+  "guid": "e12bf598b0ace404395ba8c29836b1b3",
+  "filename": "Transfusion",
+  "ID": 652,
+  "Name": "Transfusion",
+  "Icon": "icon_transfusion",
+  "Description": "Recover Health equal to {0%} the amount of Mana regenerated.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealValue": 2
+}

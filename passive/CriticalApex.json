@@ -1,0 +1,11 @@
+{
+  "guid": "75f9926ee027fca42a4a25bd773c1bdd",
+  "filename": "CriticalApex",
+  "ID": 910,
+  "Name": "Critical Apex",
+  "Icon": "icon_dark_passive",
+  "Description": "The Critical Chance of every consecutive hit during an ability is increased by {0%} continuously. (For a 4 hit attack it is +0%, +3%, +6%, +9%)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritChanceIncrease": 0.03
+}

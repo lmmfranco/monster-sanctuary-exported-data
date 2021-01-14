@@ -1,0 +1,16 @@
+{
+  "guid": "39a56fa9133e03e47b9dbc898f33abff",
+  "filename": "GoblinRecovery",
+  "ID": 423,
+  "Name": "Goblin Recovery",
+  "Icon": "icon_goblin_recovery",
+  "Description": "Increases Mana Regeneration of all {Goblins} in the party by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.15,
+  "Stat": 7,
+  "IncreaseValue2": 0,
+  "Stat2": 0,
+  "IsMultiplicator": 1,
+  "MonsterType": 14
+}

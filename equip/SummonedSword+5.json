@@ -1,0 +1,28 @@
+{
+  "guid": "7070124d5233da64cb846e4609369ac3",
+  "filename": "SummonedSword+5",
+  "ID": 1477,
+  "Name": "Summoned Sword",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_summoned_sword",
+  "Attack": 0,
+  "Magic": 265,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0.15,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

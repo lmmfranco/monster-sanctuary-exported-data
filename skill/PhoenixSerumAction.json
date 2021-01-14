@@ -1,0 +1,52 @@
+{
+  "guid": "7693244d0ac1bca459cc0c8deadfdf29",
+  "filename": "PhoenixSerumAction",
+  "ID": 1247,
+  "Name": "Phoenix Serum",
+  "Icon": "icon_potion",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 5,
+  "Duration": 2.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 1,
+  "HealAmount": 450,
+  "ScaleMagic": 0,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    1.2,
+    1.45,
+    1.7,
+    1.95,
+    2.2
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "aa47772eea5f37844b1aca8df3895e2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "Delay": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "873705bb7400c894c91628080ca9e809",
+  "filename": "AdaptiveEvolution",
+  "ID": 1600,
+  "Name": "Adaptive Evolution",
+  "Icon": "icon_adaptive_evolution",
+  "Description": "Whenever an attack of this monster gets resisted, gain {Might} and apply {Armor Break} on the enemy.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffGained": 0,
+  "DebuffApplied": 5
+}

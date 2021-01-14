@@ -1,0 +1,34 @@
+{
+  "guid": "5783643555ce6844db18acd04aa37c7e",
+  "filename": "Bow+5",
+  "ID": 1483,
+  "Name": "Bow",
+  "Price": 5500,
+  "Type": 0,
+  "Icon": "icon_bow",
+  "Attack": 230,
+  "Magic": 210,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "Damage": 0.3,
+  "AnimElement": {
+    "fileID": 1502880753174177,
+    "guid": "66fce7b6081df0445a05f09fbc866a6d",
+    "type": 2
+  }
+}

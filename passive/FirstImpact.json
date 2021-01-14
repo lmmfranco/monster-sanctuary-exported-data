@@ -1,0 +1,11 @@
+{
+  "guid": "a5c21b48d39614f409fd8dd5c694d002",
+  "filename": "FirstImpact",
+  "ID": 656,
+  "Name": "First Impact",
+  "Icon": "icon_first_impact",
+  "Description": "Increases the base damage of the first hit of an attack by an additional {0%} of attack or magic (depending if the attack is physical or magical).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.3
+}

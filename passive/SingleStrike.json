@@ -1,0 +1,11 @@
+{
+  "guid": "5f782fc41b8adf943b79b8c9749b66c5",
+  "filename": "SingleStrike",
+  "ID": 678,
+  "Name": "Single Strike",
+  "Icon": "icon_single_strike",
+  "Description": "If this Monster is the last and only Monster during the turn to attack, it deals {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageIncrease": 0.25
+}

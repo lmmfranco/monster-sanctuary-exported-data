@@ -1,0 +1,12 @@
+{
+  "guid": "f8bcee81d64cc684887215a241c754ac",
+  "filename": "DualWield",
+  "ID": 904,
+  "Name": "Dual Wield",
+  "Icon": "icon_dark_passive",
+  "Description": "Allows to equip two weapons. Second weapon values are reduced by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "IsWeapon": 1,
+  "StatReduction": 0.5
+}

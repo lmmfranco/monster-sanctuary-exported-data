@@ -1,0 +1,92 @@
+{
+  "guid": "c2c84c7a9b88dfe48848a50ab9334611",
+  "filename": "AcidRain2",
+  "ID": 196,
+  "Name": null,
+  "Icon": null,
+  "Tier": 2,
+  "Ultimate": 0,
+  "Mana": 70,
+  "TargetType": 0,
+  "Duration": 2.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114189849865677940,
+    "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.5,
+  "TotalDamage": 2,
+  "CalculatedDamage": 0.485,
+  "CalculatedTotalDamage": 1.94,
+  "HitTimings": [
+    0.8,
+    1.1,
+    1.4,
+    1.7
+  ],
+  "Element": 2,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Debuffs": 1310720,
+  "ApplyDelay": 2.1,
+  "ApplyChance": 1,
+  "TargetCount": 1,
+  "AnimElement": {
+    "fileID": 1279018537796907,
+    "guid": "30274c589e6321b4eb4156aac227c21c",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 2
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "bceac82f4e87d304aac14f78e7d409d0",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.3
+  ]
+}

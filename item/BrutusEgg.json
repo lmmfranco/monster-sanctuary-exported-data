@@ -1,0 +1,12 @@
+{
+  "guid": "4407b99205b3c334198fa0a3717873f8",
+  "filename": "BrutusEgg",
+  "ID": 1571,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1218922572566327,
+    "guid": "c4c814ee4ae31344b95fcbea64ffc8c2",
+    "type": 2
+  }
+}

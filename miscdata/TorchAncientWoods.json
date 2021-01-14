@@ -1,0 +1,29 @@
+{
+  "guid": "391bb73db5ffeec43908bb1043ace12f",
+  "filename": "TorchAncientWoods",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 0,
+  "IsEnkindled": 1,
+  "timeOffset": 0,
+  "BrightTorch": {
+    "fileID": 114803063397742380
+  },
+  "TorchLight": {
+    "fileID": 114143927061998530
+  },
+  "Background": {
+    "fileID": 114372549459179820
+  },
+  "SpeedMultiplier": 1.5,
+  "InnerSpeedMultiplier": 8.25,
+  "InnerIntensity": 0.5,
+  "AlphaFlickerRange": 0.05,
+  "BackgroundFlickerRange": 0.5,
+  "SizeFlickerRange": 0.1,
+  "FlickerSpeedRange": 0.15,
+  "FlickerSpeedRate": 1.5,
+  "Particles": [],
+  "ActivatesBoolOnEnkindle": null
+}

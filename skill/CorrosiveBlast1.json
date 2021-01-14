@@ -1,0 +1,71 @@
+{
+  "guid": "9efbdd9201cc0c14bbbd02c3e11f88e8",
+  "filename": "CorrosiveBlast1",
+  "ID": 1593,
+  "Name": "Corrosive Blast",
+  "Icon": "icon_corrosive_blast",
+  "Tier": 3,
+  "Ultimate": 0,
+  "Mana": 110,
+  "TargetType": 1,
+  "Duration": 2.1,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.55,
+  "TotalDamage": 1.55,
+  "CalculatedDamage": 1.57355,
+  "CalculatedTotalDamage": 1.57355,
+  "HitTimings": [
+    0.6
+  ],
+  "Element": 2,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1978832858502027,
+    "guid": "db2a1525225c67240a393b4ca3b402e1",
+    "type": 2
+  },
+  "Offset": {
+    "x": -6,
+    "true": -3,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0.2,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Debuffs": 1310720,
+  "ApplyDelay": 1.6,
+  "ApplyChance": 0.5,
+  "TargetCount": 1
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "bf3dbe3dc7cc8ce4c879ec61edbadefc",
+  "filename": "Electrolytes",
+  "ID": 1547,
+  "Name": "Electrolytes",
+  "Icon": "icon_electrolutes",
+  "Description": "Monsters in the party have a {0%} chance to remove a Debuff from themselves when they trigger {Shock} damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Chance": 0.5
+}

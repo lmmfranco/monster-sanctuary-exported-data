@@ -1,0 +1,12 @@
+{
+  "guid": "688bc30bf8c498a42b9c8d5c1e22ffd9",
+  "filename": "GoblinPilotEgg",
+  "ID": 1542,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1155899251337089,
+    "guid": "07cb745ae06177e4e9c78e676f245ac2",
+    "type": 2
+  }
+}

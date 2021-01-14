@@ -1,0 +1,12 @@
+{
+  "guid": "f17f55b17037466488096323f13ae573",
+  "filename": "KameEgg",
+  "ID": 884,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1486456551731197,
+    "guid": "441fb556968672245a0eb6bc6f94df48",
+    "type": 2
+  }
+}

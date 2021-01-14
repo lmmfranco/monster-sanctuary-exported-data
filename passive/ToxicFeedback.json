@@ -1,0 +1,11 @@
+{
+  "guid": "776298e3646c31e4193ecc9f2204f58d",
+  "filename": "ToxicFeedback",
+  "ID": 324,
+  "Name": "Toxic Feedback",
+  "Icon": "icon_toxic_feedback",
+  "Description": "Heal for {0%} of Max Health at the start of each turn for each {Poison} on enemies.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealValue": 0.05
+}

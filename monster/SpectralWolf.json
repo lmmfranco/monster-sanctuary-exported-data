@@ -1,0 +1,1153 @@
+{
+  "guid": "f7e3b592038acb64aa65a8c38d928178",
+  "filename": "SpectralWolf",
+  "ID": 228,
+  "Name": "Spectral Wolf",
+  "baseStats": {
+    "attack": 5,
+    "magic": 5,
+    "defense": 4,
+    "health": 6,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 3,
+    "defense": 0,
+    "health": 1,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 8,
+    "true": -18
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 5,
+  "RewardsCommon": [],
+  "RewardsRare": [],
+  "StartLevel": 1,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1560258640980019,
+    "guid": "14e82b206e156e34485bdf3b1918e9d8",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.3
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -12,
+    "true": -18,
+    "z": 0
+  },
+  "MonsterTypes": "0500000007000000",
+  "NormalParticles": [
+    {
+      "fileID": 198149919113115420
+    },
+    {
+      "fileID": 198064422544867420
+    }
+  ],
+  "LightParticles": [
+    {
+      "fileID": 198527519154500900
+    },
+    {
+      "fileID": 198611146842481280
+    }
+  ],
+  "DarkParticles": [
+    {
+      "fileID": 198752378053362180
+    },
+    {
+      "fileID": 198200404100672160
+    }
+  ],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1663222006699508,
+      "guid": "55c68f2297e71354ea99aa9aa98837ff",
+      "type": 2
+    },
+    {
+      "fileID": 1115353332436104,
+      "guid": "465fc77cf499450418f36feb1146d9e1",
+      "type": 2
+    },
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [
+    {
+      "fileID": 1016060266391219,
+      "guid": "fd990c2b6e57c514fb29ed2da065e2da",
+      "type": 2
+    },
+    {
+      "fileID": 1018485883065683,
+      "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+      "type": 2
+    },
+    {
+      "fileID": 1346453012941244,
+      "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+      "type": 2
+    },
+    {
+      "fileID": 1172010299157386,
+      "guid": "16b6f3f88d117194d9339b5c8cc738c3",
+      "type": 2
+    },
+    {
+      "fileID": 1043744986219526,
+      "guid": "03e6b86aa0ba6434691e33e8b0bd096c",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1643101330552660,
+      "guid": "43b2b9a2ec179d84fac41747300778b2",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1289704341483935,
+      "guid": "47b6306dda881814a97e14500993a7bd",
+      "type": 2
+    },
+    {
+      "fileID": 1676710333376631,
+      "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+      "type": 2
+    },
+    {
+      "fileID": 1923782053611373,
+      "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1289704341483935,
+      "guid": "47b6306dda881814a97e14500993a7bd",
+      "type": 2
+    },
+    {
+      "fileID": 1676710333376631,
+      "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+      "type": 2
+    },
+    {
+      "fileID": 1923782053611373,
+      "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1397011885445541,
+    "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1624721887418744,
+      "guid": "e5aa6fb23c0a0d34eba7a1bff010935b",
+      "type": 2
+    },
+    {
+      "fileID": 1301825870497088,
+      "guid": "3ceafeacb4fa9f8438a64b98f39fbcf1",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1731515195765440,
+      "guid": "9037c2a9d3eb3d74b99f0d7f21103057",
+      "type": 2
+    },
+    {
+      "fileID": 1018485883065683,
+      "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1974223868971265,
+      "guid": "f482029fdb59d5349b2ad8259a4015df",
+      "type": 2
+    },
+    {
+      "fileID": 1424160382439838,
+      "guid": "5db12690c328ec74ca1226c6e991e542",
+      "type": 2
+    },
+    {
+      "fileID": 1456719299489012,
+      "guid": "b7a68358049406442ad6658977c3e451",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1639015182491661,
+      "guid": "71e0b9c539f03ac46bdfda97d6baff81",
+      "type": 2
+    },
+    {
+      "fileID": 1768875704581525,
+      "guid": "30e6644eb180bd944be59002a29860de",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1311087499952034,
+      "guid": "0b9c4157448164b42a378074e35cdcd2",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1748089887271050,
+      "guid": "f607a2f7c742e7e4491f5c8080139518",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1800707852902672,
+      "guid": "7363716ec2c85c44aab44cbff25e6733",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1879300847576627,
+      "guid": "80007ccbdcd52d344b8dcb97b5f0a2b4",
+      "type": 2
+    },
+    {
+      "fileID": 1420189229468253,
+      "guid": "9e5fd0691e79696418215be3f514640d",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1951212964247522,
+      "guid": "8615286b34e08dc4988b575962b2eb35",
+      "type": 2
+    },
+    {
+      "fileID": 1589929438339581,
+      "guid": "20cbdd80703d86343a15b9a5c17717b4",
+      "type": 2
+    },
+    {
+      "fileID": 1643101330552660,
+      "guid": "43b2b9a2ec179d84fac41747300778b2",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1427588540735872,
+      "guid": "84812a2388ec24841a730b09aa4d0076",
+      "type": 2
+    },
+    {
+      "fileID": 1738377241459128,
+      "guid": "12dd995508fdc2c48bb83b326bef64c3",
+      "type": 2
+    },
+    {
+      "fileID": 1291887861448701,
+      "guid": "1a194cac9eb44ee4882faf628431af81",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1115353332436104,
+      "guid": "465fc77cf499450418f36feb1146d9e1",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1841859809144766,
+      "guid": "d34e32f13d384704bb5fe790ca8adfe6",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1172010299157386,
+      "guid": "16b6f3f88d117194d9339b5c8cc738c3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1536188314808671,
+      "guid": "4defce6a43876f84d94ff68e3e1d5bf9",
+      "type": 2
+    },
+    {
+      "fileID": 1346453012941244,
+      "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+      "type": 2
+    },
+    {
+      "fileID": 1317488252246706,
+      "guid": "2ae7c6f4d3ae03341a3fe5d14bd519c3",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1653249463519712,
+      "guid": "93d0c47662518f64ebae1a109cd794c1",
+      "type": 2
+    },
+    {
+      "fileID": 1461213575740669,
+      "guid": "2446a53f5f44a8143bf5ddc8dc60b255",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1289038678748016,
+      "guid": "cf39424cf76399e438f1986c17affda9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1204528743803114,
+      "guid": "c9aa3e1fbedc86746bd5d5bcad19d8bd",
+      "type": 2
+    },
+    {
+      "fileID": 1568998277078275,
+      "guid": "532f8d176703ca44c83187eeb211005d",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    },
+    {
+      "fileID": 1043744986219526,
+      "guid": "03e6b86aa0ba6434691e33e8b0bd096c",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1663222006699508,
+      "guid": "55c68f2297e71354ea99aa9aa98837ff",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1348210952285528,
+      "guid": "88fb42c14c7cde44ab2c6bbcb916dd97",
+      "type": 2
+    },
+    {
+      "fileID": 1590644436946511,
+      "guid": "479a1b37a21f4bd43b68e3305c09990f",
+      "type": 2
+    },
+    {
+      "fileID": 1921874275492894,
+      "guid": "8ac1b57211b4ee94d82b39413c71d74e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1093982331588194,
+      "guid": "bc94dbb5e4c969d4182a804be1835c3b",
+      "type": 2
+    },
+    {
+      "fileID": 1317604818761157,
+      "guid": "2c2874d69216dd040aa13aa8a59cd57d",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1681028736617808,
+      "guid": "c9c8e41d30c9d0a40a95190d8b129196",
+      "type": 2
+    },
+    {
+      "fileID": 1887384154034392,
+      "guid": "ab8edeccf2491f244a446950f571d7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1124435812239137,
+      "guid": "a06eebb5e8cbe8e49b074dd918a2d43d",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1428836100645324,
+      "guid": "399367ff9c0bfde44882c523cdc67cd8",
+      "type": 2
+    },
+    {
+      "fileID": 1064709937367695,
+      "guid": "3ce79ef1762fc0c4999a36eeb698929f",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1762583972570559,
+      "guid": "c3579f1ca4c59324f8c86c24e33f2687",
+      "type": 2
+    }
+  ],
+  "PortraitOffset__1": {
+    "x": 5,
+    "true": 2
+  },
+  "Name__1": "Wolf",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "OffsetData": [
+    {
+      "Animation": 1,
+      "ParticleSystem": {
+        "fileID": 1770761750411492
+      },
+      "Offsets": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "true": 3,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "Animation": 1,
+      "ParticleSystem": {
+        "fileID": 1212953317278129
+      },
+      "Offsets": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": 3,
+          "z": 0
+        },
+        {
+          "x": 3,
+          "true": 4,
+          "z": 0
+        },
+        {
+          "x": 3,
+          "true": 4,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": 4,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": 4,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        }
+      ]
+    }
+  ],
+  "PredefinedName": "Wolf",
+  "FamiliarTypeName": "Spectral Wolf",
+  "FamiliarType": 0,
+  "Bio": "In tales from the Old World, the Spectral Wolf is described as the most cunning of the Familiars and he was said to be the guardian patron of the snowy mountains and dark forests. As with all the other Spectral Familiars, Wolf was revered and respected too, but his relation to the people of the Old World seems more complicated. The dark forests of the Wolf were feared and avoided, but at the same time, the shamans called on the power of the Wolf to protect the newborns from warlocks and other dark influences.",
+  "History": "Since the creation of the Monster Sanctuary in 0 AC, the Spectral Wolf has been the Spectral Familiar of the Veles bloodline. In modern Sanctuary folklore, the Spectral Wolf is said to be a friend to strangers and those who prefer the company of beasts to the company of men - who would rather stay in the wilds than in the warm halls of the Keepers' Stronghold. Keepers of the Spectral Wolf aren't seen as particularly warm people, but they are respected for their keen judgment. Thanks to their perceptive and logical nature, they are often called upon to decide on matters of dispute among residents of the Monster Sanctuary.",
+  "StatOrientation": 1,
+  "PredefinedActions": [
+    {
+      "Turn": 0,
+      "Action": {
+        "fileID": 1923782053611373,
+        "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 1,
+      "Action": {
+        "fileID": 1289704341483935,
+        "guid": "47b6306dda881814a97e14500993a7bd",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 2,
+      "Action": {
+        "fileID": 1676710333376631,
+        "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 3,
+      "Action": {
+        "fileID": 1923782053611373,
+        "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 4,
+      "Action": {
+        "fileID": 1289704341483935,
+        "guid": "47b6306dda881814a97e14500993a7bd",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 5,
+      "Action": {
+        "fileID": 1676710333376631,
+        "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 6,
+      "Action": {
+        "fileID": 1923782053611373,
+        "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 7,
+      "Action": {
+        "fileID": 1289704341483935,
+        "guid": "47b6306dda881814a97e14500993a7bd",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 8,
+      "Action": {
+        "fileID": 1676710333376631,
+        "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 9,
+      "Action": {
+        "fileID": 1923782053611373,
+        "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    }
+  ]
+}

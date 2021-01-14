@@ -1,0 +1,12 @@
+{
+  "guid": "b83f88fc8eec3824693e9870ce439f17",
+  "filename": "MagmaChamberKey",
+  "ID": 1049,
+  "Name": "Magma Chamber key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1858556001268887,
+    "guid": "485eb23625cc48b459556d4e0a2dae51",
+    "type": 2
+  }
+}

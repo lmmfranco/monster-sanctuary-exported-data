@@ -1,0 +1,47 @@
+{
+  "guid": "abd4b5ee97acd6e4697eaf349bd5ba0c",
+  "filename": "Wand+2",
+  "ID": 495,
+  "Name": "Wand",
+  "Price": 850,
+  "Type": 0,
+  "Icon": "icon_wand",
+  "Attack": 0,
+  "Magic": 90,
+  "Defense": 33,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1556885544490698,
+    "guid": "9bb403979cdd7c048878c0989db48b99",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

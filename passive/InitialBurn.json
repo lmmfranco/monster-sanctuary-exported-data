@@ -1,0 +1,11 @@
+{
+  "guid": "fc990280656efd141ac491a08a3c1ad1",
+  "filename": "InitialBurn",
+  "ID": 836,
+  "Name": "Initial Burn",
+  "Icon": "icon_initial_burn",
+  "Description": "Apply {Burn} (Debuff) to a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 4
+}

@@ -1,0 +1,77 @@
+{
+  "guid": "dd9de060885d0c64b8dca6655f71d8b8",
+  "filename": "Heal5",
+  "ID": 1241,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 190,
+  "TargetType": 3,
+  "Duration": 2.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114207307311897150,
+    "guid": "b57c355b31d41154c8dd1428054a0c78",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "HealAmount": 130,
+  "ScaleMagic": 0.25,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.5,
+    0.7,
+    0.9,
+    1.1,
+    1.3,
+    1.5,
+    1.7,
+    1.9
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "AnimElement": {
+    "fileID": 1433999133402651,
+    "guid": "a31092d79a7a9eb479e6c2c22eda8d21",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 1.6
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

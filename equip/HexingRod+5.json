@@ -1,0 +1,31 @@
+{
+  "guid": "b04de13a1833d4e40bae1b70fadac96f",
+  "filename": "HexingRod+5",
+  "ID": 1671,
+  "Name": "Hexing Rod",
+  "Price": 5500,
+  "Type": 0,
+  "Icon": "icon_hexing_rod",
+  "Attack": 150,
+  "Magic": 235,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "HealActions": 1,
+  "BuffActions": 1,
+  "ShieldActions": 1
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "3291da68dde01314c93d516ba9e25595",
+  "filename": "MagicPenetration",
+  "ID": 1117,
+  "Name": "Magic Penetration",
+  "Icon": "icon_magic_penetration",
+  "Description": "{Mage} Monsters in the party ignore {0%} of the target's Defense damage reduction value.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "BypassAmount": 0.15,
+  "TypeRestriction": 16
+}

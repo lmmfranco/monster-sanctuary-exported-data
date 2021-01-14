@@ -1,0 +1,47 @@
+{
+  "guid": "d0b277761e866654b88313d7e31ab43c",
+  "filename": "Ribbon",
+  "ID": 263,
+  "Name": "Ribbon",
+  "Price": 180,
+  "Type": 5,
+  "Icon": "icon_ribbon",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 110,
+  "Mana": 20,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1585348788655202,
+    "guid": "80bce9ec52b279a4a9878a12e2e4f7bd",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1832258850283049,
+        "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

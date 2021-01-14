@@ -1,0 +1,15 @@
+{
+  "guid": "73f86c2119c8c5e4e836d7ef3e828d45",
+  "filename": "PhoenixSerum",
+  "ID": 1248,
+  "Name": "Phoenix Serum",
+  "Price": 750,
+  "EffectAction": {
+    "fileID": 1809541291888733,
+    "guid": "7693244d0ac1bca459cc0c8deadfdf29",
+    "type": 2
+  },
+  "Icon": "icon_phoenix_serum",
+  "Description": null,
+  "RetreatItem": 0
+}

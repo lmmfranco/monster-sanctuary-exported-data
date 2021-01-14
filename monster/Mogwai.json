@@ -1,0 +1,531 @@
+{
+  "guid": "73cce2a67ad58a1468d4f58cf4540681",
+  "filename": "Mogwai",
+  "ID": 664,
+  "Name": "Mogwai",
+  "baseStats": {
+    "attack": 6,
+    "magic": 6,
+    "defense": 3,
+    "health": 5,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -1
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1234674513639231,
+      "guid": "34fd3fdd9ac2dab4999fca918b682605",
+      "type": 2
+    },
+    {
+      "fileID": 1676211359093659,
+      "guid": "1807da16437f9db438fe21142fc9ccf0",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1267552956855501,
+      "guid": "5026219312fda0d488390eae928b61fc",
+      "type": 2
+    },
+    {
+      "fileID": 1867296903840855,
+      "guid": "3189946589e45e74e8dd694c49ba445d",
+      "type": 2
+    }
+  ],
+  "StartLevel": 18,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 12,
+  "JumpFrequence": 0.4,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1941651283539987,
+    "guid": "bc48096d30eaa994a8dd47960421e061",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "040000000700000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1051816957479213,
+      "guid": "35384ae43556a8c47bb833c1079a68f0",
+      "type": 2
+    },
+    {
+      "fileID": 1602134657033267,
+      "guid": "5001c50a74b69c14795c2ccaa11ceffc",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1658508538388761,
+      "guid": "8f20a367dcdc9234d8103c69998d35c3",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1372901607417829,
+      "guid": "661eb8864a3ce994aaa7ab08e3ef9398",
+      "type": 2
+    },
+    {
+      "fileID": 1061685672697732,
+      "guid": "6227d7394960b6748b34873be02dd9da",
+      "type": 2
+    },
+    {
+      "fileID": 1676710333376631,
+      "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1925904739013070,
+    "guid": "98fdaeff8929ff140a7fade1cb077cf6",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1168414919031960,
+    "guid": "1989557fa5e8f594ebb45e24efc1c042",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1051816957479213,
+      "guid": "35384ae43556a8c47bb833c1079a68f0",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1341845498742269,
+      "guid": "e6f3084971c31184f9e640eb3bff05aa",
+      "type": 2
+    },
+    {
+      "fileID": 1794409188049869,
+      "guid": "5067e38201634084dae5c3ab571dd6d0",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1333768902576408,
+      "guid": "a54917362135f9b4bb8676267b47eeb7",
+      "type": 2
+    },
+    {
+      "fileID": 1658508538388761,
+      "guid": "8f20a367dcdc9234d8103c69998d35c3",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1552734767132386,
+      "guid": "54129cbd956f728439166f5039289607",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1204118327157215,
+      "guid": "e30f371dcda57e84e94de7effc882f30",
+      "type": 2
+    },
+    {
+      "fileID": 1937325566040581,
+      "guid": "23b9aa13d08cb2c4195e8ce9ea663806",
+      "type": 2
+    },
+    {
+      "fileID": 1293474823210222,
+      "guid": "1c6bda72a1456034fadbeb75782b4bcb",
+      "type": 2
+    },
+    {
+      "fileID": 1980827462856753,
+      "guid": "5f782fc41b8adf943b79b8c9749b66c5",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1381546330511120,
+      "guid": "14b42dcffc2c88c46ae0c11ec97831db",
+      "type": 2
+    },
+    {
+      "fileID": 1669532613905841,
+      "guid": "bb6fd6c48bdba8d41afd873d65776796",
+      "type": 2
+    },
+    {
+      "fileID": 1712345910789295,
+      "guid": "1872ce802e75a2b4682f8345b0c3585f",
+      "type": 2
+    },
+    {
+      "fileID": 1002635476683677,
+      "guid": "68bcee91202ed9342847d34e96d05d59",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1602134657033267,
+      "guid": "5001c50a74b69c14795c2ccaa11ceffc",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1740778719911110,
+      "guid": "3e9b0fae4359f5c459b159af2af5550f",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1313243618101231,
+      "guid": "abfb6beda6a62f24590375ca0a4971c5",
+      "type": 2
+    },
+    {
+      "fileID": 1346453012941244,
+      "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+      "type": 2
+    },
+    {
+      "fileID": 1977394999042118,
+      "guid": "a5c21b48d39614f409fd8dd5c694d002",
+      "type": 2
+    },
+    {
+      "fileID": 1722930067277840,
+      "guid": "ab433acf6625efe4aac20aa778593b6e",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1071881702032439,
+      "guid": "fde0613216454f14d95ed656249b0d06",
+      "type": 2
+    },
+    {
+      "fileID": 1461213575740669,
+      "guid": "2446a53f5f44a8143bf5ddc8dc60b255",
+      "type": 2
+    },
+    {
+      "fileID": 1289038678748016,
+      "guid": "cf39424cf76399e438f1986c17affda9",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1252522719184545,
+      "guid": "232a4ddbb71331440b18dec13ec0337b",
+      "type": 2
+    },
+    {
+      "fileID": 1568998277078275,
+      "guid": "532f8d176703ca44c83187eeb211005d",
+      "type": 2
+    },
+    {
+      "fileID": 1881162992438339,
+      "guid": "3291da68dde01314c93d516ba9e25595",
+      "type": 2
+    },
+    {
+      "fileID": 1259570387628827,
+      "guid": "162b7b41baf17c343a13de44a0da82d5",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1851896989527293,
+      "guid": "f43c49eba85b65240a5685e44ade46e3",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1128665427760377,
+      "guid": "fd01805d9585c974ab1dd6d43e08b60d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1243632247960094,
+      "guid": "2438177754dc933429aebea0706e579f",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1036481918464091,
+      "guid": "8719edcb2bbf66c469e9a387feb6e491",
+      "type": 2
+    },
+    {
+      "fileID": 1373307052695354,
+      "guid": "7dfeb125948fe6a4a90d13697fc1acef",
+      "type": 2
+    },
+    {
+      "fileID": 1626169879050506,
+      "guid": "1019eb0b94d17024c97fa76c2c61c7dc",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1751584712980947,
+      "guid": "91ddc47c8dcc5064e8221028359ff2d0",
+      "type": 2
+    },
+    {
+      "fileID": 1398017782350498,
+      "guid": "3e4f83abbfe3427408c7e0c24bf3ed1e",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1993657088372823,
+      "guid": "32f9a32f13fb5984d8fb091251b3851e",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1452935857193487,
+      "guid": "666062c076e60b54fb0170cd109d65ef",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1892580574904001,
+      "guid": "fca6cc5519fff07499487c06a7df5ed6",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    },
+    {
+      "fileID": 1769857891664711,
+      "guid": "f27fa9b55e4de7549bdae076a346a8b2",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1411900583866437,
+      "guid": "5aa39ce5691f2af47b92e6cdfd1cb032",
+      "type": 2
+    },
+    {
+      "fileID": 1280262688083320,
+      "guid": "26290b236725ac048b97e940b848e648",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1990007855836108,
+      "guid": "2fdd6bf739f0bb4408a3b898c37ca59b",
+      "type": 2
+    },
+    {
+      "fileID": 1221202045166606,
+      "guid": "cbcce3f74782c4847b843136a05ae1af",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    }
+  ],
+  "Bio": "Small, furry creatures that seem docile and well-meaning at first glance. Turning one's back to a Mogwai reveals their impish or even diabolical nature. Getting hit by a snowball in the back while the Mogwai retreats with a goatlike laughter is one of the milder types of Mogwai misdeeds. Give too much trust to a Mogwai and you might end up chasing after that same Mogwai as it's running off with your backpack and supplies. The Mogwais used to hoard their stolen goods in secret caves that they dug under their remote mountain villages.",
+  "History": "In ancient times, there were nobles and rulers who would attempt to keep a Mogwai as a pet. A set of rules for Mogwai keeping were written down in this time period. It is said that these rules shall never be broken, or else one might risk great calamities. However, no records remain of any of these rules, despite many Keepers scouring the Old World for them. Therefore, it is not known what the Keeper of a Mogwai should do or refrain from doing. If you still want to keep a Mogwai, you should probably be very careful in general.",
+  "StatOrientation": 1
+}

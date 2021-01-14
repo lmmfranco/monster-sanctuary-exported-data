@@ -1,0 +1,12 @@
+{
+  "guid": "7587beff87e41054f8c6bcfd00d48287",
+  "filename": "StolbyEgg",
+  "ID": 1444,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1919757494699505,
+    "guid": "4a7abdd871975ed46b947b67b42a261d",
+    "type": 2
+  }
+}

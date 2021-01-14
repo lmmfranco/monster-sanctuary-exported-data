@@ -1,0 +1,58 @@
+{
+  "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+  "filename": "Shield2",
+  "ID": 190,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 70,
+  "TargetType": 4,
+  "Duration": 2.1,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114373255749508300,
+    "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 150,
+  "ScaleDefense": 0.45,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1.4
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1837960200758858,
+    "guid": "dd432bf1ecd3e384f9a3b7cf90e6b3f1",
+    "type": 2
+  },
+  "Offset": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 3,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "cf39424cf76399e438f1986c17affda9",
+  "filename": "Shatter",
+  "ID": 618,
+  "Name": "Shatter",
+  "Icon": "icon_shatter",
+  "Description": "{Chill} causes attacks against enemies affected by it to have {0%} increased Critical Chance.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "CritChanceBonus": 0.1
+}

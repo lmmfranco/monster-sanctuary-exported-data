@@ -1,0 +1,44 @@
+{
+  "guid": "dda9c80dbeb9b39468f361add80bfa5e",
+  "filename": "LightningBoltExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Lightning Bolt",
+  "Description": "- Enkindles torches\n- Activates lightning orbs",
+  "AnimElement": {
+    "fileID": 1191961895792649,
+    "guid": "a4b5f30449ac2a740bb781dad42faa14",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 8,
+        "true": 100,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.1
+  ],
+  "HitBox": {
+    "x": 12,
+    "true": 64
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 32
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 21990233604096
+}

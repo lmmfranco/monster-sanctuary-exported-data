@@ -1,0 +1,48 @@
+{
+  "guid": "a2facbba182d2b74b80b4ddbcfbe4e29",
+  "filename": "Hourglass",
+  "ID": 1695,
+  "Name": "Hourglass",
+  "Price": 3000,
+  "Type": 5,
+  "Icon": "icon_hourglass",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 60,
+  "Mana": 10,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1649760161065145,
+    "guid": "9bc2ba099405a4247846ac6b00356b96",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "AgeBonusValue": 0.33
+}

@@ -1,0 +1,23 @@
+{
+  "guid": "2b7bfef6ee01bbc4ca369f9fb4f8baa8",
+  "filename": "LevitateExplore",
+  "PlayerOffset": {
+    "x": 48,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Levitate",
+  "Description": "- Levitates big boulders",
+  "MaxDistance": 128,
+  "AnimElement": {
+    "fileID": 1478946365946648,
+    "guid": "a82642c7bf541ad4eb63686078f7c52a",
+    "type": 2
+  },
+  "AnimElementFail": {
+    "fileID": 1405349000910999,
+    "guid": "62dffd3c978a59f4d82ede59351b8f78",
+    "type": 2
+  },
+  "Duration": 0.5
+}

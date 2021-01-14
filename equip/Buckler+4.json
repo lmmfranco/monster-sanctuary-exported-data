@@ -1,0 +1,57 @@
+{
+  "guid": "e407ea5cb4f7b014788e11564773f060",
+  "filename": "Buckler+4",
+  "ID": 1652,
+  "Name": "Buckler",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_buckler",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 47,
+  "CritChance": 0.06,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1805045804732559,
+    "guid": "81e92f20da3888648b4eb90f470b5786",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1079285706125740,
+        "guid": "38bb721fb38db564e831d65ceceba144",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "BuffStacks": 300000008000000,
+  "StackIncrease": 1
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "7a203c01ffe91b7419ba910cf9174463",
+  "filename": "Disoriented",
+  "ID": 972,
+  "Name": "Disoriented",
+  "Icon": "icon_disoriented",
+  "Description": "{Weakness} (Debuff) causes enemies affected by it to have a {0%} chance to miss each hit.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DodgeChance": 0.075
+}

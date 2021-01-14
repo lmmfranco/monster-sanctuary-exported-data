@@ -1,0 +1,24 @@
+{
+  "guid": "2a4c0f22f713d2841a7fbea5c5281e09",
+  "filename": "MadLordChampion",
+  "ID": 1622,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 6,
+  "ActionCount": 3,
+  "DamageMultiplier": 1.2,
+  "ManaMultiplier": 3.8,
+  "DebuffMultiplier": 0.9,
+  "DifficultyBonus": 2000,
+  "EncounterLevel": 36,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1863530737455918,
+    "guid": "2687e603435a54a439d4234b6924bf5b",
+    "type": 2
+  },
+  "RewardQuantity": 5
+}

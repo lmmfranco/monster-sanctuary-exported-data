@@ -1,0 +1,11 @@
+{
+  "guid": "ae8bb40b86104c5468fd4ec006174dd9",
+  "filename": "Recuperate",
+  "ID": 444,
+  "Name": "Recuperate",
+  "Icon": "icon_recuperate",
+  "Description": "Critical Hits regenerate {0} Mana.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ManaAmount": 7
+}

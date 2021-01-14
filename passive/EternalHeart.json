@@ -1,0 +1,11 @@
+{
+  "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+  "filename": "EternalHeart",
+  "ID": 908,
+  "Name": "Eternal Heart",
+  "Icon": "icon_light_passive",
+  "Description": "This Monster's Max Health and Mana are increased by {0%} each.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Value": 0.12
+}

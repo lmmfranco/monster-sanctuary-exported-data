@@ -1,0 +1,11 @@
+{
+  "guid": "a877ea17a144ada4a8b494ac86639977",
+  "filename": "EnergyConversion",
+  "ID": 1340,
+  "Name": "Energy Conversion",
+  "Icon": "icon_energy_conversion",
+  "Description": "Whenever a Monster in the party consumes a {Charge} stack, it is healed by {0%} of its Max Health.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ConversionRate": 0.01
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "946f2f14e47ebaa44b7d7849f779cd7a",
+  "filename": "ComboPotion",
+  "ID": 560,
+  "Name": "Combo Potion",
+  "Price": 500,
+  "EffectAction": {
+    "fileID": 1163471388939456,
+    "guid": "7854085b17346b544a9996ec37c5feb8",
+    "type": 2
+  },
+  "Icon": "icon_combo_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

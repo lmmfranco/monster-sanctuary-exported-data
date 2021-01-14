@@ -1,0 +1,551 @@
+{
+  "guid": "56332bd5abf4ca54dbfc7044edce3a7a",
+  "filename": "Manticorb",
+  "ID": 1037,
+  "Name": "Manticorb",
+  "baseStats": {
+    "attack": 1,
+    "magic": 6,
+    "defense": 3,
+    "health": 5,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 1,
+    "health": 3,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 2,
+    "health": 1,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -10
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1230261216403782,
+      "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+      "type": 2
+    },
+    {
+      "fileID": 1832258850283049,
+      "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1979148939231785,
+      "guid": "fb7806c89741472478f451cd10abf730",
+      "type": 2
+    },
+    {
+      "fileID": 1938666508179504,
+      "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+      "type": 2
+    },
+    {
+      "fileID": 1951664751614653,
+      "guid": "9bfe23ad7f112fe4683d0018ae3ceade",
+      "type": 2
+    }
+  ],
+  "StartLevel": 20,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 6,
+  "JumpFrequence": 0.5,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1037291566818719,
+    "guid": "c409dea9c2bf9e1489c4a7c13a6f6973",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -8,
+    "true": -12,
+    "z": 0
+  },
+  "MonsterTypes": "0700000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    },
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    },
+    {
+      "fileID": 1675082497399280,
+      "guid": "57f8186a359d2a14d83c06829148075b",
+      "type": 2
+    },
+    {
+      "fileID": 1857342971716595,
+      "guid": "f25fe6956aae0df409f93844ef39c4d7",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    },
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    },
+    {
+      "fileID": 1640201689144164,
+      "guid": "cb81a0329db885c469d22fcf084d23cd",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1802586631714151,
+      "guid": "86f55d63d23f9ad4ea0f8e823847d7be",
+      "type": 2
+    },
+    {
+      "fileID": 1089895652196472,
+      "guid": "8629a1ecc37d2c1458346e2033bcf14a",
+      "type": 2
+    },
+    {
+      "fileID": 1747423728911253,
+      "guid": "c06ee02943bb4924f9270cfcc2608a56",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1620693089984662,
+    "guid": "5b0b427b4bb98164ba22360b6d2c037e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1147213595760583,
+    "guid": "75f9926ee027fca42a4a25bd773c1bdd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1287964077566189,
+      "guid": "b33da4a3780d1fc4e81f72c7b809fc7e",
+      "type": 2
+    },
+    {
+      "fileID": 1640201689144164,
+      "guid": "cb81a0329db885c469d22fcf084d23cd",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1036017481979631,
+      "guid": "21ea0087ef3af1c45923679df5462796",
+      "type": 2
+    },
+    {
+      "fileID": 1933393745744034,
+      "guid": "b4015cd62291bb4498c7d645a82b7a2a",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1744983990326740,
+      "guid": "abc6bbd41a89d7b40afedf786785c2ae",
+      "type": 2
+    },
+    {
+      "fileID": 1996141377160665,
+      "guid": "df69284828a26134eb5c07ec5163cc80",
+      "type": 2
+    },
+    {
+      "fileID": 1211412280945082,
+      "guid": "13716c4096cd26f4a974dc9ed534461f",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1461969233366980,
+      "guid": "6682739764b29ce4e86ba287cafe2eb1",
+      "type": 2
+    },
+    {
+      "fileID": 1175982401135890,
+      "guid": "fc39e272bc777c34da5b6e9ddaf14f47",
+      "type": 2
+    },
+    {
+      "fileID": 1309018176628142,
+      "guid": "f60678d0a6587054fb04e899c6668afb",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1501515000697170,
+      "guid": "0b4c369ca8929d44b954aaa16fd25bad",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1632353448970348,
+      "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1839620051600772,
+      "guid": "83ac2ce12d07c0540b0a2c5d2bb487aa",
+      "type": 2
+    },
+    {
+      "fileID": 1806872777463061,
+      "guid": "234eb5a2c265b9a468413a2732227d48",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1917879644750694,
+      "guid": "1936ae62e02a7224db52cb15ca7c989c",
+      "type": 2
+    },
+    {
+      "fileID": 1105925149506364,
+      "guid": "339130cd4cabc704bb4025c77ae46455",
+      "type": 2
+    },
+    {
+      "fileID": 1331888980988870,
+      "guid": "21c3e5618f58ca24aa5d6573a86b4eb5",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1834008435221690,
+      "guid": "5c914b2e90ff2b94a938d78fb0021c35",
+      "type": 2
+    },
+    {
+      "fileID": 1361552716751036,
+      "guid": "c9a759f08f7040d4598178da0f01533d",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1477129339383814,
+      "guid": "6131d3d01ac08ed488c03535914f5405",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1086153821290200,
+      "guid": "064544571a4da6546a67a7f784668eeb",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1021104630252308,
+      "guid": "8bbc5c6e6f9a47d468fde39f300eef3d",
+      "type": 2
+    },
+    {
+      "fileID": 1538896687575131,
+      "guid": "53a2162ac7ebd0c449a225e96570bee7",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1435734183553929,
+      "guid": "20310e34a319a2140a0266de47c592bc",
+      "type": 2
+    },
+    {
+      "fileID": 1372278204845333,
+      "guid": "da7a851ae0b4eda43b47e960feb36476",
+      "type": 2
+    },
+    {
+      "fileID": 1760170391655695,
+      "guid": "07468b124d53ae741854a6b43a9bb6e1",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1319254963054872,
+      "guid": "b0a74242fc450b541aa74bcfe4fd9f2c",
+      "type": 2
+    },
+    {
+      "fileID": 1950284367657068,
+      "guid": "b81d4de153115c04bac3a0c8916156c6",
+      "type": 2
+    },
+    {
+      "fileID": 1621646241646522,
+      "guid": "452e5d1f03b16a94e853ea7d86f76737",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1431132250607598,
+      "guid": "b4b065f8f1100cb4287024f5cf193af5",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1273771702851302,
+      "guid": "d5fadaf0bdd7e424cb88500a25160b82",
+      "type": 2
+    },
+    {
+      "fileID": 1346453012941244,
+      "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1436916231208232,
+      "guid": "e830bd3421d6efc468c5f01528f6e46a",
+      "type": 2
+    },
+    {
+      "fileID": 1461213575740669,
+      "guid": "2446a53f5f44a8143bf5ddc8dc60b255",
+      "type": 2
+    },
+    {
+      "fileID": 1115396625776044,
+      "guid": "6cb691bf1d8e09b4fa47debddbafc18e",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1057421354318522,
+      "guid": "0be0ed1a805913a48b32f584b7db1aa5",
+      "type": 2
+    },
+    {
+      "fileID": 1568998277078275,
+      "guid": "532f8d176703ca44c83187eeb211005d",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Bio": "Lacking appreciable teeth or claws with which to fight, the Manticorb defends itself entirely by magical means. Its thick, fluffy coat serves to absorb large amounts of errant Mana from the surrounding atmosphere, which it can cast at will from the tip of its tail, much like a wand. It carries so much magical energy inside its small body that its large eye even emits light in dark places. A skilled Manticorb can become quite adept in wielding multiple attack elements, and predators are quick to learn that the warning stripes are no joke.",
+  "History": "Manticorbs have a natural tendency to gather where Mana is strongly concentrated, and as a result ended up flocking to the Monster Sanctuary of their own volition. Their curious demeanor and soft fur makes them attractive pets at a glance, but they can quickly become unruly and volatile if they are allowed to build up too much Mana at a time. Experienced Keepers can monitor a Manticorb's level of charge by the amount of static in its fur, and will have it regularly cast spells to discharge the excess.",
+  "StatOrientation": 3
+}

@@ -1,0 +1,19 @@
+{
+  "guid": "d53cb3ffcab4bb14fa92918d0cfcff6c",
+  "filename": "BackupMonsterView",
+  "MonsterPortrait": {
+    "fileID": 114809903432160140
+  },
+  "HealthBar": {
+    "fileID": 114261926190748340
+  },
+  "sprite": {
+    "fileID": 114832038915615140
+  },
+  "animator": {
+    "fileID": 114227897258089900
+  },
+  "background": {
+    "fileID": 114173933289119230
+  }
+}

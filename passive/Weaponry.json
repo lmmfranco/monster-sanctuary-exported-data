@@ -1,0 +1,13 @@
+{
+  "guid": "6c1454003f75642409a50ecd29c9c2bb",
+  "filename": "Weaponry",
+  "ID": 1192,
+  "Name": "Weaponry",
+  "Icon": "icon_weaponry",
+  "Description": "Increases {Attack}, {Magic}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied {Warrior} Monsters.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stats": 73786998285072330000,
+  "Bonus": 0.15,
+  "TypeRestriction": 15
+}

@@ -1,0 +1,20 @@
+{
+  "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+  "filename": "HealthProc",
+  "ID": 378,
+  "Name": "Health Proc",
+  "Icon": "icon_health_proc",
+  "Description": "Every attack triggers an additional hit equal to {1%} of Max Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.05,
+  "ScaleStat": 3,
+  "AnimElement": {
+    "fileID": 1845837677364162,
+    "guid": "5c98f76395063bd42bce4bb1f3399a8c",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

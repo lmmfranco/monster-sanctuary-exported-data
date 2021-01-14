@@ -1,0 +1,12 @@
+{
+  "guid": "9920b4c74ce74ae4fbd58864adb8732e",
+  "filename": "SpectralLionEgg",
+  "ID": 1827,
+  "Name": null,
+  "Price": 3000,
+  "Monster": {
+    "fileID": 1529742473945333,
+    "guid": "a0db8aef913a66a48bb993cf9bb3e346",
+    "type": 2
+  }
+}

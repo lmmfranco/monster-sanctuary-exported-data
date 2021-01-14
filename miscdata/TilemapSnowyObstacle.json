@@ -1,0 +1,21 @@
+{
+  "guid": "453a80c6336eccf4a9900bccc82c0a73",
+  "filename": "TilemapSnowyObstacle",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 3,
+  "DestroyParticleEffect": {
+    "fileID": 1303432781998628,
+    "guid": "ac8d2a1d1ff3feb42ade944bb60647fb",
+    "type": 2
+  },
+  "DestroyConditionBool": null,
+  "SFXDestroy": {
+    "fileID": 8300000,
+    "guid": "31ca40f9cd5b56c49abf819f14adfa1a",
+    "type": 3
+  },
+  "connectedObstacleId": -1,
+  "ConnectedObstacleArea": null
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "2ed571d5730286042958f1d7ce418650",
+  "filename": "ThermalReactor+5",
+  "ID": 1465,
+  "Name": "Thermal Reactor",
+  "Price": 2000,
+  "Type": 5,
+  "Icon": "icon_thermal_reactor",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.07,
+  "CritDamage": 0.15,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "Debuff1": 4,
+  "Debuff2": 3,
+  "Chance": 0.05
+}

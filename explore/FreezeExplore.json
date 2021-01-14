@@ -1,0 +1,44 @@
+{
+  "guid": "2d147856ca6b557409e4678fd2a997d4",
+  "filename": "FreezeExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Freeze",
+  "Description": "- Activates ice orbs",
+  "AnimElement": {
+    "fileID": 1703098546624622,
+    "guid": "feb2507cd7d0d9341b6d101b977f3a41",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 16,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 64,
+    "true": 64
+  },
+  "HitOffset": {
+    "x": -8,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": "0a000000"
+}

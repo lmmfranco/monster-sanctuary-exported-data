@@ -1,0 +1,13 @@
+{
+  "guid": "5b5287a87fe1f654bb0e02ec543831a2",
+  "filename": "Necromancy",
+  "ID": 1312,
+  "Name": "Necromancy",
+  "Icon": "icon_necromancy",
+  "Description": "Whenever a Monster on the party is revived, it additionally heals {0%} of its Max Health, gains {2} random Debuffs and {1} {Age} stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.25,
+  "AgeStackCount": 3,
+  "DebuffCount": 3
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "6f85b5fa22be0504fbe53bc3b1407867",
+  "filename": "DragonBlood",
+  "ID": 1077,
+  "Name": "Dragon Blood",
+  "Icon": "icon_dragonblood",
+  "Description": "{Dragons} in the party regenerate {0%} of their Max Health each turn and have +{1%} Mana Regeneration.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.07,
+  "ManaRegenValue": 0.07,
+  "MonsterType": 8
+}

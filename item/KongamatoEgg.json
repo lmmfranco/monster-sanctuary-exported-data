@@ -1,0 +1,12 @@
+{
+  "guid": "e2362bdccd3a6274d857ab34c23b62f1",
+  "filename": "KongamatoEgg",
+  "ID": 971,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1798380946925031,
+    "guid": "8cfdd9d7e719904419c62881e9cd0aba",
+    "type": 2
+  }
+}

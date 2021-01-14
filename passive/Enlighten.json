@@ -1,0 +1,11 @@
+{
+  "guid": "bdeedc84e59c0744496a44348cf49ae1",
+  "filename": "Enlighten",
+  "ID": 911,
+  "Name": "Enlightened",
+  "Icon": "icon_light_passive",
+  "Description": "Whenever this Monster receives a Buff, {0%} chance to share the Buff with an allied Monster.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.6
+}

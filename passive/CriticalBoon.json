@@ -1,0 +1,11 @@
+{
+  "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+  "filename": "CriticalBoon",
+  "ID": 591,
+  "Name": "Critical Boon",
+  "Icon": "icon_critical_boon",
+  "Description": "On Critical Hit, {0%} chance to grant a random Buff to a random ally.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.5
+}

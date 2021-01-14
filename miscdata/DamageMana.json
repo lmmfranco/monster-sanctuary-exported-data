@@ -1,0 +1,87 @@
+{
+  "guid": "d3a1ffaedfe6733439e43ab620216f45",
+  "filename": "DamageMana",
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114142763284529140,
+      "guid": "6d02e45e5606255409e5e99c364a98c6",
+      "type": 2
+    },
+    "text": 199,
+    "color": {
+      "r": 0.2509804,
+      "g": 0.1254902,
+      "b": 0.5019608,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 10,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "PulseDuration": 0.2,
+  "FloatDuration": 0.7,
+  "FadeDuration": 0.3,
+  "FloatSpeed": {
+    "x": 0,
+    "true": 50
+  },
+  "FloatAcceleration": {
+    "x": 0,
+    "true": 0
+  },
+  "PulseScale": 2,
+  "Indicator": {
+    "fileID": 114712079614188220
+  }
+}

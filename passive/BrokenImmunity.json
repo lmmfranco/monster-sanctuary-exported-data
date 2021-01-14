@@ -1,0 +1,12 @@
+{
+  "guid": "bc66dc05a18c9e244a67233365608c32",
+  "filename": "BrokenImmunity",
+  "ID": 1550,
+  "Name": "Broken Immunity",
+  "Icon": "icon_weaken_immunity",
+  "Description": "{Armor Break} on enemies also increases chances to apply Debuffs on them by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "IncreaseAmount": 0.25,
+  "DebuffType": 5
+}

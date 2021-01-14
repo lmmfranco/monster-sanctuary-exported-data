@@ -1,0 +1,11 @@
+{
+  "guid": "8edbaba22561c0242a4b7354e4b50338",
+  "filename": "Plague",
+  "ID": 602,
+  "Name": "Plague",
+  "Icon": "icon_plague",
+  "Description": "Whenever an enemy takes {Poison} damage, {0%} chance that the {Poison} spreads to another enemy.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Chance": 0.4
+}

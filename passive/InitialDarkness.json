@@ -1,0 +1,10 @@
+{
+  "guid": "34480cb68181c3340b5e92e3117298f6",
+  "filename": "InitialDarkness",
+  "ID": 1701,
+  "Name": "Initial Darkness",
+  "Icon": "icon_initial_darkness",
+  "Description": "Apply a stack of {Blind} on each enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

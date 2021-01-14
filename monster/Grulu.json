@@ -1,0 +1,500 @@
+{
+  "guid": "fa5dc415aca1e7c4db4709800995b0ea",
+  "filename": "Grulu",
+  "ID": 531,
+  "Name": "G'rulu",
+  "baseStats": {
+    "attack": 2,
+    "magic": 6,
+    "defense": 4,
+    "health": 7,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 2,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 2,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": 3
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1259841684164799,
+      "guid": "03d0a51216bc2564c99c83dee96e82da",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1491111362828871,
+      "guid": "3dc0e8feb00b1cb46a5ae4394378e45e",
+      "type": 2
+    },
+    {
+      "fileID": 1264329016295598,
+      "guid": "8b133c9b4f683cd46a0f7260356057c0",
+      "type": 2
+    }
+  ],
+  "StartLevel": 7,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1257765134137246,
+    "guid": "bae9639eca460fa42885911dd11f5f90",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0100000009000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 1,
+  "BaseSkills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    },
+    {
+      "fileID": 1396995210313966,
+      "guid": "7172342f4538941448458c9ffc66e702",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    }
+  ],
+  "AISkills": [],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1676241385952260,
+      "guid": "6e7c98c271787d5499baf3ed45ca2e9e",
+      "type": 2
+    },
+    {
+      "fileID": 1870840998800765,
+      "guid": "89603da8c82e76a41ba29b7e97d19645",
+      "type": 2
+    },
+    {
+      "fileID": 1802586631714151,
+      "guid": "86f55d63d23f9ad4ea0f8e823847d7be",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1733933471001974,
+    "guid": "1a632594fba1fde47be822f0a087703d",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1022911926836978,
+    "guid": "c3f19f03d777eb8428f44b9107837e6b",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    },
+    {
+      "fileID": 1325998609352497,
+      "guid": "36eb940e04d9d3748a8aff783a889435",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1707284892461584,
+      "guid": "c2c84c7a9b88dfe48848a50ab9334611",
+      "type": 2
+    },
+    {
+      "fileID": 1077486870886727,
+      "guid": "3f02e325c13c3714b95308ff37b081dc",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1547447274293046,
+      "guid": "6a65b0ba49b5d7e4f9c5cc2be0efe9c9",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1335250518357692,
+      "guid": "a18678d5b2e932443b03f302998a5d8c",
+      "type": 2
+    },
+    {
+      "fileID": 1444029259816378,
+      "guid": "646945303350c49439aba1e9908efa20",
+      "type": 2
+    },
+    {
+      "fileID": 1568630805100999,
+      "guid": "b8cf7e81d40b8b443b00a36ce2bbc4f2",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1867734379618117,
+      "guid": "7244c5a3fc76a05449e6d5b270f3c10b",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1730059661543035,
+      "guid": "d874756984dd94c49b1d3d0299c3a67b",
+      "type": 2
+    },
+    {
+      "fileID": 1469547985096463,
+      "guid": "09637acb40517a245b7743554a3f783e",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    },
+    {
+      "fileID": 1308667382414759,
+      "guid": "4910a5c964172ca4f91b77c70b9c33ba",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1884870905278009,
+      "guid": "821306266359cb64383f137206811568",
+      "type": 2
+    },
+    {
+      "fileID": 1724728372468134,
+      "guid": "1b7b9062c1cf0084683f0aabf9ac854a",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1277740172922163,
+      "guid": "ce1126defc1f9b948a4396d340da36b5",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    },
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1490918961562267,
+      "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1396995210313966,
+      "guid": "7172342f4538941448458c9ffc66e702",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1904187524395100,
+      "guid": "b8826cd706914e44199f16295308057e",
+      "type": 2
+    },
+    {
+      "fileID": 1746068447926949,
+      "guid": "c918d60878f738247a74457c1d1aa3b9",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1614668304393810,
+      "guid": "37866441c80574c478101a57f25b40c0",
+      "type": 2
+    },
+    {
+      "fileID": 1538896687575131,
+      "guid": "53a2162ac7ebd0c449a225e96570bee7",
+      "type": 2
+    },
+    {
+      "fileID": 1827461126557142,
+      "guid": "fb88c4495c43a75448413f2f3dc8721a",
+      "type": 2
+    },
+    {
+      "fileID": 1632620063454676,
+      "guid": "8eca46d24694c3f42a5a2597b685dd24",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1241224527553018,
+      "guid": "ca5ba355cfd228844b22467b53b2127a",
+      "type": 2
+    },
+    {
+      "fileID": 1372278204845333,
+      "guid": "da7a851ae0b4eda43b47e960feb36476",
+      "type": 2
+    },
+    {
+      "fileID": 1294378883854887,
+      "guid": "26908660096eda84f88e9f6b3c853e69",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1180386576064882,
+      "guid": "5fdc8f487bd9d824899a84aba8c7f8f2",
+      "type": 2
+    },
+    {
+      "fileID": 1950284367657068,
+      "guid": "b81d4de153115c04bac3a0c8916156c6",
+      "type": 2
+    },
+    {
+      "fileID": 1685634449377827,
+      "guid": "6978de66086230f41897710c14b4a3ba",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Bio": "The dungeon-stalking G'rulu represents an altered form of the deep-sea Grummy. After this transformation, the G'rulu retains its mastery over the tides, but it prefers to inhabit dry places, with a preference towards man-made lairs. There are old stories of G'rulus creating such lairs within the underwater caves of the Old World. According to the ancient demon tome Ahrimaaya, the G'rulus are said to perform dark rituals in these lairs in an attempt to awaken their immortal master, the Great Graamu.",
+  "History": "There are records of two groups of Monster Keepers that have embarked on expeditions to uncover those hidden lairs, in 113 AC and in 136 AC. Of the first expedition, nobody ever returned. The second expedition was led by Keeper Ranger Hollie Payton, the daughter of the first expedition's leader. She was determined to discover what tragedy had befallen her father and his daring expedition party. After their departure from the Sanctuary in 136 AC, none of them were seen again in years. It took five years until a single Keeper Novice from that doomed second expedition party returned to the Sanctuary. The boy returned as a mute and he never spoke another word until he died of natural causes in 236 AC.",
+  "StatOrientation": 3
+}

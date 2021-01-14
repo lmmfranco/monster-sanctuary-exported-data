@@ -1,0 +1,29 @@
+{
+  "guid": "8f3bace109f0133428940252c209e199",
+  "filename": "AbyssalSword+5",
+  "ID": 1677,
+  "Name": "Abyssal Sword",
+  "Price": 6500,
+  "Type": 0,
+  "Icon": "icon_abyssal_sword",
+  "Attack": 240,
+  "Magic": 240,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "Chance": 0.3
+}

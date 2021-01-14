@@ -1,0 +1,47 @@
+{
+  "guid": "beab5bbc03c1d6d47b667e594fcb1615",
+  "filename": "Diadem",
+  "ID": 499,
+  "Name": "Diadem",
+  "Price": 180,
+  "Type": 2,
+  "Icon": "icon_diadem",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 10,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 25,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1925411802137449,
+    "guid": "a1ba9e867692c624e87b70cdfd85c822",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

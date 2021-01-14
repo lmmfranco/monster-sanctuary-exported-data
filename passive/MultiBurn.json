@@ -1,0 +1,12 @@
+{
+  "guid": "2e18c17cdb297d447b54e193682cf83d",
+  "filename": "MultiBurn",
+  "ID": 452,
+  "Name": "Multi Burn",
+  "Icon": "icon_multiburn",
+  "Description": "{Burn} (Debuff) can be stacked two additional times on enemies. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 4
+}

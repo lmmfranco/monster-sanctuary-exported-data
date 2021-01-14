@@ -1,0 +1,534 @@
+{
+  "guid": "e0386f215037b9f4596993b37227dccf",
+  "filename": "Skorch",
+  "ID": 1145,
+  "Name": "Skorch",
+  "baseStats": {
+    "attack": 1,
+    "magic": 6,
+    "defense": 2,
+    "health": 7,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 0,
+    "health": 1,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 0,
+    "defense": 1,
+    "health": 2,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -18
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1230261216403782,
+      "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+      "type": 2
+    },
+    {
+      "fileID": 1175341146284385,
+      "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [],
+  "StartLevel": 30,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1303926108835556,
+    "guid": "27f835887a9c95c49ad29cf6bc39ef82",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.3
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -14,
+    "true": -14,
+    "z": 0
+  },
+  "MonsterTypes": "0400000008000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    },
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    },
+    {
+      "fileID": 1575434491505619,
+      "guid": "152896285d49da4409e1ac5f9fdb5cf2",
+      "type": 2
+    },
+    {
+      "fileID": 1122679574276655,
+      "guid": "873dff55b4b14b841aeca16ea95d483d",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1669379110235087,
+      "guid": "c5a11d77ae49cbe45b2ec0cf17cb9f0c",
+      "type": 2
+    },
+    {
+      "fileID": 1277807512553830,
+      "guid": "6c71b2031830e5440b360508fd72eede",
+      "type": 2
+    },
+    {
+      "fileID": 1415190589012756,
+      "guid": "02a6867e0bc2d4349872723f2fcbb290",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1686252289676525,
+    "guid": "1addcfac4e61fde42bf4d3822479c34e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1182815339764719,
+    "guid": "563a6819dfd43654e85fb3d68e6e2671",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1993664557776837,
+      "guid": "acd557f84e902a34d85b3f0240db9711",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1804906434757800,
+      "guid": "6d4cff81139bf5744829f0182f8a8800",
+      "type": 2
+    },
+    {
+      "fileID": 1109485832159856,
+      "guid": "92691af62cb62b04e89e42307bfccb06",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1242394876270034,
+      "guid": "221e558dd1880a74d87ae43aa29e0917",
+      "type": 2
+    },
+    {
+      "fileID": 1419201777112848,
+      "guid": "832bb55f10ff37a49b5b19cd5280642a",
+      "type": 2
+    },
+    {
+      "fileID": 1259570387628827,
+      "guid": "162b7b41baf17c343a13de44a0da82d5",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1481079166927516,
+      "guid": "8766052c01a245c40b68d99742fdc670",
+      "type": 2
+    },
+    {
+      "fileID": 1859707025539207,
+      "guid": "707e80426d182aa4ba73e448d1beff76",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1477129339383814,
+      "guid": "6131d3d01ac08ed488c03535914f5405",
+      "type": 2
+    },
+    {
+      "fileID": 1122679574276655,
+      "guid": "873dff55b4b14b841aeca16ea95d483d",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1021104630252308,
+      "guid": "8bbc5c6e6f9a47d468fde39f300eef3d",
+      "type": 2
+    },
+    {
+      "fileID": 1575434491505619,
+      "guid": "152896285d49da4409e1ac5f9fdb5cf2",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1599559429542707,
+      "guid": "733bea0f6ffd5a2458125e80e6303ded",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1435734183553929,
+      "guid": "20310e34a319a2140a0266de47c592bc",
+      "type": 2
+    },
+    {
+      "fileID": 1212320365182387,
+      "guid": "347c3f7c755fb0743997210d45477f1f",
+      "type": 2
+    },
+    {
+      "fileID": 1351397312410143,
+      "guid": "2e18c17cdb297d447b54e193682cf83d",
+      "type": 2
+    },
+    {
+      "fileID": 1248072806321043,
+      "guid": "680f88f236e79f040b6674ef44098ad3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1319254963054872,
+      "guid": "b0a74242fc450b541aa74bcfe4fd9f2c",
+      "type": 2
+    },
+    {
+      "fileID": 1762809354698780,
+      "guid": "da3ebddbc1c3eab41930e8d4062c9ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1084870249547862,
+      "guid": "4bea5be96dbaa7749800230aa115f386",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1868990838550000,
+      "guid": "ef3628c9f91cbcd4e9c9649b6ed29148",
+      "type": 2
+    },
+    {
+      "fileID": 1881448870977432,
+      "guid": "08abadc05f84ea6408783e043d6733c3",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1640627791648003,
+      "guid": "772d9973f770284428401ab796bef85f",
+      "type": 2
+    },
+    {
+      "fileID": 1190592801335464,
+      "guid": "36012d4a9955b354086044598c368d8c",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1734804120631767,
+      "guid": "2199b879f1500cf4b9c328d054f61958",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1746180404875967,
+      "guid": "a11505fe449783b4bbd597e7383528de",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1466354759296432,
+      "guid": "aa740d7bd23591a4f8fa6f415ff37bd3",
+      "type": 2
+    },
+    {
+      "fileID": 1797691729293347,
+      "guid": "d1d1470853169b24a9d6c1b6f49d51e7",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    },
+    {
+      "fileID": 1171859836952631,
+      "guid": "e6b04de6ed7330244a89b5258b5dab97",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1739137179663907,
+      "guid": "5e3c0e8a9fea6e14a86daa279a778c9d",
+      "type": 2
+    },
+    {
+      "fileID": 1409197818322483,
+      "guid": "047c93c2a85c2dd46b9d9fe89509b2db",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1608378294907172,
+      "guid": "27e2f5e50e94207498394593f772cf24",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1584214170903355,
+      "guid": "148d2ef00d4617349b14d80149938e0e",
+      "type": 2
+    },
+    {
+      "fileID": 1820460998543651,
+      "guid": "535cc876b72d6e84b9a4052f7523a721",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1037899881982079,
+      "guid": "77ca50555d51f0d42b04a80acc34f585",
+      "type": 2
+    }
+  ],
+  "Bio": "Known as \"candle dragons\", Skorches are the smallest and most unassuming dragon-type Monsters. They also have overly cheery and friendly dispositions, and it is said that a Skorch would never fight for itself. For those reasons, Skorches were long considered to be only fit as pets. However, if a Skorch is treated for years with love and respect by a human, something grows inside of them. When the time comes, and the Skorch's Keeper is threatened, it is as if the Skorch's very soul suddenly lights up. The Skorch becomes incredibly fierce and fiery, its fighting strength only limited by the bond to its Keeper.",
+  "History": "The first Skorches were created from ordinary candles by a warlock. He had wished to have the power of dragons at his command. However, he only took a single glance at his creations and threw them out. It is believed that Skorches carry the burden of this disappointment to this day, and it is for this reason that they so desire to bond with a Keeper. Skorches came to the Sanctuary out of their own accord when it was created.",
+  "StatOrientation": 3
+}

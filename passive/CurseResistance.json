@@ -1,0 +1,12 @@
+{
+  "guid": "1a632594fba1fde47be822f0a087703d",
+  "filename": "CurseResistance",
+  "ID": 917,
+  "Name": "Curse Resistance",
+  "Icon": "icon_light_passive",
+  "Description": "This Monster gains an additional natural resistance against Debuffs. Debuff effects reduced by {50%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 7,
+  "Modifier": -0.5
+}

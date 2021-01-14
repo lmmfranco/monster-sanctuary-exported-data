@@ -1,0 +1,12 @@
+{
+  "guid": "d79fe2c0f0244744eb367abcdd4bd958",
+  "filename": "NeutralAffinity",
+  "ID": 377,
+  "Name": "Neutral Affinity",
+  "Icon": "icon_neutral_affinity",
+  "Description": "{Neutral} attacks deal {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "Element": 0
+}

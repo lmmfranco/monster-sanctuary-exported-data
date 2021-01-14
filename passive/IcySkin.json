@@ -1,0 +1,12 @@
+{
+  "guid": "271ff778b22e20c4096dea3c4ff2fb3b",
+  "filename": "IcySkin",
+  "ID": 382,
+  "Name": "Icy Skin",
+  "Icon": "icon_icy_skin",
+  "Description": "When this Monster gets attacked, {0%} chance to apply {Chill} on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3,
+  "Chance": 0.4
+}

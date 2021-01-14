@@ -1,0 +1,11 @@
+{
+  "guid": "70b8e779e4953894a94ff8edad11c609",
+  "filename": "Magnetize",
+  "ID": 832,
+  "Name": "Magnetize",
+  "Icon": "icon_magnetize",
+  "Description": "When a {Shocked} enemy attacks, {0%} chance to redirect the attack to the Monster in your party with the highest Defense value.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 0.35
+}

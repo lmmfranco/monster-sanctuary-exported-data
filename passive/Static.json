@@ -1,0 +1,11 @@
+{
+  "guid": "c51099229e18310458c14a610d63297d",
+  "filename": "Static",
+  "ID": 1337,
+  "Name": "Static",
+  "Icon": "icon_static",
+  "Description": "Non-critical hits deal {0%} more damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.2
+}

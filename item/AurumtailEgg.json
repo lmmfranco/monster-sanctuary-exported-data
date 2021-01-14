@@ -1,0 +1,12 @@
+{
+  "guid": "8b2353f9830c4214ea90b79c457dcf73",
+  "filename": "AurumtailEgg",
+  "ID": 645,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1108185237600021,
+    "guid": "88e567f1f915c58459aac3237e2f45da",
+    "type": 2
+  }
+}

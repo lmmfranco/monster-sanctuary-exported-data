@@ -1,0 +1,12 @@
+{
+  "guid": "21d6087d08aeae64aa7c404addb7459e",
+  "filename": "SpinnerEgg",
+  "ID": 1379,
+  "Name": null,
+  "Price": 1000,
+  "Monster": {
+    "fileID": 1931227160376638,
+    "guid": "7438181495df2934c9cfbcc9e55f95c8",
+    "type": 2
+  }
+}

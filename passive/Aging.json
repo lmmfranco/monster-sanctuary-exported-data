@@ -1,0 +1,10 @@
+{
+  "guid": "f10fa25b18413ff4c8627910a44928e9",
+  "filename": "Aging",
+  "ID": 819,
+  "Name": "Aging",
+  "Icon": "icon_aging",
+  "Description": "At the end of its turn, this Monster gains an {Age} stack.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

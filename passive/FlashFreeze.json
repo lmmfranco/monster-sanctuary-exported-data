@@ -1,0 +1,14 @@
+{
+  "guid": "2ae7c6f4d3ae03341a3fe5d14bd519c3",
+  "filename": "FlashFreeze",
+  "ID": 144,
+  "Name": "Flash Freeze",
+  "Icon": "icon_flash_freeze",
+  "Description": "Trigger an additional {0%} damage hit when applying {Chill} (Debuff) with an attack. ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3,
+  "DamageValue": 1,
+  "requiresOtherDebuff": 0,
+  "SecondDebuff": 0
+}

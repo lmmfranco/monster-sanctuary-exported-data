@@ -1,0 +1,24 @@
+{
+  "guid": "b52b3a84cd3230547a3b842789f242ab",
+  "filename": "RadugaChampion",
+  "ID": 606,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 5.6,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.6,
+  "ManaMultiplier": 2.2,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 800,
+  "EncounterLevel": 13,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1951440096578158,
+    "guid": "6cdd9000856ffa547b8bbfd1cb19fed0",
+    "type": 2
+  },
+  "RewardQuantity": 3
+}

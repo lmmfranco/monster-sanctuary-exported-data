@@ -1,0 +1,12 @@
+{
+  "guid": "a23ac66630074714688a6bccca68c1b1",
+  "filename": "WindResistance",
+  "ID": 203,
+  "Name": "Wind Resistance",
+  "Icon": "icon_wind_resistance",
+  "Description": "Wind damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 3,
+  "Modifier": -0.5
+}

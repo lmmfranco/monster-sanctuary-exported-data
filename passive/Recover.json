@@ -1,0 +1,15 @@
+{
+  "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+  "filename": "Recover",
+  "ID": 381,
+  "Name": "Recover",
+  "Icon": "icon_recover",
+  "Description": "Heals {0%} of this Monster's Max Health at the start of every turn.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealValue": 0.1,
+  "TargetType": 3,
+  "BaseOnOwnHealth": 1,
+  "MonsterType": 0,
+  "MonsterType2": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "b782690c2ec11784da0812cbabe5cdb3",
+  "filename": "MoccusEgg",
+  "ID": 1326,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1174649737025080,
+    "guid": "4ddf14c67fc3a73498fcf033b262f2fd",
+    "type": 2
+  }
+}

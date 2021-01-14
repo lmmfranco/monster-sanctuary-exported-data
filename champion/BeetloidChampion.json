@@ -1,0 +1,24 @@
+{
+  "guid": "5a2055fd3c75039439d21b8da6f4c40c",
+  "filename": "BeetloidChampion",
+  "ID": 556,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.8,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.2,
+  "ManaMultiplier": 2,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 1000,
+  "EncounterLevel": 12,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1856722979648600,
+    "guid": "675492e64d239d3419d9148ac9908f70",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

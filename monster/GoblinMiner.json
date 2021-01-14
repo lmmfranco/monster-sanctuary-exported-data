@@ -1,0 +1,519 @@
+{
+  "guid": "388077b055637344c8c1f59ffec318f6",
+  "filename": "GoblinMiner",
+  "ID": 1061,
+  "Name": "Goblin Miner",
+  "baseStats": {
+    "attack": 7,
+    "magic": 1,
+    "defense": 5,
+    "health": 4,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 0,
+    "defense": 0,
+    "health": 2,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 2,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 3,
+    "true": -16
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    },
+    {
+      "fileID": 1168011990567236,
+      "guid": "ff548838b039fa74bbc9ee164dbfb189",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1917030411297482,
+      "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+      "type": 2
+    },
+    {
+      "fileID": 1236254572456791,
+      "guid": "907eade581dbacc4ebbf3880173e9561",
+      "type": 2
+    },
+    {
+      "fileID": 1337402313279946,
+      "guid": "66be127ec58cbf746a2c7f275274009f",
+      "type": 2
+    }
+  ],
+  "StartLevel": 28,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 2,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1192359474171270,
+    "guid": "238714c492322224b9343a31b105f8a7",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.3
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -16,
+    "true": -16,
+    "z": 0
+  },
+  "MonsterTypes": "0e000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1916080860823766,
+      "guid": "c56e84fe09e82a74496dbaadcc6a0fa9",
+      "type": 2
+    },
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1481861532246719,
+      "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+      "type": 2
+    },
+    {
+      "fileID": 1129467645554168,
+      "guid": "746503f9146c8d441b1d53eb43c241fd",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1110390639892486,
+      "guid": "08bdb6b418068d545ba0d14ed6643929",
+      "type": 2
+    },
+    {
+      "fileID": 1182325921986758,
+      "guid": "007babbec951ac748818cf081461ebf5",
+      "type": 2
+    },
+    {
+      "fileID": 1346620869320867,
+      "guid": "e48f3d7930c570c41b1f9ddf3e8ddcaa",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1376515897454561,
+    "guid": "cda98e846c5071441a02f59adaae4a98",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1022911926836978,
+    "guid": "c3f19f03d777eb8428f44b9107837e6b",
+    "type": 2
+  },
+  "Tier1Skills": [],
+  "Tier2Skills": [
+    {
+      "fileID": 1851896989527293,
+      "guid": "f43c49eba85b65240a5685e44ade46e3",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1799654787480104,
+      "guid": "553b4a626c1c0b643b3f4e1ff6cb1cfe",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1023077916400711,
+      "guid": "fc2997f1eae5e374b8ade988f25e7fea",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1730468822825640,
+      "guid": "633443882d5005a48995bd2f3238fce8",
+      "type": 2
+    },
+    {
+      "fileID": 1481861532246719,
+      "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+      "type": 2
+    },
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1601700434556740,
+      "guid": "4419ddc0d8d7d53469426ecb671b73a8",
+      "type": 2
+    },
+    {
+      "fileID": 1729154241302233,
+      "guid": "c0ded43d430430546aa91ea0bdfb29dc",
+      "type": 2
+    },
+    {
+      "fileID": 1920090927515854,
+      "guid": "3ed29edc956f60d4189e9eb41fbd6c27",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1916080860823766,
+      "guid": "c56e84fe09e82a74496dbaadcc6a0fa9",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1347280706692822,
+      "guid": "085e4de8d86dd98478f8995282c46c43",
+      "type": 2
+    },
+    {
+      "fileID": 1633908374626458,
+      "guid": "c14c459f6b9344c41a69ec431cbf372f",
+      "type": 2
+    },
+    {
+      "fileID": 1200843672869227,
+      "guid": "6761f3e7bd89852418f35f6b0100976d",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1392451628703419,
+      "guid": "225327c9de2c6e440a995d2d25d8369b",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1066437600484723,
+      "guid": "55a5f5eb2c66f5644a0738bcdaf81b83",
+      "type": 2
+    },
+    {
+      "fileID": 1841984269241047,
+      "guid": "c2f03c5e647af234790d81d92a481933",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1864778115394458,
+      "guid": "d350b42397058044ab890289c2b8bf7c",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1844977727507313,
+      "guid": "4270b9760148097459d7f88b3e3aa34a",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1794529203512153,
+      "guid": "bbc12f66c6117c143bbba9da4c1876d2",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1988028789464820,
+      "guid": "0c384ec940640334497b09df5b64b738",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1992712642781729,
+      "guid": "5d8042bda08120f49b50ddd68dffa14e",
+      "type": 2
+    },
+    {
+      "fileID": 1659188227955396,
+      "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1659599520788607,
+      "guid": "b07c19550b9fe1e4f916fd2e353f2600",
+      "type": 2
+    },
+    {
+      "fileID": 1417726058680459,
+      "guid": "8e34872c5d8442f4fb64841be81aec98",
+      "type": 2
+    },
+    {
+      "fileID": 1633908374626458,
+      "guid": "c14c459f6b9344c41a69ec431cbf372f",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1129467645554168,
+      "guid": "746503f9146c8d441b1d53eb43c241fd",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1700800212747082,
+      "guid": "b56502850b46c9144af543fc3f813f31",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    },
+    {
+      "fileID": 1746068447926949,
+      "guid": "c918d60878f738247a74457c1d1aa3b9",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1918146839594179,
+      "guid": "f2852e94f93c4e447a76290d7f17e9ae",
+      "type": 2
+    },
+    {
+      "fileID": 1198340958096090,
+      "guid": "71e2de4746ba1754c862c6a01f2f5fa1",
+      "type": 2
+    },
+    {
+      "fileID": 1492005854497249,
+      "guid": "608b3a8ebf38a934abe83761558889bb",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1930844744239066,
+      "guid": "c1cb42cd81a08674da969e09c76f0a0f",
+      "type": 2
+    },
+    {
+      "fileID": 1801836166254387,
+      "guid": "69a14d9034bd1b74498df9186909e19d",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1165889434672650,
+      "guid": "f61541471141c9a429badd5dcfc029c5",
+      "type": 2
+    }
+  ],
+  "Bio": "Goblin Miners are Goblins who have chosen to work in the gloomy and tepid mines of the Magma Chamber. It's quite surprising how organized Goblins can be when they work towards a common goal - in fact, the Goblin Miners even have a union. A Goblin Miner's pickaxe is his most prized possession, as the union assigns each Miner a single pickaxe that they are required to keep using until they go into retirement. However, retirement usually never happens due to the dangerous working conditions. It is the union's miserly business practices and their complete disregard of work ethics that have made them the Sanctuary's top supplier of coal and valuable minerals.",
+  "History": "Some time after the Goblins had taken residence in the Ancient Woods of the Sanctuary, a group of Goblins ventured into the Magma Chamber. They encountered a Salahammer who was about to dispose of a failed creation in the magma pits. It was an ill-made attempt at a battle axe. However, the Salahammer instead sold it to the Goblins and told them that it was a pickaxe. That's how the Goblins' mining operation began.",
+  "StatOrientation": 2
+}

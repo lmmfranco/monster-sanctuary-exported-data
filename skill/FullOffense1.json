@@ -1,0 +1,34 @@
+{
+  "guid": "d1d1470853169b24a9d6c1b6f49d51e7",
+  "filename": "FullOffense1",
+  "ID": 244,
+  "Name": "Full Offense",
+  "Icon": "icon_full_offense",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 100,
+  "TargetType": 3,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 4398047035392,
+  "ApplyDelay": 0.5,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

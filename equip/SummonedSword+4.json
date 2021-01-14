@@ -1,0 +1,55 @@
+{
+  "guid": "d5bf6c57d2fb9f54bb2d9d2d24402df7",
+  "filename": "SummonedSword+4",
+  "ID": 1476,
+  "Name": "Summoned Sword",
+  "Price": 4500,
+  "Type": 0,
+  "Icon": "icon_summoned_sword",
+  "Attack": 0,
+  "Magic": 190,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0.14,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1108934889089407,
+    "guid": "7070124d5233da64cb846e4609369ac3",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1079285706125740,
+        "guid": "38bb721fb38db564e831d65ceceba144",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

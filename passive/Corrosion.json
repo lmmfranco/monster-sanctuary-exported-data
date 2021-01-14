@@ -1,0 +1,11 @@
+{
+  "guid": "6ddf2e4f2b3a53e4282407348f033df9",
+  "filename": "Corrosion",
+  "ID": 1440,
+  "Name": "Corrosion",
+  "Icon": "icon_corrosion",
+  "Description": "{Armor Break} increases the {Poison}, {Burn}, {Shock} and {Congeal} damage enemies take by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DamageIncrease": 0.2
+}

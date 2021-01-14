@@ -1,0 +1,189 @@
+{
+  "guid": "f28f3e52d493b184990264484ecbafc1",
+  "filename": "ShieldBurst1",
+  "ID": 844,
+  "Name": "Shield Burst",
+  "Icon": "icon_shield_burst",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 0,
+  "Duration": 1.9,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0,
+  "TotalDamage": 0,
+  "CalculatedDamage": 0,
+  "CalculatedTotalDamage": 0,
+  "HitTimings": [
+    1.5
+  ],
+  "Element": 0,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 1,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Multiplicator": 2.4,
+  "Cap": 0.5,
+  "AnimElement": {
+    "fileID": 1647648205324571,
+    "guid": "de9b8aa9dd85d2c4caf1b70c33a74e7a",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0.5,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1339416935367706,
+    "guid": "636b4a1aaac6b464b98d2b5c74fa26df",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0.5,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0,
+  "AnimElement__2": {
+    "fileID": 1306773487994282,
+    "guid": "26873a144ccde524f91a75e0ca4c62f0",
+    "type": 2
+  },
+  "Offset__2": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__2": 0,
+  "Color__2": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__2": 0,
+  "Delay__2": 0.5,
+  "FlipHorizontally__2": 0,
+  "FlipVertically__2": 0,
+  "FlipDependingOnEnemies__2": 1,
+  "TriggerOnEverySingleTarget__2": 1,
+  "MultipleEnemiesDelay__3": 0,
+  "Overrides__2": [],
+  "PositionOnGround__2": 0,
+  "IncludeDeadMonsterPosition__2": 0,
+  "AnimElement__3": {
+    "fileID": 1677126110134852,
+    "guid": "e449d34a3c11c2b4ab55ee367ea3730d",
+    "type": 2
+  },
+  "Offset__3": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__3": 0,
+  "Color__3": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__3": 0,
+  "Delay__3": 1.5,
+  "FlipHorizontally__3": 0,
+  "FlipVertically__3": 0,
+  "FlipDependingOnEnemies__3": 1,
+  "TriggerOnEverySingleTarget__3": 1,
+  "MultipleEnemiesDelay__4": 0,
+  "Overrides__3": [],
+  "PositionOnGround__3": 0,
+  "IncludeDeadMonsterPosition__3": 0,
+  "AnimElement__4": {
+    "fileID": 1890072295435030,
+    "guid": "e5f4db5d23b4dc34b98f290e096dc22d",
+    "type": 2
+  },
+  "Offset__4": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__4": 0,
+  "Color__4": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__4": 0,
+  "Delay__4": 0,
+  "FlipHorizontally__4": 0,
+  "FlipVertically__4": 0,
+  "FlipDependingOnEnemies__4": 1,
+  "TriggerOnEverySingleTarget__4": 1,
+  "MultipleEnemiesDelay__5": 0,
+  "Overrides__4": [],
+  "PositionOnGround__4": 0,
+  "IncludeDeadMonsterPosition__4": 0,
+  "RotateTowardsEnemy": 0,
+  "AllAllies": 0,
+  "MiddleOfTheTeam": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "f78a570aa5e9268478dd367e8f1fc645",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": []
+}

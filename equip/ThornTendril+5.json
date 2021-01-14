@@ -1,0 +1,28 @@
+{
+  "guid": "3c35704998a01924b8572c57db7a7db5",
+  "filename": "ThornTendril+5",
+  "ID": 1791,
+  "Name": "Thorn Tendril",
+  "Price": 5500,
+  "Type": 0,
+  "Icon": "icon_thorn_tendril",
+  "Attack": 230,
+  "Magic": 230,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

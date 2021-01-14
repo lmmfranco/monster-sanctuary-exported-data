@@ -1,0 +1,14 @@
+{
+  "guid": "16b6f3f88d117194d9339b5c8cc738c3",
+  "filename": "Cooling",
+  "ID": 155,
+  "Name": "Cooling",
+  "Icon": "icon_cooling",
+  "Description": "Every hit has a {0%} chance to apply {Chill}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

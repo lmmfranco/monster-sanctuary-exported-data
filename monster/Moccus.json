@@ -1,0 +1,578 @@
+{
+  "guid": "4ddf14c67fc3a73498fcf033b262f2fd",
+  "filename": "Moccus",
+  "ID": 1323,
+  "Name": "Moccus",
+  "baseStats": {
+    "attack": 5,
+    "magic": 5,
+    "defense": 2,
+    "health": 8,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 4,
+    "magic": 4,
+    "defense": 0,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 2,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": -31
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1230261216403782,
+      "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+      "type": 2
+    },
+    {
+      "fileID": 1227810096600977,
+      "guid": "c4f33991a81891d44b7de3a0c92299b6",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1213504045499005,
+      "guid": "b6b136fbf5831aa448cb1a8a35f17673",
+      "type": 2
+    },
+    {
+      "fileID": 1676194180794099,
+      "guid": "8e995ef8c3b69b343b47e928dffb81ef",
+      "type": 2
+    },
+    {
+      "fileID": 1660740110332043,
+      "guid": "b782690c2ec11784da0812cbabe5cdb3",
+      "type": 2
+    }
+  ],
+  "StartLevel": 35,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1693090300313222,
+    "guid": "f10b5e31118875e4690b8b0d71687818",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.35
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -26,
+    "true": -36,
+    "z": 0
+  },
+  "MonsterTypes": "0900000007000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    },
+    {
+      "fileID": 1469768402033861,
+      "guid": "5e74410d3c65c194da0757323b2551bb",
+      "type": 2
+    },
+    {
+      "fileID": 1958257043402336,
+      "guid": "de82373cb26fbf448a575b1e6b2ae4f2",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1943923592503769,
+      "guid": "5cb199bbab9d9e240924c92a299abd5f",
+      "type": 2
+    },
+    {
+      "fileID": 1557801845139300,
+      "guid": "ea653525c295edf40849a0127ac8befb",
+      "type": 2
+    },
+    {
+      "fileID": 1339082555015985,
+      "guid": "caea68f583b468e45ab62a2b30109f44",
+      "type": 2
+    },
+    {
+      "fileID": 1019004486656992,
+      "guid": "71c45ed3c7ba00e4d960edbcbb9b72af",
+      "type": 2
+    },
+    {
+      "fileID": 1019004486656992,
+      "guid": "71c45ed3c7ba00e4d960edbcbb9b72af",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1257024486048629,
+      "guid": "7def2797b72f2a243b48ee20ceb3b810",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1853651283100633,
+      "guid": "799dfba164934294e98c7b6291b715b8",
+      "type": 2
+    },
+    {
+      "fileID": 1656217717111730,
+      "guid": "90f1953fc9348bd4e9274f0cadc16fe5",
+      "type": 2
+    },
+    {
+      "fileID": 1514378384392512,
+      "guid": "9641a415ffaf5c149a9ad526ebcf88df",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1257024486048629,
+      "guid": "7def2797b72f2a243b48ee20ceb3b810",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1959250547738836,
+      "guid": "8c98bd5a2ca244046ba3b1054a21165a",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1084395927985097,
+      "guid": "439d6feee760088468da39a189c239f7",
+      "type": 2
+    },
+    {
+      "fileID": 1893230335231597,
+      "guid": "32a702c4aa313dc41a435553753c0f98",
+      "type": 2
+    },
+    {
+      "fileID": 1019004486656992,
+      "guid": "71c45ed3c7ba00e4d960edbcbb9b72af",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1333659596324231,
+      "guid": "a69ec0a2c06674e42a5668998e586cef",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1303240407121713,
+      "guid": "470e5efd8ffd7464494cbd4425f92b51",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1304510296261288,
+      "guid": "5c73ac7d47e87d843a7d3a513e0484bd",
+      "type": 2
+    },
+    {
+      "fileID": 1557801845139300,
+      "guid": "ea653525c295edf40849a0127ac8befb",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1644946845273972,
+      "guid": "669ad5f402af5a54e9dbe42c42ba288a",
+      "type": 2
+    },
+    {
+      "fileID": 1638697548567420,
+      "guid": "a98d6cd72f493774cba7fe71a22083f8",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1621195628889368,
+      "guid": "623a8e8c2eefb174e922f5441883e9cc",
+      "type": 2
+    },
+    {
+      "fileID": 1825927690767900,
+      "guid": "e59a41779be6a1242832f8ce44dffb8f",
+      "type": 2
+    },
+    {
+      "fileID": 1019004486656992,
+      "guid": "71c45ed3c7ba00e4d960edbcbb9b72af",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1469768402033861,
+      "guid": "5e74410d3c65c194da0757323b2551bb",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1666011400791954,
+      "guid": "fecea4592c449024480588b013057c0f",
+      "type": 2
+    },
+    {
+      "fileID": 1339082555015985,
+      "guid": "caea68f583b468e45ab62a2b30109f44",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1565349462225655,
+      "guid": "4c028b963dbad484a9814ffe22d3b9f6",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1250647579558197,
+      "guid": "e79bc143f115f8d4c950761e54d5c68a",
+      "type": 2
+    },
+    {
+      "fileID": 1943923592503769,
+      "guid": "5cb199bbab9d9e240924c92a299abd5f",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1214900860319678,
+      "guid": "f1e5426cb78614546b91b7c602385ff6",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1835758844189637,
+      "guid": "7d60dad8b080fbe45bf609a655628987",
+      "type": 2
+    },
+    {
+      "fileID": 1926723529660543,
+      "guid": "7b94e883e70cf3d42a639a45a4059e97",
+      "type": 2
+    },
+    {
+      "fileID": 1707504374115949,
+      "guid": "f449322e1dce9774d86bebf6c0256e08",
+      "type": 2
+    },
+    {
+      "fileID": 1768581522094560,
+      "guid": "323d37c5270f60247b743666dbd003e9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1382796703623965,
+      "guid": "699f34b8ef2a8d2439bef460856fb409",
+      "type": 2
+    },
+    {
+      "fileID": 1665269473060702,
+      "guid": "ddcf461fa2b378d4eb93291db40abc74",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1230709447252372,
+      "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1132929607721990,
+      "guid": "53a29af8d9ce755488dae03c7c3ec048",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1044871172894556,
+      "guid": "919ffd38838759a4a9ca64d57a046e81",
+      "type": 2
+    },
+    {
+      "fileID": 1868990838550000,
+      "guid": "ef3628c9f91cbcd4e9c9649b6ed29148",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1914773176355542,
+      "guid": "d7270b208094b504295809182193e119",
+      "type": 2
+    },
+    {
+      "fileID": 1640627791648003,
+      "guid": "772d9973f770284428401ab796bef85f",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1637226370776333,
+      "guid": "46b92a6076355054fa4ccf45b219b6f3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1908043364487314,
+      "guid": "9df0678799ef9754fb6c306934454930",
+      "type": 2
+    },
+    {
+      "fileID": 1734804120631767,
+      "guid": "2199b879f1500cf4b9c328d054f61958",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1136114337084666,
+      "guid": "5b5287a87fe1f654bb0e02ec543831a2",
+      "type": 2
+    }
+  ],
+  "Bio": "Moccuses are boars that were once mummified and entombed, but came to life again and escaped their constraints with undying vigor. Moccuses carry a great number of toxins and parasitic spores inside their bodies that they unleash wherever they go. They also possess magic that lies at the border between life and death.",
+  "History": "In ancient times, there was a people that zealously worshipped a deity that had the form of a boar. This deity was associated with fertility, responsible for bountiful harvests and successful child births of humans and animals alike. However, a great dry spell befell that people for many years, harvests growing shorter and shorter with each passing year. The priests preached to their people that their sinful ways had made them fall out of favor with their deity. According to them, drastic measures were needed to appease their deity. So they sacrificed grown boars by mummifying them and entombing them near the fields. However, this had the opposite effect - it enraged their deity, who gave new life to those sacrificial boars and turned them into harbingers of pestilence, unleashing the opposite of what the priests had hoped for. ",
+  "StatOrientation": 1,
+  "PredefinedActions": [
+    {
+      "Turn": 0,
+      "Action": {
+        "fileID": 1806872777463061,
+        "guid": "234eb5a2c265b9a468413a2732227d48",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 1,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 0
+    },
+    {
+      "Turn": 1,
+      "Action": {
+        "fileID": 1346453012941244,
+        "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 1,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "605ee0b54c94dfc4788561ae685c53aa",
+  "filename": "SteamGolemEgg",
+  "ID": 35,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1195886436627817,
+    "guid": "7ecb7eead5ca3134a83f4a986a6d85ee",
+    "type": 2
+  }
+}

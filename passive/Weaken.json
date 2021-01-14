@@ -1,0 +1,14 @@
+{
+  "guid": "dc816885ea968f04685dde79847df6a1",
+  "filename": "Weaken",
+  "ID": 124,
+  "Name": "Weaken",
+  "Icon": "icon_weaken",
+  "Description": "Every hit has a {0%} chance to apply {Weakness}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 0,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "52167ce1e475fc14697d729a1d67f8cc",
+  "filename": "DodoEgg",
+  "ID": 965,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1089162075386834,
+    "guid": "4bc18f4f6b90c534f884b82ab763c38f",
+    "type": 2
+  }
+}

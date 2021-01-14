@@ -1,0 +1,12 @@
+{
+  "guid": "7b1c7ee19941ace4b9fe1601ecdf636b",
+  "filename": "SutsuneEgg",
+  "ID": 1596,
+  "Name": null,
+  "Price": 700,
+  "Monster": {
+    "fileID": 1849636299533177,
+    "guid": "1eb16b2327bffce44bc4c763dae9daf0",
+    "type": 2
+  }
+}

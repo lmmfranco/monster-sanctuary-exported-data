@@ -1,0 +1,12 @@
+{
+  "guid": "f0295bffa8168e74e9ff11aacfd7c372",
+  "filename": "FrostyEgg",
+  "ID": 389,
+  "Name": null,
+  "Price": 350,
+  "Monster": {
+    "fileID": 1446513808024006,
+    "guid": "1faaf20f0f10fed48bf80722eb37d516",
+    "type": 2
+  }
+}

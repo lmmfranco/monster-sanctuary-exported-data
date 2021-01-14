@@ -1,0 +1,88 @@
+{
+  "guid": "5e74410d3c65c194da0757323b2551bb",
+  "filename": "Spore1",
+  "ID": 108,
+  "Name": "Spore",
+  "Icon": "icon_spore",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 50,
+  "TargetType": 0,
+  "Duration": 2.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.55,
+  "TotalDamage": 1.65,
+  "CalculatedDamage": 0.5333334,
+  "CalculatedTotalDamage": 1.6,
+  "HitTimings": [
+    1.4,
+    1.7,
+    2
+  ],
+  "Element": 4,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Debuffs": 0,
+  "ApplyDelay": 2.3,
+  "ApplyChance": 1,
+  "TargetCount": 1,
+  "AnimElement": {
+    "fileID": 1406345789988065,
+    "guid": "0189f235cc4b07c4496c09f8594109c1",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "1a2422c52490f1247987858bf1915e71",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0,
+    0.45,
+    0.9,
+    1.35,
+    1.8
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+  "filename": "Evasion",
+  "ID": 445,
+  "Name": "Evasion",
+  "Icon": "icon_evasion",
+  "Description": "Critical Chance also increases the chance to dodge enemy hits by {0%} of the value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DodgeChance": 0.2
+}

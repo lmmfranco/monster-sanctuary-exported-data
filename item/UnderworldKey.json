@@ -1,0 +1,12 @@
+{
+  "guid": "c99a158bf528a5e49b8bf1ba959437d2",
+  "filename": "UnderworldKey",
+  "ID": 1341,
+  "Name": "Underworld key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1775664059244215,
+    "guid": "ba92d4faa163f44439196f043dbc8aba",
+    "type": 2
+  }
+}

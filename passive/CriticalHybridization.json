@@ -1,0 +1,16 @@
+{
+  "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+  "filename": "CriticalHybridization",
+  "ID": 453,
+  "Name": "Critical Hybridization",
+  "Icon": "icon_critical_hybridization",
+  "Description": "The first critical hit of a physical attack triggers an additional hit equal to {0%} of Magic value and vice versa.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0.6,
+  "AnimElement": {
+    "fileID": 1817380685692770,
+    "guid": "9e50fbdd805cc9340867a035bab0c595",
+    "type": 2
+  }
+}

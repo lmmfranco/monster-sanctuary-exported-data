@@ -1,0 +1,12 @@
+{
+  "guid": "45d13a763df6b0e48ab636264f72182f",
+  "filename": "FungiEgg",
+  "ID": 59,
+  "Name": null,
+  "Price": 300,
+  "Monster": {
+    "fileID": 1330416415988730,
+    "guid": "f74f6f5cf8ed1b74baf13e4c9701921a",
+    "type": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "e5a3fb1e038b027488e622a7caa56dea",
+  "filename": "BurnDown",
+  "ID": 1730,
+  "Name": "Burn Down",
+  "Icon": "icon_burn_down",
+  "Description": "{Burn} (Debuff) damage dealt to enemies is increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "damageIncrease": 0.5
+}

@@ -1,0 +1,17 @@
+{
+  "guid": "85dc2d8e8c10dae4fb3922e43697af6a",
+  "filename": "ChargedRebirth",
+  "ID": 1336,
+  "Name": "Charged Rebirth",
+  "Icon": "icon_charged_rebirth",
+  "Description": "When this Monster dies for the first time in combat, consume all {Charge} stacks to revive it with {0%} of its Max Health for every stack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealAmount": 0.01,
+  "AnimElement": {
+    "fileID": 1843581525304517,
+    "guid": "5a2ffb10be4813642850b8b45b937b32",
+    "type": 2
+  },
+  "ChargedRebirth": 1
+}

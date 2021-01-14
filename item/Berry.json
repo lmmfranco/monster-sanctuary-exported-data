@@ -1,0 +1,12 @@
+{
+  "guid": "cfb61127c07759b47a5e9f24abe50ce7",
+  "filename": "Berry",
+  "ID": 41,
+  "Name": "Berry",
+  "Price": 50,
+  "Icon": "icon_berry",
+  "Description": null,
+  "Stat": 6,
+  "Amount": 0.06,
+  "Level": 1
+}

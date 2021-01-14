@@ -1,0 +1,14 @@
+{
+  "guid": "5067e38201634084dae5c3ab571dd6d0",
+  "filename": "SevereHit",
+  "ID": 677,
+  "Name": "Severe Hit",
+  "Icon": "icon_severe_hit",
+  "Description": "If a single hit deals more than {0%} of the enemy's Max HP ({1%} against Champions), the enemy is afflicted with {Armor Break} (Debuff) and a stack of {Wound}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5,
+  "SpecialBuff": 6,
+  "DamageTreshold": 0.25,
+  "ChampionTreshold": 0.1
+}

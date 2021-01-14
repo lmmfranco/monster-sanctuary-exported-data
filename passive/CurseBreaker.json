@@ -1,0 +1,10 @@
+{
+  "guid": "98fdaeff8929ff140a7fade1cb077cf6",
+  "filename": "CurseBreaker",
+  "ID": 1396,
+  "Name": "Curse Breaker",
+  "Icon": "icon_light_passive",
+  "Description": "At the start of the turn, remove a Debuff from each Monster in the party.",
+  "IsAura": 1,
+  "IsUnique": 0
+}

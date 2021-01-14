@@ -1,0 +1,40 @@
+{
+  "guid": "9a349793611f6be49af55ce38eae4201",
+  "filename": "Cauldron+2",
+  "ID": 1450,
+  "Name": "Cauldron",
+  "Price": 5000,
+  "Type": 5,
+  "Icon": "icon_cauldron",
+  "Attack": 0,
+  "Magic": 11,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 26,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1008729217399795,
+    "guid": "bf277836e4683914f82eda33947b629c",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1735445830266374,
+        "guid": "40219434937e68b438cab2c0b83c648e",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "DebuffModifier": 0.07
+}

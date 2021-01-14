@@ -1,0 +1,12 @@
+{
+  "guid": "5931313769aaf0c428a9ebb1b9200138",
+  "filename": "HealthFocus",
+  "ID": 661,
+  "Name": "Health Focus",
+  "Icon": "icon_health_focus",
+  "Description": "Health values from equipment increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 3,
+  "Bonus": 0.25
+}

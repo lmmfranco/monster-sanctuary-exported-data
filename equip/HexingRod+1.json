@@ -1,0 +1,50 @@
+{
+  "guid": "ab41268653a65b049ad90fe4d9a151b7",
+  "filename": "HexingRod+1",
+  "ID": 1667,
+  "Name": "Hexing Rod",
+  "Price": 3500,
+  "Type": 0,
+  "Icon": "icon_hexing_rod",
+  "Attack": 35,
+  "Magic": 55,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1318217301022438,
+    "guid": "f804bfd4cf74fd046aa15313b089b197",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "HealActions": 1,
+  "BuffActions": 1,
+  "ShieldActions": 1
+}

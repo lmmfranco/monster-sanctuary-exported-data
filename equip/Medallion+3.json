@@ -1,0 +1,39 @@
+{
+  "guid": "62605e3e4730bc643861c59dd2ce97a1",
+  "filename": "Medallion+3",
+  "ID": 783,
+  "Name": "Medallion",
+  "Price": 3000,
+  "Type": 5,
+  "Icon": "icon_medallion",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 30,
+  "CritChance": 0,
+  "CritDamage": 0.16,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 17,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1285284080232903,
+    "guid": "4daa89bda9fe6ac41957f318a24d8402",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

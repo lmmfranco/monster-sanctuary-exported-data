@@ -1,0 +1,28 @@
+{
+  "guid": "f74bbd163a8e5a84aaecb31225774fe9",
+  "filename": "Helmet+5",
+  "ID": 1373,
+  "Name": "Helmet",
+  "Price": 2250,
+  "Type": 2,
+  "Icon": "icon_helmet",
+  "Attack": 60,
+  "Magic": 0,
+  "Defense": 60,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

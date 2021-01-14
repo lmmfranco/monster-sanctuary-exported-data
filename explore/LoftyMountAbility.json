@@ -1,0 +1,25 @@
+{
+  "guid": "f958cce319a0d914582441436c97cb52",
+  "filename": "LoftyMountAbility",
+  "PlayerOffset": {
+    "x": 1,
+    "true": 9,
+    "z": 0
+  },
+  "Name": "Lofty Mount",
+  "Description": "- Player can ride the Monster\n- Increases jump height",
+  "PlayerJumpOffset": {
+    "x": 0,
+    "true": 2,
+    "z": 0
+  },
+  "PlayerJumpFrequency": 0.28,
+  "PlayerIdleOffset": {
+    "x": 0,
+    "true": 1,
+    "z": 0
+  },
+  "PlayerIdleFrequency": 0.84,
+  "AlternativeRideAnimation": 0,
+  "IncreasedJumpHeight": 1
+}

@@ -1,0 +1,28 @@
+{
+  "guid": "a24dd901b8ce09a4fb79483a5540a965",
+  "filename": "Medallion+5",
+  "ID": 1498,
+  "Name": "Medallion",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_medallion",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 55,
+  "CritChance": 0,
+  "CritDamage": 0.2,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 25,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

@@ -1,0 +1,25 @@
+{
+  "guid": "20ecac1e7911ea3499201b568bd92874",
+  "filename": "MountAbilityKirin",
+  "PlayerOffset": {
+    "x": 1,
+    "true": 8,
+    "z": 0
+  },
+  "Name": "Mount",
+  "Description": "- Allows to mount the Monster",
+  "PlayerJumpOffset": {
+    "x": 0,
+    "true": 2,
+    "z": 0
+  },
+  "PlayerJumpFrequency": 0.5,
+  "PlayerIdleOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "PlayerIdleFrequency": 0,
+  "AlternativeRideAnimation": 0,
+  "IncreasedJumpHeight": 0
+}

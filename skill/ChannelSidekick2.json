@@ -1,0 +1,36 @@
+{
+  "guid": "1d7d06ad0c0255e40b3cb7b207b3ee23",
+  "filename": "ChannelSidekick2",
+  "ID": 419,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 120,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114372372211119490,
+    "guid": "2604e74585eacb9478fee21b710972fa",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 17592186830848,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 2,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

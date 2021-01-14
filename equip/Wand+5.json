@@ -1,0 +1,28 @@
+{
+  "guid": "fe8bc97dd257984439c61ec31b33f469",
+  "filename": "Wand+5",
+  "ID": 1523,
+  "Name": "Wand",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_wand",
+  "Attack": 0,
+  "Magic": 250,
+  "Defense": 70,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "9727fff7e529fcc42a2101199b55da32",
+  "filename": "BarrierChannel1",
+  "ID": 330,
+  "Name": "Safecast",
+  "Icon": "icon_barrier_channel",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114765747661736060,
+    "guid": "a11505fe449783b4bbd597e7383528de",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 800000004000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

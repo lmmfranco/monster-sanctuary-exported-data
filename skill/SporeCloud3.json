@@ -1,0 +1,89 @@
+{
+  "guid": "ddcf461fa2b378d4eb93291db40abc74",
+  "filename": "SporeCloud3",
+  "ID": 1215,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 1,
+  "Duration": 2.6,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114677685106330340,
+    "guid": "7b94e883e70cf3d42a639a45a4059e97",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.25,
+  "TotalDamage": 2.5,
+  "CalculatedDamage": 1.244177,
+  "CalculatedTotalDamage": 2.488355,
+  "HitTimings": [
+    1,
+    1.5
+  ],
+  "Element": 4,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Debuffs": 0,
+  "ApplyDelay": 2.1,
+  "ApplyChance": 0.5,
+  "TargetCount": 1,
+  "AnimElement": {
+    "fileID": 1758495172382776,
+    "guid": "b488f307d6efa69418c62fef71df6fa0",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "1a2422c52490f1247987858bf1915e71",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0,
+    0.45,
+    0.9,
+    1.35,
+    1.8
+  ]
+}

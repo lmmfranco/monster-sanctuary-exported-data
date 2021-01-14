@@ -1,0 +1,20 @@
+{
+  "guid": "8b3a6d153875a274b825a6c57beff6b8",
+  "filename": "DefenseProc",
+  "ID": 385,
+  "Name": "Defense Proc",
+  "Icon": "icon_defense_proc",
+  "Description": "Every attack triggers an additional hit equal to {1%} of Defense value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.5,
+  "ScaleStat": 2,
+  "AnimElement": {
+    "fileID": 1782245158775039,
+    "guid": "e2c0ffb5fc6394641831d436aa3b85f4",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

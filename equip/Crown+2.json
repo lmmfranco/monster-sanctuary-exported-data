@@ -1,0 +1,47 @@
+{
+  "guid": "25abc0334f9e3a043b7fef3f1ffedd40",
+  "filename": "Crown+2",
+  "ID": 575,
+  "Name": "Crown",
+  "Price": 2500,
+  "Type": 2,
+  "Icon": "icon_crown",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 22,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 220,
+  "Mana": 32,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1593875807534826,
+    "guid": "23e057663e3db6148b9eb5437018e560",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1177786864638448,
+        "guid": "4f367a9a0c470a1428609d362cb71fab",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

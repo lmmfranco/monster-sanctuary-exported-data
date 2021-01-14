@@ -1,0 +1,24 @@
+{
+  "guid": "5429e44c783ffda4387fa9a7f1ac779c",
+  "filename": "MonkChampion",
+  "ID": 250,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.5,
+  "ActionCount": 2,
+  "DamageMultiplier": 1,
+  "ManaMultiplier": 1.8,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 1000,
+  "EncounterLevel": 7,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1856722979648600,
+    "guid": "675492e64d239d3419d9148ac9908f70",
+    "type": 2
+  },
+  "RewardQuantity": 3
+}

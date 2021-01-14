@@ -1,0 +1,14 @@
+{
+  "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+  "filename": "MonsterBell",
+  "ID": 866,
+  "Name": "Monster Bell",
+  "Price": 200,
+  "Icon": "icon_monster_bell",
+  "Description": "Respawns all defeated wild monsters immediately",
+  "SFXBell": {
+    "fileID": 8300000,
+    "guid": "99c73842b4bee074ebdf594f86445b7e",
+    "type": 3
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "guid": "edfc59b845e69684d8dcd01628ebde92",
+  "filename": "DeepFreeze1",
+  "ID": 840,
+  "Name": "Deep Freeze",
+  "Icon": "icon_deep_freeze",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 0,
+  "Duration": 2.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.85,
+  "TotalDamage": 3.4,
+  "CalculatedDamage": 0.9347436,
+  "CalculatedTotalDamage": 3.738975,
+  "HitTimings": [
+    0.7,
+    1,
+    1.3,
+    1.6
+  ],
+  "Element": 2,
+  "Type": 1,
+  "FlashDuration": 0.2,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 0,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1868401114989982,
+    "guid": "604393366115f924cbe03f4040907eec",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Delay__1": 0.4,
+  "Duration__1": 2,
+  "Strength": 3,
+  "PerEnemyDelay": 0.2,
+  "PerEnemyBreakDelay": 0.2,
+  "requiredDebuff": 3,
+  "HitForEveryDebuffStack": 1,
+  "PerHitDelay": 0.2,
+  "DamageMultiplicator__1": 0.4,
+  "HitTimings__1": [
+    2.4
+  ],
+  "DurationIncrease": 0,
+  "AnimElement__1": {
+    "fileID": 1421811399574128,
+    "guid": "bc248bc27398d274883d791bdb1acce3",
+    "type": 2
+  },
+  "FlippedAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 2.3
+}

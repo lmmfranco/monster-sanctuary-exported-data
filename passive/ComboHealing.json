@@ -1,0 +1,13 @@
+{
+  "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+  "filename": "ComboHealing",
+  "ID": 116,
+  "Name": "Combo Healing",
+  "Icon": "icon_combo_healing",
+  "Description": "Healing actions trigger an additional Heal on the Monster with the lowest Health equal to {0%} of Magic value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealMagicScale": 0.3,
+  "HealAttackScale": 0,
+  "HealDefenseScale": 0
+}

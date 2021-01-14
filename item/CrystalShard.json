@@ -1,0 +1,28 @@
+{
+  "guid": "55719d3982e4d124a8ce1fd01bc6bd76",
+  "filename": "CrystalShard",
+  "ID": 508,
+  "Name": "Crystal Shard",
+  "Price": 300,
+  "Icon": "icon_crystal_shard",
+  "Description": "Teleports you back to the Keepers' Stronghold",
+  "SFXTeleport": {
+    "fileID": 0
+  },
+  "TeleportSceneName": "KeeperStronghold_CenterStairwell",
+  "SpecialHandlingScenes": [
+    "Underworld_WestCatacomb5",
+    "Underworld_WestCatacomb7",
+    "Underworld_WestCatacomb1",
+    "Underworld_WestCatacomb3",
+    "Underworld_WestCatacomb8",
+    "Underworld_WestCatacomb9",
+    "Underworld_WestCatacomb4",
+    "Underworld_WestCatacomb2",
+    "Underworld_WestCatacomb6"
+  ],
+  "SpecialHandlingBool": "CatacombSpecialHandling",
+  "VariableCondition": "WestCatacombWall6",
+  "EndSpecialHandlingBool": "UnderworldChampionEvent",
+  "SpecialHandlingTargetScene": "Underworld_WestCatacomb5"
+}

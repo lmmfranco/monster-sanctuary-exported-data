@@ -1,0 +1,16 @@
+{
+  "guid": "8334aa260831f294392889142b202277",
+  "filename": "Hunt",
+  "ID": 372,
+  "Name": "Hunt",
+  "Icon": "icon_hunt",
+  "Description": "Increases the Critical Chance of the whole party by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.04,
+  "Stat": 5,
+  "IncreaseValue2": 0,
+  "Stat2": 0,
+  "IsMultiplicator": 0,
+  "MonsterType": 0
+}

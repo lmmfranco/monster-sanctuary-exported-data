@@ -1,0 +1,113 @@
+{
+  "guid": "470e5efd8ffd7464494cbd4425f92b51",
+  "filename": "ShadowStorm1",
+  "ID": 1306,
+  "Name": "Shadow Storm",
+  "Icon": "icon_shadow_storm",
+  "Tier": 2,
+  "Ultimate": 0,
+  "Mana": 100,
+  "TargetType": 1,
+  "Duration": 2.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.65,
+  "TotalDamage": 1.3,
+  "CalculatedDamage": 0.687425,
+  "CalculatedTotalDamage": 1.37485,
+  "HitTimings": [
+    1.1,
+    1.6
+  ],
+  "Element": 0,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1511550909764119,
+    "guid": "192890243e4059c4fa8bfefb964ed91d",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0.2,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1786138665762811,
+    "guid": "f8fa8056e41c7c64fbfc9b23a44ac586",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 1,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0.2,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0,
+  "Buff": 8,
+  "DoubleBuff": 0,
+  "Buff2": 0,
+  "StackCount": 1,
+  "ApplyDelay": 2.2,
+  "ApplyChance": 1,
+  "Variable": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "cb22036bf80a3ed4ea11be288a1df9fb",
+    "type": 3
+  },
+  "Volume": 0.8,
+  "Pitch": 1.2,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.8
+  ]
+}

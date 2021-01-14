@@ -1,0 +1,73 @@
+{
+  "guid": "2dbcdb966e1c91e4cb942eb4692c1fec",
+  "filename": "FlameStrike3",
+  "ID": 221,
+  "Name": null,
+  "Icon": null,
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 170,
+  "TargetType": 1,
+  "Duration": 1.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114146374603422820,
+    "guid": "e4b043b37589f134783b1b583fa89d58",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 2.25,
+  "TotalDamage": 2.25,
+  "CalculatedDamage": 2.233127,
+  "CalculatedTotalDamage": 2.233127,
+  "HitTimings": [
+    0.65
+  ],
+  "Element": 1,
+  "Type": 1,
+  "FlashDuration": 1,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Delay": 0.6,
+  "Strength": 15,
+  "Duration__1": 1,
+  "PerEnemyDelay": 0.2,
+  "AnimElement": {
+    "fileID": 1644202131389759,
+    "guid": "cf4b4d4307ce680498b8ac251756142e",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay__1": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

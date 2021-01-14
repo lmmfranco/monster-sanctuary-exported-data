@@ -1,0 +1,12 @@
+{
+  "guid": "bfebd570b947a6843a0622aaac421b1e",
+  "filename": "WaterResistance",
+  "ID": 275,
+  "Name": "Water Resistance",
+  "Icon": "icon_water_resistance",
+  "Description": "Water damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 2,
+  "Modifier": -0.5
+}

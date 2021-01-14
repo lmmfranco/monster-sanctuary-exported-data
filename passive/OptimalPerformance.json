@@ -1,0 +1,13 @@
+{
+  "guid": "8897a323a9fe0ae458f36e1db0013521",
+  "filename": "OptimalPerformance",
+  "ID": 1567,
+  "Name": "Optimal Performance",
+  "Icon": "icon_optimal_performance",
+  "Description": "While under the effect of a Shield, {Constructs} in your party receive {0%} less damage and are {1%} more resistant to debuffs",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageReduction": 0.15,
+  "DebuffReduction": 0.15,
+  "TypeRestriction": 3
+}

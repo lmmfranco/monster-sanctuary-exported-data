@@ -1,0 +1,53 @@
+{
+  "guid": "753edd849c84e1f409c4c5d9c9ca0801",
+  "filename": "Bow+3",
+  "ID": 1481,
+  "Name": "Bow",
+  "Price": 4500,
+  "Type": 0,
+  "Icon": "icon_bow",
+  "Attack": 115,
+  "Magic": 100,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1755227394254864,
+    "guid": "6f2a5fdf1481116469b2e1dbbac988a1",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "Damage": 0.26,
+  "AnimElement": {
+    "fileID": 1502880753174177,
+    "guid": "66fce7b6081df0445a05f09fbc866a6d",
+    "type": 2
+  }
+}

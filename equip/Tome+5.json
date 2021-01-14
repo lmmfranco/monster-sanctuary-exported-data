@@ -1,0 +1,28 @@
+{
+  "guid": "541edb89bf860c140a4d6c850425cea3",
+  "filename": "Tome+5",
+  "ID": 1382,
+  "Name": "Tome",
+  "Price": 2250,
+  "Type": 5,
+  "Icon": "icon_tome",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 70,
+  "ManaRegeneration": 40,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

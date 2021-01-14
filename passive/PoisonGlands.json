@@ -1,0 +1,12 @@
+{
+  "guid": "70492b43fd155194e8553f592ff2044c",
+  "filename": "PoisonGlands",
+  "ID": 323,
+  "Name": "Poison Glands",
+  "Icon": "icon_poison_glands",
+  "Description": "When this Monster gets attacked, {0%} chance to apply {Poison} on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 2,
+  "Chance": 0.4
+}

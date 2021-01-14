@@ -1,0 +1,546 @@
+{
+  "guid": "e12d85d85cae65f4a9cef8d2390cfc99",
+  "filename": "NinkiNanka",
+  "ID": 897,
+  "Name": "Ninki Nanka",
+  "baseStats": {
+    "attack": 4,
+    "magic": 4,
+    "defense": 2,
+    "health": 9,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 1,
+    "health": 3,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 8,
+    "true": -1
+  },
+  "DifficultyRating": 4,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    },
+    {
+      "fileID": 1674500266451039,
+      "guid": "e56d66e7942ae1d4e8b5ecefa8dcbd41",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1735445830266374,
+      "guid": "40219434937e68b438cab2c0b83c648e",
+      "type": 2
+    },
+    {
+      "fileID": 1230261216403782,
+      "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+      "type": 2
+    },
+    {
+      "fileID": 1566254478662596,
+      "guid": "9ad5322ea55577e48bce5746c0a6da7a",
+      "type": 2
+    }
+  ],
+  "StartLevel": 22,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1396831343398267,
+    "guid": "a26618b78f7c88749929d315899c9d4d",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0600000008000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 1,
+  "BaseSkills": [
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    },
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1857342971716595,
+      "guid": "f25fe6956aae0df409f93844ef39c4d7",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1799687610173434,
+      "guid": "f02dbe203ba7e694bac32785e52f4fc4",
+      "type": 2
+    },
+    {
+      "fileID": 1508706583158203,
+      "guid": "43e29b574679bbc4fb9b9c725df826c7",
+      "type": 2
+    },
+    {
+      "fileID": 1143783304097802,
+      "guid": "76b8f69a9b1bda341ab0ef6ff73bf7e9",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1086804084829352,
+    "guid": "bdeedc84e59c0744496a44348cf49ae1",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1257724385556133,
+    "guid": "3eb7234be8461e84d984a4a42711517e",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1203387423120721,
+      "guid": "e706846bbd9f3c24d831daa96b59f99b",
+      "type": 2
+    },
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1993664557776837,
+      "guid": "acd557f84e902a34d85b3f0240db9711",
+      "type": 2
+    },
+    {
+      "fileID": 1001751917371072,
+      "guid": "50b366e358ab5b646a89858643caafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1804906434757800,
+      "guid": "6d4cff81139bf5744829f0182f8a8800",
+      "type": 2
+    },
+    {
+      "fileID": 1644360230470818,
+      "guid": "7b89c67b5638ebd4098402a0a7afbeaf",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1242394876270034,
+      "guid": "221e558dd1880a74d87ae43aa29e0917",
+      "type": 2
+    },
+    {
+      "fileID": 1591553800542082,
+      "guid": "67d6ddbd22c10ba4c83e74ab1266db6b",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1301825870497088,
+      "guid": "3ceafeacb4fa9f8438a64b98f39fbcf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1481079166927516,
+      "guid": "8766052c01a245c40b68d99742fdc670",
+      "type": 2
+    },
+    {
+      "fileID": 1689263143504150,
+      "guid": "8ccee682c8fadca40b5e5a2898affe5e",
+      "type": 2
+    },
+    {
+      "fileID": 1863986149130069,
+      "guid": "d30f6fc96318a5341b4fd7a707fcee77",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1342103471352290,
+      "guid": "6ab296dcadda2774aa75c3c75ace25e7",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1663534110222255,
+      "guid": "91344f43ef222f3429aa3ff1629cc622",
+      "type": 2
+    },
+    {
+      "fileID": 1999109520089412,
+      "guid": "80379fad54ef50348af30d83387cb5cf",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1373500535463777,
+      "guid": "c71dcc97d8b97de49a4e192427220b03",
+      "type": 2
+    },
+    {
+      "fileID": 1243133256108432,
+      "guid": "a3a5472201f07a3448e0a6826f5c454c",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1227892271767198,
+      "guid": "08ec6b6b379ec274980ae2537ed7e146",
+      "type": 2
+    },
+    {
+      "fileID": 1347304749703469,
+      "guid": "7448b19fe8a20814185745032de646c5",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1284062122491859,
+      "guid": "3d08a73554f145543b280397fc033bb2",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1512513469926870,
+      "guid": "26d0e59ca149be749921b412839d36b1",
+      "type": 2
+    },
+    {
+      "fileID": 1867734379618117,
+      "guid": "7244c5a3fc76a05449e6d5b270f3c10b",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1554085315580172,
+      "guid": "2d17e9f3f1ccd034794147a562cdd5a4",
+      "type": 2
+    },
+    {
+      "fileID": 1407856648580175,
+      "guid": "e434cac16e42b8340a143488c69530ac",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1928671066116108,
+      "guid": "9a07f6101d02ffa4cb5dfbbe30dd0672",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1225199059914375,
+      "guid": "fbb84ba00ce14c34da1caebbe019598d",
+      "type": 2
+    },
+    {
+      "fileID": 1761307590152099,
+      "guid": "0c0fae45c0baa2a4e879c856671f71e8",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    },
+    {
+      "fileID": 1909401859368608,
+      "guid": "d1b7579e17128bd4e884891baa76c6a7",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1290333901487839,
+      "guid": "2339d4599cd7e0347b1ae6e469abb52d",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1815603730581760,
+      "guid": "35b389ac66aea06458fa6ba9335e6dc9",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1284062122491859,
+      "guid": "3d08a73554f145543b280397fc033bb2",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1968964994863623,
+      "guid": "5d9893c8cf62c6f4e8a8a4c2c095b0b4",
+      "type": 2
+    },
+    {
+      "fileID": 1575434491505619,
+      "guid": "152896285d49da4409e1ac5f9fdb5cf2",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1334320262222354,
+      "guid": "c2a4d2fb3fb7cf840b1795e7336c6b97",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1001993485527291,
+      "guid": "547449601fe852d4fa91de66d9ab082b",
+      "type": 2
+    },
+    {
+      "fileID": 1212320365182387,
+      "guid": "347c3f7c755fb0743997210d45477f1f",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1954995645601857,
+      "guid": "9b54a867d9c7c7e48a903e56250390ec",
+      "type": 2
+    },
+    {
+      "fileID": 1762809354698780,
+      "guid": "da3ebddbc1c3eab41930e8d4062c9ceb",
+      "type": 2
+    },
+    {
+      "fileID": 1117585765222542,
+      "guid": "b504efae5c7263847a7cb201e358cc75",
+      "type": 2
+    },
+    {
+      "fileID": 1979628663778357,
+      "guid": "860fa888d66d6414a9f199e27bf069bd",
+      "type": 2
+    }
+  ],
+  "Bio": "A mighty river dragon that is said to live for hundreds of years. The key difference between a Ninki and a Ninki Nanka is that the mud layer that coats the Ninki Nanka's scales and fur contains volcanic minerals, which grants them even more resilience and power. A Ninki enters adulthood by bathing in a primordial pool of volcanic mud that lies hidden deep underneath the earth.",
+  "History": "The group of Keepers stayed in the territory of the Ninki Nankas for several months, not knowing how to convince the proud and headstrong river dragons to come with them. One day, one of the sickly Ninki Nankas inexplicably died a sudden death. It seemed as if it had simply lost its will to live. It left behind a couple of famished Ninki calves, which none of the other Ninki Nankas were able to take care of. Naturally, the Keepers took in the abandoned Ninkis and nurtured them as best as they could. That is how the Keepers won the trust of the Ninki Nankas. Only a handful of their species stayed behind, and it is believed that they are still hiding in the most remote corners of their once majestic territory.",
+  "StatOrientation": 2
+}

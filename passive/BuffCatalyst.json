@@ -1,0 +1,12 @@
+{
+  "guid": "b504efae5c7263847a7cb201e358cc75",
+  "filename": "BuffCatalyst",
+  "ID": 1121,
+  "Name": "Buff Catalyst",
+  "Icon": "icon_buff_mastery",
+  "Description": "Buffs are {0%} more effective on this Monster.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Improve": 0.2,
+  "TypeRestriction": 0
+}

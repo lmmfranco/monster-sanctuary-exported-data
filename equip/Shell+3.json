@@ -1,0 +1,55 @@
+{
+  "guid": "873c7f7c19ec2ee4da5633aa336fad4e",
+  "filename": "Shell+3",
+  "ID": 774,
+  "Name": "Shell",
+  "Price": 900,
+  "Type": 1,
+  "Icon": "icon_shell",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 58,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1329407090154465,
+    "guid": "6bfc7a09dc2627342a6f03418bf8aef9",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1177786864638448,
+        "guid": "4f367a9a0c470a1428609d362cb71fab",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

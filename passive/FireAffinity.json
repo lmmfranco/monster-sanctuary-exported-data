@@ -1,0 +1,12 @@
+{
+  "guid": "ff424ef992f2fa442ad6d63211ed81f9",
+  "filename": "FireAffinity",
+  "ID": 166,
+  "Name": "Fire Affinity",
+  "Icon": "icon_fire_affinity",
+  "Description": "{Fire} attacks deal {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "Element": 1
+}

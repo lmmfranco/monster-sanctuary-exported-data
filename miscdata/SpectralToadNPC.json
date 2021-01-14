@@ -1,0 +1,39 @@
+{
+  "guid": "131a6c25a8e92db4f9f8a808db854105",
+  "filename": "SpectralToadNPC",
+  "PortraitOffset": {
+    "x": 6,
+    "true": -18
+  },
+  "Name": "Frog",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1668921029614910,
+    "guid": "9dc93d7f0797a56408aba818cbc659e4",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1465913071165888,
+    "guid": "f7e3b592038acb64aa65a8c38d928178",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 2,
+  "TargetDistanceRange": {
+    "Min": 40,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "ba5a32d435b9e174896668ed6771a459",
+  "filename": "RockyEgg",
+  "ID": 10,
+  "Name": null,
+  "Price": 250,
+  "Monster": {
+    "fileID": 1729604366680957,
+    "guid": "0700f0105cbc0dd4d811de34803d2f8b",
+    "type": 2
+  }
+}

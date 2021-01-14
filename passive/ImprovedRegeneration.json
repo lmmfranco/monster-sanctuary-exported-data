@@ -1,0 +1,12 @@
+{
+  "guid": "4d3eb80016caff64ba8dc6fb673b3a72",
+  "filename": "ImprovedRegeneration",
+  "ID": 364,
+  "Name": "Improved Regeneration",
+  "Icon": "icon_improved_regeneration",
+  "Description": "{Regeneration} (Buff) regenerates an additional {0%} of Max Health.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "BuffType": 5,
+  "Value": 0.075
+}

@@ -1,0 +1,156 @@
+{
+  "guid": "f59269ba47ca3c14889122e33e7a2fad",
+  "filename": "CraftBox",
+  "ID": 1441,
+  "Name": "Craft Box",
+  "Price": 750,
+  "Icon": "icon_lootbox",
+  "Description": "Consume to get random craft materials based on Keeper Rank.",
+  "Rewards": [
+    {
+      "Rank": 0,
+      "CommonRewards": [
+        {
+          "fileID": 1283344633932040,
+          "guid": "9cf392768e7178343a34dee125556952",
+          "type": 2
+        },
+        {
+          "fileID": 1832258850283049,
+          "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+          "type": 2
+        }
+      ],
+      "RareRewards": [
+        {
+          "fileID": 1979148939231785,
+          "guid": "fb7806c89741472478f451cd10abf730",
+          "type": 2
+        },
+        {
+          "fileID": 1938666508179504,
+          "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+          "type": 2
+        },
+        {
+          "fileID": 1427932154024413,
+          "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "Rank": 2,
+      "CommonRewards": [
+        {
+          "fileID": 1287074701737878,
+          "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+          "type": 2
+        },
+        {
+          "fileID": 1676211359093659,
+          "guid": "1807da16437f9db438fe21142fc9ccf0",
+          "type": 2
+        }
+      ],
+      "RareRewards": [
+        {
+          "fileID": 1095882204890249,
+          "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "Rank": 3,
+      "CommonRewards": [
+        {
+          "fileID": 1177786864638448,
+          "guid": "4f367a9a0c470a1428609d362cb71fab",
+          "type": 2
+        }
+      ],
+      "RareRewards": [
+        {
+          "fileID": 1430211027732074,
+          "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+          "type": 2
+        },
+        {
+          "fileID": 1236254572456791,
+          "guid": "907eade581dbacc4ebbf3880173e9561",
+          "type": 2
+        },
+        {
+          "fileID": 1735445830266374,
+          "guid": "40219434937e68b438cab2c0b83c648e",
+          "type": 2
+        },
+        {
+          "fileID": 1888934208528560,
+          "guid": "fb0a27b612bf40d418b12d472f63c11d",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "Rank": 5,
+      "CommonRewards": [
+        {
+          "fileID": 1168011990567236,
+          "guid": "ff548838b039fa74bbc9ee164dbfb189",
+          "type": 2
+        },
+        {
+          "fileID": 1175341146284385,
+          "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+          "type": 2
+        }
+      ],
+      "RareRewards": [
+        {
+          "fileID": 1917030411297482,
+          "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "Rank": 6,
+      "CommonRewards": [
+        {
+          "fileID": 1402140077838650,
+          "guid": "30100117dd43b0a43918a3037cf838b7",
+          "type": 2
+        }
+      ],
+      "RareRewards": [
+        {
+          "fileID": 1095870700680833,
+          "guid": "c9c7c19e44e73d548834298b74b76049",
+          "type": 2
+        },
+        {
+          "fileID": 1859196778719966,
+          "guid": "507f3698a0f784542b241214d1bdd35a",
+          "type": 2
+        },
+        {
+          "fileID": 1997347528458206,
+          "guid": "de2c4792aaaaaf245a313667f86698c9",
+          "type": 2
+        },
+        {
+          "fileID": 1079285706125740,
+          "guid": "38bb721fb38db564e831d65ceceba144",
+          "type": 2
+        }
+      ]
+    }
+  ],
+  "SFXGetReward": {
+    "fileID": 8300000,
+    "guid": "bfe630adf6898854c83f11a0d31be086",
+    "type": 3
+  }
+}

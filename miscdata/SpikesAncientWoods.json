@@ -1,0 +1,11 @@
+{
+  "guid": "6c55d6e0e711cd642bc5aa4d73608a8a",
+  "filename": "SpikesAncientWoods",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 0,
+  "IsWater": 0,
+  "ApplyToChildren": 0,
+  "PauseDuringCombat": 0
+}

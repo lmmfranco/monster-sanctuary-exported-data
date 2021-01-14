@@ -1,0 +1,11 @@
+{
+  "guid": "92bf680f271809742a3d962744849058",
+  "filename": "HybridMastery",
+  "ID": 204,
+  "Name": "Hybrid Mastery",
+  "Icon": "icon_hybrid_mastery",
+  "Description": "Increases Attack by {0%} of this Monster's Magic and increases Magic by {0%} of this Monster's Attack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "increaseValue": 0.1
+}

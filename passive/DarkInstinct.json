@@ -1,0 +1,14 @@
+{
+  "guid": "1989557fa5e8f594ebb45e24efc1c042",
+  "filename": "DarkInstinct",
+  "ID": 903,
+  "Name": "Dark Instinct",
+  "Icon": "icon_dark_passive",
+  "Description": "Increases damage dealt by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 9,
+  "Value": 0.15,
+  "IsPercent": 1,
+  "IsNegative": 0
+}

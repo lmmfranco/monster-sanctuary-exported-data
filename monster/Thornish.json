@@ -1,0 +1,677 @@
+{
+  "guid": "f7b813f9e92c96d4ba6b8b6c0bbb0067",
+  "filename": "Thornish",
+  "ID": 975,
+  "Name": "Thornish",
+  "baseStats": {
+    "attack": 4,
+    "magic": 1,
+    "defense": 4,
+    "health": 7,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 2,
+    "health": 1,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 0,
+    "defense": 0,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -8
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1462509074111700,
+      "guid": "55719d3982e4d124a8ce1fd01bc6bd76",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1313564084118584,
+      "guid": "45c243b991a867b498f90230b5d9a6e8",
+      "type": 2
+    },
+    {
+      "fileID": 1073412710651401,
+      "guid": "3357e6bfe89a28144bfdeeead1bbc971",
+      "type": 2
+    }
+  ],
+  "StartLevel": 25,
+  "FlyingOffset": 10,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1814382376244271,
+    "guid": "fbe286b522b81534d9a29d422acee021",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.2
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -12,
+    "true": -16,
+    "z": 0
+  },
+  "MonsterTypes": "010000000d000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    },
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1959250547738836,
+      "guid": "8c98bd5a2ca244046ba3b1054a21165a",
+      "type": 2
+    },
+    {
+      "fileID": 1999109520089412,
+      "guid": "80379fad54ef50348af30d83387cb5cf",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1776023427739779,
+      "guid": "02d8448a1610e704fb121aded0bfa337",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1508706583158203,
+      "guid": "43e29b574679bbc4fb9b9c725df826c7",
+      "type": 2
+    },
+    {
+      "fileID": 1011447787255117,
+      "guid": "d480724c83b007c4caae455aa684caed",
+      "type": 2
+    },
+    {
+      "fileID": 1110390639892486,
+      "guid": "08bdb6b418068d545ba0d14ed6643929",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1733933471001974,
+    "guid": "1a632594fba1fde47be822f0a087703d",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [],
+  "Tier2Skills": [],
+  "Tier3Skills": [
+    {
+      "fileID": 1999109520089412,
+      "guid": "80379fad54ef50348af30d83387cb5cf",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1243133256108432,
+      "guid": "a3a5472201f07a3448e0a6826f5c454c",
+      "type": 2
+    },
+    {
+      "fileID": 1561268858987755,
+      "guid": "f66d6c8d3cd844a44bd210e3e9336022",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1165889434672650,
+      "guid": "f61541471141c9a429badd5dcfc029c5",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1347304749703469,
+      "guid": "7448b19fe8a20814185745032de646c5",
+      "type": 2
+    },
+    {
+      "fileID": 1512631475066081,
+      "guid": "7fa0745bd0f84464795eecde9ed0f880",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1340382948355362,
+      "guid": "f6db3e3e8dc8750439c84d1ea717ab05",
+      "type": 2
+    },
+    {
+      "fileID": 1165889434672650,
+      "guid": "f61541471141c9a429badd5dcfc029c5",
+      "type": 2
+    },
+    {
+      "fileID": 1988028789464820,
+      "guid": "0c384ec940640334497b09df5b64b738",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1217174516935961,
+      "guid": "7012a05784edadd4caa671aecc78d06c",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1937993924964313,
+      "guid": "34445d02be5d36a49a051355374a7154",
+      "type": 2
+    },
+    {
+      "fileID": 1913413179634950,
+      "guid": "bb5b80bb22669f947bbdae48e39ab395",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1337511326195739,
+      "guid": "781a9c83438031b4aaee4fa088727b5b",
+      "type": 2
+    },
+    {
+      "fileID": 1912521025360523,
+      "guid": "4229314f2df86134d8c55e698c14c362",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1727511637591304,
+      "guid": "a748df0d58d2c6145adac92e30f8d11b",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1047867451007794,
+      "guid": "0dce9972eeeaeed48bb8772e51f4f470",
+      "type": 2
+    },
+    {
+      "fileID": 1230709447252372,
+      "guid": "7e8c1fe8b2e9f1f4c80e626200e3f17f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1746180404875967,
+      "guid": "a11505fe449783b4bbd597e7383528de",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1245737389007313,
+      "guid": "9727fff7e529fcc42a2101199b55da32",
+      "type": 2
+    },
+    {
+      "fileID": 1259004832558812,
+      "guid": "f0315ff6614a58d4d8c9f6aa278d7846",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1836604951585051,
+      "guid": "90302c4be2d978a49b011ad725330e7b",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1138992502132609,
+      "guid": "8975d26fde368ad4bbaffe32ee9ee1a5",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1657041340231080,
+      "guid": "118bd3ae044c4bb4d97ff48e71ecdd28",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__4": [],
+  "Tier2Skills__4": [],
+  "Tier3Skills__4": [
+    {
+      "fileID": 1959250547738836,
+      "guid": "8c98bd5a2ca244046ba3b1054a21165a",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__4": [
+    {
+      "fileID": 1084395927985097,
+      "guid": "439d6feee760088468da39a189c239f7",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    },
+    {
+      "fileID": 1776023427739779,
+      "guid": "02d8448a1610e704fb121aded0bfa337",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__4": [
+    {
+      "fileID": 1333659596324231,
+      "guid": "a69ec0a2c06674e42a5668998e586cef",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1782435029518726,
+      "guid": "dc1365542bd0a22498842beadaf836ee",
+      "type": 2
+    },
+    {
+      "fileID": 1365521853533908,
+      "guid": "4a5090eeef5db9549adad38e94ac3d86",
+      "type": 2
+    }
+  ],
+  "NoIdleChance": 0.4,
+  "IdleTime": {
+    "Min": 0.5,
+    "Max": 3
+  },
+  "MovingTime": {
+    "Min": 0.5,
+    "Max": 2
+  },
+  "HorizontalMovementSpeed": {
+    "Min": 10,
+    "Max": 50
+  },
+  "VerticalMovementSpeed": {
+    "Min": 10,
+    "Max": 40
+  },
+  "OffsetData": [
+    {
+      "Animation": 0,
+      "ParticleSystem": {
+        "fileID": 0
+      },
+      "Offsets": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": -2,
+          "z": 0
+        }
+      ]
+    },
+    {
+      "Animation": 0,
+      "ParticleSystem": {
+        "fileID": 0
+      },
+      "Offsets": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": -1,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": -2,
+          "true": -2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "true": -1,
+          "z": 0
+        },
+        {
+          "x": 2,
+          "true": -2,
+          "z": 0
+        }
+      ]
+    }
+  ],
+  "Bio": "Some would say that the best defense is a good offense - but for the Thornish, the opposite is closer to the truth. They possess several defense mechanisms that severely harm those who'd try attacking a Thornish: sharp spines which can inflict deep wounds, a set of razor fangs, a particularly vengeful and ruthless disposition that kicks in at the slightest push, and - last but not least - the most poisonous substance on this world, which is prevalent in almost every single cell and organ of the Thornish.",
+  "History": "It is believed that Thornish are related to Brawlish in some way. The theory goes that there was an off-branch of Brawlish which lived in the ocean depths and didn't have any islands closeby to retreat to. Despite their strong arms, they were vulnerable to the other Monsters of the ocean that could swim faster and more efficiently. So they developed a complex set of defense mechanisms to fight off just about any form of attack. In fact, they ended up becoming some of the most dangerous predators of the oceans themselves, thanks to their ability to goad other Monsters into attacking them.",
+  "StatOrientation": 0
+}

@@ -1,0 +1,28 @@
+{
+  "guid": "6226fb3430bf14b4ebc045bc22a5a8c0",
+  "filename": "WoodenStick",
+  "ID": 40,
+  "Name": "Wooden Stick",
+  "Price": 30,
+  "Type": 0,
+  "Icon": "icon_wooden_stick",
+  "Attack": 25,
+  "Magic": 25,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

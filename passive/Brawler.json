@@ -1,0 +1,13 @@
+{
+  "guid": "349e87f9d9b6484449122c66a3a96ea8",
+  "filename": "Brawler",
+  "ID": 955,
+  "Name": "Brawler",
+  "Icon": "icon_brawler",
+  "Description": "When exploiting an enemy's weakness with an attack, gain {Might} (Buff) and shield self by {0%} of this monster's Attack value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "RandomBuff": 0,
+  "Buff": 0,
+  "Shield": 0.5
+}

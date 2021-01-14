@@ -1,0 +1,11 @@
+{
+  "guid": "c14c459f6b9344c41a69ec431cbf372f",
+  "filename": "Mystify",
+  "ID": 872,
+  "Name": "Mystify",
+  "Icon": "icon_mystify",
+  "Description": "When applying a {Debuff}, {0%} chance to gain a random {Buff}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.5
+}

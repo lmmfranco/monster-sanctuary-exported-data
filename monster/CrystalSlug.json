@@ -1,0 +1,536 @@
+{
+  "guid": "48368b0fbd65ad54e90d46e402e0b9c9",
+  "filename": "CrystalSlug",
+  "ID": 688,
+  "Name": "Crystal Snail",
+  "baseStats": {
+    "attack": 4,
+    "magic": 5,
+    "defense": 10,
+    "health": 2,
+    "mana": 4
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 0,
+    "health": 4,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 3,
+    "true": 0
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1122211675756062,
+      "guid": "c29f83941966e3b438c0abb81c6f81c0",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1427932154024413,
+      "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+      "type": 2
+    },
+    {
+      "fileID": 1326161101749677,
+      "guid": "873c7f7c19ec2ee4da5633aa336fad4e",
+      "type": 2
+    },
+    {
+      "fileID": 1367769151658910,
+      "guid": "5521cb6c942e6f2489c78ce466bdadf3",
+      "type": 2
+    }
+  ],
+  "StartLevel": 18,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1432725573133075,
+    "guid": "a7339e13729c5774bb9193ba6d3265e8",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0100000004000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    },
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1022521218685327,
+      "guid": "8696932cb02d34f4a8389cc4af4fedfe",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1297550991700615,
+      "guid": "a1955d37ceb7afd44abe1e8119d86734",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1888953310552929,
+      "guid": "7854136e160e5e54c832f540bd3d378a",
+      "type": 2
+    },
+    {
+      "fileID": 1092552982748897,
+      "guid": "2609902b2f16fbb43bda92d001f4aac3",
+      "type": 2
+    },
+    {
+      "fileID": 1110390639892486,
+      "guid": "08bdb6b418068d545ba0d14ed6643929",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1925904739013070,
+    "guid": "98fdaeff8929ff140a7fade1cb077cf6",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1147213595760583,
+    "guid": "75f9926ee027fca42a4a25bd773c1bdd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1966636764060011,
+      "guid": "666f6e29cbc768f4fb42b9d7b74121de",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1352380127628888,
+      "guid": "78907699465ef774dbd5a81c8d194d9b",
+      "type": 2
+    },
+    {
+      "fileID": 1297550991700615,
+      "guid": "a1955d37ceb7afd44abe1e8119d86734",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1026467856648302,
+      "guid": "1be6da44a2955524f805f1f41e5741f8",
+      "type": 2
+    },
+    {
+      "fileID": 1345732927675517,
+      "guid": "b7891f50ae858c642b40d454a584d730",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1643572279794352,
+      "guid": "d3b651446c559264aba3d3af960b362c",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1056329583471328,
+      "guid": "72dcaa884809cfd46bf0f59663f7db02",
+      "type": 2
+    },
+    {
+      "fileID": 1861067242472366,
+      "guid": "1a0729a6cd3ebcd469dbd6d5f68bf424",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1340382948355362,
+      "guid": "f6db3e3e8dc8750439c84d1ea717ab05",
+      "type": 2
+    },
+    {
+      "fileID": 1458570729333031,
+      "guid": "f319405cf46c00a41bd0b0e066cb163e",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1217174516935961,
+      "guid": "7012a05784edadd4caa671aecc78d06c",
+      "type": 2
+    },
+    {
+      "fileID": 1407856648580175,
+      "guid": "e434cac16e42b8340a143488c69530ac",
+      "type": 2
+    },
+    {
+      "fileID": 1612209697827141,
+      "guid": "b7028527f8cefca4eb579485cb08f636",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1937993924964313,
+      "guid": "34445d02be5d36a49a051355374a7154",
+      "type": 2
+    },
+    {
+      "fileID": 1761307590152099,
+      "guid": "0c0fae45c0baa2a4e879c856671f71e8",
+      "type": 2
+    },
+    {
+      "fileID": 1806701225140974,
+      "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1337511326195739,
+      "guid": "781a9c83438031b4aaee4fa088727b5b",
+      "type": 2
+    },
+    {
+      "fileID": 1909401859368608,
+      "guid": "d1b7579e17128bd4e884891baa76c6a7",
+      "type": 2
+    },
+    {
+      "fileID": 1835753180707839,
+      "guid": "c2e220f847156ba44bae113941928875",
+      "type": 2
+    },
+    {
+      "fileID": 1700484801291084,
+      "guid": "57af379869c87154dbbdc850b9ffd2a1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1821478049369149,
+      "guid": "0e34d035edff710489b94fef9b710817",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1806994416147506,
+      "guid": "6cb0de8773fda284288621d306077222",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1307816080177528,
+      "guid": "271ff778b22e20c4096dea3c4ff2fb3b",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1201743037268833,
+      "guid": "942b0db62548b5a46b03954cfeb2c0ac",
+      "type": 2
+    },
+    {
+      "fileID": 1497603862827511,
+      "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+      "type": 2
+    },
+    {
+      "fileID": 1913413179634950,
+      "guid": "bb5b80bb22669f947bbdae48e39ab395",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1408335325600889,
+      "guid": "519907da81b3bb74e8bdde3b0fb93c79",
+      "type": 2
+    },
+    {
+      "fileID": 1771538755184261,
+      "guid": "0144e590a2fb42446b2ffce88fbe31a5",
+      "type": 2
+    },
+    {
+      "fileID": 1988028789464820,
+      "guid": "0c384ec940640334497b09df5b64b738",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1657041340231080,
+      "guid": "118bd3ae044c4bb4d97ff48e71ecdd28",
+      "type": 2
+    },
+    {
+      "fileID": 1629169507539652,
+      "guid": "e65345d07badd9d4a96a0d8a20e37878",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1959250547738836,
+      "guid": "8c98bd5a2ca244046ba3b1054a21165a",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1084395927985097,
+      "guid": "439d6feee760088468da39a189c239f7",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1620759217757471,
+      "guid": "cf68ef1f20cfc524cb05b3c29ae029ec",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1333659596324231,
+      "guid": "a69ec0a2c06674e42a5668998e586cef",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1259004832558812,
+      "guid": "f0315ff6614a58d4d8c9f6aa278d7846",
+      "type": 2
+    }
+  ],
+  "Bio": "The most well-known resident of the crystal caves of Snowy Peaks. In fact, Crystal Snails are the source of the brilliant crystals found in those caves. Crystal Snails dig into the ground and consume the minerals that they find there, which allows them to grow the pristine crystals on their back. The crystals provide the Crystal Snails a protective cover from predators, but the Crystal Snails can also use them to fight back as well. Crystal Snails are completely deaf, so Keepers have to communicate with them in sign language.",
+  "History": "As we know from numerous cave drawings and fossil finds, the Crystal Snails have existed since prehistoric times. Since they came into being so early in history, it is even theorized that they used to represent the apex species of this world. They lived and prospered in an age in which they were only rivalled by primal nature spirits such as Rocky. Perhaps it is because of them that so many other Monsters evolved - for the Crystal Snail can be an extremely invasive species that will consume most plant life in its habitat if left unhindered. Animals had to turn into monstrous beasts to fight back against the Crystal Snail.",
+  "StatOrientation": 2
+}

@@ -1,0 +1,551 @@
+{
+  "guid": "4af9ac1390ad63b4681852da4a586f4a",
+  "filename": "Glowdra",
+  "ID": 1063,
+  "Name": "Glowdra",
+  "baseStats": {
+    "attack": 1,
+    "magic": 7,
+    "defense": 5,
+    "health": 2,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 2
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1967693170633004,
+      "guid": "43d4dce36d5427c428b672b2cf84da12",
+      "type": 2
+    },
+    {
+      "fileID": 1175341146284385,
+      "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1377502260470853,
+      "guid": "3e0e7e86a39c30140b03ce56cb91536a",
+      "type": 2
+    },
+    {
+      "fileID": 1296569650969728,
+      "guid": "c97027247a141b94e94f17ab807a7809",
+      "type": 2
+    },
+    {
+      "fileID": 1765650079099666,
+      "guid": "32357f45e2c284945b9e73a8c416f5cd",
+      "type": 2
+    }
+  ],
+  "StartLevel": 28,
+  "FlyingOffset": 2,
+  "MenuOffset": -6,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1037291566818719,
+    "guid": "c409dea9c2bf9e1489c4a7c13a6f6973",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.15
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -16,
+    "true": -12,
+    "z": 0
+  },
+  "MonsterTypes": "02000000080000000b000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 1,
+  "BaseSkills": [
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    },
+    {
+      "fileID": 1396995210313966,
+      "guid": "7172342f4538941448458c9ffc66e702",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1806872777463061,
+      "guid": "234eb5a2c265b9a468413a2732227d48",
+      "type": 2
+    },
+    {
+      "fileID": 1870273491555547,
+      "guid": "ccd8eaa3c984be84ab9ecdde60b76a39",
+      "type": 2
+    },
+    {
+      "fileID": 1421478752196826,
+      "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+      "type": 2
+    },
+    {
+      "fileID": 1802235129374209,
+      "guid": "327d92f0082599c4ebf747b14a9c1dac",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1133902113864759,
+      "guid": "5a02d70d49d83314c933072a4f054d20",
+      "type": 2
+    },
+    {
+      "fileID": 1747423728911253,
+      "guid": "c06ee02943bb4924f9270cfcc2608a56",
+      "type": 2
+    },
+    {
+      "fileID": 1068316863217745,
+      "guid": "9b5ada0d84463894dae1a72ee0bfb847",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1686252289676525,
+    "guid": "1addcfac4e61fde42bf4d3822479c34e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1985292971218410,
+    "guid": "e32a4372056c5c64eb5d9d11236b26eb",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1682909921609979,
+      "guid": "132d000f92c84244c9883990c2b50777",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1501515000697170,
+      "guid": "0b4c369ca8929d44b954aaa16fd25bad",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1839620051600772,
+      "guid": "83ac2ce12d07c0540b0a2c5d2bb487aa",
+      "type": 2
+    },
+    {
+      "fileID": 1806872777463061,
+      "guid": "234eb5a2c265b9a468413a2732227d48",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1802235129374209,
+      "guid": "327d92f0082599c4ebf747b14a9c1dac",
+      "type": 2
+    },
+    {
+      "fileID": 1632353448970348,
+      "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1917879644750694,
+      "guid": "1936ae62e02a7224db52cb15ca7c989c",
+      "type": 2
+    },
+    {
+      "fileID": 1105925149506364,
+      "guid": "339130cd4cabc704bb4025c77ae46455",
+      "type": 2
+    },
+    {
+      "fileID": 1870273491555547,
+      "guid": "ccd8eaa3c984be84ab9ecdde60b76a39",
+      "type": 2
+    },
+    {
+      "fileID": 1421478752196826,
+      "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+      "type": 2
+    },
+    {
+      "fileID": 1633908374626458,
+      "guid": "c14c459f6b9344c41a69ec431cbf372f",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1834008435221690,
+      "guid": "5c914b2e90ff2b94a938d78fb0021c35",
+      "type": 2
+    },
+    {
+      "fileID": 1361552716751036,
+      "guid": "c9a759f08f7040d4598178da0f01533d",
+      "type": 2
+    },
+    {
+      "fileID": 1728554097957976,
+      "guid": "11188db4357ae6345b9be60bf0c74921",
+      "type": 2
+    },
+    {
+      "fileID": 1415020920430536,
+      "guid": "6620defd679cba244aee5cbee50f6895",
+      "type": 2
+    },
+    {
+      "fileID": 1606999370654739,
+      "guid": "4b29be9aaec52e445af5f6a5c82a9248",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1396995210313966,
+      "guid": "7172342f4538941448458c9ffc66e702",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1904187524395100,
+      "guid": "b8826cd706914e44199f16295308057e",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1614668304393810,
+      "guid": "37866441c80574c478101a57f25b40c0",
+      "type": 2
+    },
+    {
+      "fileID": 1538896687575131,
+      "guid": "53a2162ac7ebd0c449a225e96570bee7",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1241224527553018,
+      "guid": "ca5ba355cfd228844b22467b53b2127a",
+      "type": 2
+    },
+    {
+      "fileID": 1372278204845333,
+      "guid": "da7a851ae0b4eda43b47e960feb36476",
+      "type": 2
+    },
+    {
+      "fileID": 1746068447926949,
+      "guid": "c918d60878f738247a74457c1d1aa3b9",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1180386576064882,
+      "guid": "5fdc8f487bd9d824899a84aba8c7f8f2",
+      "type": 2
+    },
+    {
+      "fileID": 1950284367657068,
+      "guid": "b81d4de153115c04bac3a0c8916156c6",
+      "type": 2
+    },
+    {
+      "fileID": 1669721876233643,
+      "guid": "72611bbe04b17744e8163f7864ee3364",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    },
+    {
+      "fileID": 1331888980988870,
+      "guid": "21c3e5618f58ca24aa5d6573a86b4eb5",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1929461426775710,
+      "guid": "70e8bf5bf75342b4ca46e8a8cbed3611",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1451196946013290,
+      "guid": "0b30fab42de14064e985c450a06cda9e",
+      "type": 2
+    },
+    {
+      "fileID": 1978035727466006,
+      "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+      "type": 2
+    },
+    {
+      "fileID": 1474535961396883,
+      "guid": "8f6dfd4f5aa114d489037dc7201f1eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1509123975454411,
+      "guid": "314e4f14187ff2e44b62b00e49f36648",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1433500002296603,
+      "guid": "0b03f9ed311a26144a7b2e70ce22e013",
+      "type": 2
+    },
+    {
+      "fileID": 1309018176628142,
+      "guid": "f60678d0a6587054fb04e899c6668afb",
+      "type": 2
+    }
+  ],
+  "NoIdleChance": 0.8,
+  "IdleTime": {
+    "Min": 0.5,
+    "Max": 3
+  },
+  "MovingTime": {
+    "Min": 0.8,
+    "Max": 2.5
+  },
+  "HorizontalMovementSpeed": {
+    "Min": 10,
+    "Max": 35
+  },
+  "VerticalMovementSpeed": {
+    "Min": 0,
+    "Max": 30
+  },
+  "Bio": "The Glowdra represents the mythical, dragon-type evolution of the humble Glowfly. They are expert fliers, with a tendency to migrate all over the world over their century-long lifespans. When they jet across the night sky, they are sometimes mistaken for shooting stars. In the Old World, only one in a thousand Glowflies would evolve into a Glowdra.",
+  "History": "Fossil finds of the Glowdra date back to prehistoric times, similar to other dragon-type Monsters. It is theorized that the first Glowdras came into being during a time on this world when there was a chain reaction of cataclysmic volcanic eruptions. In large parts of the world, the air was heavily polluted with volcanic ash for decades. This led to the extinction of many species. However, some animals and insects evolved to harness the volcanic minerals in the air and thrive on them - they evolved into dragon-type Monsters. Therefore, it is speculated that Glowdras evolved from regular insects, but they then gradually evolved into the smaller Glowflies over thousands of years. So when a Glowfly evolves, it actually turns back into its jurassic form.",
+  "StatOrientation": 0
+}

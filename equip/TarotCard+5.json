@@ -1,0 +1,30 @@
+{
+  "guid": "0efaaad79992575408b5c7e28ea16025",
+  "filename": "TarotCard+5",
+  "ID": 1647,
+  "Name": "Tarot Card",
+  "Price": 5000,
+  "Type": 5,
+  "Icon": "icon_tarot_card",
+  "Attack": 0,
+  "Magic": 60,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 500,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "BuffStacks": 4398047559680,
+  "StackIncrease": 1
+}

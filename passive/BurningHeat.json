@@ -1,0 +1,14 @@
+{
+  "guid": "c918d60878f738247a74457c1d1aa3b9",
+  "filename": "BurningHeat",
+  "ID": 440,
+  "Name": "Burning Heat",
+  "Icon": "icon_burning_heat",
+  "Description": "Every Fire attack hit has a {0%} chance to apply {Burn}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 4,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 1
+}

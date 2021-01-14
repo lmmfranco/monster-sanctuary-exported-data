@@ -1,0 +1,17 @@
+{
+  "guid": "452e5d1f03b16a94e853ea7d86f76737",
+  "filename": "MagicBarrier",
+  "ID": 1119,
+  "Name": "Magic Barrier",
+  "Icon": "icon_magic_barrier",
+  "Description": "All {Mage} Monster in the party start the combat with a shield equal to {0%} of their mana.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stat": 4,
+  "DualStat": 0,
+  "SecondaryStat": 0,
+  "Percent": 1.5,
+  "TypeRestriction": 16,
+  "TriggerForBackupMonsters": 1,
+  "BasedOnCastersStat": 0
+}

@@ -1,0 +1,45 @@
+{
+  "guid": "e4db39691f240ec43bbc6dbf1d715c23",
+  "filename": "TendrilsObstacle",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 1,
+  "DestroyParticleEffect": {
+    "fileID": 1196378707174063,
+    "guid": "307539d56e01b9b46b3d0741044420dd",
+    "type": 2
+  },
+  "DestroyConditionBool": null,
+  "Sprite": {
+    "fileID": 114378051846208450
+  },
+  "CrumbleDuration": 1.5,
+  "BurnParticleEffect": {
+    "fileID": 1798184086594512,
+    "guid": "e3d6766a1dc559b4ebf1633ac2918194",
+    "type": 2
+  },
+  "CutParticleEffect": {
+    "fileID": 1926437720100419,
+    "guid": "e22b1d3bc5b75fe4d843c72b3c9a86ef",
+    "type": 2
+  },
+  "AttackTriggeringCutEffect": [
+    {
+      "fileID": 1646865771904386,
+      "guid": "5e4718a36983e1d429bfb52dd7ed90b3",
+      "type": 2
+    },
+    {
+      "fileID": 1962858563679155,
+      "guid": "50446f119e5d7814c873bbf33665a65a",
+      "type": 2
+    },
+    {
+      "fileID": 1560258640980019,
+      "guid": "14e82b206e156e34485bdf3b1918e9d8",
+      "type": 2
+    }
+  ]
+}

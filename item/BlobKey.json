@@ -1,0 +1,12 @@
+{
+  "guid": "97e884813f9a34d4aa9ad7da9dd966cd",
+  "filename": "BlobKey",
+  "ID": 1712,
+  "Name": "Blob Key",
+  "Price": 0,
+  "Icon": "icon_blob_key",
+  "ItemID": 6,
+  "DisplayInInventory": 1,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "Used to activate Blob monuments."
+}

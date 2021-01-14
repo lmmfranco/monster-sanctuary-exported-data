@@ -1,0 +1,19 @@
+{
+  "guid": "5dd1ce2122463394ba11e32c77d94191",
+  "filename": "MagicalClay",
+  "ID": 885,
+  "Name": "Magical Clay",
+  "Price": 400,
+  "Icon": "icon_magical_clay",
+  "BaseMonster": {
+    "fileID": 1431115795015313,
+    "guid": "258dc210865370c4dad5ea304e853474",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1641348295060173,
+    "guid": "e12d85d85cae65f4a9cef8d2390cfc99",
+    "type": 2
+  }
+}

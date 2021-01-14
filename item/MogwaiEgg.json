@@ -1,0 +1,12 @@
+{
+  "guid": "3189946589e45e74e8dd694c49ba445d",
+  "filename": "MogwaiEgg",
+  "ID": 665,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1181465141963763,
+    "guid": "73cce2a67ad58a1468d4f58cf4540681",
+    "type": 2
+  }
+}

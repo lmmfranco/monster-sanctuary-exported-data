@@ -1,0 +1,11 @@
+{
+  "guid": "ce1126defc1f9b948a4396d340da36b5",
+  "filename": "SharedRegeneration",
+  "ID": 825,
+  "Name": "Shared Regeneration",
+  "Icon": "icon_shared_regeneration",
+  "Description": "Whenever this Monster gains {Regeneration} (Buff), another random Monster in the party also gains {Regeneration}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffType": 5
+}

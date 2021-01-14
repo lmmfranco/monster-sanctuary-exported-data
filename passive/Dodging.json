@@ -1,0 +1,12 @@
+{
+  "guid": "d8b899dfe593cc74ab5bac99ab4b2779",
+  "filename": "Dodging",
+  "ID": 513,
+  "Name": "Dodging",
+  "Icon": "icon_dodging",
+  "Description": "Increases chance to dodge enemy hits by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DodgeChance": 0.08,
+  "TypeRestriction": 0
+}

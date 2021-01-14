@@ -1,0 +1,12 @@
+{
+  "guid": "b5d0e708a166bce4e8bf5120cc9be151",
+  "filename": "VaeroEgg",
+  "ID": 3,
+  "Name": null,
+  "Price": 250,
+  "Monster": {
+    "fileID": 1460965695047037,
+    "guid": "cb0b0d52f08c5c84a9b7eed29bff4eb6",
+    "type": 2
+  }
+}

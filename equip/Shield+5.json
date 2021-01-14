@@ -1,0 +1,28 @@
+{
+  "guid": "c6d4d266ea33b064393e75783ab23122",
+  "filename": "Shield+5",
+  "ID": 1520,
+  "Name": "Large Shield",
+  "Price": 4500,
+  "Type": 0,
+  "Icon": "icon_shield_armor",
+  "Attack": 110,
+  "Magic": 110,
+  "Defense": 140,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

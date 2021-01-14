@@ -1,0 +1,12 @@
+{
+  "guid": "03d0a51216bc2564c99c83dee96e82da",
+  "filename": "Corn",
+  "ID": 310,
+  "Name": "Corn",
+  "Price": 150,
+  "Icon": "icon_corn",
+  "Description": null,
+  "Stat": 3,
+  "Amount": 100,
+  "Level": 2
+}

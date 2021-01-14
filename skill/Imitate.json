@@ -1,0 +1,19 @@
+{
+  "guid": "04457dc1ffe3c174eb69938872f87651",
+  "filename": "Imitate",
+  "ID": 1404,
+  "Name": "Imitate",
+  "Icon": "icon_imitate",
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 3,
+  "Duration": 1,
+  "IsDefaultAction": 0,
+  "Tooltip": "Uses the last action used by target ally.",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

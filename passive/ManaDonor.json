@@ -1,0 +1,11 @@
+{
+  "guid": "5b0b427b4bb98164ba22360b6d2c037e",
+  "filename": "ManaDonor",
+  "ID": 1000,
+  "Name": "Mana Donor",
+  "Icon": "icon_light_passive",
+  "Description": "Whenever another Monster in the party would spend Mana, {0%} of the needed Mana is taken from this Monster instead.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ManaReduction": 0.25
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "e6b04de6ed7330244a89b5258b5dab97",
+  "filename": "CriticalBuffs",
+  "ID": 1068,
+  "Name": "Critical Buffs",
+  "Icon": "icon_critical_buff",
+  "Description": "When applying a Buff, there is a chance to also apply {0} {Charge} stacks, equal to this Monster's Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "StackCount": 2
+}

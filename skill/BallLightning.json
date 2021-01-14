@@ -1,0 +1,94 @@
+{
+  "guid": "5a02d70d49d83314c933072a4f054d20",
+  "filename": "BallLightning",
+  "ID": 1823,
+  "Name": "Ball Lightning",
+  "Icon": "icon_ball_lightning",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 230,
+  "TargetType": 0,
+  "Duration": 3.1,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.7,
+  "TotalDamage": 5.6,
+  "CalculatedDamage": 0.6223717,
+  "CalculatedTotalDamage": 4.978973,
+  "HitTimings": [
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2,
+    2.25,
+    2.5,
+    2.75
+  ],
+  "Element": 3,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 1,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1697771987206930,
+    "guid": "52b7ba5a42cc2024e87bab4010d7b04f",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Debuff": 1,
+  "dualDebuff": 0,
+  "Debuff2": 0,
+  "ApplyChance": 0.15,
+  "ShakeDuration": 3,
+  "ShakeStrength": 1,
+  "ShakeTimings": [
+    0.1
+  ],
+  "Color__1": {
+    "r": 0.5754717,
+    "g": 0.5594289,
+    "b": 0.3490196,
+    "a": 0.1254902
+  },
+  "Duration__1": 1,
+  "StayDuration": 2.3,
+  "Timings": [
+    0
+  ]
+}

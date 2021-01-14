@@ -1,0 +1,48 @@
+{
+  "guid": "ce361431919954b4c86ca7d0988cb89e",
+  "filename": "RestoringWand+4",
+  "ID": 1662,
+  "Name": "Restoring Wand",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_restoring_wand",
+  "Attack": 0,
+  "Magic": 135,
+  "Defense": 28,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1715654265634986,
+    "guid": "fe753e7e0cfd22e4c8fe80dba86eb52e",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 4
+    },
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "RemoveDebuffCount": 2
+}

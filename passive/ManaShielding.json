@@ -1,0 +1,12 @@
+{
+  "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+  "filename": "ManaShielding",
+  "ID": 206,
+  "Name": "Mana Shielding",
+  "Icon": "icon_mana_procs",
+  "Description": "When attacking an enemy, generate a Shield equal to {0%} of Max Mana for each hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ProcType": 0,
+  "Shield": 0.15
+}

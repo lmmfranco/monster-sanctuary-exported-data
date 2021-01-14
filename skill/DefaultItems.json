@@ -1,0 +1,19 @@
+{
+  "guid": "b789c4c1eca54ab4297dc7f3b96f9776",
+  "filename": "DefaultItems",
+  "ID": 193,
+  "Name": "Items",
+  "Icon": "icon_default_items",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 0,
+  "Duration": 1.5,
+  "IsDefaultAction": 1,
+  "Tooltip": "Use an item",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

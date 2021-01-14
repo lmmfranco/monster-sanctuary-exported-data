@@ -1,0 +1,13 @@
+{
+  "guid": "961377685c797ea4892b7362ca1c092b",
+  "filename": "PhoenixHeritage",
+  "ID": 1731,
+  "Name": "Phoenix Heritage",
+  "Icon": "icon_phoenix_heritage",
+  "Description": "Each {Aerial} and {Bird} Monster in your party applies {Burn} on a random enemy after each action.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TypeRestrition": 12,
+  "TypeRestrition2": 2,
+  "Debuff": 4
+}

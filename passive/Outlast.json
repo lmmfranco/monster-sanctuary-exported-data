@@ -1,0 +1,12 @@
+{
+  "guid": "b7a68358049406442ad6658977c3e451",
+  "filename": "Outlast",
+  "ID": 1693,
+  "Name": "Outlast",
+  "Icon": "icon_outlast",
+  "Description": "When an allied Monster gain their first, second, or third {Age} stack, they also gain a shield equal to {0%} of their Max Health.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ShieldAmount": 0.15,
+  "Cap": 3
+}

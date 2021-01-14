@@ -1,0 +1,97 @@
+{
+  "guid": "43e29b574679bbc4fb9b9c725df826c7",
+  "filename": "Tsunami",
+  "ID": 1750,
+  "Name": "Tsunami",
+  "Icon": "icon_tsunami",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 230,
+  "TargetType": 1,
+  "Duration": 3.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1,
+  "TotalDamage": 3,
+  "CalculatedDamage": 0.9616794,
+  "CalculatedTotalDamage": 2.885038,
+  "HitTimings": [
+    1,
+    1.6,
+    2.2
+  ],
+  "Element": 2,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1683994742532080,
+    "guid": "bfd94e16f4fcb34478a5954cfe3ba2a4",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": -40,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [
+    {
+      "OverrideType": 6,
+      "Parameter": 0.75
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "ShakeDuration": 0.5,
+  "ShakeStrength": 1,
+  "ShakeTimings": [
+    0.3
+  ],
+  "ShakeDuration__1": 2.5,
+  "ShakeStrength__1": 2,
+  "ShakeTimings__1": [
+    0.8
+  ],
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "f0fd1734fc9328b4da763b72da5a34ce",
+    "type": 3
+  },
+  "Volume": 0.5,
+  "Pitch": 0.8,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "Count": 2,
+  "Delay__1": 2.7
+}

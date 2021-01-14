@@ -1,0 +1,35 @@
+{
+  "guid": "95a03695c7e7bfc499e037bd76b3b754",
+  "filename": "MinimapTileView",
+  "Background": {
+    "fileID": 114311262432232880
+  },
+  "InnerSprite": {
+    "fileID": 114348265427300600
+  },
+  "Teleporter": {
+    "fileID": 1651871120034499
+  },
+  "Icon": {
+    "fileID": 114978010955646770
+  },
+  "Doors": [
+    {
+      "fileID": 114316234705254200
+    },
+    {
+      "fileID": 114170263965048210
+    },
+    {
+      "fileID": 114363519417198830
+    },
+    {
+      "fileID": 114737731516173070
+    }
+  ],
+  "BoundingSprite": {
+    "fileID": 114033083206454160,
+    "guid": "44eb096c0fb8392408766e87393ab5bc",
+    "type": 2
+  }
+}

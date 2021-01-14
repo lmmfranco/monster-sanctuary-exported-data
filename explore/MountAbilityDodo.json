@@ -1,0 +1,25 @@
+{
+  "guid": "2d664b7b05353d64081cbd0eef345ffc",
+  "filename": "MountAbilityDodo",
+  "PlayerOffset": {
+    "x": -7,
+    "true": 9,
+    "z": 0
+  },
+  "Name": "Mount",
+  "Description": "- Allows to mount the Monster",
+  "PlayerJumpOffset": {
+    "x": 0,
+    "true": 2,
+    "z": 0
+  },
+  "PlayerJumpFrequency": 0.28,
+  "PlayerIdleOffset": {
+    "x": 0,
+    "true": 1,
+    "z": 0
+  },
+  "PlayerIdleFrequency": 0.84,
+  "AlternativeRideAnimation": 0,
+  "IncreasedJumpHeight": 0
+}

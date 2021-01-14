@@ -1,0 +1,17 @@
+{
+  "guid": "a28abe85c1479de43a17b06c6c364b92",
+  "filename": "PhoenixAffinity",
+  "ID": 350,
+  "Name": "Phoenix Affinity",
+  "Icon": "icon_phoenix_affinity",
+  "Description": "When this Monster is knocked out for the first time in combat, it is revived with {0%} of its Max Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealAmount": 0.1,
+  "AnimElement": {
+    "fileID": 1843581525304517,
+    "guid": "5a2ffb10be4813642850b8b45b937b32",
+    "type": 2
+  },
+  "ChargedRebirth": 0
+}

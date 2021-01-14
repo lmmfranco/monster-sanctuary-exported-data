@@ -1,0 +1,11 @@
+{
+  "guid": "a8e40a5ceb1867a4f9ea52f1fe46019c",
+  "filename": "HealingLink",
+  "ID": 638,
+  "Name": "Healing Link",
+  "Icon": "icon_healing_link",
+  "Description": "Whenever another Monster in your team is healed, this Monster has a {0%} chance to get healed by the same amount.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealChance": 0.25
+}

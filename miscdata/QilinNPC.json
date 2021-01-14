@@ -1,0 +1,39 @@
+{
+  "guid": "2b7657f54551529438f9b7dd84cb8396",
+  "filename": "QilinNPC",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 2
+  },
+  "Name": "Qilin",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1474724100515241,
+    "guid": "fd410a5ced55c88499274e56f303262c",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1474724100515241,
+    "guid": "fd410a5ced55c88499274e56f303262c",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 2,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

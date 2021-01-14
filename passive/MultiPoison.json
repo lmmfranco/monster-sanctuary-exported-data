@@ -1,0 +1,12 @@
+{
+  "guid": "02d8448a1610e704fb121aded0bfa337",
+  "filename": "MultiPoison",
+  "ID": 140,
+  "Name": "Multi Poison",
+  "Icon": "icon_multipoison",
+  "Description": "{Poison} (Debuff) can be stacked two additional times on enemies. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 2
+}

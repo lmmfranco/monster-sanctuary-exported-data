@@ -1,0 +1,25 @@
+{
+  "guid": "7eec424bf4966564bb6c9d9214224ecf",
+  "filename": "MountAbilityAurumtail",
+  "PlayerOffset": {
+    "x": -3,
+    "true": 6,
+    "z": 0
+  },
+  "Name": "Mount",
+  "Description": "- Allows to mount the Monster",
+  "PlayerJumpOffset": {
+    "x": 0,
+    "true": 14,
+    "z": 0
+  },
+  "PlayerJumpFrequency": 0.4,
+  "PlayerIdleOffset": {
+    "x": 0,
+    "true": 1,
+    "z": 0
+  },
+  "PlayerIdleFrequency": 0.6,
+  "AlternativeRideAnimation": 0,
+  "IncreasedJumpHeight": 0
+}

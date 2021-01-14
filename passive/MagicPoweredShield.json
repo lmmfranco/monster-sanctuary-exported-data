@@ -1,0 +1,17 @@
+{
+  "guid": "162b7b41baf17c343a13de44a0da82d5",
+  "filename": "MagicPoweredShield",
+  "ID": 121,
+  "Name": "Magic Powered Shield",
+  "Icon": "icon_magical_shield",
+  "Description": "At the start of combat, apply a Shield equal to {0%} of Magic value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 1,
+  "DualStat": 0,
+  "SecondaryStat": 0,
+  "Percent": 1.5,
+  "TypeRestriction": 0,
+  "TriggerForBackupMonsters": 0,
+  "BasedOnCastersStat": 0
+}

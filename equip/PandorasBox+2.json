@@ -1,0 +1,49 @@
+{
+  "guid": "dba4a2ae0e932e848a6377313ac7669f",
+  "filename": "PandorasBox+2",
+  "ID": 480,
+  "Name": "Pandora's Box",
+  "Price": 2500,
+  "Type": 5,
+  "Icon": "icon_box",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 25,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1445861527046830,
+    "guid": "4080a56313e8fda439b03800ec71dd0c",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1177786864638448,
+        "guid": "4f367a9a0c470a1428609d362cb71fab",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "AddType": 0,
+  "BuffCount": 1
+}

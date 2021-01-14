@@ -1,0 +1,12 @@
+{
+  "guid": "96d1d2a2cdeb86946b3c0c9479be1784",
+  "filename": "UcanEgg",
+  "ID": 993,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1575813763605669,
+    "guid": "2092db3d2b8958546a4ff320d81cb552",
+    "type": 2
+  }
+}

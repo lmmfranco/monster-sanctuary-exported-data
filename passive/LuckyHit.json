@@ -1,0 +1,12 @@
+{
+  "guid": "f53f2cd28b499444c9a2d44f8678c488",
+  "filename": "LuckyHit",
+  "ID": 1742,
+  "Name": "Lucky Hit",
+  "Icon": "icon_lucky_hit",
+  "Description": "Critical Hits have a {0%} chance to deal {1%} more damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HitChance": 0.17,
+  "DamageBonus": 0.77
+}

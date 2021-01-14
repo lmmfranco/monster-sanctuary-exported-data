@@ -1,0 +1,11 @@
+{
+  "guid": "c88698d028d422941b9d4c998563d17f",
+  "filename": "PotionMastery",
+  "ID": 653,
+  "Name": "Potion Mastery",
+  "Icon": "icon_potion_mastery",
+  "Description": "Potion heal effects are increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.25
+}

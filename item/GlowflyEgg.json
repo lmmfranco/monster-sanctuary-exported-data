@@ -1,0 +1,12 @@
+{
+  "guid": "32357f45e2c284945b9e73a8c416f5cd",
+  "filename": "GlowflyEgg",
+  "ID": 507,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1343571813875799,
+    "guid": "bcea027bb1f36ab49bd5ba4aba96b6f3",
+    "type": 2
+  }
+}

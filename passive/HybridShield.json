@@ -1,0 +1,17 @@
+{
+  "guid": "b71d90419425d1647a845e5ae4be17b4",
+  "filename": "HybridShield",
+  "ID": 358,
+  "Name": "Hybrid Shield",
+  "Icon": "icon_hybrid_shield",
+  "Description": "At the start of combat, apply a Shield equal to {0%} of Attack and Magic value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 0,
+  "DualStat": 1,
+  "SecondaryStat": 1,
+  "Percent": 1,
+  "TypeRestriction": 0,
+  "TriggerForBackupMonsters": 0,
+  "BasedOnCastersStat": 0
+}

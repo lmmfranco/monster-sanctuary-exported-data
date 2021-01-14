@@ -1,0 +1,10 @@
+{
+  "guid": "fe5c30d98be25a946950cebaa7adf1ee",
+  "filename": "BrawnOverBrains",
+  "ID": 849,
+  "Name": "Brawn over Brains",
+  "Icon": "icon_brawn_over_brains",
+  "Description": "If this Monster would gain {Sorcery} (Buff), it gains {Might} (Buff) instead.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

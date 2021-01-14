@@ -1,0 +1,12 @@
+{
+  "guid": "a06eebb5e8cbe8e49b074dd918a2d43d",
+  "filename": "ImprovedGlory",
+  "ID": 415,
+  "Name": "Improved Glory",
+  "Icon": "icon_improved_glory",
+  "Description": "{Glory} (Buff) increases Critical damage by an additional {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "BuffType": 2,
+  "Value": 0.2
+}

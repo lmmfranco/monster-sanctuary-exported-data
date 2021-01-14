@@ -1,0 +1,12 @@
+{
+  "guid": "6620defd679cba244aee5cbee50f6895",
+  "filename": "MultiShock",
+  "ID": 533,
+  "Name": "Multi Shock",
+  "Icon": "icon_multishock",
+  "Description": "{Shock} (Debuff) can be stacked two additional times on enemies. Additional stacks have only a {50%} chance to trigger.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 1
+}

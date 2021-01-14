@@ -1,0 +1,14 @@
+{
+  "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+  "filename": "HealthPlus",
+  "ID": 78,
+  "Name": "Health Plus",
+  "Icon": "icon_health_plus",
+  "Description": null,
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 3,
+  "Value": 1,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

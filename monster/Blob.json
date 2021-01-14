@@ -1,0 +1,562 @@
+{
+  "guid": "b127b30d1125f6644b843e26a0dbc3bc",
+  "filename": "Blob",
+  "ID": 119,
+  "Name": "Blob",
+  "baseStats": {
+    "attack": 2,
+    "magic": 4,
+    "defense": 2,
+    "health": 5,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 1,
+    "health": 3,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 3,
+    "defense": 0,
+    "health": 1,
+    "mana": 3
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -1
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 1,
+  "RewardsCommon": [
+    {
+      "fileID": 1436926238360867,
+      "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+      "type": 2
+    },
+    {
+      "fileID": 1283344633932040,
+      "guid": "9cf392768e7178343a34dee125556952",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1427932154024413,
+      "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+      "type": 2
+    },
+    {
+      "fileID": 1611886072183338,
+      "guid": "1cf732042b366f54ea249e4c591b494a",
+      "type": 2
+    },
+    {
+      "fileID": 1268222700710082,
+      "guid": "f471ad90f7ee3ea4caf2db75219b6c46",
+      "type": 2
+    }
+  ],
+  "StartLevel": 3,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 5,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1257765134137246,
+    "guid": "bae9639eca460fa42885911dd11f5f90",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0a000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    },
+    {
+      "fileID": 1316089996657313,
+      "guid": "2cce7e8ef91f1b54f911f0b9e7570e13",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1325998609352497,
+      "guid": "36eb940e04d9d3748a8aff783a889435",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 30,
+  "AdvancedAISkills": [
+    {
+      "fileID": 1858161602520870,
+      "guid": "742da173ef5b95846aad29dd6bc0d903",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    },
+    {
+      "fileID": 1703664524876045,
+      "guid": "dcf547ca2ab94ec4ba580dc49ceb5653",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    }
+  ],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1676241385952260,
+      "guid": "6e7c98c271787d5499baf3ed45ca2e9e",
+      "type": 2
+    },
+    {
+      "fileID": 1506530525744404,
+      "guid": "e029a8e89918b474e8b36c1b51ea39cf",
+      "type": 2
+    },
+    {
+      "fileID": 1059511061834792,
+      "guid": "4eb95e51c895dbf4b91f148ad4b30dbe",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1533410295781656,
+    "guid": "0a0c288f59f76134c82ddb84b754db28",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1961696555006520,
+      "guid": "d5f9105a0295e6a4fbb61baaeb834022",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1707284892461584,
+      "guid": "c2c84c7a9b88dfe48848a50ab9334611",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1335250518357692,
+      "guid": "a18678d5b2e932443b03f302998a5d8c",
+      "type": 2
+    },
+    {
+      "fileID": 1407856648580175,
+      "guid": "e434cac16e42b8340a143488c69530ac",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1730059661543035,
+      "guid": "d874756984dd94c49b1d3d0299c3a67b",
+      "type": 2
+    },
+    {
+      "fileID": 1761307590152099,
+      "guid": "0c0fae45c0baa2a4e879c856671f71e8",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1884870905278009,
+      "guid": "821306266359cb64383f137206811568",
+      "type": 2
+    },
+    {
+      "fileID": 1909401859368608,
+      "guid": "d1b7579e17128bd4e884891baa76c6a7",
+      "type": 2
+    },
+    {
+      "fileID": 1858161602520870,
+      "guid": "742da173ef5b95846aad29dd6bc0d903",
+      "type": 2
+    },
+    {
+      "fileID": 1637226370776333,
+      "guid": "46b92a6076355054fa4ccf45b219b6f3",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    },
+    {
+      "fileID": 1325998609352497,
+      "guid": "36eb940e04d9d3748a8aff783a889435",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1287964077566189,
+      "guid": "b33da4a3780d1fc4e81f72c7b809fc7e",
+      "type": 2
+    },
+    {
+      "fileID": 1077486870886727,
+      "guid": "3f02e325c13c3714b95308ff37b081dc",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1036017481979631,
+      "guid": "21ea0087ef3af1c45923679df5462796",
+      "type": 2
+    },
+    {
+      "fileID": 1444029259816378,
+      "guid": "646945303350c49439aba1e9908efa20",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1744983990326740,
+      "guid": "abc6bbd41a89d7b40afedf786785c2ae",
+      "type": 2
+    },
+    {
+      "fileID": 1469547985096463,
+      "guid": "09637acb40517a245b7743554a3f783e",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1461969233366980,
+      "guid": "6682739764b29ce4e86ba287cafe2eb1",
+      "type": 2
+    },
+    {
+      "fileID": 1724728372468134,
+      "guid": "1b7b9062c1cf0084683f0aabf9ac854a",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1316089996657313,
+      "guid": "2cce7e8ef91f1b54f911f0b9e7570e13",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1026639108393710,
+      "guid": "22c5bfb653153284c801c2079ee42abc",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1243149427739132,
+      "guid": "821a3aaae5bde0048be1798b989d683c",
+      "type": 2
+    },
+    {
+      "fileID": 1805058663889825,
+      "guid": "02a57c95688c47b4fafe0e6e9dece4be",
+      "type": 2
+    },
+    {
+      "fileID": 1783690240482000,
+      "guid": "78cc158390a48fe4db95af9ae2bd8122",
+      "type": 2
+    },
+    {
+      "fileID": 1349092676614706,
+      "guid": "82c764a2e65205140a22ab26c5bccd93",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1140650222409398,
+      "guid": "b57c355b31d41154c8dd1428054a0c78",
+      "type": 2
+    },
+    {
+      "fileID": 1805578324925072,
+      "guid": "b9121997dfa40e44e90d2c563907191a",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1667489203381934,
+      "guid": "dd9de060885d0c64b8dca6655f71d8b8",
+      "type": 2
+    },
+    {
+      "fileID": 1554412500688381,
+      "guid": "63ee82e53e259514baa253eb5d73d0b0",
+      "type": 2
+    },
+    {
+      "fileID": 1703664524876045,
+      "guid": "dcf547ca2ab94ec4ba580dc49ceb5653",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1001751917371072,
+      "guid": "50b366e358ab5b646a89858643caafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1640201689144164,
+      "guid": "cb81a0329db885c469d22fcf084d23cd",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1644360230470818,
+      "guid": "7b89c67b5638ebd4098402a0a7afbeaf",
+      "type": 2
+    },
+    {
+      "fileID": 1933393745744034,
+      "guid": "b4015cd62291bb4498c7d645a82b7a2a",
+      "type": 2
+    },
+    {
+      "fileID": 1640277541841647,
+      "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1591553800542082,
+      "guid": "67d6ddbd22c10ba4c83e74ab1266db6b",
+      "type": 2
+    },
+    {
+      "fileID": 1996141377160665,
+      "guid": "df69284828a26134eb5c07ec5163cc80",
+      "type": 2
+    },
+    {
+      "fileID": 1890869333177745,
+      "guid": "8edbaba22561c0242a4b7354e4b50338",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1689263143504150,
+      "guid": "8ccee682c8fadca40b5e5a2898affe5e",
+      "type": 2
+    },
+    {
+      "fileID": 1175982401135890,
+      "guid": "fc39e272bc777c34da5b6e9ddaf14f47",
+      "type": 2
+    },
+    {
+      "fileID": 1617077326645300,
+      "guid": "6ddf2e4f2b3a53e4282407348f033df9",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    }
+  ],
+  "Bio": "Gelatinous, amorphous, transparent, semi-solid, slimy - Blobs. Many Keepers don't think much of them, but it should be noted that there were several high-ranking Monster Keepers in history who employed a Blob in their team of Monsters. Keeper Master Duncan even once called his Blob his \"most trusty and steely companion\", although it might have been in jest. It is tradition for the Monster Keepers of that family to manage a farm of blobs just west of the Keepers' Stronghold.",
+  "History": "The Blobs were denizens of the Monster Sanctuary from the moment it was created. Curiously, there are no known stories of the Blob from the Old World. Could it be that the magic that was used to create the Sanctuary somehow also brought the Blobs into the world? Are they just a random by-product of the Sanctuary or is their existence linked to the nature of the Sanctuary? Nobody knows for sure as the scribes from that era didn't seem to assign the Blobs much importance. They took the Blobs for granted, and perhaps it is best for us to do the same. The notion of a hidden realm that is only inhabited by Blobs is generally seen as ridiculous by most Monster Keepers.",
+  "StatOrientation": 3
+}

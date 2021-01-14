@@ -1,0 +1,11 @@
+{
+  "guid": "acbb3a3386055e24bb8eb73accf0a20b",
+  "filename": "Assistance",
+  "ID": 957,
+  "Name": "Assistance",
+  "Icon": "icon_assistance",
+  "Description": "Every heal that comes from this Monster (active and passive) has a {0%} chance to apply {Sidekick} (Buff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.1
+}

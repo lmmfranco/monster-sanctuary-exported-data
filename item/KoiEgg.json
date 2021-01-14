@@ -1,0 +1,12 @@
+{
+  "guid": "bf9d586ce2227bb40a74ec51c96d7d02",
+  "filename": "KoiEgg",
+  "ID": 877,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1088845302725572,
+    "guid": "c54da996765a4a742a967f46efb8058a",
+    "type": 2
+  }
+}

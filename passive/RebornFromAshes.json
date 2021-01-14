@@ -1,0 +1,12 @@
+{
+  "guid": "1579dd40af1aafd42b0e86b072fdf875",
+  "filename": "RebornFromAshes",
+  "ID": 1580,
+  "Name": "Reborn from Ashes",
+  "Icon": "icon_reborn_from_ashes",
+  "Description": "When this monster is revived or revives another monster, it additionally heals {0%} of its Max Health and gains {1} {Charge} stacks.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealValue": 0.3,
+  "ChargeCount": 7
+}

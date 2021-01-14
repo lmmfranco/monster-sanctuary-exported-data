@@ -1,0 +1,58 @@
+{
+  "guid": "209f14052c7b7c64b94b449e0b9a85a3",
+  "filename": "ThermalReactor+1",
+  "ID": 1461,
+  "Name": "Thermal Reactor",
+  "Price": 3500,
+  "Type": 5,
+  "Icon": "icon_thermal_reactor",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.03,
+  "CritDamage": 0.11,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1598459783699165,
+    "guid": "1106e0ebf56c921438417731d4bc7dde",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1979148939231785,
+        "guid": "fb7806c89741472478f451cd10abf730",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "Debuff1": 4,
+  "Debuff2": 3,
+  "Chance": 0.03
+}

@@ -1,0 +1,44 @@
+{
+  "guid": "bc48096d30eaa994a8dd47960421e061",
+  "filename": "SnowballTossExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Snowball Toss",
+  "Description": "- Activates ice orbs",
+  "AnimElement": {
+    "fileID": 1253800282869894,
+    "guid": "4f35767ac0acc1c42b970a46fc3eb775",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": -12,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 160,
+    "true": 24
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 10
+  },
+  "Duration": 0.5,
+  "InteractableTypes": "0a000000"
+}

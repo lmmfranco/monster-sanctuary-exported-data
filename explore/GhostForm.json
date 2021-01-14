@@ -1,0 +1,24 @@
+{
+  "guid": "78cf14842d44205438c67fb1b938f971",
+  "filename": "GhostForm",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Ghost Form",
+  "Description": "- Avoids monster encounters",
+  "GhostFormDuration": 10,
+  "CastDuration": 1,
+  "GhostFormColor": {
+    "r": 0.4,
+    "g": 0.3,
+    "b": 0.5,
+    "a": 0.3764706
+  },
+  "Anim": {
+    "fileID": 1248917987156949,
+    "guid": "cdbd24bf85328854ab9c81795ac0b73e",
+    "type": 2
+  }
+}

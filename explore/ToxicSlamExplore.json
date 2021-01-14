@@ -1,0 +1,74 @@
+{
+  "guid": "60a7a7425130305439331ad13e387644",
+  "filename": "ToxicSlamExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Toxic Slam",
+  "Description": "- Breaks hidden walls\n- Activates earth orbs",
+  "AnimElement": {
+    "fileID": 1052942802102577,
+    "guid": "fab3ff605a7a50a489cb5701fed8d0af",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 15,
+        "true": -5,
+        "z": 0
+      },
+      "Overrides": []
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.3,
+      "Offset": {
+        "x": 25,
+        "true": 8,
+        "z": 0
+      },
+      "Overrides": []
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.6,
+      "Offset": {
+        "x": 13,
+        "true": 4,
+        "z": 0
+      },
+      "Overrides": []
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.9,
+      "Offset": {
+        "x": 25,
+        "true": -3,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.1
+  ],
+  "HitBox": {
+    "x": 36,
+    "true": 36
+  },
+  "HitOffset": {
+    "x": -10,
+    "true": 0
+  },
+  "Duration": 0.9,
+  "InteractableTypes": 300000008000000
+}

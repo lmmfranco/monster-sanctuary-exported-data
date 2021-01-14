@@ -1,0 +1,12 @@
+{
+  "guid": "97d72af805253a4489e44118b5ef5452",
+  "filename": "ArmorBypass",
+  "ID": 823,
+  "Name": "Armor Bypass",
+  "Icon": "icon_armor_bypass",
+  "Description": "This Monster's attacks ignore {0%} of the target's Defense damage reduction value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BypassAmount": 0.2,
+  "TypeRestriction": 0
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "50d0242905c002b44b4cefb839fdad8f",
+  "filename": "TorchUnderworld",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 4,
+  "IsEnkindled": 1,
+  "timeOffset": 0,
+  "BrightTorch": {
+    "fileID": 114451559646500100
+  },
+  "TorchLight": {
+    "fileID": 114830853000793070
+  },
+  "Background": {
+    "fileID": 0
+  },
+  "SpeedMultiplier": 1.5,
+  "InnerSpeedMultiplier": 8.25,
+  "InnerIntensity": 0.5,
+  "AlphaFlickerRange": 0.05,
+  "BackgroundFlickerRange": 0.5,
+  "SizeFlickerRange": 0.1,
+  "FlickerSpeedRange": 0.15,
+  "FlickerSpeedRate": 1.5,
+  "Particles": [
+    {
+      "fileID": 198221606107596400
+    },
+    {
+      "fileID": 198435017605718140
+    }
+  ],
+  "ActivatesBoolOnEnkindle": null
+}

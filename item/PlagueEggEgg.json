@@ -1,0 +1,12 @@
+{
+  "guid": "83c9e4031f01d104faeedbba7c3dee63",
+  "filename": "PlagueEggEgg",
+  "ID": 1657,
+  "Name": null,
+  "Price": 6000,
+  "Monster": {
+    "fileID": 1565462994039183,
+    "guid": "3631c49ffc2bbc5419b3f49924978f2b",
+    "type": 2
+  }
+}

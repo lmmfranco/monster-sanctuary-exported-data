@@ -1,0 +1,614 @@
+{
+  "guid": "1eb16b2327bffce44bc4c763dae9daf0",
+  "filename": "Sutsune",
+  "ID": 1597,
+  "Name": "Sutsune",
+  "baseStats": {
+    "attack": 9,
+    "magic": 9,
+    "defense": 2,
+    "health": 5,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 1,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -15
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 5,
+  "RewardsCommon": [
+    {
+      "fileID": 1402140077838650,
+      "guid": "30100117dd43b0a43918a3037cf838b7",
+      "type": 2
+    },
+    {
+      "fileID": 1230261216403782,
+      "guid": "52102ecf5be549f4c97ab854ca4e0eb7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1997347528458206,
+      "guid": "de2c4792aaaaaf245a313667f86698c9",
+      "type": 2
+    },
+    {
+      "fileID": 1875846948898131,
+      "guid": "73f86c2119c8c5e4e836d7ef3e828d45",
+      "type": 2
+    },
+    {
+      "fileID": 1842596717942073,
+      "guid": "7b1c7ee19941ace4b9fe1601ecdf636b",
+      "type": 2
+    }
+  ],
+  "StartLevel": 35,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1843074765412436,
+    "guid": "3545622b4f366f24cab2fc3c7c577fa4",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.28
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -20,
+    "true": -20,
+    "z": 0
+  },
+  "MonsterTypes": "090000000700000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1736891885927352,
+      "guid": "726a2774285b55646a199dd3a30bb79e",
+      "type": 2
+    },
+    {
+      "fileID": 1056524521070767,
+      "guid": "ba276f3494030aa46b0066e6702a0f82",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1202578188081413,
+      "guid": "7b4d3121e4939e74d9b9d5709e2c84f2",
+      "type": 2
+    },
+    {
+      "fileID": 1746292756075379,
+      "guid": "4b9104b116388dd438c74d5a82660d76",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    },
+    {
+      "fileID": 1698295117305144,
+      "guid": "829afbfa07bac7a44b2a25b0483ca597",
+      "type": 2
+    },
+    {
+      "fileID": 1454260944038013,
+      "guid": "74c854a8b5a4c784eb0dc47c65c01a66",
+      "type": 2
+    },
+    {
+      "fileID": 1087513755488245,
+      "guid": "acbb3a3386055e24bb8eb73accf0a20b",
+      "type": 2
+    },
+    {
+      "fileID": 1626169879050506,
+      "guid": "1019eb0b94d17024c97fa76c2c61c7dc",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1143783304097802,
+      "guid": "76b8f69a9b1bda341ab0ef6ff73bf7e9",
+      "type": 2
+    },
+    {
+      "fileID": 1936107618644887,
+      "guid": "bf507168938b9164da9b681b93664e21",
+      "type": 2
+    },
+    {
+      "fileID": 1415190589012756,
+      "guid": "02a6867e0bc2d4349872723f2fcbb290",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1686252289676525,
+    "guid": "1addcfac4e61fde42bf4d3822479c34e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1131838578677488,
+    "guid": "33a371f5df3d82f499ef4a4094ad3ec0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1056524521070767,
+      "guid": "ba276f3494030aa46b0066e6702a0f82",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1165603342428603,
+      "guid": "fb9585d97b2027a4b8f9355a92cfcaec",
+      "type": 2
+    },
+    {
+      "fileID": 1560167735935722,
+      "guid": "41afd88780d6e7a4d9e52d1de396adb4",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1901337506164947,
+      "guid": "e699c3e00cd4a6c49a7de16df78f8bf5",
+      "type": 2
+    },
+    {
+      "fileID": 1222964124650938,
+      "guid": "e4b043b37589f134783b1b583fa89d58",
+      "type": 2
+    },
+    {
+      "fileID": 1811849764862644,
+      "guid": "b71d90419425d1647a845e5ae4be17b4",
+      "type": 2
+    },
+    {
+      "fileID": 1295060785411546,
+      "guid": "8334aa260831f294392889142b202277",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1353522657491811,
+      "guid": "52823835a18bd5849bbffe26623c700d",
+      "type": 2
+    },
+    {
+      "fileID": 1457573937035493,
+      "guid": "2dbcdb966e1c91e4cb942eb4692c1fec",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    },
+    {
+      "fileID": 1932244800654605,
+      "guid": "efe75013f72dec94095cbb9defa22a89",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1773860023919509,
+      "guid": "a994a3ac6948b0e42a7f5c253afc48ff",
+      "type": 2
+    },
+    {
+      "fileID": 1532911914172557,
+      "guid": "a853fae8670a78a4b97ce7c88e43c907",
+      "type": 2
+    },
+    {
+      "fileID": 1745944657471906,
+      "guid": "3dfaa9bc3fc4c6043a6919831b68db63",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1736891885927352,
+      "guid": "726a2774285b55646a199dd3a30bb79e",
+      "type": 2
+    },
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1879650514797604,
+      "guid": "045d9e9d8d8522940a047ab5b5738412",
+      "type": 2
+    },
+    {
+      "fileID": 1177920882222364,
+      "guid": "2e9f8a647c4722f449565fde2e32ef9d",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1024832102994151,
+      "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1876804914422526,
+      "guid": "b85aa22aabf72dd4eb666ff8e0a25f17",
+      "type": 2
+    },
+    {
+      "fileID": 1263765811182381,
+      "guid": "275997d5f64365143b3f7c66063ee5fa",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    },
+    {
+      "fileID": 1972393823562220,
+      "guid": "671a9209bbfc1794d810e29212b6ba4d",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1916936909460876,
+      "guid": "51d1ede2be2fd15449e850036357f32d",
+      "type": 2
+    },
+    {
+      "fileID": 1085898870576219,
+      "guid": "bc6455fb2e1d6ef48abb141124ab08a6",
+      "type": 2
+    },
+    {
+      "fileID": 1930657513963069,
+      "guid": "b62d5e1ed80719c47884d1e261fb6a86",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1505314436865728,
+      "guid": "1aa82dfd0ee676e4596494df63682bbd",
+      "type": 2
+    },
+    {
+      "fileID": 1832505366857474,
+      "guid": "3453d53376b1fbd4ba1dfff8a57584cb",
+      "type": 2
+    },
+    {
+      "fileID": 1754529178024501,
+      "guid": "6dd1769a03dbb3e40a591eedfe1dd83b",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1865125493606626,
+      "guid": "0045c80e0eb7633408e3918f4c9db1f7",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1412223359430705,
+      "guid": "06b954d63b0a92a4da5848d6b465d316",
+      "type": 2
+    },
+    {
+      "fileID": 1746292756075379,
+      "guid": "4b9104b116388dd438c74d5a82660d76",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1584653823306727,
+      "guid": "3e63903b7a485754a9f13e11c947b26c",
+      "type": 2
+    },
+    {
+      "fileID": 1078452884879712,
+      "guid": "0a17041754d15a34eb1bd9577aa68a3d",
+      "type": 2
+    },
+    {
+      "fileID": 1171859836952631,
+      "guid": "e6b04de6ed7330244a89b5258b5dab97",
+      "type": 2
+    },
+    {
+      "fileID": 1035518392929682,
+      "guid": "e35ac9cf25c54e44c9fd65d853c2a2c1",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1389161465907882,
+      "guid": "3495a2a85249614458b357155fcb6b08",
+      "type": 2
+    },
+    {
+      "fileID": 1728407180064904,
+      "guid": "5c7f19e9b6f4f6a4bacb73ec6376ae87",
+      "type": 2
+    },
+    {
+      "fileID": 1626169879050506,
+      "guid": "1019eb0b94d17024c97fa76c2c61c7dc",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1454260944038013,
+      "guid": "74c854a8b5a4c784eb0dc47c65c01a66",
+      "type": 2
+    },
+    {
+      "fileID": 1530168420274776,
+      "guid": "72c1850a3d9fc9d46a391bda3901477c",
+      "type": 2
+    },
+    {
+      "fileID": 1698295117305144,
+      "guid": "829afbfa07bac7a44b2a25b0483ca597",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1844201514179298,
+      "guid": "69227fadee4612d4aa9f1a5c91158899",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1868990838550000,
+      "guid": "ef3628c9f91cbcd4e9c9649b6ed29148",
+      "type": 2
+    },
+    {
+      "fileID": 1202578188081413,
+      "guid": "7b4d3121e4939e74d9b9d5709e2c84f2",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1640627791648003,
+      "guid": "772d9973f770284428401ab796bef85f",
+      "type": 2
+    },
+    {
+      "fileID": 1676659560786677,
+      "guid": "cb1a3ef23b74634438a58b1f776ad952",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1881448870977432,
+      "guid": "08abadc05f84ea6408783e043d6733c3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1734804120631767,
+      "guid": "2199b879f1500cf4b9c328d054f61958",
+      "type": 2
+    },
+    {
+      "fileID": 1052215531421750,
+      "guid": "4884d77937dd70b43ac892e4d12f6c79",
+      "type": 2
+    },
+    {
+      "fileID": 1087513755488245,
+      "guid": "acbb3a3386055e24bb8eb73accf0a20b",
+      "type": 2
+    },
+    {
+      "fileID": 1703664524876045,
+      "guid": "dcf547ca2ab94ec4ba580dc49ceb5653",
+      "type": 2
+    }
+  ],
+  "Bio": "Sutsune are beautiful, elegant and deadly female vulpine demons. According to ancient stories, Sutsune are able to transform into common foxes or young women; only upon closer inspection one might spot some deformities, such as horns hidden underneath the hair or fur. Often, however, it was already too late at that point, since the Sutsune already snuck in close enough to fulfill her nefarious plan. A Sutsune is said to be as likely to kill as she is to enthrall a man's heart so as to subjugate him for her purposes.",
+  "History": "Certain tribes of the Old World feared the Sutsune more than any other known Monster, as Sutsune were said to take away young girls who strayed too far from their homes. With promises of power and independence, they would lure them into the hidden subterranean habitats of the Sutsune where fires burn day and night and all is covered in soot. There, the young girls would be transformed into Sutsune. If one considered the conditions that many women of the Old World had to live in, one could say it wasn't such a bad deal - and perhaps the negative views on the Sutsune were based on prejudice rather than fact.",
+  "StatOrientation": 3
+}

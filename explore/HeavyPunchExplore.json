@@ -1,0 +1,44 @@
+{
+  "guid": "6a6939fa890e1c84d9cb17b415fc82ab",
+  "filename": "HeavyPunchExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Heavy Punch",
+  "Description": "- Breaks hidden walls",
+  "AnimElement": {
+    "fileID": 1272996561600950,
+    "guid": "d36a35b35736b8045ade8f01cb635ec9",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 32,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.1
+  ],
+  "HitBox": {
+    "x": 32,
+    "true": 32
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 786432
+}

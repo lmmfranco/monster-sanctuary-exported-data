@@ -1,0 +1,11 @@
+{
+  "guid": "e93dae2b4da67eb4580b30096f994f64",
+  "filename": "Sensitivity",
+  "ID": 835,
+  "Name": "Sensitivity",
+  "Icon": "icon_sensitivity",
+  "Description": "{Weakness} causes enemies to take {0%} increased damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DamageBonus": 0.1
+}

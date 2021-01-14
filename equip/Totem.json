@@ -1,0 +1,50 @@
+{
+  "guid": "7c4ad81c5e00e8f44a0a12593d7d4c9a",
+  "filename": "Totem",
+  "ID": 1362,
+  "Name": "Totem",
+  "Price": 2000,
+  "Type": 5,
+  "Icon": "icon_totem",
+  "Attack": 8,
+  "Magic": 8,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 100,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1527213272376182,
+    "guid": "c13f152b4cc8da943a94b117b9973d63",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1832258850283049,
+        "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+        "type": 2
+      },
+      "Quantity": 3
+    },
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 3
+    }
+  ],
+  "ShieldAmount": 200,
+  "ManaScaling": 0,
+  "ShieldType": 1
+}

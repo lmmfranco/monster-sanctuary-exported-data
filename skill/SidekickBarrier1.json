@@ -1,0 +1,36 @@
+{
+  "guid": "fd01805d9585c974ab1dd6d43e08b60d",
+  "filename": "SidekickBarrier1",
+  "ID": 336,
+  "Name": "Teamplay",
+  "Icon": "icon_sidekick_barrier",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114535448754215410,
+    "guid": "f43c49eba85b65240a5685e44ade46e3",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 300000008000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "f61541471141c9a429badd5dcfc029c5",
+  "filename": "Revenge",
+  "ID": 321,
+  "Name": "Revenge",
+  "Icon": "icon_revenge",
+  "Description": "Every time this Monster takes a hit, it gains a {Charge} stack.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

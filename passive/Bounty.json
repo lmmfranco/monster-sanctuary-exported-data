@@ -1,0 +1,11 @@
+{
+  "guid": "efc8795ab51123f4989b418f3376bb75",
+  "filename": "Bounty",
+  "ID": 552,
+  "Name": "Bounty",
+  "Icon": "icon_bounty",
+  "Description": "This Monster gets {0} random Buffs when an enemy Monster is knocked out.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "buffCount": 2
+}

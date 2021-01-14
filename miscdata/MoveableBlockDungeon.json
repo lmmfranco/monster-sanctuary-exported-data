@@ -1,0 +1,15 @@
+{
+  "guid": "95db4ee3a49ad1c4988ca61a82ff17cd",
+  "filename": "MoveableBlockDungeon",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 9,
+  "MoveDistance": 32,
+  "MoveSFX": {
+    "fileID": 0
+  },
+  "BlockWidth": 32,
+  "ApplyToChildren": 1,
+  "PauseDuringCombat": 0
+}

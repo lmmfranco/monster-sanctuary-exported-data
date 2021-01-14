@@ -1,0 +1,12 @@
+{
+  "guid": "1c6bda72a1456034fadbeb75782b4bcb",
+  "filename": "CriticalLiquid",
+  "ID": 682,
+  "Name": "Critical Liquid",
+  "Icon": "icon_critical_water",
+  "Description": "Water attacks have {0%} increased Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritBonus": 0.1,
+  "Element": 2
+}

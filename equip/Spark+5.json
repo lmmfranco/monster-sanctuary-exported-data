@@ -1,0 +1,30 @@
+{
+  "guid": "7712f36559f2f7746a2450585e8e4267",
+  "filename": "Spark+5",
+  "ID": 1738,
+  "Name": "Spark",
+  "Price": 5500,
+  "Type": 5,
+  "Icon": "icon_spark",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 40,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 25,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "Debuff": 4,
+  "Chance": 0.35
+}

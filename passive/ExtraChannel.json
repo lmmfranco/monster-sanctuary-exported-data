@@ -1,0 +1,12 @@
+{
+  "guid": "96f011eeacf5db14092a6c026668b3d5",
+  "filename": "ExtraChannel",
+  "ID": 1343,
+  "Name": "Extra Channel",
+  "Icon": "icon_extra_channel",
+  "Description": "Whenever a Monster in the party gains a non-{Channel} Buff, {0%} chance they also gain {Channel}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Buff": 4,
+  "Chance": 0.15
+}

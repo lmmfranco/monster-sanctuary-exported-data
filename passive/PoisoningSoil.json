@@ -1,0 +1,14 @@
+{
+  "guid": "cf68ef1f20cfc524cb05b3c29ae029ec",
+  "filename": "PoisoningSoil",
+  "ID": 450,
+  "Name": "Poisoning Soil",
+  "Icon": "icon_poisoning_soil",
+  "Description": "Every Earth attack hit has a {0%} chance to apply {Poison}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 2,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 4
+}

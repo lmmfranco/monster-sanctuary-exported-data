@@ -1,0 +1,12 @@
+{
+  "guid": "dcf547ca2ab94ec4ba580dc49ceb5653",
+  "filename": "Purify",
+  "ID": 1101,
+  "Name": "Purify",
+  "Icon": "icon_purify",
+  "Description": "Healing actions also remove {0} harmful Stacks ({Bleed}, {Wound}, {Blind}, {Tether}). Multi-Target-Heals remove {1}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "StacksRemove": 4,
+  "MassStacksRemove": 2
+}

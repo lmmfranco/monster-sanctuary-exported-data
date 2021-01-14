@@ -1,0 +1,12 @@
+{
+  "guid": "d5585dea64ddc8b47986299488df7bf4",
+  "filename": "QilinEgg",
+  "ID": 876,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1474724100515241,
+    "guid": "fd410a5ced55c88499274e56f303262c",
+    "type": 2
+  }
+}

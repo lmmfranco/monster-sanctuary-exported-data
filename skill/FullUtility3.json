@@ -1,0 +1,36 @@
+{
+  "guid": "4b1ee009942cc7344bda4068dca305f8",
+  "filename": "FullUtility3",
+  "ID": 1220,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 3,
+  "Duration": 2.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114319940983264240,
+    "guid": "10c22a5f2849c334fbee5f52fb3067d4",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 4.000000050000001e+38,
+  "ApplyDelay": 0.5,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

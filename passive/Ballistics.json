@@ -1,0 +1,12 @@
+{
+  "guid": "524b41a0825ed094ca64bbd03c961e87",
+  "filename": "Ballistics",
+  "ID": 1741,
+  "Name": "Ballistics",
+  "Icon": "icon_balistics",
+  "Description": "This Monster deals {0%} more damage, but has a {1%} chance to miss each hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.25,
+  "MissChance": 0.1
+}

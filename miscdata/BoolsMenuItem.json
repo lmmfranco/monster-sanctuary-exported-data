@@ -1,0 +1,114 @@
+{
+  "guid": "7ba0797930b24ee4d825c3780e0c6a07",
+  "filename": "BoolsMenuItem",
+  "text": {
+    "fileID": 114296526992336800
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114289242345282670
+  },
+  "infoText": {
+    "fileID": 0
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 0
+  },
+  "DisplayWhenEmpty": 0,
+  "UpdateColors": 1,
+  "ExpandBackgroundDimension": 0,
+  "ExpandedItemSize": {
+    "x": 192,
+    "true": 18
+  },
+  "ShrinkedItemSize": {
+    "x": 192,
+    "true": 18
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 0
+  },
+  "AdditionalElements": [],
+  "IconGO": {
+    "fileID": 0
+  },
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114467711090922690,
+      "guid": "acf79975dce340444a671e07da8c5774",
+      "type": 2
+    },
+    "text": "Equipment",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 32,
+    "inlineStyling": 1,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  }
+}

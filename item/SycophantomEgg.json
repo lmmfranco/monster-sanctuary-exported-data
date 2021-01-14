@@ -1,0 +1,12 @@
+{
+  "guid": "7fb8492e22b4a8149a80a1fbed06789a",
+  "filename": "SycophantomEgg",
+  "ID": 863,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1598290798372527,
+    "guid": "553f152ead6047646b3bbc4019f5dece",
+    "type": 2
+  }
+}

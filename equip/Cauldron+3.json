@@ -1,0 +1,48 @@
+{
+  "guid": "bf277836e4683914f82eda33947b629c",
+  "filename": "Cauldron+3",
+  "ID": 1451,
+  "Name": "Cauldron",
+  "Price": 5500,
+  "Type": 5,
+  "Icon": "icon_cauldron",
+  "Attack": 0,
+  "Magic": 15,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 32,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1919275417565005,
+    "guid": "757ef7bb834afeb4bbcc07b6547e7c06",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "DebuffModifier": 0.08
+}

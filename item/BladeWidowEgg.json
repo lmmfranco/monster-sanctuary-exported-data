@@ -1,0 +1,12 @@
+{
+  "guid": "243ea053a2fc0e54b8f835c5fb59f7e9",
+  "filename": "BladeWidowEgg",
+  "ID": 862,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1638836582863495,
+    "guid": "6a1111a7f16fe6c4eb1845fb4df38f7d",
+    "type": 2
+  }
+}

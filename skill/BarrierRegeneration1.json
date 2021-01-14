@@ -1,0 +1,36 @@
+{
+  "guid": "aa740d7bd23591a4f8fa6f415ff37bd3",
+  "filename": "BarrierRegeneration1",
+  "ID": 332,
+  "Name": "Sustain",
+  "Icon": "icon_barrier_regeneration",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114765747661736060,
+    "guid": "a11505fe449783b4bbd597e7383528de",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 800000005000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "2f3d0c02d24542646957b3d0157c2c76",
+  "filename": "Bolster",
+  "ID": 874,
+  "Name": "Bolster",
+  "Icon": "icon_bolster",
+  "Description": "Healing actions apply two random {Buffs} to the target. (Multi-Target-Heals apply one random {Buff} to each target)",
+  "IsAura": 0,
+  "IsUnique": 0
+}

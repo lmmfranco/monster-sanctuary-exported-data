@@ -1,0 +1,11 @@
+{
+  "guid": "783d5d1173d96ed45b44a439cf97d5a5",
+  "filename": "SharedBarrier",
+  "ID": 822,
+  "Name": "Shared Barrier",
+  "Icon": "icon_shared_barrier",
+  "Description": "Whenever this Monster gains {Barrier} (Buff), another random Monster in the party also gains {Barrier}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffType": 8
+}

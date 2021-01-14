@@ -1,0 +1,12 @@
+{
+  "guid": "e0577ada71d5c18438d65add876f4add",
+  "filename": "LavablobEgg",
+  "ID": 1089,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1420310900974842,
+    "guid": "8ead3839645467545bdcde5aa35680ee",
+    "type": 2
+  }
+}

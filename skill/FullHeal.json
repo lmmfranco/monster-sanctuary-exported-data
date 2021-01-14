@@ -1,0 +1,88 @@
+{
+  "guid": "02a6867e0bc2d4349872723f2fcbb290",
+  "filename": "FullHeal",
+  "ID": 1811,
+  "Name": "Full Heal",
+  "Icon": "icon_full_heal",
+  "Tier": 1,
+  "Ultimate": 1,
+  "Mana": 220,
+  "TargetType": 3,
+  "Duration": 3.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "HealAmount": 200,
+  "ScaleMagic": 0.4,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "AnimElement": {
+    "fileID": 1433999133402651,
+    "guid": "a31092d79a7a9eb479e6c2c22eda8d21",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 1.5
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buffs": 2.0000000800000005e+30,
+  "ApplyDelay": 2,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    1.8
+  ]
+}

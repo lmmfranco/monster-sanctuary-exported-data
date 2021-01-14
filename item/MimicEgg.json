@@ -1,0 +1,12 @@
+{
+  "guid": "e856142fe02aba74397c0e142cb7a01e",
+  "filename": "MimicEgg",
+  "ID": 1540,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1964807822748582,
+    "guid": "e6ff55ce973168142b8983c52b291147",
+    "type": 2
+  }
+}

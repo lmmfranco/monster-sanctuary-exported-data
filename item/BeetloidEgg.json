@@ -1,0 +1,12 @@
+{
+  "guid": "04292c3eba524e1419a80b95bc9d7f86",
+  "filename": "BeetloidEgg",
+  "ID": 544,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1505585414605465,
+    "guid": "5b4313661ebaef9469d394fef8a43866",
+    "type": 2
+  }
+}

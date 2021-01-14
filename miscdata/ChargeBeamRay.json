@@ -1,0 +1,22 @@
+{
+  "guid": "4f793fc6ca2f0834e897102f47917c41",
+  "filename": "ChargeBeamRay",
+  "LightningParts": [
+    "LightningPart1",
+    "LightningPart2",
+    "LightningPart3"
+  ],
+  "SpriteCollection": {
+    "fileID": 114949216640010560,
+    "guid": "9d982af049900a14099edc1eaf70ec9c",
+    "type": 2
+  },
+  "FadeInTime": 0.05,
+  "FadeOutTime": 0.2,
+  "StayTime": 0,
+  "LengthRange": {
+    "Min": 15,
+    "Max": 25
+  },
+  "RandomRange": 8
+}

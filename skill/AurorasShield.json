@@ -1,0 +1,60 @@
+{
+  "guid": "89603da8c82e76a41ba29b7e97d19645",
+  "filename": "AurorasShield",
+  "ID": 1749,
+  "Name": "Aurora's Shield",
+  "Icon": "icon_auroras_shield",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 220,
+  "TargetType": 4,
+  "Duration": 3.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 250,
+  "ScaleDefense": 0.25,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1,
+    1.6,
+    2.2
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1508140858764853,
+    "guid": "f78cd3e1f7571ba49a8e674865ea93bc",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 30,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Count": 2,
+  "Delay__1": 2.7
+}

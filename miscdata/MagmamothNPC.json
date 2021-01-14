@@ -1,0 +1,39 @@
+{
+  "guid": "16ddef151276a48499042272e5a38fd8",
+  "filename": "MagmamothNPC",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 2
+  },
+  "Name": "Magmamoth",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1037164465577850,
+    "guid": "baf3f2665bf1f4c4eb810201fc7b4784",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1037164465577850,
+    "guid": "baf3f2665bf1f4c4eb810201fc7b4784",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 2,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

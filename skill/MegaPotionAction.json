@@ -1,0 +1,48 @@
+{
+  "guid": "b8ca574779ff5034190ec7e0db08d0de",
+  "filename": "MegaPotionAction",
+  "ID": 1664,
+  "Name": "Mega Potion",
+  "Icon": "icon_potion",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 4,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 1,
+  "HealAmount": 800,
+  "ScaleMagic": 0,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    0.5,
+    1.1
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "aa47772eea5f37844b1aca8df3895e2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "2c0f1cc24c4ea064c8151a31b1d8df31",
+  "filename": "StaticGlory",
+  "ID": 1579,
+  "Name": "Static Glory",
+  "Icon": "icon_static_glory",
+  "Description": "{Glory} (Buff) also increases non critical damage by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.15
+}

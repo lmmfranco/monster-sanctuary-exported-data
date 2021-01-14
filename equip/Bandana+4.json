@@ -1,0 +1,47 @@
+{
+  "guid": "fa6e6ba49d2b2e842926391822caff5d",
+  "filename": "Bandana+4",
+  "ID": 900,
+  "Name": "Bandana",
+  "Price": 1550,
+  "Type": 2,
+  "Icon": "icon_bandana",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.09,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 58,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1803820754859474,
+    "guid": "4add5ac0879a2914fa2e2f5afaa87456",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 4
+    },
+    {
+      "Item": {
+        "fileID": 1095870700680833,
+        "guid": "c9c7c19e44e73d548834298b74b76049",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

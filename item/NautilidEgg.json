@@ -1,0 +1,12 @@
+{
+  "guid": "bdd1a95a3c5d2514caf8632f6c02b080",
+  "filename": "NautilidEgg",
+  "ID": 986,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1297675120103394,
+    "guid": "0620f5cf99528bc43aea92baae31847d",
+    "type": 2
+  }
+}

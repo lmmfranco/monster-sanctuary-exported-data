@@ -1,0 +1,511 @@
+{
+  "guid": "870b0d5c39d4a564c929c6c90644deef",
+  "filename": "Vasuki",
+  "ID": 881,
+  "Name": "Vasuki",
+  "baseStats": {
+    "attack": 8,
+    "magic": 7,
+    "defense": 3,
+    "health": 4,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 3,
+    "defense": 0,
+    "health": 3,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 1,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 4,
+    "true": 4
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1832258850283049,
+      "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+      "type": 2
+    },
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1735445830266374,
+      "guid": "40219434937e68b438cab2c0b83c648e",
+      "type": 2
+    },
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1320167774751575,
+      "guid": "92b1c6db29ce9624a8f3a95c804796a3",
+      "type": 2
+    }
+  ],
+  "StartLevel": 22,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1668502083587040,
+    "guid": "c7c2b1c2bb87fbf4b9046a89f1b08b8f",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "06000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    },
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    },
+    {
+      "fileID": 1727511637591304,
+      "guid": "a748df0d58d2c6145adac92e30f8d11b",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1777959142031944,
+      "guid": "4809d40ca603a984dbbfd1f1c3d67f94",
+      "type": 2
+    },
+    {
+      "fileID": 1936107618644887,
+      "guid": "bf507168938b9164da9b681b93664e21",
+      "type": 2
+    },
+    {
+      "fileID": 1277807512553830,
+      "guid": "6c71b2031830e5440b360508fd72eede",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1680516145135157,
+    "guid": "6367c263c07840946977ccf0fea49e9c",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1359530994114360,
+      "guid": "2dc74ab7797aa67488fec74ac0b516a4",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1001751917371072,
+      "guid": "50b366e358ab5b646a89858643caafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1126038299528136,
+      "guid": "ab7d160695d1524428c9ce8b47275b14",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1644360230470818,
+      "guid": "7b89c67b5638ebd4098402a0a7afbeaf",
+      "type": 2
+    },
+    {
+      "fileID": 1959250547738836,
+      "guid": "8c98bd5a2ca244046ba3b1054a21165a",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1474286782467442,
+      "guid": "dc816885ea968f04685dde79847df6a1",
+      "type": 2
+    },
+    {
+      "fileID": 1103212820727798,
+      "guid": "70492b43fd155194e8553f592ff2044c",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1591553800542082,
+      "guid": "67d6ddbd22c10ba4c83e74ab1266db6b",
+      "type": 2
+    },
+    {
+      "fileID": 1084395927985097,
+      "guid": "439d6feee760088468da39a189c239f7",
+      "type": 2
+    },
+    {
+      "fileID": 1727511637591304,
+      "guid": "a748df0d58d2c6145adac92e30f8d11b",
+      "type": 2
+    },
+    {
+      "fileID": 1066152029398848,
+      "guid": "45c655574600f9f40a3f586ec223aa84",
+      "type": 2
+    },
+    {
+      "fileID": 1683230849546627,
+      "guid": "776298e3646c31e4193ecc9f2204f58d",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1689263143504150,
+      "guid": "8ccee682c8fadca40b5e5a2898affe5e",
+      "type": 2
+    },
+    {
+      "fileID": 1333659596324231,
+      "guid": "a69ec0a2c06674e42a5668998e586cef",
+      "type": 2
+    },
+    {
+      "fileID": 1047867451007794,
+      "guid": "0dce9972eeeaeed48bb8772e51f4f470",
+      "type": 2
+    },
+    {
+      "fileID": 1365521853533908,
+      "guid": "4a5090eeef5db9549adad38e94ac3d86",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1806896542361871,
+      "guid": "f3493074b2e98604c8b9d61639d4ef05",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1553348675452113,
+      "guid": "652e77ee1be166b449581700218d813d",
+      "type": 2
+    },
+    {
+      "fileID": 1948469986891550,
+      "guid": "77cdbf03d08ad8e428037b8bf569f22d",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1694766360705490,
+      "guid": "891124ee60947c64cb541d8406b5c7ec",
+      "type": 2
+    },
+    {
+      "fileID": 1678475049398857,
+      "guid": "3e87bf9580cb6f346ac376bcf2b338ff",
+      "type": 2
+    },
+    {
+      "fileID": 1458570729333031,
+      "guid": "f319405cf46c00a41bd0b0e066cb163e",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1741940009897867,
+      "guid": "d79fe2c0f0244744eb367abcdd4bd958",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1756702498884175,
+      "guid": "c508d9cd9c7d3454ca4e31f2227aa294",
+      "type": 2
+    },
+    {
+      "fileID": 1856676243701355,
+      "guid": "e38c4a5e9e9891d44bc8fcf5117d362d",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1880530874125440,
+      "guid": "8fdb064a410d56147be95e998cda9934",
+      "type": 2
+    },
+    {
+      "fileID": 1066748329924937,
+      "guid": "23a69e95c6d600d498e5a45bb73e9ff7",
+      "type": 2
+    },
+    {
+      "fileID": 1769028434075402,
+      "guid": "22ef739704e16b940a0fdfec5b7bdb72",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1567749492112990,
+      "guid": "11b6d13d39e62bd45bb8804374137374",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1477129339383814,
+      "guid": "6131d3d01ac08ed488c03535914f5405",
+      "type": 2
+    },
+    {
+      "fileID": 1865643612491285,
+      "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+      "type": 2
+    },
+    {
+      "fileID": 1998107495051498,
+      "guid": "04ac5ae560f25094db3e73958cf5e735",
+      "type": 2
+    },
+    {
+      "fileID": 1927631439970555,
+      "guid": "bdb21e0de63e62c4d8be2befd05c75dd",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1021104630252308,
+      "guid": "8bbc5c6e6f9a47d468fde39f300eef3d",
+      "type": 2
+    },
+    {
+      "fileID": 1136285923989078,
+      "guid": "2752c32a30e631b44838b03c7b63afce",
+      "type": 2
+    },
+    {
+      "fileID": 1202578188081413,
+      "guid": "7b4d3121e4939e74d9b9d5709e2c84f2",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1435734183553929,
+      "guid": "20310e34a319a2140a0266de47c592bc",
+      "type": 2
+    },
+    {
+      "fileID": 1772218334561172,
+      "guid": "3f03247ddb605054392ff7ec7b6a4214",
+      "type": 2
+    },
+    {
+      "fileID": 1676659560786677,
+      "guid": "cb1a3ef23b74634438a58b1f776ad952",
+      "type": 2
+    },
+    {
+      "fileID": 1236726317242202,
+      "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
+      "type": 2
+    },
+    {
+      "fileID": 1387279840199504,
+      "guid": "93953df7508b0864086addf5793665ad",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1319254963054872,
+      "guid": "b0a74242fc450b541aa74bcfe4fd9f2c",
+      "type": 2
+    },
+    {
+      "fileID": 1814249351645721,
+      "guid": "4866392d1f593e84b84b3cb48e1f6a14",
+      "type": 2
+    },
+    {
+      "fileID": 1052215531421750,
+      "guid": "4884d77937dd70b43ac892e4d12f6c79",
+      "type": 2
+    },
+    {
+      "fileID": 1349092676614706,
+      "guid": "82c764a2e65205140a22ab26c5bccd93",
+      "type": 2
+    },
+    {
+      "fileID": 1060520641591204,
+      "guid": "fc990280656efd141ac491a08a3c1ad1",
+      "type": 2
+    }
+  ],
+  "Bio": "A large snake with two heads that act independently of each other. Observing a Vasuki's heads often teaches one a good lesson about the importance of cooperation - for a Vasuki is most deadly when it strikes at the same foe with both heads at once. ",
+  "History": "There once lived a pair of twin princes. When it came to the matter of succession, their father decided that both deserved to rule as kings. So the kingdom was separated in two and each one of the twins was crowned king over one half of the kingdom. Unfortunately, they both desired to reign over the entire kingdom, and so they fought a bloody war against each other. The final fight of that war was so brutal that not a single soldier was left alive to tell the tale. The bodies of the royal twins were never recovered from the battlefield, but a large two-headed snake was seen slithering away from it. According to the story, it was the reincarnation of the royal twins, cursed by the gods to share the same body for their next live. They learned from their mistakes and ruled together as kings over the animal kingdom. ",
+  "StatOrientation": 3
+}

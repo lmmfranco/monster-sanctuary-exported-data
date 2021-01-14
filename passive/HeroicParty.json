@@ -1,0 +1,11 @@
+{
+  "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+  "filename": "HeroicParty",
+  "ID": 592,
+  "Name": "Heroic Party",
+  "Icon": "icon_heroic_party",
+  "Description": "Every Monster in the team deals {0%} increased damage for each Buff on it.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.01
+}

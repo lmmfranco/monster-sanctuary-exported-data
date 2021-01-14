@@ -1,0 +1,11 @@
+{
+  "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+  "filename": "Sheltered",
+  "ID": 622,
+  "Name": "Sheltered",
+  "Icon": "icon_hard_shield",
+  "Description": "While under the effect of a Shield, reduce all incoming damage by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageReduction": 0.15
+}

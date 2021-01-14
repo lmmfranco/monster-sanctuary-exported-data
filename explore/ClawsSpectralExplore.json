@@ -1,0 +1,54 @@
+{
+  "guid": "14e82b206e156e34485bdf3b1918e9d8",
+  "filename": "ClawsSpectralExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Claws",
+  "Description": "- Breaks hidden walls\n- Cuts through vines",
+  "AnimElement": {
+    "fileID": 1534054164629501,
+    "guid": "fe23a3a60cda0b94b8361cd750e02908",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    },
+    {
+      "FlipVertically": 1,
+      "Delay": 0.2,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.2
+  ],
+  "HitBox": {
+    "x": 32,
+    "true": 32
+  },
+  "HitOffset": {
+    "x": -30,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 13194139795456
+}

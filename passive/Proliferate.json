@@ -1,0 +1,16 @@
+{
+  "guid": "ab7d160695d1524428c9ce8b47275b14",
+  "filename": "Proliferate",
+  "ID": 253,
+  "Name": "Proliferate",
+  "Icon": "icon_proliferate",
+  "Description": "When applying a Debuff, trigger an additional {0%} damage hit. ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Damage": 0.3,
+  "AnimElement": {
+    "fileID": 1260662114369887,
+    "guid": "2b619090285554247abca84dc4ba31cc",
+    "type": 2
+  }
+}

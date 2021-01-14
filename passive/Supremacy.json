@@ -1,0 +1,11 @@
+{
+  "guid": "a46cf12e922c36f41a3e528e73eaaa19",
+  "filename": "Supremacy",
+  "ID": 919,
+  "Name": "Supremacy",
+  "Icon": "icon_light_passive",
+  "Description": "Whenever an allied Monster applies a Debuff, it gains {0} Charge stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ChargeStacks": 2
+}

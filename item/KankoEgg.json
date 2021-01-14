@@ -1,0 +1,12 @@
+{
+  "guid": "1a7e937cffff12841983ac6294220148",
+  "filename": "KankoEgg",
+  "ID": 944,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1448654601321872,
+    "guid": "ca0537c293b605e49b82fac53f30bc20",
+    "type": 2
+  }
+}

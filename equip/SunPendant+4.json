@@ -1,0 +1,50 @@
+{
+  "guid": "2c14cf334ca2e1345825533739fc281b",
+  "filename": "SunPendant+4",
+  "ID": 1176,
+  "Name": "Sun Pendant",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_sunPendant",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 24,
+  "CritChance": 0.06,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1986177535137576,
+    "guid": "35bee5db298e0594184d30d05b58e246",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 4
+    },
+    {
+      "Item": {
+        "fileID": 1079285706125740,
+        "guid": "38bb721fb38db564e831d65ceceba144",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "ShieldAmount": 115,
+  "ManaScaling": 0,
+  "ShieldType": 0
+}

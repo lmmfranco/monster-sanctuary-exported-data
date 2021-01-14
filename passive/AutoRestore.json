@@ -1,0 +1,11 @@
+{
+  "guid": "add1720ed46488b4eb1478354bf84b63",
+  "filename": "AutoRestore",
+  "ID": 1388,
+  "Name": "Auto Restore",
+  "Icon": "icon_auto_restore",
+  "Description": "When attacking, also remove {0} Debuffs from the Monster with the most Debuffs in the party.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Count": 2
+}

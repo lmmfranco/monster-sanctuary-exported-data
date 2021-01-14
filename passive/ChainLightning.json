@@ -1,0 +1,14 @@
+{
+  "guid": "f746bbe18da72c64bac5fcb6e62906bc",
+  "filename": "ChainLightning",
+  "ID": 1102,
+  "Name": "Chain Lightning",
+  "Icon": "icon_chain_lightning",
+  "Description": "When a Monster in the party applies {Shock} on an enemy, {0%} chance to spread it to another enemy.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 1,
+  "SpreadDebuff": 1,
+  "Chance": 0.4,
+  "OnSameEnemy": 0
+}

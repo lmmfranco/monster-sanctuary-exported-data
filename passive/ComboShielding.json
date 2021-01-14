@@ -1,0 +1,11 @@
+{
+  "guid": "fbb3646440174434b99463153e34b78b",
+  "filename": "ComboShielding",
+  "ID": 428,
+  "Name": "Combo Shielding",
+  "Icon": "icon_combo_shielding",
+  "Description": "Upon using a Shield action, additionally Shield an ally with the lowest Shield by {0%} of this Monster's Defense.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DefenseScale": 0.3
+}

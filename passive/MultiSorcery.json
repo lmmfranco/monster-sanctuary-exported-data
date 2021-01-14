@@ -1,0 +1,12 @@
+{
+  "guid": "21c3e5618f58ca24aa5d6573a86b4eb5",
+  "filename": "MultiSorcery",
+  "ID": 546,
+  "Name": "Multi Sorcery",
+  "Icon": "icon_multi_sorcery",
+  "Description": "{Sorcery} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 1
+}

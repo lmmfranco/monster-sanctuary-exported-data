@@ -1,0 +1,12 @@
+{
+  "guid": "67fa468cf13f0254ab6d503d98c17104",
+  "filename": "AkhlutEgg",
+  "ID": 700,
+  "Name": null,
+  "Price": 700,
+  "Monster": {
+    "fileID": 1016724541467918,
+    "guid": "35219a06f1b15a042863190fabf52ee4",
+    "type": 2
+  }
+}

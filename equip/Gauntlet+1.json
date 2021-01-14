@@ -1,0 +1,47 @@
+{
+  "guid": "5793431f35e4a80478ad5e9fcf28bc03",
+  "filename": "Gauntlet+1",
+  "ID": 497,
+  "Name": "Gauntlet",
+  "Price": 360,
+  "Type": 1,
+  "Icon": "icon_gauntlet",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 20,
+  "CritChance": 0.06,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1557805961087026,
+    "guid": "50e9790e8b1c0994dbe5576559ecaa15",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1427932154024413,
+        "guid": "9cb5a6d3dbc590e4ea337d526290d939",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

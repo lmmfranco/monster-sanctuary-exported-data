@@ -1,0 +1,12 @@
+{
+  "guid": "71ce5e6766583284c860258f247ea351",
+  "filename": "OrnithopterEgg",
+  "ID": 1534,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1412471198373427,
+    "guid": "7101cc8ed97f6dc4595ea30d05ca1164",
+    "type": 2
+  }
+}

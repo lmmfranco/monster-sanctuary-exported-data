@@ -1,0 +1,11 @@
+{
+  "guid": "68fd5a3bfdd4d4042b3b7b6fdd365e94",
+  "filename": "InitialChill",
+  "ID": 620,
+  "Name": "Initial Chill",
+  "Icon": "icon_initial_chill",
+  "Description": "Apply {Chill} (Debuff) to a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 3
+}

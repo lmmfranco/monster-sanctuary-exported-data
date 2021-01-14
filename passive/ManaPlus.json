@@ -1,0 +1,14 @@
+{
+  "guid": "6cf7e2dc91e400444912d62d1683a836",
+  "filename": "ManaPlus",
+  "ID": 175,
+  "Name": "Mana Plus",
+  "Icon": "icon_mana_plus",
+  "Description": null,
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 4,
+  "Value": 1,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

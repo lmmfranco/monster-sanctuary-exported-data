@@ -1,0 +1,13 @@
+{
+  "guid": "3fc65e16e3c40574f8c7ce449acdc6a2",
+  "filename": "DefenseHealing",
+  "ID": 1412,
+  "Name": "Defense Healing",
+  "Icon": "icon_defense_healing",
+  "Description": "Healing actions trigger an additional Heal on the Monster with the lowest Health equal to {2%} of Defense value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealMagicScale": 0,
+  "HealAttackScale": 0,
+  "HealDefenseScale": 0.5
+}

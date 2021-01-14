@@ -1,0 +1,20 @@
+{
+  "guid": "f9a880c5c44d460439dc344bc10e38e8",
+  "filename": "PeckingOrder",
+  "ID": 1112,
+  "Name": "Pecking Order",
+  "Icon": "icon_pecking_order",
+  "Description": "Every attack of a {Bird} triggers an additional hit equal to {0%} of Attack or Magic value. (Depending on the attack)",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageValue": 0.3,
+  "StatScaling": 0,
+  "ScaleStat": 0,
+  "AnimElement": {
+    "fileID": 1768706457243210,
+    "guid": "3b22415095abb834da2d17cc31acda5a",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 12
+}

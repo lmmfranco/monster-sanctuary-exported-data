@@ -1,0 +1,11 @@
+{
+  "guid": "a5501585c677d7c48adae711930008a3",
+  "filename": "HeroicDefense",
+  "ID": 553,
+  "Name": "Heroic Defense",
+  "Icon": "icon_heroic_defense",
+  "Description": "Reduces damage taken by {0%} for every Buff on this Monster.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ReduceValue": 0.02
+}

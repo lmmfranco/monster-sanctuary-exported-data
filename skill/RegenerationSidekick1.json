@@ -1,0 +1,36 @@
+{
+  "guid": "26d0e59ca149be749921b412839d36b1",
+  "filename": "RegenerationSidekick1",
+  "ID": 341,
+  "Name": "Support",
+  "Icon": "icon_regeneration_sidekick",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114540298688124800,
+    "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 21990233341952,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

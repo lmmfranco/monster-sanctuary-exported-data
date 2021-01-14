@@ -1,0 +1,517 @@
+{
+  "guid": "bde0be71eccfbcc47a7f30e216a1f049",
+  "filename": "Magmapillar",
+  "ID": 169,
+  "Name": "Magmapillar",
+  "baseStats": {
+    "attack": 1,
+    "magic": 4,
+    "defense": 3,
+    "health": 3,
+    "mana": 8
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 3,
+    "health": 1,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": -2
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 1,
+  "RewardsCommon": [
+    {
+      "fileID": 1283344633932040,
+      "guid": "9cf392768e7178343a34dee125556952",
+      "type": 2
+    },
+    {
+      "fileID": 1829897180538563,
+      "guid": "042692fed87f2a744b155d0311db6909",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1938666508179504,
+      "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+      "type": 2
+    },
+    {
+      "fileID": 1342477489097356,
+      "guid": "d52ee9756b7e0474e91d679a169c21f9",
+      "type": 2
+    },
+    {
+      "fileID": 1405691982466659,
+      "guid": "fa395786b2eaafe41bc4da7de046d81c",
+      "type": 2
+    }
+  ],
+  "StartLevel": 4,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1303926108835556,
+    "guid": "27f835887a9c95c49ad29cf6bc39ef82",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0b000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    },
+    {
+      "fileID": 1746180404875967,
+      "guid": "a11505fe449783b4bbd597e7383528de",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [
+    {
+      "fileID": 1927631439970555,
+      "guid": "bdb21e0de63e62c4d8be2befd05c75dd",
+      "type": 2
+    }
+  ],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1669379110235087,
+      "guid": "c5a11d77ae49cbe45b2ec0cf17cb9f0c",
+      "type": 2
+    },
+    {
+      "fileID": 1374263487395242,
+      "guid": "83f65f6ccd7865d4aa3bfa6ee7dfc400",
+      "type": 2
+    },
+    {
+      "fileID": 1355557311080169,
+      "guid": "bb6329f7769979142adf53903fd13152",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1567419204394200,
+    "guid": "b947eb340705fd3499aca50f6998b6b0",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1397011885445541,
+    "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1545404487236000,
+      "guid": "2af7fb43c80128b479fb81bc9afbdb39",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1477129339383814,
+      "guid": "6131d3d01ac08ed488c03535914f5405",
+      "type": 2
+    },
+    {
+      "fileID": 1927631439970555,
+      "guid": "bdb21e0de63e62c4d8be2befd05c75dd",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1021104630252308,
+      "guid": "8bbc5c6e6f9a47d468fde39f300eef3d",
+      "type": 2
+    },
+    {
+      "fileID": 1985784093988254,
+      "guid": "51eb4d55f9a7520479febd96dbe11446",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1435734183553929,
+      "guid": "20310e34a319a2140a0266de47c592bc",
+      "type": 2
+    },
+    {
+      "fileID": 1170085907549785,
+      "guid": "3f6471c2b928a8940849c46cd26e5156",
+      "type": 2
+    },
+    {
+      "fileID": 1990657926103855,
+      "guid": "97e77503ecc4efc4c9e248539c3d4e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1931770071959878,
+      "guid": "e5a3fb1e038b027488e622a7caa56dea",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1319254963054872,
+      "guid": "b0a74242fc450b541aa74bcfe4fd9f2c",
+      "type": 2
+    },
+    {
+      "fileID": 1267509746343240,
+      "guid": "dedc925c7c316b1448e12e8791bd32d4",
+      "type": 2
+    },
+    {
+      "fileID": 1066152029398848,
+      "guid": "45c655574600f9f40a3f586ec223aa84",
+      "type": 2
+    },
+    {
+      "fileID": 1060520641591204,
+      "guid": "fc990280656efd141ac491a08a3c1ad1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1872021950778118,
+      "guid": "837b5921aa1bfbb40afea6ca3649bf24",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1287964077566189,
+      "guid": "b33da4a3780d1fc4e81f72c7b809fc7e",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    },
+    {
+      "fileID": 1632620063454676,
+      "guid": "8eca46d24694c3f42a5a2597b685dd24",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1036017481979631,
+      "guid": "21ea0087ef3af1c45923679df5462796",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1744983990326740,
+      "guid": "abc6bbd41a89d7b40afedf786785c2ae",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    },
+    {
+      "fileID": 1008401449837531,
+      "guid": "bc2ceb38c7ba0584c800f07735206eaa",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1461969233366980,
+      "guid": "6682739764b29ce4e86ba287cafe2eb1",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1746180404875967,
+      "guid": "a11505fe449783b4bbd597e7383528de",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1466354759296432,
+      "guid": "aa740d7bd23591a4f8fa6f415ff37bd3",
+      "type": 2
+    },
+    {
+      "fileID": 1334320262222354,
+      "guid": "c2a4d2fb3fb7cf840b1795e7336c6b97",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1739137179663907,
+      "guid": "5e3c0e8a9fea6e14a86daa279a778c9d",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1802931113180112,
+      "guid": "4d3eb80016caff64ba8dc6fb673b3a72",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1584214170903355,
+      "guid": "148d2ef00d4617349b14d80149938e0e",
+      "type": 2
+    },
+    {
+      "fileID": 1909992068295273,
+      "guid": "53677ed109594fc4c8bc6a909c702b12",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1051980885953802,
+      "guid": "01c7654c7269682438cbb96264168d63",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1465499796463477,
+      "guid": "2479441e176f6ad47947c2142376a2da",
+      "type": 2
+    },
+    {
+      "fileID": 1791594584554220,
+      "guid": "8ef0d1e13841bdc44bf06509d4d8b16e",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1978035727466006,
+      "guid": "2ff50ae58a7ab9141bbae4777a623f3a",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1548782269127233,
+      "guid": "924845deea7917d4b950bdb5a42b5354",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1856676243701355,
+      "guid": "e38c4a5e9e9891d44bc8fcf5117d362d",
+      "type": 2
+    },
+    {
+      "fileID": 1490918961562267,
+      "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+      "type": 2
+    },
+    {
+      "fileID": 1265523716473364,
+      "guid": "8de13a95052126d458b27467060b0341",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1066748329924937,
+      "guid": "23a69e95c6d600d498e5a45bb73e9ff7",
+      "type": 2
+    },
+    {
+      "fileID": 1904439587562632,
+      "guid": "87d4822a4b6d27b4198c893110fc7c09",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    }
+  ],
+  "Bio": "This gigantic caterpillar has evolved beyond all predators of the animal kingdom, but even more impressive is its ability to generate intense heat and even flame by way of metabolic heat. Unlike other insects, the Magmapillar doesn't have to bask in the sun to maintain its body temperature, although Magmapillars can sometimes be seen lying together in groups to increase their collective heat. Once a Magmapillar reaches a certain age, it creates a cocoon of searing hot silk around itself. Any living thing that comes close to this cocoon gets burned to a crisp.",
+  "History": "It has been documented since the first days of the Monster Sanctuary how to quench the severe blazing heat of the Magmapillar's silk. Once the silk is stripped away of its scorching heat, it can be woven into sturdy, long-lasting garments with magical properties. Most Keeper clothes are made in this way. The Magmapillars belonged to the original monster species that were endangered by the infamous \"greed of kings\" which the monuments along the Keeper's Trail speak of. Magmapillars and their adult forms were instrumental in the war between the first Monster Keepers and the kings of the Old World, and they have been the trusty companions of Keepers ever since.",
+  "StatOrientation": 2
+}

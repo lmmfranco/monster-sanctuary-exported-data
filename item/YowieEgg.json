@@ -1,0 +1,12 @@
+{
+  "guid": "8de784dd477fdf14f80380a2cd79b9af",
+  "filename": "YowieEgg",
+  "ID": 376,
+  "Name": null,
+  "Price": 300,
+  "Monster": {
+    "fileID": 1430786990276177,
+    "guid": "3503dba5e6a9050459540bae3e8752eb",
+    "type": 2
+  }
+}

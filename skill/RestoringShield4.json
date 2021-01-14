@@ -1,0 +1,65 @@
+{
+  "guid": "6829c56d7359b784a97827c05836cb55",
+  "filename": "RestoringShield4",
+  "ID": 1683,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 3,
+  "Duration": 2.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114320335167059740,
+    "guid": "cc8b45c69fc87794893212d3223bae71",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 100,
+  "ScaleDefense": 0.15,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    0.9,
+    1.15,
+    1.4,
+    1.65,
+    1.9,
+    2.15
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1450503058006163,
+    "guid": "ed083561454540349ba671cd1feeb5b3",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Count": 3,
+  "Delay__1": 2.3
+}

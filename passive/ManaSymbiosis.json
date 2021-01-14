@@ -1,0 +1,11 @@
+{
+  "guid": "3ceafeacb4fa9f8438a64b98f39fbcf1",
+  "filename": "ManaSymbiosis",
+  "ID": 145,
+  "Name": "Mana Symbiosis",
+  "Icon": "icon_manasymbiosis",
+  "Description": "Recover {0} Mana when healed.\n(Triggers on any Healing effect)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ManaAmount": 5
+}

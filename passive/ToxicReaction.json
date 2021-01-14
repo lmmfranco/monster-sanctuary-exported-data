@@ -1,0 +1,13 @@
+{
+  "guid": "14ebb834e5adf7d4197f234938d99ad3",
+  "filename": "ToxicReaction",
+  "ID": 448,
+  "Name": "Toxic Reaction",
+  "Icon": "icon_toxic_reaction",
+  "Description": "When an enemy receives {Shock} damage, there is a {0%} chance to apply {Poison}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DebuffTrigger": 1,
+  "Chance": 0.4,
+  "AppliedDebuff": 2
+}

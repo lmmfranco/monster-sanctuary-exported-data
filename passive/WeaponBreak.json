@@ -1,0 +1,11 @@
+{
+  "guid": "6100c6c9d3269e044aeed028aa8ba091",
+  "filename": "WeaponBreak",
+  "ID": 991,
+  "Name": "Weapon Break",
+  "Icon": "icon_weapon_break",
+  "Description": "Enemies with {Armor Break} (Debuff) get their Critical Chance decreased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ReduceCritValue": 0.1
+}

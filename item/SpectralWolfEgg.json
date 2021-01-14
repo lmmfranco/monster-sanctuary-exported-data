@@ -1,0 +1,12 @@
+{
+  "guid": "691344310ef38e942bf506c38a9bf672",
+  "filename": "SpectralWolfEgg",
+  "ID": 17,
+  "Name": null,
+  "Price": 3000,
+  "Monster": {
+    "fileID": 1465913071165888,
+    "guid": "f7e3b592038acb64aa65a8c38d928178",
+    "type": 2
+  }
+}

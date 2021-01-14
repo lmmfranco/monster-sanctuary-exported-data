@@ -1,0 +1,28 @@
+{
+  "guid": "0d486363d9c1fb543b24498fa00d51a6",
+  "filename": "Belt+5",
+  "ID": 1490,
+  "Name": "Belt",
+  "Price": 2400,
+  "Type": 5,
+  "Icon": "icon_belt",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 75,
+  "CritChance": 0,
+  "CritDamage": 0.15,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

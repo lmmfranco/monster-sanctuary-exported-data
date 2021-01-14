@@ -1,0 +1,88 @@
+{
+  "guid": "e38c4a5e9e9891d44bc8fcf5117d362d",
+  "filename": "FireShield1",
+  "ID": 842,
+  "Name": "Fire Shield",
+  "Icon": "icon_fire_shield",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 4,
+  "Duration": 2.6,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 150,
+  "ScaleDefense": 0.2,
+  "ScaleMagic": 0.2,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1.2,
+    1.7
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1223817747797648,
+    "guid": "ae56ab406d9e33c43a97fe686abe56fd",
+    "type": 2
+  },
+  "Offset": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 3,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Debuffs": 1048576,
+  "ApplyDelay": 2.4,
+  "ApplyChance": 1,
+  "TargetCount": 1,
+  "AnimElement__1": {
+    "fileID": 1827717632146315,
+    "guid": "1e6a9e13d1335db49945ca35551a247a",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0
+}

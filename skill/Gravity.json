@@ -1,0 +1,66 @@
+{
+  "guid": "8a0f8c4ebdfe3b94797e4e8bf90cf7d1",
+  "filename": "Gravity",
+  "ID": 1721,
+  "Name": "Gravity",
+  "Icon": "icon_gravity",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 240,
+  "TargetType": 1,
+  "Duration": 3.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1,
+  "TotalDamage": 2,
+  "CalculatedDamage": 1.806137,
+  "CalculatedTotalDamage": 3.612274,
+  "HitTimings": [
+    2,
+    3
+  ],
+  "Element": 0,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0.1,
+  "BuffMultiplier": 0,
+  "Color": {
+    "r": 0.1612397,
+    "g": 0.0732912,
+    "b": 0.254717,
+    "a": 0.1882353
+  },
+  "Duration__1": 1.5,
+  "StayDuration": 2.3,
+  "Timings": [
+    0
+  ],
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "f9db81c7702e7784f9750cb2afc7f845",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [],
+  "ShakeDuration": 3.7,
+  "ShakeStrength": 1,
+  "ShakeTimings": [
+    0.1
+  ]
+}

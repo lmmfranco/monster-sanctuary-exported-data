@@ -1,0 +1,11 @@
+{
+  "guid": "4ccfdf89332f3654888e72d70efefdaf",
+  "filename": "CriticalBase",
+  "ID": 1544,
+  "Name": "Critical Base",
+  "Icon": "icon_critical_basis",
+  "Description": "Increases {Critical Chance} by {0%} while wearing no equipment that increases {Critical Chance}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Bonus": 0.15
+}

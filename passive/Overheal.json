@@ -1,0 +1,11 @@
+{
+  "guid": "3eb7234be8461e84d984a4a42711517e",
+  "filename": "Overheal",
+  "ID": 915,
+  "Name": "Overheal",
+  "Icon": "icon_dark_passive",
+  "Description": "When an allied Monster is getting healed above Max Health, convert {0%} of that amount into a Shield.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ConversionAmount": 0.5
+}

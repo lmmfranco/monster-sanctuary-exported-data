@@ -1,0 +1,13 @@
+{
+  "guid": "236f749a54bbe2e48a4c18b43aa90ebf",
+  "filename": "Armory",
+  "ID": 1191,
+  "Name": "Armory",
+  "Icon": "icon_armory",
+  "Description": "Increases {Defense}, {Health}, {Mana} and {Mana Regeneration} from equipment by {0%} for allied {Warrior} Monsters.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stats": 2.475880299931707e+27,
+  "Bonus": 0.15,
+  "TypeRestriction": 15
+}

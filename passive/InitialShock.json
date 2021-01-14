@@ -1,0 +1,11 @@
+{
+  "guid": "327d92f0082599c4ebf747b14a9c1dac",
+  "filename": "InitialShock",
+  "ID": 354,
+  "Name": "Initial Shock",
+  "Icon": "icon_initial_shock",
+  "Description": "Apply {Shock} (Debuff) on a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 1
+}

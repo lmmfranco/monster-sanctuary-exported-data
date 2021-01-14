@@ -1,0 +1,12 @@
+{
+  "guid": "04ac5ae560f25094db3e73958cf5e735",
+  "filename": "DoubleStrike",
+  "ID": 878,
+  "Name": "Double Strike",
+  "Icon": "icon_double_strike",
+  "Description": "On each hit, there's a {0%} chance to trigger another hit with the same base damage. (Cannot trigger again on Double Strike hits)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.1,
+  "SecondHitDelay": 0.075
+}

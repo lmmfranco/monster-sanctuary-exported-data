@@ -1,0 +1,15 @@
+{
+  "guid": "93452e3b24f68d64aac0f8a31608ab1b",
+  "filename": "MassPotion",
+  "ID": 561,
+  "Name": "Mass Potion",
+  "Price": 400,
+  "EffectAction": {
+    "fileID": 1149930606525463,
+    "guid": "1015cf430cc7fda409e84adfb2fe8701",
+    "type": 2
+  },
+  "Icon": "icon_mass_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

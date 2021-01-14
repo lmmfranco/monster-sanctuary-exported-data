@@ -1,0 +1,47 @@
+{
+  "guid": "562d610f305180c4b8caa49b9f447c6c",
+  "filename": "Cestus+3",
+  "ID": 789,
+  "Name": "Cestus",
+  "Price": 1300,
+  "Type": 0,
+  "Icon": "icon_cestus",
+  "Attack": 110,
+  "Magic": 110,
+  "Defense": 45,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1584799205151106,
+    "guid": "8f0244c057a32074e9ca2f401ec095dc",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

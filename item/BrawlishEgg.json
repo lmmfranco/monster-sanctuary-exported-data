@@ -1,0 +1,12 @@
+{
+  "guid": "cd09888f6109eac46aaaddaa2c1c80a7",
+  "filename": "BrawlishEgg",
+  "ID": 961,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1624805464421160,
+    "guid": "43f4dc24ba489394e87b42c0de171566",
+    "type": 2
+  }
+}

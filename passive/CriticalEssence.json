@@ -1,0 +1,12 @@
+{
+  "guid": "ad30852f0ab5fa1488454b5e5520595a",
+  "filename": "CriticalEssence",
+  "ID": 1345,
+  "Name": "Critical Essence",
+  "Icon": "icon_critical_essence",
+  "Description": "Neutral attacks have {0%} increased Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritBonus": 0.1,
+  "Element": 0
+}

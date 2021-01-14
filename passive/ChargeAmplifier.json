@@ -1,0 +1,11 @@
+{
+  "guid": "85e74d31e6a7eeb4ab67b31bcd6e83b9",
+  "filename": "ChargeAmplifier",
+  "ID": 845,
+  "Name": "Charge Amplifier",
+  "Icon": "icon_charge_amplifier",
+  "Description": "All {Charge} stacks in the party are {0%} stronger.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageIncrease": 0.4
+}

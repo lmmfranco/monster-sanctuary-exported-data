@@ -1,0 +1,72 @@
+{
+  "guid": "e6346c55fd79bc24eaa50caaa050069c",
+  "filename": "FullProtect2",
+  "ID": 1385,
+  "Name": null,
+  "Icon": null,
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 190,
+  "TargetType": 4,
+  "Duration": 2.3,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114029045348361420,
+    "guid": "1888d56e4c91b254582a8918de626e21",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 175,
+  "ScaleDefense": 0.2,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2
+  ],
+  "ShieldCaster": 1,
+  "AnimElement": {
+    "fileID": 1989056647552363,
+    "guid": "6734dce9b0c5e8b42864c282c2be9372",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1837960200758858,
+    "guid": "dd432bf1ecd3e384f9a3b7cf90e6b3f1",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  }
+}

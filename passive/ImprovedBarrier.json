@@ -1,0 +1,12 @@
+{
+  "guid": "c2e220f847156ba44bae113941928875",
+  "filename": "ImprovedBarrier",
+  "ID": 1069,
+  "Name": "Improved Barrier",
+  "Icon": "icon_improved_barrier",
+  "Description": "{Barrier} (Buff) reduces damage received by an additional {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "BuffType": 8,
+  "Value": 0.075
+}

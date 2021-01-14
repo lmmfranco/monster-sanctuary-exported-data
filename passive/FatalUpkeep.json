@@ -1,0 +1,11 @@
+{
+  "guid": "93953df7508b0864086addf5793665ad",
+  "filename": "FatalUpkeep",
+  "ID": 413,
+  "Name": "Fatal Upkeep",
+  "Icon": "icon_fatal_upkeep",
+  "Description": "{Poison}, {Burn} and {Congeal} damage dealt to enemies is increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "damageIncrease": 0.2
+}

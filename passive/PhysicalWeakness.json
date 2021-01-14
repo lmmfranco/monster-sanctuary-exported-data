@@ -1,0 +1,12 @@
+{
+  "guid": "57f8186a359d2a14d83c06829148075b",
+  "filename": "PhysicalWeakness",
+  "ID": 407,
+  "Name": "Physical Weakness",
+  "Icon": "icon_physical_weakness",
+  "Description": "Physical damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 5,
+  "Modifier": 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "4c028b963dbad484a9814ffe22d3b9f6",
+  "filename": "CurseOfWeakness",
+  "ID": 1773,
+  "Name": "Curse of Weakness",
+  "Icon": "icon_curse_of_weakness",
+  "Description": "When a Monster in the party applies {Weakness} on an enemy, {0%} chance to also apply a random Debuff.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 0,
+  "SpreadDebuff": 6,
+  "Chance": 0.35,
+  "OnSameEnemy": 0
+}

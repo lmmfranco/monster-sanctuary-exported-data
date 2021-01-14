@@ -1,0 +1,12 @@
+{
+  "guid": "120c0ced0b9dd8b478d5dbbcc3b6e2bc",
+  "filename": "SpectralToadEgg",
+  "ID": 1826,
+  "Name": null,
+  "Price": 3000,
+  "Monster": {
+    "fileID": 1668921029614910,
+    "guid": "9dc93d7f0797a56408aba818cbc659e4",
+    "type": 2
+  }
+}

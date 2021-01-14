@@ -1,0 +1,12 @@
+{
+  "guid": "7817f076724b5404dad798bcc7dff89e",
+  "filename": "KeyOfPower",
+  "ID": 1376,
+  "Name": "Key of Power",
+  "Price": 0,
+  "Icon": "icon_key_of_power",
+  "ItemID": 3,
+  "DisplayInInventory": 1,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "Required to enter Abandoned Tower"
+}

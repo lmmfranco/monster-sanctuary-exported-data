@@ -1,0 +1,14 @@
+{
+  "guid": "ef5a2e563026cfb44985795cdd346a94",
+  "filename": "MagicPlus",
+  "ID": 117,
+  "Name": "Magic Plus",
+  "Icon": "icon_magic_plus",
+  "Description": null,
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 1,
+  "Value": 1,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

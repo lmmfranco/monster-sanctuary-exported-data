@@ -1,0 +1,11 @@
+{
+  "guid": "6367c263c07840946977ccf0fea49e9c",
+  "filename": "PassiveCurseChain",
+  "ID": 907,
+  "Name": "Curse Chain",
+  "Icon": "icon_dark_passive",
+  "Description": "Whenever this Monster applies a Debuff to an enemy, {0%} chance to spread that Debuff to another enemy.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.4
+}

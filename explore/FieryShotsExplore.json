@@ -1,0 +1,84 @@
+{
+  "guid": "021337e29b33e3140a4ac7eb48c67478",
+  "filename": "FieryShotsExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Fiery Shots",
+  "Description": "- Burns vines\n- Enkindles torches\n- Activates fire orbs",
+  "AnimElement": {
+    "fileID": 1785614168071924,
+    "guid": "8abe6aba8cef8ad499bb58beeb262949",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.25,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": [
+        {
+          "OverrideType": 11,
+          "Parameter": 25
+        }
+      ]
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.5,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": [
+        {
+          "OverrideType": 11,
+          "Parameter": 35
+        }
+      ]
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.75,
+      "Offset": {
+        "x": 0,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 170,
+    "true": 32
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 10
+  },
+  "Duration": 0.75,
+  "InteractableTypes": 73786993887026090000
+}

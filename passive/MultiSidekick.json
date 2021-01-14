@@ -1,0 +1,12 @@
+{
+  "guid": "1019eb0b94d17024c97fa76c2c61c7dc",
+  "filename": "MultiSidekick",
+  "ID": 715,
+  "Name": "Multi Sidekick",
+  "Icon": "icon_multi_sidekick",
+  "Description": "{Sidekick} (Buff) can be stacked two additional times. Additional stacks have only a {50%} chance to trigger.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 3
+}

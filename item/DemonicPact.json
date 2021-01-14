@@ -1,0 +1,19 @@
+{
+  "guid": "d64adae4c73df614f9616ce5734a4ce1",
+  "filename": "DemonicPact",
+  "ID": 1625,
+  "Name": "Demonic Pact",
+  "Price": 1000,
+  "Icon": "icon_demonic_pact",
+  "BaseMonster": {
+    "fileID": 1257584792154935,
+    "guid": "936fed2db3c3eb444ac5904bb3465ed3",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1169386777760652,
+    "guid": "74a73fe160007fe4c8cea0d898683302",
+    "type": 2
+  }
+}

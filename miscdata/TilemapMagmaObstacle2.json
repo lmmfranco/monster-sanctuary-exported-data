@@ -1,0 +1,23 @@
+{
+  "guid": "051e00d6e6e3e464da922970d89e66a5",
+  "filename": "TilemapMagmaObstacle2",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 3,
+  "DestroyParticleEffect": {
+    "fileID": 1524246751452392,
+    "guid": "72129279c2508a54cb36a9c6241ea80d",
+    "type": 2
+  },
+  "DestroyConditionBool": null,
+  "SFXDestroy": {
+    "fileID": 8300000,
+    "guid": "31ca40f9cd5b56c49abf819f14adfa1a",
+    "type": 3
+  },
+  "connectedObstacleId": -1,
+  "ConnectedObstacleArea": null,
+  "ApplyToChildren": 1,
+  "PauseDuringCombat": 0
+}

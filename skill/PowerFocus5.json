@@ -1,0 +1,77 @@
+{
+  "guid": "5341f57f522bf9e459992e7788db62ee",
+  "filename": "PowerFocus5",
+  "ID": 1564,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 260,
+  "TargetType": 2,
+  "Duration": 2.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114269310475417940,
+    "guid": "a62c38708c18cae4cba7f43cc2d01d74",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 50,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0.2,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    0.5,
+    0.75,
+    1,
+    1.25,
+    1.5,
+    1.75,
+    2,
+    2.25
+  ],
+  "ShieldCaster": 1,
+  "AnimElement": {
+    "fileID": 1146395093097780,
+    "guid": "e93917d4e4af3944b84befb4b23b89f9",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 2.3
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buff": 11,
+  "DoubleBuff": 0,
+  "Buff2": 0,
+  "StackCount": 1,
+  "ApplyDelay": 2.5,
+  "ApplyChance": 1,
+  "Variable": 1
+}

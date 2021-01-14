@@ -1,0 +1,12 @@
+{
+  "guid": "ab433acf6625efe4aac20aa778593b6e",
+  "filename": "MultiChill",
+  "ID": 534,
+  "Name": "Multi Chill",
+  "Icon": "icon_multichill",
+  "Description": "{Chill} (Debuff) can be stacked two additional times on enemies. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Debuff": 3
+}

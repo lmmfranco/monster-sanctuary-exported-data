@@ -1,0 +1,12 @@
+{
+  "guid": "4294f2f4c6354d143b38ffd2b7d3e835",
+  "filename": "ChargedUp",
+  "ID": 1387,
+  "Name": "Charged Up",
+  "Icon": "icon_light_passive",
+  "Description": "Increases Damage dealt, Reduces Damage taken and Mana Cost by {0%} for every Charge stack. Capped at {1} stacks.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "IncreaseValue": 0.01,
+  "StackCap": 15
+}

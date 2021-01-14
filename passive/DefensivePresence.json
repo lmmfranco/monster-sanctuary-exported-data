@@ -1,0 +1,11 @@
+{
+  "guid": "57af379869c87154dbbdc850b9ffd2a1",
+  "filename": "DefensivePresence",
+  "ID": 1140,
+  "Name": "Defensive Presence",
+  "Icon": "icon_defensive_presence",
+  "Description": "At the beginning of your turn, a random Monster in the party gains {Barrier} (Buff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffType": 8
+}

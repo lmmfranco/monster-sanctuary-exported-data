@@ -1,0 +1,12 @@
+{
+  "guid": "fa395786b2eaafe41bc4da7de046d81c",
+  "filename": "MagmapillarEgg",
+  "ID": 70,
+  "Name": null,
+  "Price": 250,
+  "Monster": {
+    "fileID": 1189359940891960,
+    "guid": "bde0be71eccfbcc47a7f30e216a1f049",
+    "type": 2
+  }
+}

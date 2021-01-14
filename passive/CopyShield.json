@@ -1,0 +1,11 @@
+{
+  "guid": "924845deea7917d4b950bdb5a42b5354",
+  "filename": "CopyShield",
+  "ID": 212,
+  "Name": "Copy Shield",
+  "Icon": "icon_copy_shield",
+  "Description": "When Shielding yourself, also apply {0%} of that Shield to allies.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CopyAmount": 0.2
+}

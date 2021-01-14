@@ -1,0 +1,12 @@
+{
+  "guid": "405d3b6a0c267994dae8529e0cc1bce7",
+  "filename": "AncientWoodsKey",
+  "ID": 525,
+  "Name": "Ancient Woods key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1985461523246426,
+    "guid": "1e20f71abce500e4982330bd85a95c3d",
+    "type": 2
+  }
+}

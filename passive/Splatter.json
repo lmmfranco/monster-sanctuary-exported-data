@@ -1,0 +1,10 @@
+{
+  "guid": "efe75013f72dec94095cbb9defa22a89",
+  "filename": "Splatter",
+  "ID": 469,
+  "Name": "Splatter",
+  "Icon": "icon_splatter",
+  "Description": "When an enemy is knocked out, spread half of their {Bleed} stacks to the remaining enemies. (rounded up)",
+  "IsAura": 1,
+  "IsUnique": 0
+}

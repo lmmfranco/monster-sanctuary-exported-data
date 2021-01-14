@@ -1,0 +1,131 @@
+{
+  "guid": "03734e18a8223be4482e0e23ca2f477a",
+  "filename": "Shred3",
+  "ID": 1261,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 1,
+  "Duration": 1.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114556797782548290,
+    "guid": "8b2f840a6c5b0bd468e0dd2eaf942e81",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.35,
+  "TotalDamage": 2.7,
+  "CalculatedDamage": 1.326528,
+  "CalculatedTotalDamage": 2.653057,
+  "HitTimings": [
+    0.1,
+    0.3
+  ],
+  "Element": 0,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.4,
+  "CritDamageBonus": 0.7,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "45afdf37f2ba7ea41a7620e62a956c2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.1,
+    0.3,
+    0.5,
+    0.7,
+    0.9,
+    1.1
+  ],
+  "Animation": {
+    "fileID": 1625785417758461,
+    "guid": "a3ec329695d5cc4418b71a5f73ad4683",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -4
+  },
+  "Orientation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0.4,
+  "TriggerEndAnimation": 0,
+  "FadeInTime": 0,
+  "FrameOffset": 0,
+  "moveDelay": 0,
+  "moveDuration": 0.25,
+  "moveCurve": 0,
+  "moveFromCaster": 0,
+  "MoveFromOffset": {
+    "x": -20,
+    "true": 20,
+    "z": -4
+  },
+  "MovementType": 2,
+  "Animation__1": {
+    "fileID": 1625785417758461,
+    "guid": "a3ec329695d5cc4418b71a5f73ad4683",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 10,
+    "true": 0,
+    "z": -4
+  },
+  "Orientation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Delay__1": 0.2,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 1,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0.4,
+  "TriggerEndAnimation__1": 0,
+  "FadeInTime__1": 0,
+  "FrameOffset__1": 0,
+  "moveDelay__1": 0,
+  "moveDuration__1": 0.25,
+  "moveCurve__1": 0,
+  "moveFromCaster__1": 0,
+  "MoveFromOffset__1": {
+    "x": -10,
+    "true": -20,
+    "z": -4
+  },
+  "MovementType__1": 2
+}

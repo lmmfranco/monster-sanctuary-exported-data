@@ -1,0 +1,11 @@
+{
+  "guid": "e5310ab33102cb74c832056d268a5926",
+  "filename": "InitialArmorBreak",
+  "ID": 1551,
+  "Name": "Initial Armor Break",
+  "Icon": "icon_initial_armor_break",
+  "Description": "Apply {Armor Break} (Debuff) on a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5
+}

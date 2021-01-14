@@ -1,0 +1,12 @@
+{
+  "guid": "2a69a2912ff41cb48b0205b45dd29926",
+  "filename": "TargoatEgg",
+  "ID": 1401,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1618862080273313,
+    "guid": "a495df84dbcdfc54a905e4af827eaac1",
+    "type": 2
+  }
+}

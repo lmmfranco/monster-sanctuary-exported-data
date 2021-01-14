@@ -1,0 +1,13 @@
+{
+  "guid": "ce0a347c351039e4caa11be606e299ac",
+  "filename": "InsectCharge",
+  "ID": 1131,
+  "Name": "Insect Charge",
+  "Icon": "icon_insect_charge",
+  "Description": "All {Insect} Monsters in your party start combat with {0} Charge stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Count": 8,
+  "TypeRestriction": 11,
+  "TriggerForBackupMonsters": 1
+}

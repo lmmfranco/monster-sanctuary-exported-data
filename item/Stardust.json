@@ -1,0 +1,19 @@
+{
+  "guid": "3dc0e8feb00b1cb46a5ae4394378e45e",
+  "filename": "Stardust",
+  "ID": 536,
+  "Name": "Stardust",
+  "Price": 400,
+  "Icon": "icon_stardust",
+  "BaseMonster": {
+    "fileID": 1364901796582340,
+    "guid": "a88af5116a1c17e49a8970929d6892bf",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1207012178163888,
+    "guid": "fa5dc415aca1e7c4db4709800995b0ea",
+    "type": 2
+  }
+}

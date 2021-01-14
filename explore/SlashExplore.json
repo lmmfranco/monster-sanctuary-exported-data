@@ -1,0 +1,46 @@
+{
+  "guid": "5e4718a36983e1d429bfb52dd7ed90b3",
+  "filename": "SlashExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Slash",
+  "Description": "- Breaks hidden walls\n- Cuts through vines",
+  "AnimElement": {
+    "fileID": 1516170683470026,
+    "guid": "c074603190b99604bac2c54f45ad5229",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 1935803176038723,
+    "guid": "90d3a8b2d22863d479d186aa5ee0beac",
+    "type": 2
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": -5,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.1
+  ],
+  "HitBox": {
+    "x": 32,
+    "true": 24
+  },
+  "HitOffset": {
+    "x": -16,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 13194139795456
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "f0315ff6614a58d4d8c9f6aa278d7846",
+  "filename": "MassProtector",
+  "ID": 978,
+  "Name": "Mass Protector",
+  "Icon": "icon_mass_protector",
+  "Description": "All Monsters in the party receive {0%} less damage from Multi-Target-Attacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "damageReduction": 0.15,
+  "MonsterType": 0,
+  "MonsterType2": 0,
+  "OnlyMassAttacks": 1
+}

@@ -1,0 +1,520 @@
+{
+  "guid": "6a1111a7f16fe6c4eb1845fb4df38f7d",
+  "filename": "BladeWidow",
+  "ID": 853,
+  "Name": "Blade Widow",
+  "baseStats": {
+    "attack": 7,
+    "magic": 1,
+    "defense": 4,
+    "health": 3,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 3,
+    "health": 1,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 0,
+    "magic": 0,
+    "defense": 3,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 5,
+    "true": 7
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    },
+    {
+      "fileID": 1228674597675685,
+      "guid": "ec42765b0f0ac504b957de435fb0b70d",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1611740532464770,
+      "guid": "4665427b1de73eb42821ebd80da2d768",
+      "type": 2
+    },
+    {
+      "fileID": 1430211027732074,
+      "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+      "type": 2
+    },
+    {
+      "fileID": 1996467748294059,
+      "guid": "243ea053a2fc0e54b8f835c5fb59f7e9",
+      "type": 2
+    }
+  ],
+  "StartLevel": 22,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1646865771904386,
+    "guid": "5e4718a36983e1d429bfb52dd7ed90b3",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -12,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "0b0000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    },
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    },
+    {
+      "fileID": 1936627760160920,
+      "guid": "00e2ec08f8dcb17478c1bd3e6795fd53",
+      "type": 2
+    },
+    {
+      "fileID": 1379159313698690,
+      "guid": "a23ac66630074714688a6bccca68c1b1",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    },
+    {
+      "fileID": 1531590619305270,
+      "guid": "46b3b99c2fa04e74f8360968548b2d36",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1332087868471981,
+      "guid": "e733c0e031bcd1a4a8f664cf6483874f",
+      "type": 2
+    },
+    {
+      "fileID": 1289704341483935,
+      "guid": "47b6306dda881814a97e14500993a7bd",
+      "type": 2
+    },
+    {
+      "fileID": 1525552125212761,
+      "guid": "8c961dff89247fe408d4f55c1ff0c922",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1581145086686324,
+    "guid": "4294f2f4c6354d143b38ffd2b7d3e835",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1114742255258586,
+    "guid": "f8bcee81d64cc684887215a241c754ac",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1177920882222364,
+      "guid": "2e9f8a647c4722f449565fde2e32ef9d",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1893230335231597,
+      "guid": "32a702c4aa313dc41a435553753c0f98",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1263765811182381,
+      "guid": "275997d5f64365143b3f7c66063ee5fa",
+      "type": 2
+    },
+    {
+      "fileID": 1531590619305270,
+      "guid": "46b3b99c2fa04e74f8360968548b2d36",
+      "type": 2
+    },
+    {
+      "fileID": 1789373304482184,
+      "guid": "7d0156b4b82f7454990b5f01753d5df4",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1085898870576219,
+      "guid": "bc6455fb2e1d6ef48abb141124ab08a6",
+      "type": 2
+    },
+    {
+      "fileID": 1479835260779578,
+      "guid": "12a081403be777643a91348c0eeb3926",
+      "type": 2
+    },
+    {
+      "fileID": 1497274092111541,
+      "guid": "c7d7501841ba4ae41ab4ba402b5f63f1",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    },
+    {
+      "fileID": 1713598610571065,
+      "guid": "b206978db519ee14c8461b31ff82c4c7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1832505366857474,
+      "guid": "3453d53376b1fbd4ba1dfff8a57584cb",
+      "type": 2
+    },
+    {
+      "fileID": 1366176079209518,
+      "guid": "7411558f11dafb740bc0d00b135bea22",
+      "type": 2
+    },
+    {
+      "fileID": 1403983715107243,
+      "guid": "400fbd0810cc69f42b631c49ba8c80a1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1122679574276655,
+      "guid": "873dff55b4b14b841aeca16ea95d483d",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1738216089424885,
+      "guid": "f91e4952be69b734494ff8968a9ade73",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1624721887418744,
+      "guid": "e5aa6fb23c0a0d34eba7a1bff010935b",
+      "type": 2
+    },
+    {
+      "fileID": 1310787608983681,
+      "guid": "efc8795ab51123f4989b418f3376bb75",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1731515195765440,
+      "guid": "9037c2a9d3eb3d74b99f0d7f21103057",
+      "type": 2
+    },
+    {
+      "fileID": 1459349708180249,
+      "guid": "2d6f33c856b90c14f93300006bffcb31",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1974223868971265,
+      "guid": "f482029fdb59d5349b2ad8259a4015df",
+      "type": 2
+    },
+    {
+      "fileID": 1569165889814076,
+      "guid": "669f1437533a1ce4fa79dc4ba40810ed",
+      "type": 2
+    },
+    {
+      "fileID": 1248072806321043,
+      "guid": "680f88f236e79f040b6674ef44098ad3",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1639015182491661,
+      "guid": "71e0b9c539f03ac46bdfda97d6baff81",
+      "type": 2
+    },
+    {
+      "fileID": 1202478521645276,
+      "guid": "a6b5784ba0d0a254981c37382e502f78",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1310787608983681,
+      "guid": "efc8795ab51123f4989b418f3376bb75",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1329932737500967,
+      "guid": "05b46d0046d37db43839d9b3f1a5ee98",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1369336062061498,
+      "guid": "71a2338bfbda5874590399a4cc57a6bc",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1651821398517240,
+      "guid": "c6367ea1aeabb994fb6cf7b228cd7917",
+      "type": 2
+    },
+    {
+      "fileID": 1002635476683677,
+      "guid": "68bcee91202ed9342847d34e96d05d59",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1711615903268756,
+      "guid": "0bcc1dbf96b83c74eb59b3ae62ea736b",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1932244800654605,
+      "guid": "efe75013f72dec94095cbb9defa22a89",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1046720121458202,
+      "guid": "ad049961afb584045bab9640bb00ee5f",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1848976509214236,
+      "guid": "7163a4c1b4d4d004d88283230565969e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1643905612096491,
+      "guid": "9866ff1eacf34b047b6880e820983539",
+      "type": 2
+    },
+    {
+      "fileID": 1402465891394524,
+      "guid": "fe5c30d98be25a946950cebaa7adf1ee",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1827291720385422,
+      "guid": "b331cd532fbd64342b6786b199514486",
+      "type": 2
+    },
+    {
+      "fileID": 1394754103647575,
+      "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1772294023822897,
+      "guid": "13d8feac43a98e34f8e14579130df005",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1605518385899461,
+      "guid": "15bbd415b00d0324c941d34d9ab3b8a6",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Bio": "It is quite dangerous to come face to face with these mantis-like creatures, as they are known to prey on just about anything that stumbles into their territory. They are even known to feast on their own kind in certain situations. Almost all of the Blade Widows found in nature are female, as the males of the species are usually much smaller and their lifespans are quite limited. Once a Blade Widow's powerful eyes have found a target, the Blade Widow becomes utterly relentless.",
+  "History": "Despite the Blade Widows' predatory nature, scholars and mystics have been fascinated with this creature since ancient times. Some even believed the Blade Widows to be earthly messengers or incarnations of a female god of war, and warriors sometimes gave sacrifices to the Blade Widows in hopes that it would grant them fortune in future battles. One particular myth states that, should a warrior die outside of battle, their soul would have to face off against a Blade Widow in the spirit realm. No matter how strong the warrior was in life, they cannot win this fight, for it only serves to test the warrior's spirit and to give them a warrior's death.",
+  "StatOrientation": 2
+}

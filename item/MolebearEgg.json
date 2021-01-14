@@ -1,0 +1,12 @@
+{
+  "guid": "2c25c57ce594e54448fbd8dbb628df05",
+  "filename": "MolebearEgg",
+  "ID": 464,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1157438804855622,
+    "guid": "042fdc462a7feb84293ea201c270816c",
+    "type": 2
+  }
+}

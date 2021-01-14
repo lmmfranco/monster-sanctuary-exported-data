@@ -1,0 +1,16 @@
+{
+  "guid": "ff70987012c9ef74ea22505a459c9ff3",
+  "filename": "AquaticPredator",
+  "ID": 1160,
+  "Name": "Aquatic Predator",
+  "Icon": "icon_aquatic_predator",
+  "Description": "Increases the Critical Chance of {Aquatic} Monsters in the party by {0%} and the Critical Damage by {1%}",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.05,
+  "Stat": 5,
+  "IncreaseValue2": 0.15,
+  "Stat2": 6,
+  "IsMultiplicator": 0,
+  "MonsterType": 1
+}

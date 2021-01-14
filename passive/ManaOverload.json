@@ -1,0 +1,14 @@
+{
+  "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+  "filename": "ManaOverload",
+  "ID": 106,
+  "Name": "Mana Overload",
+  "Icon": "icon_mana_overload",
+  "Description": "Increase Attack and Magic by {0%} of this Monster's Max Mana.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DependantStat": 4,
+  "IncreasedStat": 8,
+  "Value": 0.15,
+  "Pass": 0
+}

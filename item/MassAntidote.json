@@ -1,0 +1,15 @@
+{
+  "guid": "f07c6a5ef62853d47b9e3e4abe876a0e",
+  "filename": "MassAntidote",
+  "ID": 290,
+  "Name": "Mass Antidote",
+  "Price": 500,
+  "EffectAction": {
+    "fileID": 1547064361196905,
+    "guid": "505bd457d6813434db2f9d2243e3a37c",
+    "type": 2
+  },
+  "Icon": "icon_mass_antidote",
+  "Description": null,
+  "RetreatItem": 0
+}

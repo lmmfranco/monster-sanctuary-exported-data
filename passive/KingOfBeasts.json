@@ -1,0 +1,13 @@
+{
+  "guid": "55ad780a77a03e54f8da2be019a5c8bf",
+  "filename": "KingOfBeasts",
+  "ID": 1566,
+  "Name": "King of Beasts",
+  "Icon": "icon_king_of_beasts",
+  "Description": "Increases this Monster's damage by {0%} for each {Beast} in the party. All Debuffs are {1%} less effective on {Beasts} in your party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.05,
+  "DebuffResistance": 0.15,
+  "TypeRestriction": 7
+}

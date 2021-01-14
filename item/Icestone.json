@@ -1,0 +1,19 @@
+{
+  "guid": "b163c8bcdad78e149b5a995135aade79",
+  "filename": "Icestone",
+  "ID": 1410,
+  "Name": "Ice Stone",
+  "Price": 500,
+  "Icon": "icon_ice_stone",
+  "BaseMonster": {
+    "fileID": 1419693174018241,
+    "guid": "e60c34de05a3eed418269ea88f816cc8",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1588824352195413,
+    "guid": "c9e6e6ecfe2bdf342b6196f7f28be59d",
+    "type": 2
+  }
+}

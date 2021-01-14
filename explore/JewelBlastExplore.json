@@ -1,0 +1,74 @@
+{
+  "guid": "a7339e13729c5774bb9193ba6d3265e8",
+  "filename": "JewelBlastExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Jewel Blast",
+  "Description": "- Activates earth orbs",
+  "AnimElement": {
+    "fileID": 1183658237812838,
+    "guid": "42199045a53ac1147abeadf5f70b05df",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 0,
+        "true": -5,
+        "z": 0
+      },
+      "Overrides": [
+        {
+          "OverrideType": 11,
+          "Parameter": 30
+        }
+      ]
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.05,
+      "Offset": {
+        "x": 0,
+        "true": -5,
+        "z": 0
+      },
+      "Overrides": [
+        {
+          "OverrideType": 11,
+          "Parameter": 15
+        }
+      ]
+    },
+    {
+      "FlipVertically": 0,
+      "Delay": 0.1,
+      "Offset": {
+        "x": 0,
+        "true": -5,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 160,
+    "true": 24
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 10
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 8000000
+}

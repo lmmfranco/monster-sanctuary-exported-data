@@ -1,0 +1,15 @@
+{
+  "guid": "92519d0958942b2408aec5b8a4a3d320",
+  "filename": "CaveDwellers",
+  "ID": 1548,
+  "Name": "Cave Dwellers",
+  "Icon": "icon_cave_dwellers",
+  "Description": "Heal all {Beast} and {Occult} Monsters in the party by {0%} of their own Max Health at the start of every turn.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.1,
+  "TargetType": 4,
+  "BaseOnOwnHealth": 0,
+  "MonsterType": 7,
+  "MonsterType2": 9
+}

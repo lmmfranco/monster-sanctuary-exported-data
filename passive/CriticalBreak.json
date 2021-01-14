@@ -1,0 +1,11 @@
+{
+  "guid": "40e2f9dfd79213345bfab7772d0b16c7",
+  "filename": "CriticalBreak",
+  "ID": 1383,
+  "Name": "Critical Break",
+  "Icon": "icon_critical_break",
+  "Description": "The first critical hit of an attack applies {Armor Break} (Debuff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5
+}

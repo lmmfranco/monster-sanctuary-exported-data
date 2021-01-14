@@ -1,0 +1,10 @@
+{
+  "guid": "33a371f5df3d82f499ef4a4094ad3ec0",
+  "filename": "BleedOut",
+  "ID": 926,
+  "Name": "Bleed Out",
+  "Icon": "icon_dark_passive",
+  "Description": "{Bleed} stacks on enemies are not removed when they take Bleed damage.",
+  "IsAura": 1,
+  "IsUnique": 1
+}

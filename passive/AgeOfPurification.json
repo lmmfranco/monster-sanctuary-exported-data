@@ -1,0 +1,10 @@
+{
+  "guid": "97e57aca8fdd22842a04790c37cf1467",
+  "filename": "AgeOfPurification",
+  "ID": 1833,
+  "Name": "Age of Purification",
+  "Icon": "icon_age_of_purification",
+  "Description": "Whenever an ally gets an {Age} stack, remove a harmful Stack from all allies. ({Bleed}, {Wound}, {Blind}, {Tether})",
+  "IsAura": 1,
+  "IsUnique": 1
+}

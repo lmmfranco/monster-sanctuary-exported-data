@@ -1,0 +1,47 @@
+{
+  "guid": "5026219312fda0d488390eae928b61fc",
+  "filename": "Shuriken+3",
+  "ID": 799,
+  "Name": "Shuriken",
+  "Price": 1300,
+  "Type": 0,
+  "Icon": "icon_shuriken",
+  "Attack": 110,
+  "Magic": 110,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1934989386943369,
+    "guid": "c871511f6c4fe9546971d8b5734ef0d8",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1430211027732074,
+        "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

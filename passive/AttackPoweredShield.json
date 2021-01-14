@@ -1,0 +1,17 @@
+{
+  "guid": "68bcee91202ed9342847d34e96d05d59",
+  "filename": "AttackPoweredShield",
+  "ID": 101,
+  "Name": "Attack Powered Shield",
+  "Icon": "icon_powered_shield",
+  "Description": "At the start of combat, apply a Shield equal to {0%} of Attack value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 0,
+  "DualStat": 0,
+  "SecondaryStat": 0,
+  "Percent": 1.5,
+  "TypeRestriction": 0,
+  "TriggerForBackupMonsters": 0,
+  "BasedOnCastersStat": 0
+}

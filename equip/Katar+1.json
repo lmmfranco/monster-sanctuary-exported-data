@@ -1,0 +1,47 @@
+{
+  "guid": "6f508452dff8c5644908c7fa4f4d9f20",
+  "filename": "Katar+1",
+  "ID": 23,
+  "Name": "Katar",
+  "Price": 500,
+  "Type": 0,
+  "Icon": "icon_katar",
+  "Attack": 60,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1527367655052101,
+    "guid": "e1358fb4d245d93429862cd5dc8e959d",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1979148939231785,
+        "guid": "fb7806c89741472478f451cd10abf730",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

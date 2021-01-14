@@ -1,0 +1,50 @@
+{
+  "guid": "e7ded60359491e0498681ba611ac91f7",
+  "filename": "ShieldGenerator+2",
+  "ID": 1429,
+  "Name": "Shield Generator",
+  "Price": 5500,
+  "Type": 5,
+  "Icon": "icon_shield_generator",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 50,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1219199644097144,
+    "guid": "df8b377f715b201428a4f331573ed207",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "ShieldAmount": 0,
+  "ManaScaling": 0.7,
+  "ShieldType": 2
+}

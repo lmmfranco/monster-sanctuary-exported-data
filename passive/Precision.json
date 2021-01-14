@@ -1,0 +1,12 @@
+{
+  "guid": "54129cbd956f728439166f5039289607",
+  "filename": "Precision",
+  "ID": 150,
+  "Name": "Precision",
+  "Icon": "icon_precision",
+  "Description": "First hit of an ability has a {0%} increased Critical Chance. ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "critChance": 0.2,
+  "cannotMiss": 0
+}

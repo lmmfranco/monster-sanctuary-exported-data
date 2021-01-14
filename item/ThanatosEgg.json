@@ -1,0 +1,12 @@
+{
+  "guid": "7beb86c7725d26f49b02f6208a1dafd7",
+  "filename": "ThanatosEgg",
+  "ID": 1605,
+  "Name": null,
+  "Price": 700,
+  "Monster": {
+    "fileID": 1244416883833972,
+    "guid": "682f084d9de1c544d997edde1ba0fbc0",
+    "type": 2
+  }
+}

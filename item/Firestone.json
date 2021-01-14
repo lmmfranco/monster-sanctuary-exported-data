@@ -1,0 +1,19 @@
+{
+  "guid": "8b1c5b0c54a243d4ba3a8b19d79e8a3f",
+  "filename": "Firestone",
+  "ID": 1092,
+  "Name": "Fire Stone",
+  "Price": 500,
+  "Icon": "icon_fire_stone",
+  "BaseMonster": {
+    "fileID": 1419693174018241,
+    "guid": "e60c34de05a3eed418269ea88f816cc8",
+    "type": 2
+  },
+  "AdditionalBaseMonster": [],
+  "EvolveMonster": {
+    "fileID": 1971211340221169,
+    "guid": "19078f937a24de0498eda49e5b06a79e",
+    "type": 2
+  }
+}

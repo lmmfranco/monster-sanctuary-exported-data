@@ -1,0 +1,12 @@
+{
+  "guid": "2a818d1f6c3679c4a90e6d94b1e2e23d",
+  "filename": "DiavolaEgg",
+  "ID": 1776,
+  "Name": null,
+  "Price": 2000,
+  "Monster": {
+    "fileID": 1021708980160896,
+    "guid": "43856bd0df0efdc4a8da6c5278d23da2",
+    "type": 2
+  }
+}

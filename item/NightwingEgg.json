@@ -1,0 +1,12 @@
+{
+  "guid": "09423f4a6027a594ca6b8549e0f6a85a",
+  "filename": "NightwingEgg",
+  "ID": 541,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1731617600025600,
+    "guid": "330e6c7a01f7bc24e9ba8c46be936e7a",
+    "type": 2
+  }
+}

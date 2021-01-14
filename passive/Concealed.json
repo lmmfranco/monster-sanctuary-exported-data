@@ -1,0 +1,11 @@
+{
+  "guid": "9d1b3188cce25dc44a8cc952f92d455e",
+  "filename": "Concealed",
+  "ID": 1195,
+  "Name": "Concealed",
+  "Icon": "icon_uncanny",
+  "Description": "During its first round, this Monster has an additional {0%} chance to dodge enemy hits.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DodgeChance": 0.25
+}

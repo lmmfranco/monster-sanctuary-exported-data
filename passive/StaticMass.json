@@ -1,0 +1,12 @@
+{
+  "guid": "1ee0a69c18ef8e24880e25d13e0056e9",
+  "filename": "StaticMass",
+  "ID": 1602,
+  "Name": "Static Mass",
+  "Icon": "icon_static_mass",
+  "Description": "{0%} chance to gain a random Buff when landing a non-Critical Hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.3,
+  "OnCriticalHit": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "50677e309aa51dd42adb2aa90f7e959d",
+  "filename": "CookieMushroom",
+  "ID": 1598,
+  "Name": "Cookie Mushroom",
+  "Price": 750,
+  "Icon": "icon_cookie_mushroom",
+  "Description": null,
+  "Stat": 9,
+  "Amount": 0.025,
+  "Level": 4
+}

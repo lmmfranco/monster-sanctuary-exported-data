@@ -1,0 +1,28 @@
+{
+  "guid": "83ab4c65c1f7eb446b0dc629e98f8b50",
+  "filename": "Scythe+5",
+  "ID": 1519,
+  "Name": "Scythe",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_scythe",
+  "Attack": 205,
+  "Magic": 235,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0.25,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

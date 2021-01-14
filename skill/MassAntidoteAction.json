@@ -1,0 +1,32 @@
+{
+  "guid": "505bd457d6813434db2f9d2243e3a37c",
+  "filename": "MassAntidoteAction",
+  "ID": 291,
+  "Name": "Mass Antidote",
+  "Icon": "icon_potion",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 4,
+  "Duration": 2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 1,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "aa47772eea5f37844b1aca8df3895e2a",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "Count": 2,
+  "Delay": 1
+}

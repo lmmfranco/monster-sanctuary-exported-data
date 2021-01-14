@@ -1,0 +1,12 @@
+{
+  "guid": "8b133c9b4f683cd46a0f7260356057c0",
+  "filename": "GrummyEgg",
+  "ID": 69,
+  "Name": null,
+  "Price": 300,
+  "Monster": {
+    "fileID": 1364901796582340,
+    "guid": "a88af5116a1c17e49a8970929d6892bf",
+    "type": 2
+  }
+}

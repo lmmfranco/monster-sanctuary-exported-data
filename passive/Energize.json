@@ -1,0 +1,11 @@
+{
+  "guid": "d859b872754a62348a0216269523208a",
+  "filename": "Energize",
+  "ID": 356,
+  "Name": "Energize",
+  "Icon": "icon_energize",
+  "Description": "Monsters in the party recover {0%} of Max Health when they trigger {Shock} damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "HealAmount": 0.075
+}

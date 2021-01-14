@@ -1,0 +1,12 @@
+{
+  "guid": "0ed53473b1ad18c44b675d313c889500",
+  "filename": "CurseTransfusion",
+  "ID": 1654,
+  "Name": "Curse Transfusion",
+  "Icon": "icon_curse_transfusion",
+  "Description": "For each Debuff this Monster has, it deals {0%} increased Damage and gains {1%} Damage Reduction.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageIncrease": 0.04,
+  "DamageReduction": 0.04
+}

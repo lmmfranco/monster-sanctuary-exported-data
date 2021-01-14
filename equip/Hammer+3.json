@@ -1,0 +1,47 @@
+{
+  "guid": "55fbd88c1b326c4499c44e056f5eabf5",
+  "filename": "Hammer+3",
+  "ID": 1418,
+  "Name": "Hammer",
+  "Price": 4000,
+  "Type": 0,
+  "Icon": "icon_hammer",
+  "Attack": 95,
+  "Magic": 80,
+  "Defense": 28,
+  "CritChance": 0.06,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 18,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1535615555529458,
+    "guid": "edb79d33e6ca4c74eb22bfb16b9442dc",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

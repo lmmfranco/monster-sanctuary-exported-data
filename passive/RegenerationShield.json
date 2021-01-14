@@ -1,0 +1,11 @@
+{
+  "guid": "0755ccd3e58b3944b9d35f2ad38c9463",
+  "filename": "RegenerationShield",
+  "ID": 1577,
+  "Name": "Regeneration Shield",
+  "Icon": "icon_regeneration_shield",
+  "Description": "{Regeneration} (Buff) also shields the monster by {0%} of its Max Health.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ShieldAmount": 0.075
+}

@@ -1,0 +1,47 @@
+{
+  "guid": "d22f888f126749d4787e4d24b874062e",
+  "filename": "Bracelet",
+  "ID": 266,
+  "Name": "Bracelet",
+  "Price": 180,
+  "Type": 5,
+  "Icon": "icon_bracelet",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 10,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 12,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1078319380867075,
+    "guid": "2e745ea3e31bd7843909319d3eea57fa",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

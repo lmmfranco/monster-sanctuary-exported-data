@@ -1,0 +1,12 @@
+{
+  "guid": "7a25a1842d248524eaeb614e7a8a4a60",
+  "filename": "CaraglowEgg",
+  "ID": 630,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1971725099732706,
+    "guid": "4571b692d3dfc264680863f8eaf16f99",
+    "type": 2
+  }
+}

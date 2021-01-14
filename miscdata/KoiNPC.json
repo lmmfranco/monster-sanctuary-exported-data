@@ -1,0 +1,28 @@
+{
+  "guid": "9769a7b9b6cd86544b11198d5148b684",
+  "filename": "KoiNPC",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 5
+  },
+  "Name": "Koi",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 1088845302725572,
+    "guid": "c54da996765a4a742a967f46efb8058a",
+    "type": 2
+  }
+}

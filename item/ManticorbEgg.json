@@ -1,0 +1,12 @@
+{
+  "guid": "9bfe23ad7f112fe4683d0018ae3ceade",
+  "filename": "ManticorbEgg",
+  "ID": 1035,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1936222584931671,
+    "guid": "56332bd5abf4ca54dbfc7044edce3a7a",
+    "type": 2
+  }
+}

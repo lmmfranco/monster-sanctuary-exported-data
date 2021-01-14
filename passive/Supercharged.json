@@ -1,0 +1,12 @@
+{
+  "guid": "db18713ab0134214e82c0fec828f4cd8",
+  "filename": "Supercharged",
+  "ID": 1333,
+  "Name": "Supercharged",
+  "Icon": "icon_supercharged",
+  "Description": "As long as this Monster has {0} or more {Charge} stacks, its Magic is increased by {1%} of its Attack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "StacksRequired": 15,
+  "MagicBonus": 1
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "4910a5c964172ca4f91b77c70b9c33ba",
+  "filename": "Aeons",
+  "ID": 820,
+  "Name": "Aeons",
+  "Icon": "icon_aeons",
+  "Description": "At the start of the turn, heal {0%} of this Monster's Max HP for every {Age} stack. (Capped at {1} stacks)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealValue": 0.03,
+  "Cap": 7
+}

@@ -1,0 +1,54 @@
+{
+  "guid": "5db12690c328ec74ca1226c6e991e542",
+  "filename": "Gale2",
+  "ID": 649,
+  "Name": null,
+  "Icon": null,
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 1,
+  "Duration": 2.1,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114594072427651940,
+    "guid": "3247e1ae52ffc2745b11a17f23b1d478",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1,
+  "TotalDamage": 2,
+  "CalculatedDamage": 1.016564,
+  "CalculatedTotalDamage": 2.033127,
+  "HitTimings": [
+    1,
+    1.5
+  ],
+  "Element": 3,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "5c3aa632f23f6cc43a095da8758a0b11",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

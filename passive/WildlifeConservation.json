@@ -1,0 +1,14 @@
+{
+  "guid": "1831ba78e391ebd4b8ca1fd341bc4fbb",
+  "filename": "WildlifeConservation",
+  "ID": 1196,
+  "Name": "Wildlife Conservation",
+  "Icon": "icon_wildlife_conservation",
+  "Description": "All {Bird} and {Beast} Monster in the party receive {0%} less damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "damageReduction": 0.1,
+  "MonsterType": 12,
+  "MonsterType2": 7,
+  "OnlyMassAttacks": 0
+}

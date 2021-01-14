@@ -1,0 +1,16 @@
+{
+  "guid": "a0019d72b2c642e48a322636c93a280a",
+  "filename": "Tailwind",
+  "ID": 1528,
+  "Name": "Tailwind",
+  "Icon": "icon_tailwind",
+  "Description": "Increases the Critical Chance of {Aerial} Monsters in the party by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseValue": 0.07,
+  "Stat": 5,
+  "IncreaseValue2": 0,
+  "Stat2": 0,
+  "IsMultiplicator": 0,
+  "MonsterType": 2
+}

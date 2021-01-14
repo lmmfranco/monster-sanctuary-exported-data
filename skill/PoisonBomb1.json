@@ -1,0 +1,71 @@
+{
+  "guid": "1b8748cdd37df0845a04fd391aac0e0a",
+  "filename": "PoisonBomb1",
+  "ID": 107,
+  "Name": "Poison Bomb",
+  "Icon": "icon_poison_bomb",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 50,
+  "TargetType": 0,
+  "Duration": 1.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 2.1,
+  "TotalDamage": 2.1,
+  "CalculatedDamage": 2.1,
+  "CalculatedTotalDamage": 2.1,
+  "HitTimings": [
+    0.1
+  ],
+  "Element": 4,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Debuffs": 524288,
+  "ApplyDelay": 1,
+  "ApplyChance": 1,
+  "TargetCount": 1,
+  "AnimElement": {
+    "fileID": 1506640184632397,
+    "guid": "63ddb35504da6f54ba4d08c404405ade",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

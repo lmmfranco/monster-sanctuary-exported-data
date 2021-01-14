@@ -1,0 +1,12 @@
+{
+  "guid": "e313be679d578644490d52a17461a179",
+  "filename": "CriticalSorcery",
+  "ID": 1840,
+  "Name": "Critical Sorcery",
+  "Icon": "icon_critical_sorcery",
+  "Description": "{Sorcery} also increases the critical chance by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "BuffType": 1,
+  "CritChanceBonus": 0.06
+}

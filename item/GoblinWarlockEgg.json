@@ -1,0 +1,12 @@
+{
+  "guid": "020ed76e94c1f624ba8638cc661a2c03",
+  "filename": "GoblinWarlockEgg",
+  "ID": 578,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1619421092630589,
+    "guid": "1ade1246c2a8df246b9a95ef47494de5",
+    "type": 2
+  }
+}

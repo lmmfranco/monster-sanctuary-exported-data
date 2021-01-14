@@ -1,0 +1,12 @@
+{
+  "guid": "8696932cb02d34f4a8389cc4af4fedfe",
+  "filename": "PhysicalResistance",
+  "ID": 408,
+  "Name": "Physical Resistance",
+  "Icon": "icon_physical_resistance",
+  "Description": "Physical damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 5,
+  "Modifier": -0.5
+}

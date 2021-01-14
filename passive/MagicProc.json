@@ -1,0 +1,20 @@
+{
+  "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+  "filename": "MagicProc",
+  "ID": 577,
+  "Name": "Magic Proc",
+  "Icon": "icon_magic_proc",
+  "Description": "Every attack triggers an additional hit equal to {1%} of Magic value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.35,
+  "ScaleStat": 1,
+  "AnimElement": {
+    "fileID": 1099377572340043,
+    "guid": "b1e56469fe82c224386739fd24701d6b",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "1639172c2d846294bbe0885a54593ae7",
+  "filename": "DefensePlus",
+  "ID": 242,
+  "Name": "Defense Plus",
+  "Icon": "icon_defense_plus",
+  "Description": null,
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 2,
+  "Value": 1,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

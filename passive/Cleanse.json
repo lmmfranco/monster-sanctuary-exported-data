@@ -1,0 +1,11 @@
+{
+  "guid": "b24baeca79fcb2042849350b5b73300b",
+  "filename": "Cleanse",
+  "ID": 528,
+  "Name": "Cleanse",
+  "Icon": "icon_cleanse",
+  "Description": "Every hit has a {0%} chance to remove a Buff from the target.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.25
+}

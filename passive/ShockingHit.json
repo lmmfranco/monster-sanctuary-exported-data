@@ -1,0 +1,14 @@
+{
+  "guid": "5cd48884659121b4d84669ac6d45b780",
+  "filename": "ShockingHit",
+  "ID": 1108,
+  "Name": "Shocking Hit",
+  "Icon": "icon_shocking_hit",
+  "Description": "If a single hit deals more than {0%} of the enemy's Max HP ({1%} against Champions), the enemy is afflicted with {Shock} (Debuff) and a stack of {Blind}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 1,
+  "SpecialBuff": 8,
+  "DamageTreshold": 0.25,
+  "ChampionTreshold": 0.1
+}

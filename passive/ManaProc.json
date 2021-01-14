@@ -1,0 +1,20 @@
+{
+  "guid": "0f473f6000a208a4391c807c7d3081f9",
+  "filename": "ManaProc",
+  "ID": 386,
+  "Name": "Mana Proc",
+  "Icon": "icon_mana_proc",
+  "Description": "Every attack triggers an additional hit equal to {1%} of Max Mana.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.5,
+  "ScaleStat": 4,
+  "AnimElement": {
+    "fileID": 1160696738717684,
+    "guid": "7a2e5e989a311554a8137770f1bf977f",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

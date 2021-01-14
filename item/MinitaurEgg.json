@@ -1,0 +1,12 @@
+{
+  "guid": "0eecb057f86757c4294413490d584199",
+  "filename": "MinitaurEgg",
+  "ID": 12,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1176396047564003,
+    "guid": "290585bb34a390c45886465c94599ea3",
+    "type": 2
+  }
+}

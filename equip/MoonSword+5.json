@@ -1,0 +1,28 @@
+{
+  "guid": "572339bdd2c089643af6636b6bb71afc",
+  "filename": "MoonSword+5",
+  "ID": 1514,
+  "Name": "Moon Sword",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_moon_sword",
+  "Attack": 300,
+  "Magic": 300,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

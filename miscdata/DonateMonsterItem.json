@@ -1,0 +1,216 @@
+{
+  "guid": "c7cf912b03704674b8d12aecf09cb7d1",
+  "filename": "DonateMonsterItem",
+  "text": {
+    "fileID": 114573515849182460
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114364456802492770
+  },
+  "infoText": {
+    "fileID": 114592801518154700
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 0
+  },
+  "DisplayWhenEmpty": 0,
+  "UpdateColors": 1,
+  "ExpandBackgroundDimension": 0,
+  "ExpandedItemSize": {
+    "x": 184,
+    "true": 18
+  },
+  "ShrinkedItemSize": {
+    "x": 40,
+    "true": 18
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 0
+  },
+  "AdditionalElements": [
+    {
+      "fileID": 1669859146906355
+    }
+  ],
+  "IconGO": {
+    "fileID": 1651735857423403
+  },
+  "sprite": {
+    "fileID": 114471568225379520
+  },
+  "animator": {
+    "fileID": 114711770022360640
+  },
+  "background__1": {
+    "fileID": 0
+  },
+  "OverwriteTargetColor": 0,
+  "TargetColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "OverwriteTargetColor__1": 0,
+  "TargetColor__1": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "OverwriteTargetColor__2": 0,
+  "TargetColor__2": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114467711090922690,
+      "guid": "acf79975dce340444a671e07da8c5774",
+      "type": 2
+    },
+    "text": "Equipment",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 3,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 30,
+    "inlineStyling": 1,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "_font__1": {
+    "fileID": 0
+  },
+  "_text__1": null,
+  "_color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "_color2__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__1": 0,
+  "_textureGradient__1": 0,
+  "_anchor__1": 6,
+  "_scale__1": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__1": 0,
+  "_maxChars__1": 16,
+  "_inlineStyling__1": 0,
+  "_formatting__1": 0,
+  "_wordWrapWidth__1": 0,
+  "spacing__1": 0,
+  "lineSpacing__1": 0,
+  "data__1": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 12",
+    "color": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 5,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 1,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  }
+}

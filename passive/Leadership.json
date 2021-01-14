@@ -1,0 +1,10 @@
+{
+  "guid": "7745d79721afec4488977cd9f25c98dc",
+  "filename": "Leadership",
+  "ID": 924,
+  "Name": "Leadership",
+  "Icon": "icon_light_passive",
+  "Description": "Whenever this Monster gets a {Charge} stack, share it with another Monster in your party.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

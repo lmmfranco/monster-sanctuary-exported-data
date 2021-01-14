@@ -1,0 +1,536 @@
+{
+  "guid": "cc51078116f108940a7be5f68e5cfe7c",
+  "filename": "Megataur",
+  "ID": 662,
+  "Name": "Megataur",
+  "baseStats": {
+    "attack": 6,
+    "magic": 5,
+    "defense": 4,
+    "health": 8,
+    "mana": 3
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 1,
+    "defense": 0,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 2,
+    "defense": 1,
+    "health": 0,
+    "mana": 3
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": 6
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1177786864638448,
+      "guid": "4f367a9a0c470a1428609d362cb71fab",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1236254572456791,
+      "guid": "907eade581dbacc4ebbf3880173e9561",
+      "type": 2
+    },
+    {
+      "fileID": 1888934208528560,
+      "guid": "fb0a27b612bf40d418b12d472f63c11d",
+      "type": 2
+    },
+    {
+      "fileID": 1210562864485294,
+      "guid": "0eecb057f86757c4294413490d584199",
+      "type": 2
+    }
+  ],
+  "StartLevel": 20,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1943731101093701,
+    "guid": "2d147856ca6b557409e4678fd2a997d4",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -4,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "070000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 1,
+  "BaseSkills": [
+    {
+      "fileID": 1848750103429178,
+      "guid": "d80919e35b116f748895639eded31a53",
+      "type": 2
+    },
+    {
+      "fileID": 1497143859438811,
+      "guid": "67bdb795914a78948bc3d7f94aac4deb",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1497603862827511,
+      "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1346620869320867,
+      "guid": "e48f3d7930c570c41b1f9ddf3e8ddcaa",
+      "type": 2
+    },
+    {
+      "fileID": 1923782053611373,
+      "guid": "5b94e7c39cd00ff47a77aada31c8f138",
+      "type": 2
+    },
+    {
+      "fileID": 1277807512553830,
+      "guid": "6c71b2031830e5440b360508fd72eede",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1112776972481767,
+    "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1397011885445541,
+    "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1497143859438811,
+      "guid": "67bdb795914a78948bc3d7f94aac4deb",
+      "type": 2
+    },
+    {
+      "fileID": 1429919730670206,
+      "guid": "7baec0652a6214b4fac1918d0162ec44",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1296682410874086,
+      "guid": "5f02fb6efb3174940a06fe497c5ac7f3",
+      "type": 2
+    },
+    {
+      "fileID": 1135088495157222,
+      "guid": "03d7ef37290cee14e8020ca612922aa7",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1909053325959312,
+      "guid": "f10fc688ae9a450478fbcf3c54aba72c",
+      "type": 2
+    },
+    {
+      "fileID": 1668507662191258,
+      "guid": "4ae279f1235cb774fa7d878241d02295",
+      "type": 2
+    },
+    {
+      "fileID": 1684681450247155,
+      "guid": "349e87f9d9b6484449122c66a3a96ea8",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1167574586984024,
+      "guid": "9327a207b6efbfe45b8dc228b8765327",
+      "type": 2
+    },
+    {
+      "fileID": 1487213651372885,
+      "guid": "5575bd5eab793854398c696d4e9d5364",
+      "type": 2
+    },
+    {
+      "fileID": 1603161218986831,
+      "guid": "13f517281c965b547939f176b57df7c9",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1752627891873843,
+      "guid": "ab635286082e5bd479b2af38c24bb403",
+      "type": 2
+    },
+    {
+      "fileID": 1470749348651896,
+      "guid": "fefc3651ef8e8384bab0b4d6e0cf90bb",
+      "type": 2
+    },
+    {
+      "fileID": 1394754103647575,
+      "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+      "type": 2
+    },
+    {
+      "fileID": 1963505432697705,
+      "guid": "ac0ea733f164cdd4a871b0e4e0e0b727",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1431132250607598,
+      "guid": "b4b065f8f1100cb4287024f5cf193af5",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1273771702851302,
+      "guid": "d5fadaf0bdd7e424cb88500a25160b82",
+      "type": 2
+    },
+    {
+      "fileID": 1497603862827511,
+      "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+      "type": 2
+    },
+    {
+      "fileID": 1632353448970348,
+      "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1436916231208232,
+      "guid": "e830bd3421d6efc468c5f01528f6e46a",
+      "type": 2
+    },
+    {
+      "fileID": 1771538755184261,
+      "guid": "0144e590a2fb42446b2ffce88fbe31a5",
+      "type": 2
+    },
+    {
+      "fileID": 1349651517711227,
+      "guid": "e313be679d578644490d52a17461a179",
+      "type": 2
+    },
+    {
+      "fileID": 1520502087016869,
+      "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1057421354318522,
+      "guid": "0be0ed1a805913a48b32f584b7db1aa5",
+      "type": 2
+    },
+    {
+      "fileID": 1629169507539652,
+      "guid": "e65345d07badd9d4a96a0d8a20e37878",
+      "type": 2
+    },
+    {
+      "fileID": 1309018176628142,
+      "guid": "f60678d0a6587054fb04e899c6668afb",
+      "type": 2
+    },
+    {
+      "fileID": 1331888980988870,
+      "guid": "21c3e5618f58ca24aa5d6573a86b4eb5",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1848750103429178,
+      "guid": "d80919e35b116f748895639eded31a53",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1554803805287482,
+      "guid": "66b000cbbbb486e4091cb2f3dd4a1c75",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    },
+    {
+      "fileID": 1643572279794352,
+      "guid": "d3b651446c559264aba3d3af960b362c",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1358024216363682,
+      "guid": "755b4d7c27d13c74b873956d5e697c31",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1917406033391920,
+      "guid": "7f36f372b8a78154aabaccb479609319",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    },
+    {
+      "fileID": 1789660285909661,
+      "guid": "5931313769aaf0c428a9ebb1b9200138",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1184565554093666,
+      "guid": "87e7cce93a693784b81cee46a907fe8a",
+      "type": 2
+    },
+    {
+      "fileID": 1850808137535055,
+      "guid": "fa91ae4cb61ce6f4bb7f18f129e7ef68",
+      "type": 2
+    },
+    {
+      "fileID": 1909864949263894,
+      "guid": "bb2357e03cfbc734a9a8b6fab2b8f596",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1746180404875967,
+      "guid": "a11505fe449783b4bbd597e7383528de",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1466354759296432,
+      "guid": "aa740d7bd23591a4f8fa6f415ff37bd3",
+      "type": 2
+    },
+    {
+      "fileID": 1465499796463477,
+      "guid": "2479441e176f6ad47947c2142376a2da",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1739137179663907,
+      "guid": "5e3c0e8a9fea6e14a86daa279a778c9d",
+      "type": 2
+    },
+    {
+      "fileID": 1557801845139300,
+      "guid": "ea653525c295edf40849a0127ac8befb",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1121765038974368,
+      "guid": "36f1935fe105a2247878761ec56281b8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1584214170903355,
+      "guid": "148d2ef00d4617349b14d80149938e0e",
+      "type": 2
+    },
+    {
+      "fileID": 1638697548567420,
+      "guid": "a98d6cd72f493774cba7fe71a22083f8",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1922232379908973,
+      "guid": "a5501585c677d7c48adae711930008a3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1751584712980947,
+      "guid": "91ddc47c8dcc5064e8221028359ff2d0",
+      "type": 2
+    },
+    {
+      "fileID": 1825927690767900,
+      "guid": "e59a41779be6a1242832f8ce44dffb8f",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1348044412847156,
+      "guid": "2f3d0c02d24542646957b3d0157c2c76",
+      "type": 2
+    }
+  ],
+  "Bio": "This boreal breed of gargantuan beast-men has perfectly adapted to the dire and challenging conditions of the frosty mountaintops of Snowy Peaks. This resulted in strength, endurance and sturdiness that are unparalleled within the entire Monster Sanctuary. While the Megataur is surprisingly mild-tempered, those who enter their territory are advised not to enrage them - once their anger is ignited, there is only one way to save yourself: flee at once. Within their territory, the Megataurs reign supremely.",
+  "History": "As we know from history, the Minitaur represents the smaller version of the original Minotaur, guardian of the mythical labyrinth. After the ancient Minotaur split itself apart, the Minitaurs remained as they were for hundreds of years. Only once their kind was brought to the Sanctuary and a tribe of Minitaurs moved to the Snowy Peaks, were they able to regain part of their former glory: They evolved into the larger and more muscular Megataurs. But at the same time, they moved away from their old ways, as the Megataur solely relies on its brute strength and its control of the elements. Therefore, they are a whole new breed of Monster that only came to life thanks to the Monster Sanctuary.",
+  "StatOrientation": 1
+}

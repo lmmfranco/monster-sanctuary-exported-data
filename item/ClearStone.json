@@ -1,0 +1,10 @@
+{
+  "guid": "79c9413f6834fb841931a79d0a4c7ef3",
+  "filename": "ClearStone",
+  "ID": 1375,
+  "Name": "Clear Stone",
+  "Price": 1000,
+  "Icon": "icon_clear_stone",
+  "Description": "Transforms a shifted monster to neutral form.",
+  "StoneType": 2
+}

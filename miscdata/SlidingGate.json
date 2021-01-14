@@ -1,0 +1,32 @@
+{
+  "guid": "e8e21720330c6a340b8fbf83f9635043",
+  "filename": "SlidingGate",
+  "DoorType": 1,
+  "BoolSwitchName": "BCSlidingGate1",
+  "AdditionalBoolSwitchNames": [],
+  "BoolsOrComparison": 0,
+  "IsOpenInitially": 0,
+  "Particles": {
+    "fileID": 0
+  },
+  "Collider": {
+    "fileID": 61721596140647500
+  },
+  "SlidingOffset": {
+    "x": 0,
+    "true": 48,
+    "z": 0
+  },
+  "Rotation": 90,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "a7abfbd6a23c02146a78db968858803e",
+    "type": 3
+  },
+  "StayOpenCheckMask": {
+    "serializedVersion": 2
+  },
+  "StayOpenCollider": {
+    "fileID": 0
+  }
+}

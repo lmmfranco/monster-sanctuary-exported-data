@@ -1,0 +1,17 @@
+{
+  "guid": "b7028527f8cefca4eb579485cb08f636",
+  "filename": "PreemtiveShield",
+  "ID": 170,
+  "Name": "Preemptive Shield",
+  "Icon": "icon_defense_shield",
+  "Description": "At the start of combat, apply a Shield equal to {0%} of this Monster's Defense value to the whole party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stat": 2,
+  "DualStat": 0,
+  "SecondaryStat": 0,
+  "Percent": 0.75,
+  "TypeRestriction": 0,
+  "TriggerForBackupMonsters": 0,
+  "BasedOnCastersStat": 1
+}

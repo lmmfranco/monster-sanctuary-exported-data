@@ -1,0 +1,12 @@
+{
+  "guid": "13f517281c965b547939f176b57df7c9",
+  "filename": "ShieldCrush",
+  "ID": 1601,
+  "Name": "Shield Crush",
+  "Icon": "icon_shield_crush",
+  "Description": "{Might} also increases damage done against shielded enemies by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "BuffType": 0,
+  "DamageBonus": 0.25
+}

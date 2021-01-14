@@ -1,0 +1,19 @@
+{
+  "guid": "cdbdec455318db94db78011aa595f246",
+  "filename": "DefaultForfeit",
+  "ID": 1039,
+  "Name": "Forfeit",
+  "Icon": "icon_forfeit",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 0,
+  "TargetType": 0,
+  "Duration": 1.5,
+  "IsDefaultAction": 1,
+  "Tooltip": "Forfeit battle (accepting loss)",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

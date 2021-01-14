@@ -1,0 +1,10 @@
+{
+  "guid": "78da4570953213c41b5c4753fd9a37c4",
+  "filename": "ShiftStone",
+  "ID": 867,
+  "Name": "Shift Stone",
+  "Price": 5000,
+  "Icon": "icon_shift_stone",
+  "Description": "Changes a Monster to dark-shifted or light-shifted variation",
+  "StoneType": 0
+}

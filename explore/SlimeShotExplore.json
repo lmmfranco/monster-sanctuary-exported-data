@@ -1,0 +1,44 @@
+{
+  "guid": "a26618b78f7c88749929d315899c9d4d",
+  "filename": "SlimeShotExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Slime Shot",
+  "Description": "- Activates earth orbs",
+  "AnimElement": {
+    "fileID": 1949112793183916,
+    "guid": "b187dffa78b91da49bac6e7e7654aade",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": -3,
+        "true": 10,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 160,
+    "true": 24
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 10
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 8000000
+}

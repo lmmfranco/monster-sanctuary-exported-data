@@ -1,0 +1,28 @@
+{
+  "guid": "84bb3f611dd030a46abe88bad3dde965",
+  "filename": "InfinityFlame+5",
+  "ID": 1797,
+  "Name": "Infinity Flame",
+  "Price": 7500,
+  "Type": 5,
+  "Icon": "icon_infinity_flame",
+  "Attack": 40,
+  "Magic": 40,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 600,
+  "Mana": 65,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 1,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

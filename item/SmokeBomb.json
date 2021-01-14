@@ -1,0 +1,13 @@
+{
+  "guid": "34fd3fdd9ac2dab4999fca918b682605",
+  "filename": "SmokeBomb",
+  "ID": 292,
+  "Name": "Smoke Bomb",
+  "Price": 100,
+  "EffectAction": {
+    "fileID": 0
+  },
+  "Icon": "icon_smoke_bomb",
+  "Description": "Retreat out of combat",
+  "RetreatItem": 1
+}

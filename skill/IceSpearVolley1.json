@@ -1,0 +1,95 @@
+{
+  "guid": "43b2b9a2ec179d84fac41747300778b2",
+  "filename": "IceSpearVolley1",
+  "ID": 701,
+  "Name": "Ice Spear Volley",
+  "Icon": "icon_spear_volley",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 170,
+  "TargetType": 1,
+  "Duration": 2.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.95,
+  "TotalDamage": 1.9,
+  "CalculatedDamage": 0.9405017,
+  "CalculatedTotalDamage": 1.881003,
+  "HitTimings": [
+    0.6,
+    1.4
+  ],
+  "Element": 2,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 1,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1354991308164567,
+    "guid": "a4e8e4c4d78b51141adf9b71d9e60153",
+    "type": 2
+  },
+  "Offset": {
+    "x": -4,
+    "true": -4,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0.2,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "AnimElement__1": {
+    "fileID": 1354991308164567,
+    "guid": "a4e8e4c4d78b51141adf9b71d9e60153",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 4,
+    "true": 4,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__1": 0.8,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0.2,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0
+}

@@ -1,0 +1,28 @@
+{
+  "guid": "516bf954340dcc94289b9b85a8b96957",
+  "filename": "GreyPearl+5",
+  "ID": 1497,
+  "Name": "Grey Pearl",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_grey_pearl",
+  "Attack": 80,
+  "Magic": 80,
+  "Defense": 80,
+  "CritChance": 0.15,
+  "CritDamage": 0,
+  "Health": 850,
+  "Mana": 100,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 1,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

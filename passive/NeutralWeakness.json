@@ -1,0 +1,12 @@
+{
+  "guid": "de82373cb26fbf448a575b1e6b2ae4f2",
+  "filename": "NeutralWeakness",
+  "ID": 1002,
+  "Name": "Neutral Weakness",
+  "Icon": "icon_neutral_weakness",
+  "Description": "Neutral damage increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 0,
+  "Modifier": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "13716c4096cd26f4a974dc9ed534461f",
+  "filename": "CriticalConsistency",
+  "ID": 414,
+  "Name": "Critical Consistency",
+  "Icon": "icon_critical_consistency",
+  "Description": "+{0%} Critical Damage. Critical Damage also increases non-Critical hits by {1%} of the amount.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritDamageBonus": 0.1,
+  "IncreaseValue": 0.1
+}

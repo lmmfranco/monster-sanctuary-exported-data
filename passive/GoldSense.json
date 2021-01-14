@@ -1,0 +1,11 @@
+{
+  "guid": "533e8e08f69194b47ab7fc6fa00e5604",
+  "filename": "GoldSense",
+  "ID": 651,
+  "Name": "Gold Sense",
+  "Icon": "icon_gold_sense",
+  "Description": "Increases Gold gained after combat by {0%}. (If this Monster is participating in combat)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "GoldIncrease": 0.1
+}

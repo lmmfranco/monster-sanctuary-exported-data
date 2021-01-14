@@ -1,0 +1,15 @@
+{
+  "guid": "fea0f39adc1c45849a76b97ec9964bdc",
+  "filename": "SmallPotion",
+  "ID": 30,
+  "Name": "Small Potion",
+  "Price": 30,
+  "EffectAction": {
+    "fileID": 1259499695077156,
+    "guid": "e852be90a9a06b3468129b2ee2cf036f",
+    "type": 2
+  },
+  "Icon": "icon_small_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

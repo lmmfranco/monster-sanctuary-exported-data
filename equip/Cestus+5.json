@@ -1,0 +1,28 @@
+{
+  "guid": "784eb15c0cc90124caaf8d4691379ab0",
+  "filename": "Cestus+5",
+  "ID": 1506,
+  "Name": "Cestus",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_cestus",
+  "Attack": 220,
+  "Magic": 220,
+  "Defense": 70,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

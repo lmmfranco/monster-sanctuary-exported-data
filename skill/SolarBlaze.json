@@ -1,0 +1,73 @@
+{
+  "guid": "c06ee02943bb4924f9270cfcc2608a56",
+  "filename": "SolarBlaze",
+  "ID": 1769,
+  "Name": "Solar Blaze",
+  "Icon": "icon_solar_blaze",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 240,
+  "TargetType": 1,
+  "Duration": 3.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.95,
+  "TotalDamage": 2.85,
+  "CalculatedDamage": 0.978346,
+  "CalculatedTotalDamage": 2.935038,
+  "HitTimings": [
+    0.8,
+    1.6,
+    2.4
+  ],
+  "Element": 1,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1927993841435169,
+    "guid": "05181de99fac6274a94e1117858a4dd0",
+    "type": 2
+  },
+  "Offset": {
+    "x": -105,
+    "true": 300,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buffs": 262144,
+  "ApplyDelay": 3.1,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "6d9ae4651bad64b498ce2586364a74c1",
+  "filename": "HolyPresence",
+  "ID": 912,
+  "Name": "Holy Presence",
+  "Icon": "icon_light_passive",
+  "Description": "Every Buff action of an ally applies one additional random Buff.",
+  "IsAura": 1,
+  "IsUnique": 0
+}

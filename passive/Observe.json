@@ -1,0 +1,11 @@
+{
+  "guid": "25ef81f02b0a09e4e84d5addddc0a0a6",
+  "filename": "Observe",
+  "ID": 1565,
+  "Name": "Observe",
+  "Icon": "icon_observe",
+  "Description": "Whenever this Monster spends a turn without attacking an enemy, shield all Monsters in the party by {0%} of this Monster's defense.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DefenseScaling": 0.5
+}

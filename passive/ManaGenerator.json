@@ -1,0 +1,11 @@
+{
+  "guid": "f319405cf46c00a41bd0b0e066cb163e",
+  "filename": "ManaGenerator",
+  "ID": 693,
+  "Name": "Mana Generator",
+  "Icon": "icon_mana_generator",
+  "Description": "Regenerate {0} Mana for every hit this Monster receives.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Mana": 4
+}

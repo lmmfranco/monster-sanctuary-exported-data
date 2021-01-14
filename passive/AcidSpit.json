@@ -1,0 +1,12 @@
+{
+  "guid": "22ef739704e16b940a0fdfec5b7bdb72",
+  "filename": "AcidSpit",
+  "ID": 1197,
+  "Name": "Acid Spit",
+  "Icon": "icon_acid_spit",
+  "Description": "{Reptiles} in the party have a {0%} chance on hit to apply {Poison} or {Burn} and can stack those an additional time. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 0.075,
+  "TypeRestriction": 6
+}

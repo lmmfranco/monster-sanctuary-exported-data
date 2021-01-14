@@ -1,0 +1,28 @@
+{
+  "guid": "47af3dc9d97d62543afb8bccc7e5350a",
+  "filename": "Crown+5",
+  "ID": 1487,
+  "Name": "Crown",
+  "Price": 4000,
+  "Type": 2,
+  "Icon": "icon_crown",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 55,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 600,
+  "Mana": 60,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

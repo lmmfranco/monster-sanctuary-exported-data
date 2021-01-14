@@ -1,0 +1,126 @@
+{
+  "guid": "da3d777a03d358d41b3424f6d384a709",
+  "filename": "ShockingSlash2",
+  "ID": 1612,
+  "Name": null,
+  "Icon": null,
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 170,
+  "TargetType": 1,
+  "Duration": 2.3,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114196040199602910,
+    "guid": "599a0f462cddffc4b99ffba491eb1e01",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1,
+  "TotalDamage": 2,
+  "CalculatedDamage": 0.9866387,
+  "CalculatedTotalDamage": 1.973277,
+  "HitTimings": [
+    0.5,
+    1.1
+  ],
+  "Element": 3,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.1,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1457679739111240,
+    "guid": "88140cf2ad3716644836387e4339d739",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.9215686,
+    "g": 0.8823529,
+    "b": 0.3529412,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 0,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Delay__1": 0.25,
+  "Duration__1": 0.15,
+  "TimeScale": 0.1,
+  "AnimElement__1": {
+    "fileID": 1063624009057499,
+    "guid": "aff8d6d7d9670764dabaf77c176027df",
+    "type": 2
+  },
+  "Offset__1": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation__1": 0,
+  "Color__1": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation__1": 0,
+  "Delay__2": 0.4,
+  "FlipHorizontally__1": 0,
+  "FlipVertically__1": 0,
+  "FlipDependingOnEnemies__1": 1,
+  "TriggerOnEverySingleTarget__1": 1,
+  "MultipleEnemiesDelay__2": 0.1,
+  "Overrides__1": [],
+  "PositionOnGround__1": 0,
+  "IncludeDeadMonsterPosition__1": 0,
+  "Color__2": {
+    "r": 0.5019608,
+    "g": 0.4509804,
+    "b": 0.3333333,
+    "a": 0.1254902
+  },
+  "Duration__2": 0.3,
+  "StayDuration": 0,
+  "Timings": [
+    0
+  ],
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "386a6a594deb1844c9bbf9b93e8de2b9",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "Debuffs": 262144,
+  "ApplyDelay": 1.7,
+  "ApplyChance": 0.5,
+  "TargetCount": 1
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "671a9209bbfc1794d810e29212b6ba4d",
+  "filename": "Feast",
+  "ID": 827,
+  "Name": "Feast",
+  "Icon": "icon_feast",
+  "Description": "Whenever an enemy takes {Bleed} damage, heal all Monsters in the party by {0%} of that amount.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealAmount": 0.15
+}

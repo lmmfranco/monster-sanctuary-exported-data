@@ -1,0 +1,60 @@
+{
+  "guid": "5d23f2c48b6d4eb4da7a0f84f75bccce",
+  "filename": "Forge1",
+  "ID": 1058,
+  "Name": "Forge",
+  "Icon": "icon_forge",
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 160,
+  "TargetType": 4,
+  "Duration": 2.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 350,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0.8,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1.3
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1405782776425040,
+    "guid": "7a1b0874f09d10f4a856aa26c1018232",
+    "type": 2
+  },
+  "Offset": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 3,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0.2,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buffs": 524288,
+  "ApplyDelay": 1.9,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0
+}

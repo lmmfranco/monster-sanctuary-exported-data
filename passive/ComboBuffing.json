@@ -1,0 +1,10 @@
+{
+  "guid": "d377943ad85dea5459d4fd63475d67ea",
+  "filename": "ComboBuffing",
+  "ID": 98,
+  "Name": "Combo Buffing",
+  "Icon": "icon_combo_buffing",
+  "Description": "Every Buff action applies one additional random Buff.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

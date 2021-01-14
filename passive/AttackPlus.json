@@ -1,0 +1,14 @@
+{
+  "guid": "f746d869a51636f4a8909ed281cc8a10",
+  "filename": "AttackPlus",
+  "ID": 207,
+  "Name": "Attack Plus",
+  "Icon": "icon_attack_plus",
+  "Description": null,
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 0,
+  "Value": 1,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

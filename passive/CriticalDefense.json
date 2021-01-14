@@ -1,0 +1,11 @@
+{
+  "guid": "781648f3e16bd354c8818f620ab1b328",
+  "filename": "CriticalDefense",
+  "ID": 655,
+  "Name": "Critical Defense",
+  "Icon": "icon_critical_defense",
+  "Description": "Reduces damage taken by {0%} of own Critical Damage value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ReduceValue": 0.1
+}

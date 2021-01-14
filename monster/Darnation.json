@@ -1,0 +1,550 @@
+{
+  "guid": "13c2174e6d7488840aea1eecc1b67644",
+  "filename": "Darnation",
+  "ID": 1606,
+  "Name": "Darnation",
+  "baseStats": {
+    "attack": 8,
+    "magic": 1,
+    "defense": 7,
+    "health": 3,
+    "mana": 3
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 0,
+    "defense": 0,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 2,
+    "health": 0,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": -14
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 5,
+  "RewardsCommon": [
+    {
+      "fileID": 1377502260470853,
+      "guid": "3e0e7e86a39c30140b03ce56cb91536a",
+      "type": 2
+    },
+    {
+      "fileID": 1168011990567236,
+      "guid": "ff548838b039fa74bbc9ee164dbfb189",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1510153061555548,
+      "guid": "d3eff52e41de09d4dbcaae1d4eea006d",
+      "type": 2
+    },
+    {
+      "fileID": 1859196778719966,
+      "guid": "507f3698a0f784542b241214d1bdd35a",
+      "type": 2
+    },
+    {
+      "fileID": 1480241409662650,
+      "guid": "b251313b0e2bd66489a9dcd4a63a2fd9",
+      "type": 2
+    }
+  ],
+  "StartLevel": 35,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1192359474171270,
+    "guid": "238714c492322224b9343a31b105f8a7",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.27
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -17,
+    "true": -22,
+    "z": 0
+  },
+  "MonsterTypes": "0b0000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 1,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1208530348831369,
+      "guid": "885555533a8f8e74a9c9778884069ac3",
+      "type": 2
+    },
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1336037640918834,
+      "guid": "5924221d35fe8004c91f535a2fbbd910",
+      "type": 2
+    },
+    {
+      "fileID": 1022521218685327,
+      "guid": "8696932cb02d34f4a8389cc4af4fedfe",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1420949516505070,
+      "guid": "1ee0a69c18ef8e24880e25d13e0056e9",
+      "type": 2
+    },
+    {
+      "fileID": 1607345619318567,
+      "guid": "9efbdd9201cc0c14bbbd02c3e11f88e8",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1294485700218379,
+      "guid": "873705bb7400c894c91628080ca9e809",
+      "type": 2
+    },
+    {
+      "fileID": 1394754103647575,
+      "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1474760996618337,
+      "guid": "570c5b05428d3da4ead4850722381e34",
+      "type": 2
+    },
+    {
+      "fileID": 1819633600397590,
+      "guid": "721ecd9db24fd904f9865a477b204469",
+      "type": 2
+    },
+    {
+      "fileID": 1863076004376433,
+      "guid": "4e885d1e8d8c865408d9b090aceb7b96",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1376515897454561,
+    "guid": "cda98e846c5071441a02f59adaae4a98",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1503838595204771,
+    "guid": "bb28e6b3ea493a64cb8c0e1d9d78e124",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1208530348831369,
+      "guid": "885555533a8f8e74a9c9778884069ac3",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1647954614579481,
+      "guid": "70724c1585dd4bc4ea6077b8b9dad3d8",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    },
+    {
+      "fileID": 1294485700218379,
+      "guid": "873705bb7400c894c91628080ca9e809",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1607745019680924,
+      "guid": "2c13c626eac60ba47baa10b5a67547fc",
+      "type": 2
+    },
+    {
+      "fileID": 1607345619318567,
+      "guid": "9efbdd9201cc0c14bbbd02c3e11f88e8",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1703072561228065,
+      "guid": "a695e5f9ac7a9d442ad672753f63d946",
+      "type": 2
+    },
+    {
+      "fileID": 1573494992989338,
+      "guid": "d4e65c9753ce0bb44a1b58f8224370ca",
+      "type": 2
+    },
+    {
+      "fileID": 1394754103647575,
+      "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+      "type": 2
+    },
+    {
+      "fileID": 1603161218986831,
+      "guid": "13f517281c965b547939f176b57df7c9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1112434749245381,
+      "guid": "684df47f1d2f86e4c954116b42485343",
+      "type": 2
+    },
+    {
+      "fileID": 1269782582301539,
+      "guid": "2cf05a917d8601041a55ccdf8b99d1a1",
+      "type": 2
+    },
+    {
+      "fileID": 1863986149130069,
+      "guid": "d30f6fc96318a5341b4fd7a707fcee77",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1679471762810839,
+      "guid": "00bd5da9f3c61604fa31d054c3b432dd",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1683896917192367,
+      "guid": "fb878a3f5b9d7a041a060412a551157a",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1333264940454579,
+      "guid": "aab816b43f4308345aab92a4a97c0c0c",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1860447682648962,
+      "guid": "947e65e777bc95c4baa476ef163fec94",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1005747043447920,
+      "guid": "99fdd510969a3d240bbd0efdf9dc2976",
+      "type": 2
+    },
+    {
+      "fileID": 1469567831571877,
+      "guid": "c152f56070771964ba708f3b63186ddc",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1283207205263379,
+      "guid": "e0ebed0ad5a3c4b43bb29678540bdcaf",
+      "type": 2
+    },
+    {
+      "fileID": 1770496248900442,
+      "guid": "809fca0bfbebdf44a9928aa45ff22a8a",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    },
+    {
+      "fileID": 1860447682648962,
+      "guid": "947e65e777bc95c4baa476ef163fec94",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1844977727507313,
+      "guid": "4270b9760148097459d7f88b3e3aa34a",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1921874275492894,
+      "guid": "8ac1b57211b4ee94d82b39413c71d74e",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1794529203512153,
+      "guid": "bbc12f66c6117c143bbba9da4c1876d2",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    },
+    {
+      "fileID": 1117585765222542,
+      "guid": "b504efae5c7263847a7cb201e358cc75",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1992712642781729,
+      "guid": "5d8042bda08120f49b50ddd68dffa14e",
+      "type": 2
+    },
+    {
+      "fileID": 1659188227955396,
+      "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1894246551328870,
+      "guid": "b24baeca79fcb2042849350b5b73300b",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1659599520788607,
+      "guid": "b07c19550b9fe1e4f916fd2e353f2600",
+      "type": 2
+    },
+    {
+      "fileID": 1417726058680459,
+      "guid": "8e34872c5d8442f4fb64841be81aec98",
+      "type": 2
+    },
+    {
+      "fileID": 1624630132680788,
+      "guid": "b9f1c2bc4876c3d4ba2dc93dd7e3ebd1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1651059093572208,
+      "guid": "1a118ab728608f941b5c3780b759a972",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1292216902401061,
+      "guid": "d2dad1f5b406bc1448ef972c045d9308",
+      "type": 2
+    },
+    {
+      "fileID": 1420949516505070,
+      "guid": "1ee0a69c18ef8e24880e25d13e0056e9",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1873145632361084,
+      "guid": "aa2807184b2df464796e188a5af1605c",
+      "type": 2
+    },
+    {
+      "fileID": 1497274092111541,
+      "guid": "c7d7501841ba4ae41ab4ba402b5f63f1",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    },
+    {
+      "fileID": 1395473741718873,
+      "guid": "97d72af805253a4489e44118b5ef5452",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1681263221853254,
+      "guid": "b378faed7ea854f4da99612f0569dc8f",
+      "type": 2
+    },
+    {
+      "fileID": 1403983715107243,
+      "guid": "400fbd0810cc69f42b631c49ba8c80a1",
+      "type": 2
+    },
+    {
+      "fileID": 1423799989169967,
+      "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+      "type": 2
+    },
+    {
+      "fileID": 1308667382414759,
+      "guid": "4910a5c964172ca4f91b77c70b9c33ba",
+      "type": 2
+    }
+  ],
+  "Bio": "The ruthless Darnation is a vicious predator that utilizes its hard exoskeleton and its uniquely adaptable offensive capabilities to secure its apex position. A Darnation is able to utilize chemical compounds within its body to produce multiple bizarre effects. It can coat its hook-like arms with a powerful corroding acid to eat away at its foe's defenses as well as swiftly dig through the earth. More surprisingly, a Darnation is also capable of producing volatile compounds that create powerful short range explosions, which often catch prey or would-be predators off-guard.",
+  "History": "Discovery of the Darnations is accredited to a Monster Keeper known only as Verdestrom. The limited research conducted on Darnations by Verdestrom suggests that they are intelligent and highly adaptable. The physiology of the Darnation suggests that it is not native to the Sanctuary and perhaps not even to our planet. Legend has it that when Darnations originally arrived, they were much smaller and more docile creatures than they are now. Considering the caliber and conditions of Monsters found within its original habitat, however, it's not surprising that Darnations over time would grow and adapt to deal with such threats in order to survive.",
+  "StatOrientation": 3
+}

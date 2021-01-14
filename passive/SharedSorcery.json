@@ -1,0 +1,11 @@
+{
+  "guid": "f60678d0a6587054fb04e899c6668afb",
+  "filename": "SharedSorcery",
+  "ID": 830,
+  "Name": "Shared Sorcery",
+  "Icon": "icon_shared_sorcery",
+  "Description": "Whenever this Monster gains {Sorcery} (Buff), another random Monster in the party also gains {Sorcery}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffType": 1
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+  "filename": "ManaStability",
+  "ID": 427,
+  "Name": "Mana Stability",
+  "Icon": "icon_mana_stability",
+  "Description": "Increase Defense by {0%} of this Monster's Max Mana.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DependantStat": 4,
+  "IncreasedStat": 2,
+  "Value": 0.15,
+  "Pass": 0
+}

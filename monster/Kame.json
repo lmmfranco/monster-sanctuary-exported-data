@@ -1,0 +1,546 @@
+{
+  "guid": "441fb556968672245a0eb6bc6f94df48",
+  "filename": "Kame",
+  "ID": 883,
+  "Name": "Kame",
+  "baseStats": {
+    "attack": 4,
+    "magic": 1,
+    "defense": 8,
+    "health": 5,
+    "mana": 5
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 0,
+    "defense": 2,
+    "health": 0,
+    "mana": 0
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": 7
+  },
+  "DifficultyRating": 4,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1676211359093659,
+      "guid": "1807da16437f9db438fe21142fc9ccf0",
+      "type": 2
+    },
+    {
+      "fileID": 1735480293253367,
+      "guid": "70d0888c53d54c443ade5b73654de65d",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1236254572456791,
+      "guid": "907eade581dbacc4ebbf3880173e9561",
+      "type": 2
+    },
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1768239052512985,
+      "guid": "f17f55b17037466488096323f13ae573",
+      "type": 2
+    }
+  ],
+  "StartLevel": 22,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1329267417568259,
+    "guid": "128494cf299f630408d1d76a16f173f6",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "01000000060000000f000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1971065808317804,
+      "guid": "f3961532435242b4ca2e667852e97a85",
+      "type": 2
+    },
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    },
+    {
+      "fileID": 1668838556209825,
+      "guid": "489b4926b82fd2f4ba0584ee4a04de9e",
+      "type": 2
+    },
+    {
+      "fileID": 1022521218685327,
+      "guid": "8696932cb02d34f4a8389cc4af4fedfe",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1464382692633287,
+      "guid": "093566ebc39ee5a4486e1e8f03f2a5eb",
+      "type": 2
+    },
+    {
+      "fileID": 1508706583158203,
+      "guid": "43e29b574679bbc4fb9b9c725df826c7",
+      "type": 2
+    },
+    {
+      "fileID": 1355557311080169,
+      "guid": "bb6329f7769979142adf53903fd13152",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1111942395113836,
+    "guid": "8d8f0e313ca9f3d48af7eb40e7839b1f",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1898991034744691,
+    "guid": "18c38b559336ce54cac52ce10d7aebf0",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1971065808317804,
+      "guid": "f3961532435242b4ca2e667852e97a85",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1924342967013052,
+      "guid": "4584c9e66aa26a04fa98ea85f4da6bfd",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1423799989169967,
+      "guid": "f51e5fdea4eb642459fca22662e2e0d5",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1365134271931476,
+      "guid": "66be7197ef39083468cdfa0b74f0175e",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1395698618253690,
+      "guid": "e773877cbb2b15f47a46df4fa8024ba0",
+      "type": 2
+    },
+    {
+      "fileID": 1469567831571877,
+      "guid": "c152f56070771964ba708f3b63186ddc",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1284271869313230,
+      "guid": "e89cd3995d0c9fe4db225689aec4ca74",
+      "type": 2
+    },
+    {
+      "fileID": 1770496248900442,
+      "guid": "809fca0bfbebdf44a9928aa45ff22a8a",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    },
+    {
+      "fileID": 1310787608983681,
+      "guid": "efc8795ab51123f4989b418f3376bb75",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1342103471352290,
+      "guid": "6ab296dcadda2774aa75c3c75ace25e7",
+      "type": 2
+    },
+    {
+      "fileID": 1002635476683677,
+      "guid": "68bcee91202ed9342847d34e96d05d59",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1663534110222255,
+      "guid": "91344f43ef222f3429aa3ff1629cc622",
+      "type": 2
+    },
+    {
+      "fileID": 1999109520089412,
+      "guid": "80379fad54ef50348af30d83387cb5cf",
+      "type": 2
+    },
+    {
+      "fileID": 1490918961562267,
+      "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1373500535463777,
+      "guid": "c71dcc97d8b97de49a4e192427220b03",
+      "type": 2
+    },
+    {
+      "fileID": 1243133256108432,
+      "guid": "a3a5472201f07a3448e0a6826f5c454c",
+      "type": 2
+    },
+    {
+      "fileID": 1353275332259268,
+      "guid": "f28f3e52d493b184990264484ecbafc1",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1227892271767198,
+      "guid": "08ec6b6b379ec274980ae2537ed7e146",
+      "type": 2
+    },
+    {
+      "fileID": 1347304749703469,
+      "guid": "7448b19fe8a20814185745032de646c5",
+      "type": 2
+    },
+    {
+      "fileID": 1560282200114948,
+      "guid": "9340e6b93e996f34f9e91ff8bf99ee59",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1497143859438811,
+      "guid": "67bdb795914a78948bc3d7f94aac4deb",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1296682410874086,
+      "guid": "5f02fb6efb3174940a06fe497c5ac7f3",
+      "type": 2
+    },
+    {
+      "fileID": 1848976509214236,
+      "guid": "7163a4c1b4d4d004d88283230565969e",
+      "type": 2
+    },
+    {
+      "fileID": 1977394999042118,
+      "guid": "a5c21b48d39614f409fd8dd5c694d002",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1909053325959312,
+      "guid": "f10fc688ae9a450478fbcf3c54aba72c",
+      "type": 2
+    },
+    {
+      "fileID": 1463412809545659,
+      "guid": "f3d938faece17a2429bcd55e309aaf14",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1167574586984024,
+      "guid": "9327a207b6efbfe45b8dc228b8765327",
+      "type": 2
+    },
+    {
+      "fileID": 1652284444858300,
+      "guid": "0ac872afa76c8b4459d4e6799ad3034b",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    },
+    {
+      "fileID": 1721926486465072,
+      "guid": "0a1d43e8d3122c44cafcc03a6ac15d83",
+      "type": 2
+    },
+    {
+      "fileID": 1893230335231597,
+      "guid": "32a702c4aa313dc41a435553753c0f98",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1752627891873843,
+      "guid": "ab635286082e5bd479b2af38c24bb403",
+      "type": 2
+    },
+    {
+      "fileID": 1508933053776606,
+      "guid": "a18e84a776064114da920d2f3a7ffa60",
+      "type": 2
+    },
+    {
+      "fileID": 1977394999042118,
+      "guid": "a5c21b48d39614f409fd8dd5c694d002",
+      "type": 2
+    },
+    {
+      "fileID": 1909992068295273,
+      "guid": "53677ed109594fc4c8bc6a909c702b12",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    },
+    {
+      "fileID": 1241299974036983,
+      "guid": "88761dcb6e7948e40b54a0508580977b",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1340382948355362,
+      "guid": "f6db3e3e8dc8750439c84d1ea717ab05",
+      "type": 2
+    },
+    {
+      "fileID": 1165889434672650,
+      "guid": "f61541471141c9a429badd5dcfc029c5",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1217174516935961,
+      "guid": "7012a05784edadd4caa671aecc78d06c",
+      "type": 2
+    },
+    {
+      "fileID": 1988028789464820,
+      "guid": "0c384ec940640334497b09df5b64b738",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1937993924964313,
+      "guid": "34445d02be5d36a49a051355374a7154",
+      "type": 2
+    },
+    {
+      "fileID": 1499372970785395,
+      "guid": "fbb3646440174434b99463153e34b78b",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1337511326195739,
+      "guid": "781a9c83438031b4aaee4fa088727b5b",
+      "type": 2
+    },
+    {
+      "fileID": 1806701225140974,
+      "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+      "type": 2
+    },
+    {
+      "fileID": 1402205015662747,
+      "guid": "68e9dad3d4966834991010fb56012eed",
+      "type": 2
+    }
+  ],
+  "Bio": "Kames are large bipedal turtles famous for their mastery of martial arts. They are as comfortable on land as they are inside water, able to move surprisingly quick either way. Their power stems from their mastery over Chi: latent energy which flows inside all living beings. Kames have evolved with a natural ability to control Chi to increase the power of their strikes and to manifest their Chi outside their body in the form of sudden heat blasts.",
+  "History": "Centuries ago, aspiring martial artists would travel to Kame island which used to be the home of all Kames. The martial artists would study the Kames and attempt to replicate their mastery over Chi. There are stories of several human warriors who were able to master the Chi after living on Kame island for several years or even decades. Each of them became a legendary warrior in their own right, winning fighting tournaments and using their power for the good of mankind. For it is said that, if a human were to use the Chi to do evil, the Kames would find them and put them in their place.",
+  "StatOrientation": 2
+}

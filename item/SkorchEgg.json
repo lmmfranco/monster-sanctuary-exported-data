@@ -1,0 +1,12 @@
+{
+  "guid": "711af27894085a044aca513d7367809c",
+  "filename": "SkorchEgg",
+  "ID": 1146,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1414691591953648,
+    "guid": "e0386f215037b9f4596993b37227dccf",
+    "type": 2
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "guid": "15f6bf74a8a246e4388367460ef26f9a",
+  "filename": "RestoringShield5",
+  "ID": 1684,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 3,
+  "Duration": 3.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114054310030492460,
+    "guid": "6829c56d7359b784a97827c05836cb55",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 125,
+  "ScaleDefense": 0.15,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    0.8,
+    1.05,
+    1.3,
+    1.55,
+    1.8,
+    2.05,
+    2.3
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1450503058006163,
+    "guid": "ed083561454540349ba671cd1feeb5b3",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Count": 4,
+  "Delay__1": 2.5
+}

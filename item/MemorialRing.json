@@ -1,0 +1,12 @@
+{
+  "guid": "69cebcee49e7de04f8bb9bc859d4e0f2",
+  "filename": "MemorialRing",
+  "ID": 1011,
+  "Name": "Memorial Ring",
+  "Price": 0,
+  "Icon": "icon_memorial_ring",
+  "ItemID": 4,
+  "DisplayInInventory": 0,
+  "DisplayMultiplesInInventory": 0,
+  "Description": "A special ring, with some words inscribed on it."
+}

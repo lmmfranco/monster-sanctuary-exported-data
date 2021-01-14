@@ -1,0 +1,11 @@
+{
+  "guid": "6c1b19f0ab2d7f043910e5f509e910d9",
+  "filename": "CombatGuard",
+  "ID": 1575,
+  "Name": "Combat Guard",
+  "Icon": "icon_combat_guard",
+  "Description": "{Sidekick} (Buff) and {Glory} (Buff) also reduce the damage taken by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DamageReduction": 0.05
+}

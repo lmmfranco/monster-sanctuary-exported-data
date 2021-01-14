@@ -1,0 +1,74 @@
+{
+  "guid": "acdd0b7f517f8fe49a3408e463fd9cda",
+  "filename": "PowerFocus2",
+  "ID": 1561,
+  "Name": null,
+  "Icon": null,
+  "Tier": 2,
+  "Ultimate": 0,
+  "Mana": 140,
+  "TargetType": 2,
+  "Duration": 2.3,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114424590426034480,
+    "guid": "ac7f98a84ff873a40a65a9618c0c02dd",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 50,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0.2,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    0.5,
+    0.8,
+    1.1,
+    1.4,
+    1.7
+  ],
+  "ShieldCaster": 1,
+  "AnimElement": {
+    "fileID": 1146395093097780,
+    "guid": "e93917d4e4af3944b84befb4b23b89f9",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": -2
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [
+    {
+      "OverrideType": 3,
+      "Parameter": 1.8
+    }
+  ],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Buff": 11,
+  "DoubleBuff": 0,
+  "Buff2": 0,
+  "StackCount": 1,
+  "ApplyDelay": 2,
+  "ApplyChance": 1,
+  "Variable": 0.55
+}

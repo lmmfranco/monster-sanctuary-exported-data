@@ -1,0 +1,10 @@
+{
+  "guid": "74c854a8b5a4c784eb0dc47c65c01a66",
+  "filename": "CleansingSidekick",
+  "ID": 1574,
+  "Name": "Cleansing Sidekick",
+  "Icon": "icon_cleansing_sidekick",
+  "Description": "Sidekick hits also remove a Buff from the target.",
+  "IsAura": 1,
+  "IsUnique": 1
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "f4226769cbac11f4985c99d1366fe18a",
+  "filename": "Apple",
+  "ID": 21,
+  "Name": "Apple",
+  "Price": 50,
+  "Icon": "icon_apple",
+  "Description": null,
+  "Stat": 4,
+  "Amount": 12,
+  "Level": 1
+}

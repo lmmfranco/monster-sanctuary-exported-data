@@ -1,0 +1,12 @@
+{
+  "guid": "8d063f66b643977479cb25ee24bbde11",
+  "filename": "TrollEgg",
+  "ID": 1558,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1110401348936828,
+    "guid": "b7785144b86825640ab3edad76141163",
+    "type": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "guid": "54096e8a44103c04cb50f8b4c0d56517",
+  "filename": "CrushPunchExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Crush",
+  "Description": "- Breaks hidden walls\n- Destroys diamond blocks",
+  "AnimElement": {
+    "fileID": 1230939332449171,
+    "guid": "613d508e1626fb64193ecdc0134c4e09",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 1337484639534423,
+    "guid": "4f65318bebfcc0548bc539198b24cec5",
+    "type": 2
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 24,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 50,
+    "true": 24
+  },
+  "HitOffset": {
+    "x": -28,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": "030000000b000000"
+}

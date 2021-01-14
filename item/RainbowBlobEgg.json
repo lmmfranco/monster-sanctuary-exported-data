@@ -1,0 +1,12 @@
+{
+  "guid": "f39b65b325d59a34dbdb2df393b8a487",
+  "filename": "RainbowBlobEgg",
+  "ID": 1688,
+  "Name": null,
+  "Price": 700,
+  "Monster": {
+    "fileID": 1747808599398501,
+    "guid": "14abf61507a39ce49b0f650f8ac81c65",
+    "type": 2
+  }
+}

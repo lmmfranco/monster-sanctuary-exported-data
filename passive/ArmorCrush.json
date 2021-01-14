@@ -1,0 +1,14 @@
+{
+  "guid": "0be72a53fb5fb004daf6b46ff147d56c",
+  "filename": "ArmorCrush",
+  "ID": 1135,
+  "Name": "Armor Crush",
+  "Icon": "icon_armor_crush",
+  "Description": "When a Monster in the party applies {Armor Break} on an enemy, {0%} chance to spread it to another enemy.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 5,
+  "SpreadDebuff": 5,
+  "Chance": 0.4,
+  "OnSameEnemy": 0
+}

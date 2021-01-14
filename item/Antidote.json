@@ -1,0 +1,15 @@
+{
+  "guid": "2d06897897c935e4583422dc10e35b8b",
+  "filename": "Antidote",
+  "ID": 286,
+  "Name": "Antidote",
+  "Price": 200,
+  "EffectAction": {
+    "fileID": 1630646232185558,
+    "guid": "69a08434353c2a3428d7fa54f8e64af8",
+    "type": 2
+  },
+  "Icon": "icon_antidote",
+  "Description": null,
+  "RetreatItem": 0
+}

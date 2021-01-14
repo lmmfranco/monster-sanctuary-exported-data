@@ -1,0 +1,21 @@
+{
+  "guid": "6cc9a15e2feaf174a8d1864c8e73eb48",
+  "filename": "TilemapWoodsObstacle",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 3,
+  "DestroyParticleEffect": {
+    "fileID": 1511735191561552,
+    "guid": "02d563571cbcf6f4c96cb42252d1a17c",
+    "type": 2
+  },
+  "DestroyConditionBool": null,
+  "SFXDestroy": {
+    "fileID": 8300000,
+    "guid": "31ca40f9cd5b56c49abf819f14adfa1a",
+    "type": 3
+  },
+  "connectedObstacleId": -1,
+  "ConnectedObstacleArea": null
+}

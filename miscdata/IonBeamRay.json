@@ -1,0 +1,22 @@
+{
+  "guid": "72e89742221883d40becb85dc58e9818",
+  "filename": "IonBeamRay",
+  "LightningParts": [
+    "LightningCyanPart1",
+    "LightningCyanPart2",
+    "LightningCyanPart3"
+  ],
+  "SpriteCollection": {
+    "fileID": 114949216640010560,
+    "guid": "9d982af049900a14099edc1eaf70ec9c",
+    "type": 2
+  },
+  "FadeInTime": 0.05,
+  "FadeOutTime": 0.2,
+  "StayTime": 0,
+  "LengthRange": {
+    "Min": 25,
+    "Max": 40
+  },
+  "RandomRange": 25
+}

@@ -1,0 +1,47 @@
+{
+  "guid": "5b639abf762ae95478cd31f27d972aca",
+  "filename": "Scroll+1",
+  "ID": 312,
+  "Name": "Scroll",
+  "Price": 400,
+  "Type": 5,
+  "Icon": "icon_scroll",
+  "Attack": 0,
+  "Magic": 14,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 21,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1030935445647014,
+    "guid": "01c09c74812900041bc174abc08b126a",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

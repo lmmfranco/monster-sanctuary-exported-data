@@ -1,0 +1,26 @@
+{
+  "guid": "ec65c1655d9832045bec634725c622f0",
+  "filename": "Chest_0",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 0,
+  "Item": {
+    "fileID": 0
+  },
+  "Quantity": 1,
+  "Gold": 0,
+  "SFXOpenChest": {
+    "fileID": 8300000,
+    "guid": "09b94bc7ae7570341adf5e6be1b1b785",
+    "type": 3
+  },
+  "SFXGetReward": {
+    "fileID": 8300000,
+    "guid": "bfe630adf6898854c83f11a0d31be086",
+    "type": 3
+  },
+  "GetRewardVolume": 0.5,
+  "ApplyToChildren": 0,
+  "PauseDuringCombat": 0
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "cb1d4475ce15cc94d9f47fa50396635d",
+  "filename": "AgilityRegeneration1",
+  "ID": 502,
+  "Name": "Rejuvenate",
+  "Icon": "icon_agility_regeneration",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 80,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114336304590905620,
+    "guid": "0045c80e0eb7633408e3918f4c9db1f7",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 26388280377344,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

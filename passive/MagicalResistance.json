@@ -1,0 +1,12 @@
+{
+  "guid": "f25fe6956aae0df409f93844ef39c4d7",
+  "filename": "MagicalResistance",
+  "ID": 409,
+  "Name": "Magical Resistance",
+  "Icon": "icon_magical_resistance",
+  "Description": "Magical damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 6,
+  "Modifier": -0.5
+}

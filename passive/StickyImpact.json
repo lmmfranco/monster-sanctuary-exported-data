@@ -1,0 +1,13 @@
+{
+  "guid": "8ef0d1e13841bdc44bf06509d4d8b16e",
+  "filename": "StickyImpact",
+  "ID": 1837,
+  "Name": "Sticky Impact",
+  "Icon": "icon_sticky_impact",
+  "Description": "Every hit has a {0%} chance to apply a stack of {Tether}. (Stacks don't count as Debuffs)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Buff": 9,
+  "Chance": 0.15,
+  "ElementRestriction": null
+}

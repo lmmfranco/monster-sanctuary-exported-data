@@ -1,0 +1,11 @@
+{
+  "guid": "54170f585de6a7c42bd01d6ed1417ded",
+  "filename": "Taunt",
+  "ID": 320,
+  "Name": "Taunt",
+  "Icon": "icon_taunt",
+  "Description": "When an ally would be attacked, {0%} chance to redirect the attack to this Monster. ",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.25
+}

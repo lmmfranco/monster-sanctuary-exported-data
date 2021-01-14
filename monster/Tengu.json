@@ -1,0 +1,510 @@
+{
+  "guid": "f9605403d0aa32640853b00c9c8379e8",
+  "filename": "Tengu",
+  "ID": 79,
+  "Name": "Tengu",
+  "baseStats": {
+    "attack": 4,
+    "magic": 6,
+    "defense": 2,
+    "health": 5,
+    "mana": 7
+  },
+  "lightShift": {
+    "attack": 2,
+    "magic": 2,
+    "defense": 0,
+    "health": 2,
+    "mana": 1
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 0,
+    "defense": 2,
+    "health": 0,
+    "mana": 2
+  },
+  "PortraitOffset": {
+    "x": 0,
+    "true": -1
+  },
+  "DifficultyRating": 2,
+  "ArmyRating": 1,
+  "RewardsCommon": [
+    {
+      "fileID": 1832258850283049,
+      "guid": "cc2be5e14f6acfe4dba2e8d78a7a9bd0",
+      "type": 2
+    },
+    {
+      "fileID": 1234674513639231,
+      "guid": "34fd3fdd9ac2dab4999fca918b682605",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1938666508179504,
+      "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+      "type": 2
+    },
+    {
+      "fileID": 1244001561577712,
+      "guid": "aab2355004380e24e8ccc6f4c873d004",
+      "type": 2
+    },
+    {
+      "fileID": 1364881856930168,
+      "guid": "b018d9b9efc81074baad8268fd04ac45",
+      "type": 2
+    }
+  ],
+  "StartLevel": 7,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1303926108835556,
+    "guid": "27f835887a9c95c49ad29cf6bc39ef82",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "040000000500000010000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1737366599156502,
+      "guid": "1c12f62fe7f2b0d49975eadfa989b7fe",
+      "type": 2
+    },
+    {
+      "fileID": 1560167735935722,
+      "guid": "41afd88780d6e7a4d9e52d1de396adb4",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1533690115890182,
+      "guid": "00d5da3d9be23d34b9304c7e9c39a703",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1679471762810839,
+      "guid": "00bd5da9f3c61604fa31d054c3b432dd",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1839018107170044,
+      "guid": "8ffc9f7b9ac98614db0f3a8b5bf4516d",
+      "type": 2
+    },
+    {
+      "fileID": 1464382692633287,
+      "guid": "093566ebc39ee5a4486e1e8f03f2a5eb",
+      "type": 2
+    },
+    {
+      "fileID": 1143783304097802,
+      "guid": "76b8f69a9b1bda341ab0ef6ff73bf7e9",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1640311558851362,
+    "guid": "e049545cc7f2d8d43bd5b3470363b69e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1168414919031960,
+    "guid": "1989557fa5e8f594ebb45e24efc1c042",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1737366599156502,
+      "guid": "1c12f62fe7f2b0d49975eadfa989b7fe",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1129694392103502,
+      "guid": "fa458539a5d10e44691427a1bb6d9630",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1731152575527088,
+      "guid": "416dca4c94dafd44b943247711d08639",
+      "type": 2
+    },
+    {
+      "fileID": 1985784093988254,
+      "guid": "51eb4d55f9a7520479febd96dbe11446",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1981086924810800,
+      "guid": "3e4e4a9b967dcc949abc5ca1254dc37e",
+      "type": 2
+    },
+    {
+      "fileID": 1170085907549785,
+      "guid": "3f6471c2b928a8940849c46cd26e5156",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1217496498384643,
+      "guid": "e12bf598b0ace404395ba8c29836b1b3",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1567840331670078,
+      "guid": "c68fa401222d4f34692c0f8219609672",
+      "type": 2
+    },
+    {
+      "fileID": 1267509746343240,
+      "guid": "dedc925c7c316b1448e12e8791bd32d4",
+      "type": 2
+    },
+    {
+      "fileID": 1048227761386398,
+      "guid": "bdd97f279d9deee42b16ce1c4db38d36",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1679471762810839,
+      "guid": "00bd5da9f3c61604fa31d054c3b432dd",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1683896917192367,
+      "guid": "fb878a3f5b9d7a041a060412a551157a",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1333264940454579,
+      "guid": "aab816b43f4308345aab92a4a97c0c0c",
+      "type": 2
+    },
+    {
+      "fileID": 1816381925373540,
+      "guid": "cbc35fa2174aea24bb5a287d0bdc6249",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1586131067346528,
+      "guid": "92bf680f271809742a3d962744849058",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1005747043447920,
+      "guid": "99fdd510969a3d240bbd0efdf9dc2976",
+      "type": 2
+    },
+    {
+      "fileID": 1469567831571877,
+      "guid": "c152f56070771964ba708f3b63186ddc",
+      "type": 2
+    },
+    {
+      "fileID": 1721926486465072,
+      "guid": "0a1d43e8d3122c44cafcc03a6ac15d83",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1283207205263379,
+      "guid": "e0ebed0ad5a3c4b43bb29678540bdcaf",
+      "type": 2
+    },
+    {
+      "fileID": 1770496248900442,
+      "guid": "809fca0bfbebdf44a9928aa45ff22a8a",
+      "type": 2
+    },
+    {
+      "fileID": 1789373304482184,
+      "guid": "7d0156b4b82f7454990b5f01753d5df4",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1560167735935722,
+      "guid": "41afd88780d6e7a4d9e52d1de396adb4",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1222964124650938,
+      "guid": "e4b043b37589f134783b1b583fa89d58",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1231868669997934,
+      "guid": "ff424ef992f2fa442ad6d63211ed81f9",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1457573937035493,
+      "guid": "2dbcdb966e1c91e4cb942eb4692c1fec",
+      "type": 2
+    },
+    {
+      "fileID": 1856676243701355,
+      "guid": "e38c4a5e9e9891d44bc8fcf5117d362d",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1977394999042118,
+      "guid": "a5c21b48d39614f409fd8dd5c694d002",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1532911914172557,
+      "guid": "a853fae8670a78a4b97ce7c88e43c907",
+      "type": 2
+    },
+    {
+      "fileID": 1066748329924937,
+      "guid": "23a69e95c6d600d498e5a45bb73e9ff7",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1451503157358175,
+      "guid": "c51099229e18310458c14a610d63297d",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1737919520185959,
+      "guid": "1b8748cdd37df0845a04fd391aac0e0a",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1583872378740514,
+      "guid": "f8bb56b73cf648d4dbb1bb5b54b89c96",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1259570387628827,
+      "guid": "162b7b41baf17c343a13de44a0da82d5",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1910825748656073,
+      "guid": "f886dce5d9dbc1244ba0f40ae449e6fd",
+      "type": 2
+    },
+    {
+      "fileID": 1861647657938823,
+      "guid": "a4f0dae448fb38d47ab5ee316d513a43",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1992554332611988,
+      "guid": "3cf4b3eef512927419122b12f4f73064",
+      "type": 2
+    },
+    {
+      "fileID": 1345298762945376,
+      "guid": "76512696ccd6881458ec3232a680edb8",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    },
+    {
+      "fileID": 1117585765222542,
+      "guid": "b504efae5c7263847a7cb201e358cc75",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1465611366670653,
+      "guid": "ed6efb4261b5a0045ac77c4e92659c25",
+      "type": 2
+    },
+    {
+      "fileID": 1596033633581192,
+      "guid": "e49109705b5a5d147827bdcb5aef22d3",
+      "type": 2
+    },
+    {
+      "fileID": 1284062122491859,
+      "guid": "3d08a73554f145543b280397fc033bb2",
+      "type": 2
+    },
+    {
+      "fileID": 1621646241646522,
+      "guid": "452e5d1f03b16a94e853ea7d86f76737",
+      "type": 2
+    }
+  ],
+  "Bio": "Mischievous creatures that seem to only have a single redeeming quality: their love for dance and song. However, they only approach a human when they wish to play a childish prank on them or impress them with their magical powers. It is known that you should always entertain a Tengu's japes and never do anything to infuriate them - unless you want to test the Tengu's mastery of fire and poison.",
+  "History": "For many years, the Monster Keepers tried to reason with the Tengus and motivate them to come to the Sanctuary. Significant advances had been made in science and technology and the humans no longer feared the mischievous spirits of the mountains and woods. It was inevitable that the Tengus' pranks would soon cause the humans to retaliate in force. However, the Tengus proved arrogant and even became volatile when the Keepers pushed them on this subject. This only changed when the young, but wise Keeper Ranger Gakuto was put to the task in 17 AC. He deceived the Tengus, played tricks on them and even hired actors for his schemes. Within a single year, he managed to bring all of the Tengus of the wild to the Sanctuary without conflict.",
+  "StatOrientation": 1
+}

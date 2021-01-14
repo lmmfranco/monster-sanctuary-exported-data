@@ -1,0 +1,10 @@
+{
+  "guid": "0a0c288f59f76134c82ddb84b754db28",
+  "filename": "HealCharging",
+  "ID": 906,
+  "Name": "Heal Charging",
+  "Icon": "icon_light_passive",
+  "Description": "All healing skills give the healed Monster a {Charge} stack for each heal. (Active and Passive)",
+  "IsAura": 0,
+  "IsUnique": 0
+}

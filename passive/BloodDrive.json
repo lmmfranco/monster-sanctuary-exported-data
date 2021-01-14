@@ -1,0 +1,17 @@
+{
+  "guid": "1765bdbac9ea21a4080dc9b3913031b0",
+  "filename": "BloodDrive",
+  "ID": 1311,
+  "Name": "Blood Drive",
+  "Icon": "icon_blood_drive",
+  "Description": "Whenever an enemy takes {Poison}, {Burn} or {Congeal} damage, there is a {0%} chance to apply a {Bleed} stack equal to that damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Chance": 0.75,
+  "DamageConversion": 0.5,
+  "AnimElement": {
+    "fileID": 1986041267900172,
+    "guid": "2d9cf7113813f6d4cb77d7f5235009ff",
+    "type": 2
+  }
+}

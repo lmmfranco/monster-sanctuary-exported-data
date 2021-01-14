@@ -1,0 +1,666 @@
+{
+  "guid": "c463b84d9dede7947837d037b3ec1d7f",
+  "filename": "Raduga",
+  "ID": 579,
+  "Name": "Raduga",
+  "baseStats": {
+    "attack": 2,
+    "magic": 5,
+    "defense": 3,
+    "health": 4,
+    "mana": 6
+  },
+  "lightShift": {
+    "attack": 0,
+    "magic": 1,
+    "defense": 2,
+    "health": 2,
+    "mana": 0
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 3,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 1,
+    "true": 8
+  },
+  "DifficultyRating": 1,
+  "ArmyRating": 3,
+  "RewardsCommon": [
+    {
+      "fileID": 1095882204890249,
+      "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+      "type": 2
+    },
+    {
+      "fileID": 1719243044145975,
+      "guid": "93452e3b24f68d64aac0f8a31608ab1b",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1896052561832896,
+      "guid": "0d0a5be6f2dbc764aacb95aca8bacd6d",
+      "type": 2
+    },
+    {
+      "fileID": 1970372663668689,
+      "guid": "612b3d29f407d354dbc3f4117919ee50",
+      "type": 2
+    },
+    {
+      "fileID": 1335032206642452,
+      "guid": "e25f414261316b2439b2cf279281661f",
+      "type": 2
+    }
+  ],
+  "StartLevel": 18,
+  "FlyingOffset": 10,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1017089335117462,
+    "guid": "9880c7c0be3f0734da74524ebc6e0701",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "02000000040000000c000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    },
+    {
+      "fileID": 1153667417895815,
+      "guid": "0705d810b20deda44aba462812b86af1",
+      "type": 2
+    },
+    {
+      "fileID": 1366175394592367,
+      "guid": "ce64bfdcfef05ab47af19607f4889ab3",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    },
+    {
+      "fileID": 1929461426775710,
+      "guid": "70e8bf5bf75342b4ca46e8a8cbed3611",
+      "type": 2
+    },
+    {
+      "fileID": 1109485832159856,
+      "guid": "92691af62cb62b04e89e42307bfccb06",
+      "type": 2
+    },
+    {
+      "fileID": 1653128372325643,
+      "guid": "573d43a15d27f9347ac78192d798f7e1",
+      "type": 2
+    },
+    {
+      "fileID": 1497603862827511,
+      "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+      "type": 2
+    },
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 35,
+  "AdvancedAISkills": [
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1072402712306857,
+      "guid": "9583c12ddd80ff64b81fd1a5bfc314a1",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    },
+    {
+      "fileID": 1751584712980947,
+      "guid": "91ddc47c8dcc5064e8221028359ff2d0",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "ChampionSkills": [
+    {
+      "fileID": 1249746801164219,
+      "guid": "b52b3a84cd3230547a3b842789f242ab",
+      "type": 2
+    }
+  ],
+  "Ultimates": [
+    {
+      "fileID": 1839018107170044,
+      "guid": "8ffc9f7b9ac98614db0f3a8b5bf4516d",
+      "type": 2
+    },
+    {
+      "fileID": 1888953310552929,
+      "guid": "7854136e160e5e54c832f540bd3d378a",
+      "type": 2
+    },
+    {
+      "fileID": 1372901607417829,
+      "guid": "661eb8864a3ce994aaa7ab08e3ef9398",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1686252289676525,
+    "guid": "1addcfac4e61fde42bf4d3822479c34e",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1147213595760583,
+    "guid": "75f9926ee027fca42a4a25bd773c1bdd",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1882174987487936,
+      "guid": "d1ccc5c924fb19443bb872dddea11393",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1917052883789989,
+      "guid": "4c5f4c954d29c3e4399d61c078320f9d",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1075998793949093,
+      "guid": "15cd27d603bf5f74c9b187dbb4fc159a",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1476974744721574,
+      "guid": "3d22872bb97e65d489222bc163abeb49",
+      "type": 2
+    },
+    {
+      "fileID": 1929461426775710,
+      "guid": "70e8bf5bf75342b4ca46e8a8cbed3611",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1123197375305887,
+      "guid": "761c3b65393defa49aca3241fc2b2055",
+      "type": 2
+    },
+    {
+      "fileID": 1451196946013290,
+      "guid": "0b30fab42de14064e985c450a06cda9e",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1146315800798299,
+      "guid": "4f40de5a32a1f494d8ed91801291d0c9",
+      "type": 2
+    },
+    {
+      "fileID": 1509123975454411,
+      "guid": "314e4f14187ff2e44b62b00e49f36648",
+      "type": 2
+    },
+    {
+      "fileID": 1979628663778357,
+      "guid": "860fa888d66d6414a9f199e27bf069bd",
+      "type": 2
+    },
+    {
+      "fileID": 1989158837562463,
+      "guid": "ef5a2e563026cfb44985795cdd346a94",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1153667417895815,
+      "guid": "0705d810b20deda44aba462812b86af1",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1982115436588596,
+      "guid": "59d94809fbd8e8842a2492de1bfd8cbe",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1334320262222354,
+      "guid": "c2a4d2fb3fb7cf840b1795e7336c6b97",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1376600265834220,
+      "guid": "5090acc92c701ea45b84980f0ff02fb7",
+      "type": 2
+    },
+    {
+      "fileID": 1653128372325643,
+      "guid": "573d43a15d27f9347ac78192d798f7e1",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1995218433408168,
+      "guid": "38db0b66c8bd0d9428b15658c761f2c6",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1377813333813673,
+      "guid": "d7cbb286da4b6e1498c9ce99bc9a8b8b",
+      "type": 2
+    },
+    {
+      "fileID": 1344567203957636,
+      "guid": "881f09b55920033418ada9b4d2ed9608",
+      "type": 2
+    },
+    {
+      "fileID": 1053574600037832,
+      "guid": "d377943ad85dea5459d4fd63475d67ea",
+      "type": 2
+    },
+    {
+      "fileID": 1365052262599823,
+      "guid": "f800c2c7d1f09e843baaf56c8afa6e7e",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1029752345908245,
+      "guid": "00c83b9f8ac59a545a6d99690fee493f",
+      "type": 2
+    },
+    {
+      "fileID": 1385630587371033,
+      "guid": "6268dfc014f39084d829a4047e5bfc47",
+      "type": 2
+    },
+    {
+      "fileID": 1160766625048813,
+      "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1798901916757911,
+      "guid": "608894639e6f330469198d6e25c5fd07",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1966636764060011,
+      "guid": "666f6e29cbc768f4fb42b9d7b74121de",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1417402435929142,
+      "guid": "d1bb199e13a48ff47a2dc85d15534aca",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1352380127628888,
+      "guid": "78907699465ef774dbd5a81c8d194d9b",
+      "type": 2
+    },
+    {
+      "fileID": 1109485832159856,
+      "guid": "92691af62cb62b04e89e42307bfccb06",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1593735277645236,
+      "guid": "0f473f6000a208a4391c807c7d3081f9",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1026467856648302,
+      "guid": "1be6da44a2955524f805f1f41e5741f8",
+      "type": 2
+    },
+    {
+      "fileID": 1419201777112848,
+      "guid": "832bb55f10ff37a49b5b19cd5280642a",
+      "type": 2
+    },
+    {
+      "fileID": 1205222776904226,
+      "guid": "f10fa25b18413ff4c8627910a44928e9",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1056329583471328,
+      "guid": "72dcaa884809cfd46bf0f59663f7db02",
+      "type": 2
+    },
+    {
+      "fileID": 1859707025539207,
+      "guid": "707e80426d182aa4ba73e448d1beff76",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1580006805987021,
+      "guid": "9a7fa7dbe57e8434683369f473405cf8",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1431132250607598,
+      "guid": "b4b065f8f1100cb4287024f5cf193af5",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1904746906412641,
+      "guid": "1b18e48a5521c4643a9bf984137c68af",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1273771702851302,
+      "guid": "d5fadaf0bdd7e424cb88500a25160b82",
+      "type": 2
+    },
+    {
+      "fileID": 1497603862827511,
+      "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+      "type": 2
+    },
+    {
+      "fileID": 1708912339003701,
+      "guid": "f6810602ee5dbc640bcf6cd573574bb7",
+      "type": 2
+    },
+    {
+      "fileID": 1829340914911289,
+      "guid": "ceb6d960782dbe14daea4c40a1cbd500",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1436916231208232,
+      "guid": "e830bd3421d6efc468c5f01528f6e46a",
+      "type": 2
+    },
+    {
+      "fileID": 1771538755184261,
+      "guid": "0144e590a2fb42446b2ffce88fbe31a5",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1672316169124921,
+      "guid": "c0e142dec885a054cae982f71e368a00",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1057421354318522,
+      "guid": "0be0ed1a805913a48b32f584b7db1aa5",
+      "type": 2
+    },
+    {
+      "fileID": 1629169507539652,
+      "guid": "e65345d07badd9d4a96a0d8a20e37878",
+      "type": 2
+    },
+    {
+      "fileID": 1284062122491859,
+      "guid": "3d08a73554f145543b280397fc033bb2",
+      "type": 2
+    },
+    {
+      "fileID": 1751584712980947,
+      "guid": "91ddc47c8dcc5064e8221028359ff2d0",
+      "type": 2
+    }
+  ],
+  "NoIdleChance": 0.6,
+  "IdleTime": {
+    "Min": 0.5,
+    "Max": 3
+  },
+  "MovingTime": {
+    "Min": 0.5,
+    "Max": 2
+  },
+  "HorizontalMovementSpeed": {
+    "Min": 10,
+    "Max": 70
+  },
+  "VerticalMovementSpeed": {
+    "Min": 0,
+    "Max": 50
+  },
+  "Bio": "The most majestic of all bird-like Monsters, save perhaps for the Spectral Eagle. But whereas the Spectral Eagle governs the powers of storm and sun, the Raduga symbolizes universal balance. Its distinct long tail feathers symbolize the four main elements of nature, and its mere presence fills all beings around it with hope and vigor.",
+  "History": "For hundreds of years, Monster Keepers travelled the Old World in search of this mythical being. The myths hint towards the Raduga only appearing in lands that are at complete peace and tranquility. But the Raduga remained elusive as ever even when there weren't any wars fought in the Old World. In 400 AC, on the anniversary day of the Sanctuary's creation, the Keepers were amazed to see a Raduga flying high in the sky above the Sanctuary. Needless to say, the Keepers rejoiced and celebrated like they had never celebrated before.",
+  "StatOrientation": 3,
+  "PredefinedActions": [
+    {
+      "Turn": 0,
+      "Action": {
+        "fileID": 1653128372325643,
+        "guid": "573d43a15d27f9347ac78192d798f7e1",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 1,
+      "Action": {
+        "fileID": 1109485832159856,
+        "guid": "92691af62cb62b04e89e42307bfccb06",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 2,
+      "Action": {
+        "fileID": 1497603862827511,
+        "guid": "c578277d6af78a04fa0e6cc26f888e9b",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    },
+    {
+      "Turn": 3,
+      "Action": {
+        "fileID": 1929461426775710,
+        "guid": "70e8bf5bf75342b4ca46e8a8cbed3611",
+        "type": 2
+      },
+      "AllowOnOtherTurns": 0,
+      "OnlyBaseLevel": 0,
+      "OrderInTurn": 1
+    }
+  ]
+}

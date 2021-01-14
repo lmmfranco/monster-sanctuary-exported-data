@@ -1,0 +1,14 @@
+{
+  "guid": "3dfaa9bc3fc4c6043a6919831b68db63",
+  "filename": "BloodMagic",
+  "ID": 1590,
+  "Name": "Blood Magic",
+  "Icon": "icon_blood_magic",
+  "Description": "Whenever an allied {Occult} or {Mage} Monster hits an enemy, {0%} chance to inflict a Bleed stack equal to {0%} of that damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "TriggerChance": 0.4,
+  "DamageValue": 0.4,
+  "TypeRestriction1": 9,
+  "TypeRestriction2": 16
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "0d05ea13ad3ee5f4c9f192ba837a187a",
+  "filename": "RingFocus",
+  "ID": 1536,
+  "Name": "Ring Focus",
+  "Icon": "icon_ring_focus",
+  "Description": "Ring equipment values are increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Bonus": 0.8
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "c398a54cfe9628d40898d8127be51e34",
+  "filename": "SanctuaryToken",
+  "ID": 814,
+  "Name": "Sanctuary Token",
+  "Price": 0,
+  "Icon": "icon_sanctuary_token",
+  "ItemID": 2,
+  "DisplayInInventory": 1,
+  "DisplayMultiplesInInventory": 1,
+  "Description": "Sanctuary Token."
+}

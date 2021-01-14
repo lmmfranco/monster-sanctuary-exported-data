@@ -1,0 +1,10 @@
+{
+  "guid": "4bea5be96dbaa7749800230aa115f386",
+  "filename": "Fuel",
+  "ID": 1110,
+  "Name": "Fuel",
+  "Icon": "icon_fuel",
+  "Description": "Whenever an enemy takes Burn damage, each Monster in your party gains a {Charge} stack.",
+  "IsAura": 1,
+  "IsUnique": 1
+}

@@ -1,0 +1,61 @@
+{
+  "guid": "18b11a60f425cf74a89193edfab4e49d",
+  "filename": "MonsterButton",
+  "text": {
+    "fileID": 0
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114047789170080580
+  },
+  "infoText": {
+    "fileID": 0
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 0
+  },
+  "DisplayWhenEmpty": 0,
+  "UpdateColors": 1,
+  "ExpandBackgroundDimension": 0,
+  "ExpandedItemSize": {
+    "x": 0,
+    "true": 0
+  },
+  "ShrinkedItemSize": {
+    "x": 0,
+    "true": 0
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 0
+  },
+  "AdditionalElements": [],
+  "IconGO": {
+    "fileID": 0
+  },
+  "Sprite": {
+    "fileID": 114005239212201700
+  },
+  "animator": {
+    "fileID": 114089090192449340
+  },
+  "Background": {
+    "fileID": 114047789170080580
+  },
+  "MenuListItem": {
+    "fileID": 114056124969740800
+  },
+  "SwitchSign": {
+    "fileID": 114212011080906540
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "92b1c6db29ce9624a8f3a95c804796a3",
+  "filename": "VasukiEgg",
+  "ID": 882,
+  "Name": null,
+  "Price": 400,
+  "Monster": {
+    "fileID": 1458210152532235,
+    "guid": "870b0d5c39d4a564c929c6c90644deef",
+    "type": 2
+  }
+}

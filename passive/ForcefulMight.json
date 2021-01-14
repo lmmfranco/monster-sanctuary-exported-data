@@ -1,0 +1,12 @@
+{
+  "guid": "3499d2baf9fe17e438916d79de438ae5",
+  "filename": "ForcefulMight",
+  "ID": 1568,
+  "Name": "Forceful Might",
+  "Icon": "icon_forceful_might",
+  "Description": "Might also makes all attacks ignore {0%} of enemy's damage reduction.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ReductionBypass": 0.1,
+  "Buff": 0
+}

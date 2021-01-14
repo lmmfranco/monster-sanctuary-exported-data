@@ -1,0 +1,25 @@
+{
+  "guid": "f10b5e31118875e4690b8b0d71687818",
+  "filename": "MountAbilityMoccus",
+  "PlayerOffset": {
+    "x": -5,
+    "true": 8,
+    "z": 0
+  },
+  "Name": "Mount",
+  "Description": "- Allows to mount the Monster",
+  "PlayerJumpOffset": {
+    "x": 0,
+    "true": 2,
+    "z": 0
+  },
+  "PlayerJumpFrequency": 0.56,
+  "PlayerIdleOffset": {
+    "x": 0,
+    "true": 1,
+    "z": 0
+  },
+  "PlayerIdleFrequency": 0.7,
+  "AlternativeRideAnimation": 1,
+  "IncreasedJumpHeight": 0
+}

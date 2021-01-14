@@ -1,0 +1,13 @@
+{
+  "guid": "873dff55b4b14b841aeca16ea95d483d",
+  "filename": "ChargedStart",
+  "ID": 1142,
+  "Name": "Charged Start",
+  "Icon": "icon_charged_start",
+  "Description": "This Monster starts combat with {0} Charge stacks.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Count": 7,
+  "TypeRestriction": 0,
+  "TriggerForBackupMonsters": 0
+}

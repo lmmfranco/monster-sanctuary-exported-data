@@ -1,0 +1,10 @@
+{
+  "guid": "f2edeb11c52dbfe4c872a2f7d5f0ed18",
+  "filename": "HexingSupport",
+  "ID": 1109,
+  "Name": "Hexing Support",
+  "Icon": "icon_hexing_support",
+  "Description": "Whenever this Monster spends a turn without attacking an enemy, apply a random Debuff on a random enemy.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "66c2db95e50b65743acf4847f24ef8f8",
+  "filename": "Grape",
+  "ID": 309,
+  "Name": "Grapes",
+  "Price": 150,
+  "Icon": "icon_grape",
+  "Description": null,
+  "Stat": 6,
+  "Amount": 0.07,
+  "Level": 2
+}

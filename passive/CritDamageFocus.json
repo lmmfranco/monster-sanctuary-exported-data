@@ -1,0 +1,12 @@
+{
+  "guid": "f27fa9b55e4de7549bdae076a346a8b2",
+  "filename": "CritDamageFocus",
+  "ID": 834,
+  "Name": "Crit Damage Focus",
+  "Icon": "icon_crit_damage_focus",
+  "Description": "Critical Damage values from equipment increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 6,
+  "Bonus": 0.5
+}

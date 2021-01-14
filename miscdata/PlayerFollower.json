@@ -1,0 +1,30 @@
+{
+  "guid": "78c17db52ac94ea43922860619d73538",
+  "filename": "PlayerFollower",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 0
+  },
+  "Name": "Wolf",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "Sprite": {
+    "fileID": 114628485793262500
+  },
+  "Animator": {
+    "fileID": 114864005739199760
+  },
+  "PlayerDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "DashingForAttackTime": 0.1
+}

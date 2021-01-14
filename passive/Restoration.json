@@ -1,0 +1,11 @@
+{
+  "guid": "9a07f6101d02ffa4cb5dfbbe30dd0672",
+  "filename": "Restoration",
+  "ID": 1578,
+  "Name": "Restoration",
+  "Icon": "icon_restoration",
+  "Description": "{Regeneration} (Buff) also has a {0%} chance to remove a Debuff at the start of the turn.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Chance": 0.5
+}

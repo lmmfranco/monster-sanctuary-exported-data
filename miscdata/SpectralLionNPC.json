@@ -1,0 +1,39 @@
+{
+  "guid": "c83533ba44ec90d4d8990291ff026964",
+  "filename": "SpectralLionNPC",
+  "PortraitOffset": {
+    "x": 8,
+    "true": -14
+  },
+  "Name": "Lion",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1529742473945333,
+    "guid": "a0db8aef913a66a48bb993cf9bb3e346",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1465913071165888,
+    "guid": "f7e3b592038acb64aa65a8c38d928178",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 1,
+  "TargetDistanceRange": {
+    "Min": 40,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

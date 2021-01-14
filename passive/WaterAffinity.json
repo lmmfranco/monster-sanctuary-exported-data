@@ -1,0 +1,12 @@
+{
+  "guid": "b8cf7e81d40b8b443b00a36ce2bbc4f2",
+  "filename": "WaterAffinity",
+  "ID": 118,
+  "Name": "Water Affinity",
+  "Icon": "icon_water_affinity",
+  "Description": "{Water} attacks deal {0%} increased damage.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "Element": 2
+}

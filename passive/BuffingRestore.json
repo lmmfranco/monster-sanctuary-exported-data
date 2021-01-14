@@ -1,0 +1,11 @@
+{
+  "guid": "91ddc47c8dcc5064e8221028359ff2d0",
+  "filename": "BuffingRestore",
+  "ID": 1116,
+  "Name": "Buffing Restore",
+  "Icon": "icon_buffing_restore",
+  "Description": "When applying a Buff, {0%} chance that a Debuff is removed.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.5
+}

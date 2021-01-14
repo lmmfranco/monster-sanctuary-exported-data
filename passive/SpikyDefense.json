@@ -1,0 +1,12 @@
+{
+  "guid": "0c384ec940640334497b09df5b64b738",
+  "filename": "SpikyDefense",
+  "ID": 690,
+  "Name": "Spiky Defense",
+  "Icon": "icon_spiky_defense",
+  "Description": "When this Monster gets attacked, {0%} chance to apply {Armor Break} on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 5,
+  "Chance": 0.4
+}

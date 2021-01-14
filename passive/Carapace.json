@@ -1,0 +1,12 @@
+{
+  "guid": "68e9dad3d4966834991010fb56012eed",
+  "filename": "Carapace",
+  "ID": 1151,
+  "Name": "Carapace",
+  "Icon": "icon_harden",
+  "Description": "Healing and shielding skills (active and passive) of {Reptiles} in your party are increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "IncreaseAmount": 0.2,
+  "TypeRestriction": 6
+}

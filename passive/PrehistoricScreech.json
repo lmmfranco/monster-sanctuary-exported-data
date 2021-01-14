@@ -1,0 +1,14 @@
+{
+  "guid": "6c39a2afea787744c94482aeba0bee38",
+  "filename": "PrehistoricScreech",
+  "ID": 1656,
+  "Name": "Prehistoric Screech",
+  "Icon": "icon_screech",
+  "Description": "{Aerial} and {Reptile} monster deal {0%} increased damage and additional {1%} against shielded enemies.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.075,
+  "ShieldDamageBonus": 0.15,
+  "TypeRestriction1": 2,
+  "TypeRestriction2": 6
+}

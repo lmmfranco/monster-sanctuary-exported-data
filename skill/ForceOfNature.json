@@ -1,0 +1,71 @@
+{
+  "guid": "f02dbe203ba7e694bac32785e52f4fc4",
+  "filename": "ForceOfNature",
+  "ID": 1726,
+  "Name": "Force of Nature",
+  "Icon": "icon_force_of_nature",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 240,
+  "TargetType": 1,
+  "Duration": 3.2,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 1.5,
+  "TotalDamage": 3,
+  "CalculatedDamage": 1.542519,
+  "CalculatedTotalDamage": 3.085038,
+  "HitTimings": [
+    1.2,
+    1.9
+  ],
+  "Element": 4,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "HealAmount": 600,
+  "ScaleMagic": 1,
+  "ScaleHealth": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleDamage": 0,
+  "HealCaster": 0,
+  "HealTimings": [
+    2.6
+  ],
+  "ConditionType": 0,
+  "EnemyHasDebuff": 0,
+  "HealAnimElement": {
+    "fileID": 0
+  },
+  "AnimElementDelay": 0,
+  "ActionDurationIncrease": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "586e75ceb73242749a93bf1f390b4ab3",
+    "type": 3
+  },
+  "Volume": 0.8,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0,
+    0.5,
+    1
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "guid": "13d8feac43a98e34f8e14579130df005",
+  "filename": "BuffCharging",
+  "ID": 547,
+  "Name": "Buff Charging",
+  "Icon": "icon_buff_charging",
+  "Description": "When this Monster applies a Buff, it gains a {Charge} stack.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

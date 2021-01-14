@@ -1,0 +1,88 @@
+{
+  "guid": "bf507168938b9164da9b681b93664e21",
+  "filename": "LavaStream",
+  "ID": 1822,
+  "Name": "Lava Stream",
+  "Icon": "icon_lava_tide",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 230,
+  "TargetType": 0,
+  "Duration": 3.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 0.75,
+  "TotalDamage": 5.25,
+  "CalculatedDamage": 0.711282,
+  "CalculatedTotalDamage": 4.978974,
+  "HitTimings": [
+    1.4,
+    1.7,
+    2,
+    2.3,
+    2.6,
+    2.9,
+    3.2
+  ],
+  "Element": 1,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 1,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1027616760188680,
+    "guid": "27996171a0223654f99ac5daa5d878eb",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Debuff": 5,
+  "dualDebuff": 0,
+  "Debuff2": 0,
+  "ApplyChance": 0.15,
+  "Color__1": {
+    "r": 1,
+    "g": 0.6553966,
+    "b": 0.1607843,
+    "a": 0.1882353
+  },
+  "Duration__1": 2,
+  "StayDuration": 2,
+  "Timings": [
+    0
+  ]
+}

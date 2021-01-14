@@ -1,0 +1,86 @@
+{
+  "guid": "2446a53f5f44a8143bf5ddc8dc60b255",
+  "filename": "IceStorm2",
+  "ID": 626,
+  "Name": null,
+  "Icon": null,
+  "Tier": 4,
+  "Ultimate": 0,
+  "Mana": 170,
+  "TargetType": 1,
+  "Duration": 2.5,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114975036780239150,
+    "guid": "acfc7354ef1f11b40b2cd3aeae898925",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 2.1,
+  "TotalDamage": 2.1,
+  "CalculatedDamage": 2.123277,
+  "CalculatedTotalDamage": 2.123277,
+  "HitTimings": [
+    2
+  ],
+  "Element": 2,
+  "Type": 1,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 0,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "Delay": 0.5,
+  "Duration__1": 1.5,
+  "Strength": 2,
+  "PerEnemyDelay": 0,
+  "PerEnemyBreakDelay": 0.2,
+  "Debuffs": 786432,
+  "ApplyDelay": 0.8,
+  "ApplyChance": 0.5,
+  "TargetCount": 1,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "fe446538b62c7db4988ff15f3687f255",
+    "type": 3
+  },
+  "Volume": 0.6,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0.5
+  ],
+  "SFX__1": {
+    "fileID": 8300000,
+    "guid": "09012de99d7cdc844a6e5b38e5d009e7",
+    "type": 3
+  },
+  "Volume__1": 0.6,
+  "Pitch__1": 1,
+  "PitchIncrease__1": 0,
+  "SfxTimings__1": [
+    2,
+    2.2,
+    2.4
+  ],
+  "SFX__2": {
+    "fileID": 8300000,
+    "guid": "ad94aa27f31926c4d98ce5bb60972fcc",
+    "type": 3
+  },
+  "Volume__2": 1,
+  "Pitch__2": 1,
+  "PitchIncrease__2": 0,
+  "SfxTimings__2": [
+    0
+  ]
+}

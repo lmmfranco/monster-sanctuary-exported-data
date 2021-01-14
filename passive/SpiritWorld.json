@@ -1,0 +1,12 @@
+{
+  "guid": "3ba485d23a2adce469b5e37e3ff6452f",
+  "filename": "SpiritWorld",
+  "ID": 1703,
+  "Name": "Spirit World",
+  "Icon": "icon_spirit_world",
+  "Description": "{Spirit} Monsters in the party have an additional {0%} chance to dodge enemy hits.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DodgeChance": 0.08,
+  "TypeRestriction": 5
+}

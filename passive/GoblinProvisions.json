@@ -1,0 +1,15 @@
+{
+  "guid": "98e29f1abc54e154db23dcf004fa24c9",
+  "filename": "GoblinProvisions",
+  "ID": 425,
+  "Name": "Goblin Provisions",
+  "Icon": "icon_goblin_provisions",
+  "Description": "Heal all {Goblins} in the party by {0%} of their own Max Health at the start of every turn.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "HealValue": 0.1,
+  "TargetType": 4,
+  "BaseOnOwnHealth": 0,
+  "MonsterType": 14,
+  "MonsterType2": 0
+}

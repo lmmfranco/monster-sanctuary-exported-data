@@ -1,0 +1,14 @@
+{
+  "guid": "01ce7a07d24a582459c20d95f6d07578",
+  "filename": "Frostbite",
+  "ID": 1389,
+  "Name": "Frostbite",
+  "Icon": "icon_frostbite",
+  "Description": "When a Monster in the party applies {Chill} on an enemy, {0%} chance to also apply {Armor Break}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "Debuff": 3,
+  "SpreadDebuff": 5,
+  "Chance": 0.4,
+  "OnSameEnemy": 1
+}

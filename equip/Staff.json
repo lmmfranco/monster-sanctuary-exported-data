@@ -1,0 +1,47 @@
+{
+  "guid": "ea4a6803b146c314a9f22cb14b71828b",
+  "filename": "Staff",
+  "ID": 0,
+  "Name": "Staff",
+  "Price": 250,
+  "Type": 0,
+  "Icon": "icon_staff",
+  "Attack": 0,
+  "Magic": 40,
+  "Defense": 0,
+  "CritChance": 0.07,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1858412303854880,
+    "guid": "b84e862a230f2c646bf3080d2f692bcc",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1283344633932040,
+        "guid": "9cf392768e7178343a34dee125556952",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1979148939231785,
+        "guid": "fb7806c89741472478f451cd10abf730",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

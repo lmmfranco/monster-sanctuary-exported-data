@@ -1,0 +1,11 @@
+{
+  "guid": "cda98e846c5071441a02f59adaae4a98",
+  "filename": "DivineShield",
+  "ID": 956,
+  "Name": "Divine Shield",
+  "Icon": "icon_light_passive",
+  "Description": "Whenever this Monster receives a Buff, it gains a Shield equal to {0%} of its Maximum Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ShieldAmount": 0.075
+}

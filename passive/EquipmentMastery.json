@@ -1,0 +1,12 @@
+{
+  "guid": "9cb8ec3c27ae9534d8e71de38c66bfb3",
+  "filename": "EquipmentMastery",
+  "ID": 905,
+  "Name": "Equipment Mastery",
+  "Icon": "icon_light_passive",
+  "Description": "Allows to equip an additional Accessory.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "IsWeapon": 0,
+  "StatReduction": 0
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "440ae58aba964ae45b6162d622eb5ee1",
+  "filename": "SpecterEgg",
+  "ID": 400,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1643857176867638,
+    "guid": "8071920961013534c8e59973180a88e9",
+    "type": 2
+  }
+}

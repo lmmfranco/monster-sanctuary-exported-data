@@ -1,0 +1,12 @@
+{
+  "guid": "fbe286b522b81534d9a29d422acee021",
+  "filename": "ImprovedSwimmingExplore",
+  "PlayerOffset": {
+    "x": 18,
+    "true": -4,
+    "z": 0
+  },
+  "Name": "Improved Swimming",
+  "Description": "- Allows the player to swim\n- Unaffected by water streams",
+  "ResistsStreams": 1
+}

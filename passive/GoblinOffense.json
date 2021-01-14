@@ -1,0 +1,12 @@
+{
+  "guid": "d51fbbd2ccef58c4f96a1d206e0de555",
+  "filename": "GoblinOffense",
+  "ID": 422,
+  "Name": "Goblin Offense",
+  "Icon": "icon_goblin_offense",
+  "Description": "All {Goblins} in the party deal {0%} more damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "EmpowerValue": 0.1,
+  "MonsterType": 14
+}

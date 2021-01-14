@@ -1,0 +1,11 @@
+{
+  "guid": "4cc54c3b6c77aa94db4d44b8cd082a1f",
+  "filename": "DeepWounds",
+  "ID": 539,
+  "Name": "Deep Wounds",
+  "Icon": "icon_bleed_out",
+  "Description": "{Bleed} damage on enemies is increased by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "BleedIncrease": 0.4
+}

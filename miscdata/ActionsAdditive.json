@@ -1,0 +1,404 @@
+{
+  "guid": "1505facde7754bb4384ebef23b564e11",
+  "filename": "ActionsAdditive",
+  "version": 3,
+  "materialIdsValid": 1,
+  "needMaterialInstance": 0,
+  "spriteDefinitions": [
+    {
+      "DarkShiftLink": -1,
+      "LightShiftLink": -1,
+      "name": "Lightning1",
+      "boundsData": [
+        {
+          "x": -7,
+          "true": 0.5,
+          "z": 0
+        },
+        {
+          "x": 36,
+          "true": 229,
+          "z": 0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 64,
+          "true": 230,
+          "z": 0
+        }
+      ],
+      "texelSize": {
+        "x": 1,
+        "true": 1
+      },
+      "positions": [
+        {
+          "x": -25,
+          "true": -114,
+          "z": 0
+        },
+        {
+          "x": 11,
+          "true": -114,
+          "z": 0
+        },
+        {
+          "x": -25,
+          "true": 115,
+          "z": 0
+        },
+        {
+          "x": 11,
+          "true": 115,
+          "z": 0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.3671914,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.5078086,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.3671914,
+          "true": 0.8945273
+        },
+        {
+          "x": 0.5078086,
+          "true": 0.8945273
+        }
+      ],
+      "normalizedUvs": [
+        {
+          "x": 0,
+          "true": 0
+        },
+        {
+          "x": 1,
+          "true": 0
+        },
+        {
+          "x": 0,
+          "true": 1
+        },
+        {
+          "x": 1,
+          "true": 1
+        }
+      ],
+      "indices": 6.230756354035812e+34,
+      "material": {
+        "fileID": 2100000,
+        "guid": "ecca0c235f7824b4b8ee2fd9854d5fee",
+        "type": 2
+      },
+      "materialId": 0,
+      "materialIndexData": 1572864,
+      "sourceTextureGUID": "3973e5e2a95850347bb05afb3ffeea28",
+      "extractRegion": 0,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": 0,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": null,
+      "colliderIndicesBack": null,
+      "colliderConvex": 0,
+      "colliderSmoothSphereCollisions": 0,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "DarkShiftLink": -1,
+      "LightShiftLink": -1,
+      "name": "Lightning2",
+      "boundsData": [
+        {
+          "x": -1,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 40,
+          "true": 230,
+          "z": 0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 64,
+          "true": 230,
+          "z": 0
+        }
+      ],
+      "texelSize": {
+        "x": 1,
+        "true": 1
+      },
+      "positions": [
+        {
+          "x": -21,
+          "true": -115,
+          "z": 0
+        },
+        {
+          "x": 19,
+          "true": -115,
+          "z": 0
+        },
+        {
+          "x": -21,
+          "true": 115,
+          "z": 0
+        },
+        {
+          "x": 19,
+          "true": 115,
+          "z": 0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.2109414,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.3671836,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.2109414,
+          "true": 0.8984336
+        },
+        {
+          "x": 0.3671836,
+          "true": 0.8984336
+        }
+      ],
+      "normalizedUvs": [
+        {
+          "x": 0,
+          "true": 0
+        },
+        {
+          "x": 1,
+          "true": 0
+        },
+        {
+          "x": 0,
+          "true": 1
+        },
+        {
+          "x": 1,
+          "true": 1
+        }
+      ],
+      "indices": 6.230756354035812e+34,
+      "material": {
+        "fileID": 2100000,
+        "guid": "ecca0c235f7824b4b8ee2fd9854d5fee",
+        "type": 2
+      },
+      "materialId": 0,
+      "materialIndexData": 1572864,
+      "sourceTextureGUID": "6a23e5b9ce4ae4a48bd12bbd3699345a",
+      "extractRegion": 0,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": 0,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": null,
+      "colliderIndicesBack": null,
+      "colliderConvex": 0,
+      "colliderSmoothSphereCollisions": 0,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "DarkShiftLink": -1,
+      "LightShiftLink": -1,
+      "name": "Lightning3",
+      "boundsData": [
+        {
+          "x": 2,
+          "true": 1,
+          "z": 0
+        },
+        {
+          "x": 54,
+          "true": 228,
+          "z": 0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0,
+          "true": 0,
+          "z": 0
+        },
+        {
+          "x": 64,
+          "true": 230,
+          "z": 0
+        }
+      ],
+      "texelSize": {
+        "x": 1,
+        "true": 1
+      },
+      "positions": [
+        {
+          "x": -25,
+          "true": -113,
+          "z": 0
+        },
+        {
+          "x": 29,
+          "true": -113,
+          "z": 0
+        },
+        {
+          "x": -25,
+          "true": 115,
+          "z": 0
+        },
+        {
+          "x": 29,
+          "true": 115,
+          "z": 0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.00000390625,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.2109336,
+          "true": 0.00000390625
+        },
+        {
+          "x": 0.00000390625,
+          "true": 0.8906211
+        },
+        {
+          "x": 0.2109336,
+          "true": 0.8906211
+        }
+      ],
+      "normalizedUvs": [
+        {
+          "x": 0,
+          "true": 0
+        },
+        {
+          "x": 1,
+          "true": 0
+        },
+        {
+          "x": 0,
+          "true": 1
+        },
+        {
+          "x": 1,
+          "true": 1
+        }
+      ],
+      "indices": 6.230756354035812e+34,
+      "material": {
+        "fileID": 2100000,
+        "guid": "ecca0c235f7824b4b8ee2fd9854d5fee",
+        "type": 2
+      },
+      "materialId": 0,
+      "materialIndexData": 1572864,
+      "sourceTextureGUID": "920f8c1912ba6ea468cf81997d4bcb55",
+      "extractRegion": 0,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": 0,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": null,
+      "colliderIndicesBack": null,
+      "colliderConvex": 0,
+      "colliderSmoothSphereCollisions": 0,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": 0,
+  "material": {
+    "fileID": 0
+  },
+  "materials": [
+    {
+      "fileID": 2100000,
+      "guid": "ecca0c235f7824b4b8ee2fd9854d5fee",
+      "type": 2
+    }
+  ],
+  "textures": [
+    {
+      "fileID": 2800000,
+      "guid": "f1836cf712396ce4194968d4a977647e",
+      "type": 3
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": 0,
+  "textureFilterMode": 0,
+  "textureMipMaps": 0,
+  "allowMultipleAtlases": 0,
+  "spriteCollectionGUID": "3cb50e3b5e67c1846b5401fd08b1f3ab",
+  "spriteCollectionName": "ActionsAdditive",
+  "assetName": null,
+  "loadable": 0,
+  "invOrthoSize": 2,
+  "halfTargetHeight": 0.5,
+  "buildKey": 1990785119,
+  "dataGuid": "bb638569e1f2004448c306ab97fea86e",
+  "managedSpriteCollection": 0,
+  "hasPlatformData": 0,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

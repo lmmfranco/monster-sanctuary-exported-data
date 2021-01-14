@@ -1,0 +1,515 @@
+{
+  "guid": "042fdc462a7feb84293ea201c270816c",
+  "filename": "MoleBear",
+  "ID": 463,
+  "Name": "Molebear",
+  "baseStats": {
+    "attack": 6,
+    "magic": 1,
+    "defense": 6,
+    "health": 6,
+    "mana": 2
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 0,
+    "defense": 0,
+    "health": 2,
+    "mana": 3
+  },
+  "darkShift": {
+    "attack": 3,
+    "magic": 0,
+    "defense": 1,
+    "health": 1,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": 6
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 2,
+  "RewardsCommon": [
+    {
+      "fileID": 1972948587896255,
+      "guid": "bccc50fdd6677ca4a9a8906e1db007ad",
+      "type": 2
+    },
+    {
+      "fileID": 1287074701737878,
+      "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1979148939231785,
+      "guid": "fb7806c89741472478f451cd10abf730",
+      "type": 2
+    },
+    {
+      "fileID": 1527367655052101,
+      "guid": "e1358fb4d245d93429862cd5dc8e959d",
+      "type": 2
+    },
+    {
+      "fileID": 1916717334993554,
+      "guid": "2c25c57ce594e54448fbd8dbb628df05",
+      "type": 2
+    }
+  ],
+  "StartLevel": 15,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.3,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1962858563679155,
+    "guid": "50446f119e5d7814c873bbf33665a65a",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "MonsterTypes": "07000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    },
+    {
+      "fileID": 1663222006699508,
+      "guid": "55c68f2297e71354ea99aa9aa98837ff",
+      "type": 2
+    },
+    {
+      "fileID": 1974865837339024,
+      "guid": "7553b32405de4ee43bc2c1daf5427657",
+      "type": 2
+    },
+    {
+      "fileID": 1527509214172851,
+      "guid": "33df542f39a86214ba7b134cf39d3820",
+      "type": 2
+    }
+  ],
+  "AISkills": [],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1182325921986758,
+      "guid": "007babbec951ac748818cf081461ebf5",
+      "type": 2
+    },
+    {
+      "fileID": 1525552125212761,
+      "guid": "8c961dff89247fe408d4f55c1ff0c922",
+      "type": 2
+    },
+    {
+      "fileID": 1913071607404626,
+      "guid": "297bd04f5ff6fc74fafde5fb2d7180e2",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1179377711581307,
+    "guid": "b9caabb8e3d061d40ac3150874c834b1",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1503838595204771,
+    "guid": "bb28e6b3ea493a64cb8c0e1d9d78e124",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1877684819687825,
+      "guid": "4a405a06e9d1eec4987689eaf19ab358",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1844977727507313,
+      "guid": "4270b9760148097459d7f88b3e3aa34a",
+      "type": 2
+    },
+    {
+      "fileID": 1051980885953802,
+      "guid": "01c7654c7269682438cbb96264168d63",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1794529203512153,
+      "guid": "bbc12f66c6117c143bbba9da4c1876d2",
+      "type": 2
+    },
+    {
+      "fileID": 1925256172040393,
+      "guid": "13f09c6c2ed005740b9f9558aec45981",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1165889434672650,
+      "guid": "f61541471141c9a429badd5dcfc029c5",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1992712642781729,
+      "guid": "5d8042bda08120f49b50ddd68dffa14e",
+      "type": 2
+    },
+    {
+      "fileID": 1972364587465883,
+      "guid": "7a584bd56363dcd47b1cf4607acf7616",
+      "type": 2
+    },
+    {
+      "fileID": 1926918902237438,
+      "guid": "c88698d028d422941b9d4c998563d17f",
+      "type": 2
+    },
+    {
+      "fileID": 1679197992091842,
+      "guid": "783d5d1173d96ed45b44a439cf97d5a5",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1659599520788607,
+      "guid": "b07c19550b9fe1e4f916fd2e353f2600",
+      "type": 2
+    },
+    {
+      "fileID": 1700484801291084,
+      "guid": "57af379869c87154dbbdc850b9ffd2a1",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1761070651279964,
+      "guid": "504c91b37f1cdb843b2fe5df43a10ceb",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1848750103429178,
+      "guid": "d80919e35b116f748895639eded31a53",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1554803805287482,
+      "guid": "66b000cbbbb486e4091cb2f3dd4a1c75",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1358024216363682,
+      "guid": "755b4d7c27d13c74b873956d5e697c31",
+      "type": 2
+    },
+    {
+      "fileID": 1179517312238543,
+      "guid": "5e44d5e3208932e48b5167059aae333c",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1690277376349555,
+      "guid": "cd6f5ec1c4f47544ab83194803b78a35",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1917406033391920,
+      "guid": "7f36f372b8a78154aabaccb479609319",
+      "type": 2
+    },
+    {
+      "fileID": 1659188227955396,
+      "guid": "ea03d897892353b4fbb7ac88f6e727ee",
+      "type": 2
+    },
+    {
+      "fileID": 1854317763282005,
+      "guid": "54170f585de6a7c42bd01d6ed1417ded",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1184565554093666,
+      "guid": "87e7cce93a693784b81cee46a907fe8a",
+      "type": 2
+    },
+    {
+      "fileID": 1417726058680459,
+      "guid": "8e34872c5d8442f4fb64841be81aec98",
+      "type": 2
+    },
+    {
+      "fileID": 1050317149871444,
+      "guid": "a9b427a1d62e1644e8f6b9283ae76185",
+      "type": 2
+    },
+    {
+      "fileID": 1922559502182463,
+      "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1663222006699508,
+      "guid": "55c68f2297e71354ea99aa9aa98837ff",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1348210952285528,
+      "guid": "88fb42c14c7cde44ab2c6bbcb916dd97",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1093982331588194,
+      "guid": "bc94dbb5e4c969d4182a804be1835c3b",
+      "type": 2
+    },
+    {
+      "fileID": 1859521087242773,
+      "guid": "e30631c6bce31b8428182b668bd12473",
+      "type": 2
+    },
+    {
+      "fileID": 1932244800654605,
+      "guid": "efe75013f72dec94095cbb9defa22a89",
+      "type": 2
+    },
+    {
+      "fileID": 1741940009897867,
+      "guid": "d79fe2c0f0244744eb367abcdd4bd958",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1681028736617808,
+      "guid": "c9c8e41d30c9d0a40a95190d8b129196",
+      "type": 2
+    },
+    {
+      "fileID": 1276224725963918,
+      "guid": "8b2f840a6c5b0bd468e0dd2eaf942e81",
+      "type": 2
+    },
+    {
+      "fileID": 1646982856376719,
+      "guid": "4cc54c3b6c77aa94db4d44b8cd082a1f",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1428836100645324,
+      "guid": "399367ff9c0bfde44882c523cdc67cd8",
+      "type": 2
+    },
+    {
+      "fileID": 1878705178519613,
+      "guid": "03734e18a8223be4482e0e23ca2f477a",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__3": [
+    {
+      "fileID": 1210478171372487,
+      "guid": "2aa959f40cf51f54c9a2f733c3cc3078",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__3": [
+    {
+      "fileID": 1646899529702950,
+      "guid": "660a8b60654b86340a3fab59fe32fcac",
+      "type": 2
+    },
+    {
+      "fileID": 1618223174622287,
+      "guid": "ae8bb40b86104c5468fd4ec006174dd9",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__3": [
+    {
+      "fileID": 1048467534227984,
+      "guid": "5966aa158932bae438581183fbd37bf4",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__3": [
+    {
+      "fileID": 1446023957395197,
+      "guid": "81f789157660c414ea8d334a0f7bdcbf",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1838781728830338,
+      "guid": "0fa503b26aaa1bc44862ee5035227d00",
+      "type": 2
+    },
+    {
+      "fileID": 1686759312923349,
+      "guid": "70ed061ecba09af4283e724d2ce335b9",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__3": [
+    {
+      "fileID": 1187338392170639,
+      "guid": "a2a38c26faa0f62499b784109a847a8d",
+      "type": 2
+    },
+    {
+      "fileID": 1507284437643169,
+      "guid": "781648f3e16bd354c8818f620ab1b328",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    }
+  ],
+  "Bio": "Quite possibly one of the highest evolved beasts of the animal kingdom, however the sharp claws and spikes of the Molebear mainly serve as defensive tools, as the Molebear's diet consists of plants it forages and insects it finds in the ground. Molebears feel most at home in the underground caverns that they create themselves over years of effort. During the winter, the Molebears stay hidden in the deepest reaches of these caves, where they are safe from the freezing colds above.",
+  "History": "The Molebears were regarded as dangerous creatures in the Old World, but the Monster Keepers always knew the Molebears as peaceful and mild-tempered beings. Still, it was quite a huge undertaking to bring the Molebears to the Sanctuary, and it was finished only by 44 AC. In the centuries since, the Molebears have formed an expansive system of interlinked caves and tunnels underneath the Ancient Woods. Recently, these tunnels have even become connected to the abandoned Stronghold Dungeon. Even though the Ancient Woods never see snowfall, the Monsters of the Ancient Woods use the Molebears' caves as shelter when it's stormy outside. The Molebears and Magmamoths of the Ancient Woods have come to a truce of sorts, as they are evenly matched in power.",
+  "StatOrientation": 3
+}

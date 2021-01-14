@@ -1,0 +1,14 @@
+{
+  "guid": "7def2797b72f2a243b48ee20ceb3b810",
+  "filename": "WeakeningCrush",
+  "ID": 1133,
+  "Name": "Weakening Crush",
+  "Icon": "icon_weakening_crush",
+  "Description": "Every physical attack hit has a {0%} chance to apply {Weakness}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 0,
+  "Chance": 0.15,
+  "RestrictToElement": 1,
+  "ElementRestriction": 5
+}

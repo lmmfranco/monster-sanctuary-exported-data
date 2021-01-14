@@ -1,0 +1,11 @@
+{
+  "guid": "53677ed109594fc4c8bc6a909c702b12",
+  "filename": "Meditation",
+  "ID": 826,
+  "Name": "Meditation",
+  "Icon": "icon_meditate",
+  "Description": "Whenever this Monster spends a turn without attacking an enemy, it gains {0} {Charge} stacks.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ChargeStacks": 5
+}

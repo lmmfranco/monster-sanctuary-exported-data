@@ -1,0 +1,12 @@
+{
+  "guid": "33df542f39a86214ba7b134cf39d3820",
+  "filename": "EarthResistance",
+  "ID": 273,
+  "Name": "Earth Resistance",
+  "Icon": "icon_earth_resistance",
+  "Description": "Earth damage reduced by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 4,
+  "Modifier": -0.5
+}

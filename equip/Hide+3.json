@@ -1,0 +1,47 @@
+{
+  "guid": "bb9a3e0229e64e24d802eb90b5263e66",
+  "filename": "Hide+3",
+  "ID": 773,
+  "Name": "Hide",
+  "Price": 1000,
+  "Type": 1,
+  "Icon": "icon_hide",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 38,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 370,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1186702286871297,
+    "guid": "c998636e4417e0f4ca871dfbedd65815",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1177786864638448,
+        "guid": "4f367a9a0c470a1428609d362cb71fab",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1175341146284385,
+        "guid": "c40f1bca0d04ad54fb6bf1dfb5be9c2b",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

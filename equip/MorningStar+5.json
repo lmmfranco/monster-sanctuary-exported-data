@@ -1,0 +1,28 @@
+{
+  "guid": "ca3b7dc8f84b0db479f07a32d8995860",
+  "filename": "MorningStar+5",
+  "ID": 1515,
+  "Name": "Morning Star",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_morning_star",
+  "Attack": 250,
+  "Magic": 0,
+  "Defense": 70,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

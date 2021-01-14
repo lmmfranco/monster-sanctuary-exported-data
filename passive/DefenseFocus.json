@@ -1,0 +1,12 @@
+{
+  "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+  "filename": "DefenseFocus",
+  "ID": 623,
+  "Name": "Defense Focus",
+  "Icon": "icon_defense_focus",
+  "Description": "Defense from equipment increased by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 2,
+  "Bonus": 0.25
+}

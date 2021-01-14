@@ -1,0 +1,28 @@
+{
+  "guid": "9f2c841ce52408b4c81380e8b383b792",
+  "filename": "Fang+5",
+  "ID": 1493,
+  "Name": "Fang",
+  "Price": 2400,
+  "Type": 5,
+  "Icon": "icon_fang",
+  "Attack": 50,
+  "Magic": 50,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

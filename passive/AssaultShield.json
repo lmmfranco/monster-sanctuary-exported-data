@@ -1,0 +1,11 @@
+{
+  "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
+  "filename": "AssaultShield",
+  "ID": 909,
+  "Name": "Assault Shield",
+  "Icon": "icon_dark_passive",
+  "Description": "Shield by {0%} of the damage dealt to enemies by critical hits.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ShieldPercent": 0.25
+}

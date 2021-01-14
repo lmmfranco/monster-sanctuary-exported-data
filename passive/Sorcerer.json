@@ -1,0 +1,13 @@
+{
+  "guid": "a0f2d5d1fc24e0e469c9c42b4e469711",
+  "filename": "Sorcerer",
+  "ID": 958,
+  "Name": "Sorcerer",
+  "Icon": "icon_sorcerer",
+  "Description": "When exploiting an enemy's weakness with an attack, gain {Sorcery} (Buff) and shield self by {0%} of this monster's Magic value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "RandomBuff": 0,
+  "Buff": 1,
+  "Shield": 0.5
+}

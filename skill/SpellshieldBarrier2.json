@@ -1,0 +1,36 @@
+{
+  "guid": "d7270b208094b504295809182193e119",
+  "filename": "SpellshieldBarrier2",
+  "ID": 717,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 110,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114278897827431490,
+    "guid": "919ffd38838759a4a9ca64d57a046e81",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 700000008000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 2,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

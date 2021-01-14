@@ -1,0 +1,10 @@
+{
+  "guid": "78761796c485a744d8c398ca44e62fd7",
+  "filename": "MasterOfTime",
+  "ID": 1690,
+  "Name": "Master of Time",
+  "Icon": "icon_master_of_time",
+  "Description": "Monsters with {Aging} start the combat with a {Age} stack.",
+  "IsAura": 1,
+  "IsUnique": 0
+}

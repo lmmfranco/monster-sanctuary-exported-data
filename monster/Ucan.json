@@ -1,0 +1,531 @@
+{
+  "guid": "2092db3d2b8958546a4ff320d81cb552",
+  "filename": "Ucan",
+  "ID": 992,
+  "Name": "Ucan",
+  "baseStats": {
+    "attack": 5,
+    "magic": 4,
+    "defense": 9,
+    "health": 3,
+    "mana": 3
+  },
+  "lightShift": {
+    "attack": 1,
+    "magic": 2,
+    "defense": 1,
+    "health": 1,
+    "mana": 2
+  },
+  "darkShift": {
+    "attack": 2,
+    "magic": 1,
+    "defense": 1,
+    "health": 2,
+    "mana": 1
+  },
+  "PortraitOffset": {
+    "x": 2,
+    "true": -22
+  },
+  "DifficultyRating": 3,
+  "ArmyRating": 4,
+  "RewardsCommon": [
+    {
+      "fileID": 1228674597675685,
+      "guid": "ec42765b0f0ac504b957de435fb0b70d",
+      "type": 2
+    },
+    {
+      "fileID": 1168011990567236,
+      "guid": "ff548838b039fa74bbc9ee164dbfb189",
+      "type": 2
+    }
+  ],
+  "RewardsRare": [
+    {
+      "fileID": 1236254572456791,
+      "guid": "907eade581dbacc4ebbf3880173e9561",
+      "type": 2
+    },
+    {
+      "fileID": 1888934208528560,
+      "guid": "fb0a27b612bf40d418b12d472f63c11d",
+      "type": 2
+    },
+    {
+      "fileID": 1925455602706111,
+      "guid": "96d1d2a2cdeb86946b3c0c9479be1784",
+      "type": 2
+    }
+  ],
+  "StartLevel": 25,
+  "FlyingOffset": 0,
+  "MenuOffset": 0,
+  "FlyingWaveMovement": 1,
+  "JumpOffset": 0,
+  "JumpFrequence": 0.4,
+  "ShowParticlesInMenus": 1,
+  "ExploreAction": {
+    "fileID": 1646865771904386,
+    "guid": "5e4718a36983e1d429bfb52dd7ed90b3",
+    "type": 2
+  },
+  "ExploreActionMountAbility": {
+    "fileID": 0
+  },
+  "ExploreActionExploreAbility": {
+    "fileID": 0
+  },
+  "CenterOffset": {
+    "x": 0,
+    "true": -0.3
+  },
+  "PortraitAnimation": {
+    "fileID": 0
+  },
+  "TargetArrowOffest": {
+    "x": -12,
+    "true": -20,
+    "z": 0
+  },
+  "MonsterTypes": "0100000007000000",
+  "NormalParticles": [],
+  "LightParticles": [],
+  "DarkParticles": [],
+  "SpecialEvolutionId": 0,
+  "MonsterSize": 0,
+  "_IsEvolved": 0,
+  "BaseSkills": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    },
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    },
+    {
+      "fileID": 1235566984996252,
+      "guid": "1f71489026c4c3246958ae27b3a4d858",
+      "type": 2
+    },
+    {
+      "fileID": 1258413002648111,
+      "guid": "bfebd570b947a6843a0622aaac421b1e",
+      "type": 2
+    }
+  ],
+  "AISkills": [
+    {
+      "fileID": 1540371717427710,
+      "guid": "9538ea000ca8f7648acb1326656c23c0",
+      "type": 2
+    },
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1364225258629551,
+      "guid": "b538a799480407449a13bdc6b9538de8",
+      "type": 2
+    }
+  ],
+  "AdvancedAILevelReq": 10,
+  "AdvancedAISkills": [],
+  "ChampionSkills": [],
+  "Ultimates": [
+    {
+      "fileID": 1182325921986758,
+      "guid": "007babbec951ac748818cf081461ebf5",
+      "type": 2
+    },
+    {
+      "fileID": 1474760996618337,
+      "guid": "570c5b05428d3da4ead4850722381e34",
+      "type": 2
+    },
+    {
+      "fileID": 1355557311080169,
+      "guid": "bb6329f7769979142adf53903fd13152",
+      "type": 2
+    }
+  ],
+  "LightSkill": {
+    "fileID": 1376515897454561,
+    "guid": "cda98e846c5071441a02f59adaae4a98",
+    "type": 2
+  },
+  "DarkSkill": {
+    "fileID": 1503838595204771,
+    "guid": "bb28e6b3ea493a64cb8c0e1d9d78e124",
+    "type": 2
+  },
+  "Tier1Skills": [
+    {
+      "fileID": 1246640935719246,
+      "guid": "898f82535841d4c4cb00919f684e5888",
+      "type": 2
+    }
+  ],
+  "Tier2Skills": [
+    {
+      "fileID": 1177920882222364,
+      "guid": "2e9f8a647c4722f449565fde2e32ef9d",
+      "type": 2
+    },
+    {
+      "fileID": 1552734767132386,
+      "guid": "54129cbd956f728439166f5039289607",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    },
+    {
+      "fileID": 1952492804426668,
+      "guid": "40e2f9dfd79213345bfab7772d0b16c7",
+      "type": 2
+    },
+    {
+      "fileID": 1000289298098539,
+      "guid": "0be72a53fb5fb004daf6b46ff147d56c",
+      "type": 2
+    }
+  ],
+  "Tier3Skills": [
+    {
+      "fileID": 1263765811182381,
+      "guid": "275997d5f64365143b3f7c66063ee5fa",
+      "type": 2
+    },
+    {
+      "fileID": 1531590619305270,
+      "guid": "46b3b99c2fa04e74f8360968548b2d36",
+      "type": 2
+    },
+    {
+      "fileID": 1540371717427710,
+      "guid": "9538ea000ca8f7648acb1326656c23c0",
+      "type": 2
+    },
+    {
+      "fileID": 1556460388143024,
+      "guid": "cbc6690a0b196a040a53ce7859fd7eaf",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    }
+  ],
+  "Tier4Skills": [
+    {
+      "fileID": 1085898870576219,
+      "guid": "bc6455fb2e1d6ef48abb141124ab08a6",
+      "type": 2
+    },
+    {
+      "fileID": 1479835260779578,
+      "guid": "12a081403be777643a91348c0eeb3926",
+      "type": 2
+    },
+    {
+      "fileID": 1736120510097186,
+      "guid": "3d3134b58829f1048a097f4787b691bf",
+      "type": 2
+    },
+    {
+      "fileID": 1847891192154843,
+      "guid": "6100c6c9d3269e044aeed028aa8ba091",
+      "type": 2
+    },
+    {
+      "fileID": 1045380738378522,
+      "guid": "2fb15177ce475f0479d89fad961d3c35",
+      "type": 2
+    }
+  ],
+  "Tier5Skills": [
+    {
+      "fileID": 1832505366857474,
+      "guid": "3453d53376b1fbd4ba1dfff8a57584cb",
+      "type": 2
+    },
+    {
+      "fileID": 1366176079209518,
+      "guid": "7411558f11dafb740bc0d00b135bea22",
+      "type": 2
+    },
+    {
+      "fileID": 1769497785163575,
+      "guid": "fe5a46ccc63541142979f52003ce9554",
+      "type": 2
+    },
+    {
+      "fileID": 1932244800654605,
+      "guid": "efe75013f72dec94095cbb9defa22a89",
+      "type": 2
+    },
+    {
+      "fileID": 1107225715918854,
+      "guid": "186abcea8da142b4086d311974b8ecfd",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__1": [
+    {
+      "fileID": 1592479484854494,
+      "guid": "3a5a5f244375a574d8bba6a09a1fed38",
+      "type": 2
+    },
+    {
+      "fileID": 1041921087063662,
+      "guid": "d8fc1d29907bf79458d281d25aaf118f",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__1": [
+    {
+      "fileID": 1342103471352290,
+      "guid": "6ab296dcadda2774aa75c3c75ace25e7",
+      "type": 2
+    },
+    {
+      "fileID": 1290353083516400,
+      "guid": "2f2d6a77a3f3604468cdb44a0b8464fc",
+      "type": 2
+    },
+    {
+      "fileID": 1832746634248003,
+      "guid": "f746d869a51636f4a8909ed281cc8a10",
+      "type": 2
+    },
+    {
+      "fileID": 1568630805100999,
+      "guid": "b8cf7e81d40b8b443b00a36ce2bbc4f2",
+      "type": 2
+    },
+    {
+      "fileID": 1237978282911539,
+      "guid": "3fc65e16e3c40574f8c7ce449acdc6a2",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__1": [
+    {
+      "fileID": 1663534110222255,
+      "guid": "91344f43ef222f3429aa3ff1629cc622",
+      "type": 2
+    },
+    {
+      "fileID": 1771259774753860,
+      "guid": "f8c9416d0e873654dace3be5a67e6d21",
+      "type": 2
+    },
+    {
+      "fileID": 1642336900286206,
+      "guid": "ce1c68724db3d4c4792c458bdcc69059",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1293474823210222,
+      "guid": "1c6bda72a1456034fadbeb75782b4bcb",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__1": [
+    {
+      "fileID": 1373500535463777,
+      "guid": "c71dcc97d8b97de49a4e192427220b03",
+      "type": 2
+    },
+    {
+      "fileID": 1744760869216214,
+      "guid": "7bfaa72e27020184a8c496a545a431c3",
+      "type": 2
+    },
+    {
+      "fileID": 1561268858987755,
+      "guid": "f66d6c8d3cd844a44bd210e3e9336022",
+      "type": 2
+    },
+    {
+      "fileID": 1918707403924769,
+      "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+      "type": 2
+    },
+    {
+      "fileID": 1524496246187395,
+      "guid": "06abbb3af410e3e4f8996d41d470fbd2",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__1": [
+    {
+      "fileID": 1227892271767198,
+      "guid": "08ec6b6b379ec274980ae2537ed7e146",
+      "type": 2
+    },
+    {
+      "fileID": 1944792777816295,
+      "guid": "158b5d525bf635343b12ea2a760c85c9",
+      "type": 2
+    },
+    {
+      "fileID": 1512631475066081,
+      "guid": "7fa0745bd0f84464795eecde9ed0f880",
+      "type": 2
+    },
+    {
+      "fileID": 1881448870977432,
+      "guid": "08abadc05f84ea6408783e043d6733c3",
+      "type": 2
+    },
+    {
+      "fileID": 1046187329209521,
+      "guid": "be50d663a2c42184a9127c2922bdebf1",
+      "type": 2
+    }
+  ],
+  "Tier1Skills__2": [
+    {
+      "fileID": 1848976509214236,
+      "guid": "7163a4c1b4d4d004d88283230565969e",
+      "type": 2
+    },
+    {
+      "fileID": 1294081525078999,
+      "guid": "a6ea0f86860d5fe4c98bd14eb02092a3",
+      "type": 2
+    }
+  ],
+  "Tier2Skills__2": [
+    {
+      "fileID": 1463412809545659,
+      "guid": "f3d938faece17a2429bcd55e309aaf14",
+      "type": 2
+    },
+    {
+      "fileID": 1166700931844015,
+      "guid": "bb87f8ec591a48542b4b11d264df3ca2",
+      "type": 2
+    },
+    {
+      "fileID": 1429726441863601,
+      "guid": "152c0ccea3345f34a81f9550e91dfe99",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1820887428238536,
+      "guid": "c0f04913ac7478f4582320009ffce283",
+      "type": 2
+    }
+  ],
+  "Tier3Skills__2": [
+    {
+      "fileID": 1652284444858300,
+      "guid": "0ac872afa76c8b4459d4e6799ad3034b",
+      "type": 2
+    },
+    {
+      "fileID": 1069374143054781,
+      "guid": "7bcf76ba61ac7b84fbc78a1b7a134234",
+      "type": 2
+    },
+    {
+      "fileID": 1955550795575206,
+      "guid": "6cf7e2dc91e400444912d62d1683a836",
+      "type": 2
+    },
+    {
+      "fileID": 1740225412336563,
+      "guid": "8b3a6d153875a274b825a6c57beff6b8",
+      "type": 2
+    },
+    {
+      "fileID": 1394754103647575,
+      "guid": "fb3aa00192b75004d983fcafdcbfaf5c",
+      "type": 2
+    }
+  ],
+  "Tier4Skills__2": [
+    {
+      "fileID": 1508933053776606,
+      "guid": "a18e84a776064114da920d2f3a7ffa60",
+      "type": 2
+    },
+    {
+      "fileID": 1187696725028145,
+      "guid": "b5840a7ca029c9e42a483f134e2921ac",
+      "type": 2
+    },
+    {
+      "fileID": 1843815530327542,
+      "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
+      "type": 2
+    },
+    {
+      "fileID": 1806701225140974,
+      "guid": "c5c2ea0239931eb4aa6db2c5ec1e94a3",
+      "type": 2
+    },
+    {
+      "fileID": 1402465891394524,
+      "guid": "fe5c30d98be25a946950cebaa7adf1ee",
+      "type": 2
+    }
+  ],
+  "Tier5Skills__2": [
+    {
+      "fileID": 1963505432697705,
+      "guid": "ac0ea733f164cdd4a871b0e4e0e0b727",
+      "type": 2
+    },
+    {
+      "fileID": 1861702132057264,
+      "guid": "990796bc5298a4641bc204f2f9650fcf",
+      "type": 2
+    },
+    {
+      "fileID": 1558531059421907,
+      "guid": "ddb395b5c6e09f94fafbdd05c5b8078f",
+      "type": 2
+    },
+    {
+      "fileID": 1490918961562267,
+      "guid": "75a41b42fb65a7e43965a81e0b33bda8",
+      "type": 2
+    },
+    {
+      "fileID": 1296165490498852,
+      "guid": "1639172c2d846294bbe0885a54593ae7",
+      "type": 2
+    }
+  ],
+  "Bio": "Ucans are giant hostile crab-like Monsters that possess a few peculiar traits. Their thick, unruly fur mainly serves the purposes of heat insulation and protection against the elements, allowing them to adapt to all types of different environments. Their ancient fossils can be found all across the world, including the snowy arctic and the vast blazing deserts. Their exoskeletons are extremely tough, but they don't grow with their wearers - meaning a Ucan has to shed its exoskeleton several times in its life and grow a new one each time.",
+  "History": "It is believed that Ucans were bio-engineered millions of years ago by the otherworldly Elderjels - as is written in the ancient tome of demons, Ahrimaaya. They served as workers and gatherers, sent out to all corners of the Earth to collect rare minerals that the Elderjels required. The Ucans thus laid the foundation of the mighty ancient Elderjel empire. However, when the Ucans were ordered to attack their fellow ocean Monsters, they were the first of the Elderjels' minions to rebel against their masters. Despite eons of servitude, they remained true to their original nature and so it is known that Ucans owe their allegiance only to the ocean itself.",
+  "StatOrientation": 2
+}

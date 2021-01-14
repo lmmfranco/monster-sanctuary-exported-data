@@ -1,0 +1,11 @@
+{
+  "guid": "45c655574600f9f40a3f586ec223aa84",
+  "filename": "SevereUpkeep",
+  "ID": 880,
+  "Name": "Severe Upkeep",
+  "Icon": "icon_severe_upkeep",
+  "Description": "Whenever an enemy takes {Poison} or {Burn} (Debuff) damage, {0%} chance to inflict a {Wound} stack on them.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "TriggerChance": 0.5
+}

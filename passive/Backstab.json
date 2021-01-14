@@ -1,0 +1,12 @@
+{
+  "guid": "36ffdce8b7324c147ae5de883393a2dd",
+  "filename": "Backstab",
+  "ID": 1599,
+  "Name": "Backstab",
+  "Icon": "icon_backstab",
+  "Description": "Hits against enemies with full health deal {0%} more damage and have {1%} increased critical hit chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageIncrease": 0.2,
+  "CritChanceIncrease": 0.1
+}

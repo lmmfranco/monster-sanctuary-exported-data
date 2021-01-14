@@ -1,0 +1,11 @@
+{
+  "guid": "a9f6d4a80e9e3fa4984fb350568b59ea",
+  "filename": "ImprovedAssault",
+  "ID": 959,
+  "Name": "Improved Assault",
+  "Icon": "icon_improved_assault",
+  "Description": "Every Monster in the party deals {0%} increased damage for each {Might}, {Sorcery} and {Glory} Buff on them.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.03
+}

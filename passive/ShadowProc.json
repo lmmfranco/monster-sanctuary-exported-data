@@ -1,0 +1,20 @@
+{
+  "guid": "00dc91af69a4d9a4aa901041bf27db39",
+  "filename": "ShadowProc",
+  "ID": 913,
+  "Name": "Shadow Proc",
+  "Icon": "icon_dark_passive",
+  "Description": "Every attack triggers an additional hit equal to {0%} of Attack or Magic value. (Depending on the attack)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0.6,
+  "StatScaling": 0,
+  "ScaleStat": 0,
+  "AnimElement": {
+    "fileID": 1817205268642835,
+    "guid": "2462e370e9876324aaf914517330c440",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

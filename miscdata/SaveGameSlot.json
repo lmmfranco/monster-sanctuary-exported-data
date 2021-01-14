@@ -1,0 +1,724 @@
+{
+  "guid": "c1631a26c3b099f40a46a15ef7902331",
+  "filename": "SaveGameSlot",
+  "PlayerSprite": {
+    "fileID": 114680592968122620
+  },
+  "PlayerAnimator": {
+    "fileID": 114885009952447580
+  },
+  "PlayerName": {
+    "fileID": 114348884080635280
+  },
+  "EmptyTag": {
+    "fileID": 114638610296471620
+  },
+  "Root": {
+    "fileID": 1664564772003554
+  },
+  "Monsters": [
+    {
+      "fileID": 114288841645344540
+    },
+    {
+      "fileID": 114861403095990580
+    },
+    {
+      "fileID": 114761668334849420
+    },
+    {
+      "fileID": 114715327845428050
+    },
+    {
+      "fileID": 114080025736173500
+    },
+    {
+      "fileID": 114672508233391490
+    }
+  ],
+  "MenuListItem": {
+    "fileID": 114642133900884940
+  },
+  "text": {
+    "fileID": 0
+  },
+  "icon": {
+    "fileID": 0
+  },
+  "background": {
+    "fileID": 114317417627229040
+  },
+  "infoText": {
+    "fileID": 0
+  },
+  "iconInfo": {
+    "fileID": 0
+  },
+  "ExpandableRoot": {
+    "fileID": 1664564772003554
+  },
+  "DisplayWhenEmpty": 1,
+  "UpdateColors": 1,
+  "ExpandBackgroundDimension": 1,
+  "ExpandedItemSize": {
+    "x": 302,
+    "true": 62
+  },
+  "ShrinkedItemSize": {
+    "x": 62,
+    "true": 62
+  },
+  "DisabledInfoTextCol": {
+    "r": 0.3,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1
+  },
+  "boundingSprite": {
+    "fileID": 114317417627229040
+  },
+  "AdditionalElements": [],
+  "IconGO": {
+    "fileID": 1841145411649255
+  },
+  "_font": {
+    "fileID": 0
+  },
+  "_text": null,
+  "_color": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient": 0,
+  "_textureGradient": 0,
+  "_anchor": 6,
+  "_scale": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning": 0,
+  "_maxChars": 16,
+  "_inlineStyling": 0,
+  "_formatting": 0,
+  "_wordWrapWidth": 0,
+  "spacing": 0,
+  "lineSpacing": 0,
+  "data": {
+    "version": 1,
+    "font": {
+      "fileID": 114467711090922690,
+      "guid": "acf79975dce340444a671e07da8c5774",
+      "type": 2
+    },
+    "text": "Empty",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "_font__1": {
+    "fileID": 0
+  },
+  "_text__1": null,
+  "_color__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__1": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__1": 0,
+  "_textureGradient__1": 0,
+  "_anchor__1": 6,
+  "_scale__1": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__1": 0,
+  "_maxChars__1": 16,
+  "_inlineStyling__1": 0,
+  "_formatting__1": 0,
+  "_wordWrapWidth__1": 0,
+  "spacing__1": 0,
+  "lineSpacing__1": 0,
+  "data__1": {
+    "version": 1,
+    "font": {
+      "fileID": 114467711090922690,
+      "guid": "acf79975dce340444a671e07da8c5774",
+      "type": 2
+    },
+    "text": "Sersch",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.4980392,
+      "b": 0.4980392,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 3,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "MonsterSprite": {
+    "fileID": 114640789998004420
+  },
+  "Level": {
+    "fileID": 114147483139619020
+  },
+  "MonsterAnimator": {
+    "fileID": 114969630026601580
+  },
+  "_font__2": {
+    "fileID": 0
+  },
+  "_text__2": null,
+  "_color__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__2": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__2": 0,
+  "_textureGradient__2": 0,
+  "_anchor__2": 6,
+  "_scale__2": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__2": 0,
+  "_maxChars__2": 16,
+  "_inlineStyling__2": 0,
+  "_formatting__2": 0,
+  "_wordWrapWidth__2": 0,
+  "spacing__2": 0,
+  "lineSpacing__2": 0,
+  "data__2": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor": 0,
+  "TargetColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "MonsterSprite__1": {
+    "fileID": 114222719695573010
+  },
+  "Level__1": {
+    "fileID": 114566266115927150
+  },
+  "MonsterAnimator__1": {
+    "fileID": 114494705579774540
+  },
+  "_font__3": {
+    "fileID": 0
+  },
+  "_text__3": null,
+  "_color__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__3": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__3": 0,
+  "_textureGradient__3": 0,
+  "_anchor__3": 6,
+  "_scale__3": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__3": 0,
+  "_maxChars__3": 16,
+  "_inlineStyling__3": 0,
+  "_formatting__3": 0,
+  "_wordWrapWidth__3": 0,
+  "spacing__3": 0,
+  "lineSpacing__3": 0,
+  "data__3": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor__1": 0,
+  "TargetColor__1": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "MonsterSprite__2": {
+    "fileID": 114203025998928560
+  },
+  "Level__2": {
+    "fileID": 114460777454500210
+  },
+  "MonsterAnimator__2": {
+    "fileID": 114639360829349620
+  },
+  "_font__4": {
+    "fileID": 0
+  },
+  "_text__4": null,
+  "_color__4": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__4": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__4": 0,
+  "_textureGradient__4": 0,
+  "_anchor__4": 6,
+  "_scale__4": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__4": 0,
+  "_maxChars__4": 16,
+  "_inlineStyling__4": 0,
+  "_formatting__4": 0,
+  "_wordWrapWidth__4": 0,
+  "spacing__4": 0,
+  "lineSpacing__4": 0,
+  "data__4": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor__2": 0,
+  "TargetColor__2": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "MonsterSprite__3": {
+    "fileID": 114080029303888880
+  },
+  "Level__3": {
+    "fileID": 114894716994156670
+  },
+  "MonsterAnimator__3": {
+    "fileID": 114090289506385120
+  },
+  "_font__5": {
+    "fileID": 0
+  },
+  "_text__5": null,
+  "_color__5": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__5": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__5": 0,
+  "_textureGradient__5": 0,
+  "_anchor__5": 6,
+  "_scale__5": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__5": 0,
+  "_maxChars__5": 16,
+  "_inlineStyling__5": 0,
+  "_formatting__5": 0,
+  "_wordWrapWidth__5": 0,
+  "spacing__5": 0,
+  "lineSpacing__5": 0,
+  "data__5": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor__3": 0,
+  "TargetColor__3": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "MonsterSprite__4": {
+    "fileID": 114231573700187420
+  },
+  "Level__4": {
+    "fileID": 114975042356911840
+  },
+  "MonsterAnimator__4": {
+    "fileID": 114941941671946830
+  },
+  "_font__6": {
+    "fileID": 0
+  },
+  "_text__6": null,
+  "_color__6": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__6": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__6": 0,
+  "_textureGradient__6": 0,
+  "_anchor__6": 6,
+  "_scale__6": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__6": 0,
+  "_maxChars__6": 16,
+  "_inlineStyling__6": 0,
+  "_formatting__6": 0,
+  "_wordWrapWidth__6": 0,
+  "spacing__6": 0,
+  "lineSpacing__6": 0,
+  "data__6": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor__4": 0,
+  "TargetColor__4": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "MonsterSprite__5": {
+    "fileID": 114994988073162000
+  },
+  "Level__5": {
+    "fileID": 114816454722922690
+  },
+  "MonsterAnimator__5": {
+    "fileID": 114610301338280320
+  },
+  "_font__7": {
+    "fileID": 0
+  },
+  "_text__7": null,
+  "_color__7": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_color2__7": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 1
+  },
+  "_useGradient__7": 0,
+  "_textureGradient__7": 0,
+  "_anchor__7": 6,
+  "_scale__7": {
+    "x": 1,
+    "true": 1,
+    "z": 1
+  },
+  "_kerning__7": 0,
+  "_maxChars__7": 16,
+  "_inlineStyling__7": 0,
+  "_formatting__7": 0,
+  "_wordWrapWidth__7": 0,
+  "spacing__7": 0,
+  "lineSpacing__7": 0,
+  "data__7": {
+    "version": 1,
+    "font": {
+      "fileID": 114664072912211470,
+      "guid": "dbb9b26438811c842897a5e87891c523",
+      "type": 2
+    },
+    "text": "Lvl 50",
+    "color": {
+      "r": 0.4980392,
+      "g": 0.3137255,
+      "b": 0,
+      "a": 1
+    },
+    "color2": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "useGradient": 0,
+    "textureGradient": 0,
+    "anchor": 4,
+    "renderLayer": 0,
+    "scale": {
+      "x": 1,
+      "true": 1,
+      "z": 1
+    },
+    "kerning": 0,
+    "maxChars": 16,
+    "inlineStyling": 0,
+    "formatting": 0,
+    "wordWrapWidth": 0,
+    "spacing": 0,
+    "lineSpacing": 0
+  },
+  "OverwriteTargetColor__5": 0,
+  "TargetColor__5": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "guid": "ce97221523b2e2b4cbb5e750fdfe105e",
+  "filename": "Cascade",
+  "ID": 219,
+  "Name": "Cascade",
+  "Icon": "icon_cascade",
+  "Description": "The power of every consecutive hit during an ability is increased by {0%} continuously. (For a 4 hit attack: +0%, +5%, +10%, +15%)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.05
+}

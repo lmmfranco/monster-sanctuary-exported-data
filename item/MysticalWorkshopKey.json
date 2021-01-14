@@ -1,0 +1,12 @@
+{
+  "guid": "af907fee8a53d474ca6e0a4a287e9193",
+  "filename": "MysticalWorkshopKey",
+  "ID": 1539,
+  "Name": "Mystical Workshop key",
+  "Price": 0,
+  "Area": {
+    "fileID": 1989271573907639,
+    "guid": "ba381da68a6ef5b49975d3a494a394a1",
+    "type": 2
+  }
+}

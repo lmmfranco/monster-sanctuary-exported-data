@@ -1,0 +1,28 @@
+{
+  "guid": "4add5ac0879a2914fa2e2f5afaa87456",
+  "filename": "Bandana+5",
+  "ID": 1486,
+  "Name": "Bandana",
+  "Price": 2300,
+  "Type": 2,
+  "Icon": "icon_bandana",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 70,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

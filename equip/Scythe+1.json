@@ -1,0 +1,47 @@
+{
+  "guid": "02f5790368f99a949868a0073af667da",
+  "filename": "Scythe+1",
+  "ID": 1358,
+  "Name": "Scythe",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_scythe",
+  "Attack": 45,
+  "Magic": 55,
+  "Defense": 0,
+  "CritChance": 0.04,
+  "CritDamage": 0.17,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1812885226882286,
+    "guid": "6410abe0208e47748bd745da600584be",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1095882204890249,
+        "guid": "4260bad0d04fad04083cee2fdf1c6b1c",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

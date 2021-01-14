@@ -1,0 +1,11 @@
+{
+  "guid": "f7ffe5899d01e66409488e4a0fa02c95",
+  "filename": "Devour",
+  "ID": 1549,
+  "Name": "Devour",
+  "Icon": "icon_devour",
+  "Description": "Whenever this Monster knocks out an enemy Monster, it's healed by {0%} of that Monster's Max Health.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealAmount": 0.25
+}

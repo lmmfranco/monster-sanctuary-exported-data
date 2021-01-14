@@ -1,0 +1,11 @@
+{
+  "guid": "2770d735cc6471b489bcccdec9dd36e3",
+  "filename": "WindAllegiance",
+  "ID": 1530,
+  "Name": "Wind Allegiance",
+  "Icon": "icon_wind_allegiance",
+  "Description": "Converts the element of all Neutral attacks to Wind. Wind attacks ignore Wind resistance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ToElement": 3
+}

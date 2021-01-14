@@ -1,0 +1,29 @@
+{
+  "guid": "5b89f0a2332913946a1f84f57beb04af",
+  "filename": "Hourglass+5",
+  "ID": 1700,
+  "Name": "Hourglass",
+  "Price": 5500,
+  "Type": 5,
+  "Icon": "icon_hourglass",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 400,
+  "Mana": 35,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "AgeBonusValue": 0.33
+}

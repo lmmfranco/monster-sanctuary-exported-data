@@ -1,0 +1,28 @@
+{
+  "guid": "7aa8400007215524cb82431fcc300643",
+  "filename": "Coat+5",
+  "ID": 1356,
+  "Name": "Coat",
+  "Price": 2400,
+  "Type": 1,
+  "Icon": "icon_coat",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.1,
+  "CritDamage": 0,
+  "Health": 700,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

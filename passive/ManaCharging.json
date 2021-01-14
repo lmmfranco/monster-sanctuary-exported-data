@@ -1,0 +1,11 @@
+{
+  "guid": "bbdf6ff6d91e6874682aec5109c90b99",
+  "filename": "ManaCharging",
+  "ID": 1445,
+  "Name": "Mana Charging",
+  "Icon": "icon_mana_charging",
+  "Description": "For every {0} Mana regenerated, gain a {Charge} stack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ManaThreshhold": 40
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "6536bbe355615e54098b4d69c8ae4cb2",
+  "filename": "GryphonixEgg",
+  "ID": 1732,
+  "Name": null,
+  "Price": 2000,
+  "Monster": {
+    "fileID": 1213487747202516,
+    "guid": "c0d662924de974e42baf090df6134278",
+    "type": 2
+  }
+}

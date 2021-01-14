@@ -1,0 +1,12 @@
+{
+  "guid": "0b9c4157448164b42a378074e35cdcd2",
+  "filename": "PrimalRage",
+  "ID": 1746,
+  "Name": "Primal Rage",
+  "Icon": "icon_primal_rage",
+  "Description": "Increases the damage dealt by {0%} and additional {1%} for every {Age} stack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.05,
+  "DamagePerAge": 0.05
+}

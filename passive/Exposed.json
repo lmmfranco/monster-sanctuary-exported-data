@@ -1,0 +1,12 @@
+{
+  "guid": "10bf83375589a3b45a70621726749d94",
+  "filename": "Exposed",
+  "ID": 1104,
+  "Name": "Exposed",
+  "Icon": "icon_exposed",
+  "Description": "Your Monsters deal {0%} more damage when attacking an enemy with {Blind} stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Buff": 8,
+  "DamageBonus": 0.15
+}

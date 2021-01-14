@@ -1,0 +1,12 @@
+{
+  "guid": "4f6c6ed25e849bc4dbbee4f8426afc2a",
+  "filename": "TricksterSpirit",
+  "ID": 1159,
+  "Name": "Trickster Spirit",
+  "Icon": "icon_trickster_spirit",
+  "Description": "Whenever a {Spirit} Monster in the party applies a Buff or a Debuff, it is shielded by {0%} of its Max Health.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ShieldAmount": 0.03,
+  "TypeRestriction": 5
+}

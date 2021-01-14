@@ -1,0 +1,44 @@
+{
+  "guid": "27f835887a9c95c49ad29cf6bc39ef82",
+  "filename": "IgniteExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Ignite",
+  "Description": "- Burns vines\n- Enkindles torches\n- Activates fire orbs",
+  "AnimElement": {
+    "fileID": 1544593691192089,
+    "guid": "3f1ec67f4aeec6046a1e309f4acd5287",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 16,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.3
+  ],
+  "HitBox": {
+    "x": 40,
+    "true": 40
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 73786993887026090000
+}

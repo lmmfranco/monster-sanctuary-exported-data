@@ -1,0 +1,11 @@
+{
+  "guid": "07468b124d53ae741854a6b43a9bb6e1",
+  "filename": "Hex",
+  "ID": 527,
+  "Name": "Hex",
+  "Icon": "icon_hex",
+  "Description": "Every hit has a {0%} chance to apply a random Debuff.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.075
+}

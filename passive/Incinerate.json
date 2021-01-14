@@ -1,0 +1,13 @@
+{
+  "guid": "608b3a8ebf38a934abe83761558889bb",
+  "filename": "Incinerate",
+  "ID": 416,
+  "Name": "Incinerate",
+  "Icon": "icon_incinerate",
+  "Description": "When an enemy takes {Burn} (Debuff) damage, {0%} chance to apply {Armor Break}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DebuffTrigger": 4,
+  "Chance": 0.4,
+  "AppliedDebuff": 5
+}

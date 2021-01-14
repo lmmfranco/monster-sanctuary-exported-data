@@ -1,0 +1,11 @@
+{
+  "guid": "4a5090eeef5db9549adad38e94ac3d86",
+  "filename": "PoisonedNerves",
+  "ID": 1132,
+  "Name": "Poisoned Nerves",
+  "Icon": "icon_poisoned_nerves",
+  "Description": "{Poison} (Debuff) also reduces enemy's Mana Regeneration by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ManaRegenReduction": 0.1
+}

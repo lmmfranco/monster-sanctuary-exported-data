@@ -1,0 +1,12 @@
+{
+  "guid": "9fb3eeb68430b924a8e711072754eb5c",
+  "filename": "Peanut",
+  "ID": 1351,
+  "Name": "Peanut",
+  "Price": 500,
+  "Icon": "icon_peanut",
+  "Description": null,
+  "Stat": 2,
+  "Amount": 25,
+  "Level": 4
+}

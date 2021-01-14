@@ -1,0 +1,12 @@
+{
+  "guid": "ce64bfdcfef05ab47af19607f4889ab3",
+  "filename": "ElementalShift",
+  "ID": 593,
+  "Name": "Elemental Shift",
+  "Icon": "icon_elemental_shift",
+  "Description": "When this Monster attacks, it changes its resistance to the element of the attack. The weakness becomes the opposite element.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ResistMultiplier": -0.5,
+  "WeakMultiplier": 0.5
+}

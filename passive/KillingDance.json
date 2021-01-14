@@ -1,0 +1,11 @@
+{
+  "guid": "7d0156b4b82f7454990b5f01753d5df4",
+  "filename": "KillingDance",
+  "ID": 851,
+  "Name": "Killing Dance",
+  "Icon": "icon_killing_dance",
+  "Description": "Whenever this Monster knocks an enemy out, it gains {0} {Charge} stacks and it regains half of the {Charge} stacks it used up during the attack.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ChargeStacks": 3
+}

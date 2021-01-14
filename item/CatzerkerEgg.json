@@ -1,0 +1,12 @@
+{
+  "guid": "1348ac757402e2049ae9a68f398e4218",
+  "filename": "CatzerkerEgg",
+  "ID": 44,
+  "Name": null,
+  "Price": 300,
+  "Monster": {
+    "fileID": 1635689998208868,
+    "guid": "11a63779e5a63a845a786c62e09045fb",
+    "type": 2
+  }
+}

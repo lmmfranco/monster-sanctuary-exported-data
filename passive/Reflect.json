@@ -1,0 +1,12 @@
+{
+  "guid": "bb5b80bb22669f947bbdae48e39ab395",
+  "filename": "Reflect",
+  "ID": 431,
+  "Name": "Reflect",
+  "Icon": "icon_reflect",
+  "Description": "When getting attacked, reflect {0%} ({1%} in Keeper Battles) of the damage back to the attacker. (Reflected damage isn't affected by any modifiers)",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ReflectAmount": 0.4,
+  "ReflectKeeperBattles": 0.2
+}

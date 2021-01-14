@@ -1,0 +1,12 @@
+{
+  "guid": "648b0b96c81ae5047847cb0700580dcf",
+  "filename": "TanukiEgg",
+  "ID": 943,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1629429982774481,
+    "guid": "e1c8149fd14934b48ade31fe8480396e",
+    "type": 2
+  }
+}

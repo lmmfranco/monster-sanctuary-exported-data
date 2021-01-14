@@ -1,0 +1,43 @@
+{
+  "guid": "720ba79a06200fa408f7c271ff25c5b8",
+  "filename": "Fonts",
+  "version": 3,
+  "materialIdsValid": 1,
+  "needMaterialInstance": 0,
+  "spriteDefinitions": [],
+  "premultipliedAlpha": 0,
+  "material": {
+    "fileID": 0
+  },
+  "materials": [
+    {
+      "fileID": 2100000,
+      "guid": "13f3a934665706c4a98540a177efd0f5",
+      "type": 2
+    }
+  ],
+  "textures": [
+    {
+      "fileID": 2800000,
+      "guid": "b0c9f4a02fdfef9479ec9eb733cab112",
+      "type": 3
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": 0,
+  "textureFilterMode": 0,
+  "textureMipMaps": 0,
+  "allowMultipleAtlases": 0,
+  "spriteCollectionGUID": "39a27456c3ede3b4e98a3d91b335c6bc",
+  "spriteCollectionName": "Fonts",
+  "assetName": "Fonts",
+  "loadable": 0,
+  "invOrthoSize": 2,
+  "halfTargetHeight": 0.5,
+  "buildKey": 18891040,
+  "dataGuid": "58e5d899bd105594d9485cc8a507e26b",
+  "managedSpriteCollection": 0,
+  "hasPlatformData": 0,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

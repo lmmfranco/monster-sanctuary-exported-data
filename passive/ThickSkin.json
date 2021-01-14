@@ -1,0 +1,12 @@
+{
+  "guid": "28a4a5b2be339fb478af026c6618a557",
+  "filename": "ThickSkin",
+  "ID": 1559,
+  "Name": "Thick Skin",
+  "Icon": "icon_thick_skin",
+  "Description": "This Monster takes {0%} more damage from the element it's weak to. Other damage is reduced by {1%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "DamageReduction": 0.2
+}

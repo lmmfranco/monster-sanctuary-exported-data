@@ -1,0 +1,30 @@
+{
+  "guid": "9d910752114cd154bb6f91b56108305a",
+  "filename": "ChargingSphere+5",
+  "ID": 1425,
+  "Name": "Charging Sphere",
+  "Price": 6500,
+  "Type": 5,
+  "Icon": "icon_charge_sphere",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 600,
+  "Mana": 0,
+  "ManaRegeneration": 25,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "ChargesCount": 2,
+  "ChargeType": 0
+}

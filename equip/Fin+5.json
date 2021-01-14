@@ -1,0 +1,28 @@
+{
+  "guid": "7dc6468d764b61a47b10e9d9a2dfe482",
+  "filename": "Fin+5",
+  "ID": 1495,
+  "Name": "Fin",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_fin",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0.15,
+  "Health": 600,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

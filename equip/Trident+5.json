@@ -1,0 +1,28 @@
+{
+  "guid": "72c75ac56e29ae34cabc5c5134db7e50",
+  "filename": "Trident+5",
+  "ID": 1631,
+  "Name": "Trident",
+  "Price": 4500,
+  "Type": 0,
+  "Icon": "icon_trident",
+  "Attack": 220,
+  "Magic": 0,
+  "Defense": 50,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 600,
+  "Mana": 70,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

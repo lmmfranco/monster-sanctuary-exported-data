@@ -1,0 +1,19 @@
+{
+  "guid": "9036f461eab4b644a821e5f614268240",
+  "filename": "Counterfeit",
+  "ID": 1377,
+  "Name": "Counterfeit",
+  "Icon": "icon_counterfeit",
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 150,
+  "TargetType": 0,
+  "Duration": 1,
+  "IsDefaultAction": 0,
+  "Tooltip": "Uses the last action used by target enemy.",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0
+}

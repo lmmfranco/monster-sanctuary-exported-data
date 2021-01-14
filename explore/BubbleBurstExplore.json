@@ -1,0 +1,46 @@
+{
+  "guid": "bae9639eca460fa42885911dd11f5f90",
+  "filename": "BubbleBurstExplore",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Bubble Burst",
+  "Description": "- Activates water orbs",
+  "AnimElement": {
+    "fileID": 1694302520504194,
+    "guid": "8f5ce62dae97f094482ba0b2bd17cb08",
+    "type": 2
+  },
+  "AnimElementOnImpact": {
+    "fileID": 0
+  },
+  "Triggers": [
+    {
+      "FlipVertically": 0,
+      "Delay": 0,
+      "Offset": {
+        "x": 12,
+        "true": 0,
+        "z": 0
+      },
+      "Overrides": []
+    }
+  ],
+  "HitTimings": [
+    0.5,
+    0.75,
+    1
+  ],
+  "HitBox": {
+    "x": 32,
+    "true": 32
+  },
+  "HitOffset": {
+    "x": 0,
+    "true": 0
+  },
+  "Duration": 0.5,
+  "InteractableTypes": 1572864
+}

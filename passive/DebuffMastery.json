@@ -1,0 +1,10 @@
+{
+  "guid": "c3f19f03d777eb8428f44b9107837e6b",
+  "filename": "DebuffMastery",
+  "ID": 916,
+  "Name": "Debuff Mastery",
+  "Icon": "icon_dark_passive",
+  "Description": "This Monster may apply an additional stack of any Debuff. Additional stacks are only half as strong.",
+  "IsAura": 0,
+  "IsUnique": 0
+}

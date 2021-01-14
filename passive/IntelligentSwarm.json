@@ -1,0 +1,13 @@
+{
+  "guid": "08449d435bddffb4795451717ca0549b",
+  "filename": "IntelligentSwarm",
+  "ID": 1527,
+  "Name": "Intelligent Swarm",
+  "Icon": "icon_intelligent_swarm",
+  "Description": "Whenever an {Insect} or {Construct} Monster in the party applies a Buff or a Debuff, it gains a {Charge} stack.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 1,
+  "TypeRestriction1": 3,
+  "TypeRestriction2": 11
+}

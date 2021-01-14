@@ -1,0 +1,12 @@
+{
+  "guid": "4521e04c5b22b6340830baae41327840",
+  "filename": "NaturesWrath",
+  "ID": 1138,
+  "Name": "Nature's Wrath",
+  "Icon": "icon_natures_wrath",
+  "Description": "All {Nature} Monsters in the party deal {0%} more damage.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "EmpowerValue": 0.15,
+  "MonsterType": 4
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "71c45ed3c7ba00e4d960edbcbb9b72af",
+  "filename": "HexedTouch",
+  "ID": 1324,
+  "Name": "Hexed Touch",
+  "Icon": "icon_hexed_touch",
+  "Description": "When this Monster gets attacked, {0%} chance to apply a random Debuff on the attacker.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 6,
+  "Chance": 0.35
+}

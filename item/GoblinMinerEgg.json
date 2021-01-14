@@ -1,0 +1,12 @@
+{
+  "guid": "66be127ec58cbf746a2c7f275274009f",
+  "filename": "GoblinMinerEgg",
+  "ID": 1062,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1535357099263695,
+    "guid": "388077b055637344c8c1f59ffec318f6",
+    "type": 2
+  }
+}

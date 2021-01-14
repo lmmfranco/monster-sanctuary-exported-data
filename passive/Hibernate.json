@@ -1,0 +1,12 @@
+{
+  "guid": "13f09c6c2ed005740b9f9558aec45981",
+  "filename": "Hibernate",
+  "ID": 467,
+  "Name": "Hibernate",
+  "Icon": "icon_hibernate",
+  "Description": "If this Monster spends its turn without spending Mana, it regains {0%} of its Max Health and gains {Barrier} (Buff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthHealPercent": 0.25,
+  "Buff": 8
+}

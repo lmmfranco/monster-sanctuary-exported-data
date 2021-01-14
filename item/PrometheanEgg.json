@@ -1,0 +1,12 @@
+{
+  "guid": "0b570148e6b576348a05ac222c1b6657",
+  "filename": "PrometheanEgg",
+  "ID": 1339,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1735217949628156,
+    "guid": "be745cb9415bead42ad7d70e0fea1842",
+    "type": 2
+  }
+}

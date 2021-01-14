@@ -1,0 +1,34 @@
+{
+  "guid": "7fcee10340abb834cbc76f58b0dc2dfe",
+  "filename": "FullUtility1",
+  "ID": 189,
+  "Name": "Full Utility",
+  "Icon": "icon_full_utility",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 100,
+  "TargetType": 3,
+  "Duration": 1.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 295147927169586200000,
+  "ApplyDelay": 0.5,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "919ffd38838759a4a9ca64d57a046e81",
+  "filename": "SpellshieldBarrier1",
+  "ID": 716,
+  "Name": "Dragonskin",
+  "Icon": "icon_spellshield_barrier",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 80,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114556784209681440,
+    "guid": "53a29af8d9ce755488dae03c7c3ec048",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 700000008000000,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

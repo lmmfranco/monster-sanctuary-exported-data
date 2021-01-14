@@ -1,0 +1,47 @@
+{
+  "guid": "70f103698eee62c4085d40e339aec291",
+  "filename": "OrnatePipe+4",
+  "ID": 1174,
+  "Name": "Ornate Pipe",
+  "Price": 4000,
+  "Type": 5,
+  "Icon": "icon_ornate_pipe",
+  "Attack": 20,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0.14,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0.09,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1913350791964070,
+    "guid": "567bb0425f58b9243bea0f032925c8dc",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1079285706125740,
+        "guid": "38bb721fb38db564e831d65ceceba144",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1402140077838650,
+        "guid": "30100117dd43b0a43918a3037cf838b7",
+        "type": 2
+      },
+      "Quantity": 4
+    }
+  ]
+}

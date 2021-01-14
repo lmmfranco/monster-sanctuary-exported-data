@@ -1,0 +1,19 @@
+{
+  "guid": "7f999d789dd083747840b97634edbae6",
+  "filename": "MorphBallAbility",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Morph Form",
+  "Description": "- Transforms player into a ball\n- Allows to trespass narrow corridors",
+  "CastDuration": 1,
+  "BlobTransformTimer": 0.3,
+  "Anim": {
+    "fileID": 1248917987156949,
+    "guid": "cdbd24bf85328854ab9c81795ac0b73e",
+    "type": 2
+  },
+  "IsMorphBall": 1
+}

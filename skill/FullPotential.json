@@ -1,0 +1,71 @@
+{
+  "guid": "08bdb6b418068d545ba0d14ed6643929",
+  "filename": "FullPotential",
+  "ID": 1768,
+  "Name": "Full Potential",
+  "Icon": "icon_full_potential",
+  "Tier": 6,
+  "Ultimate": 1,
+  "Mana": 220,
+  "TargetType": 3,
+  "Duration": 3.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 2.076919362383973e+34,
+  "ApplyDelay": 0.4,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ],
+  "ShieldAmount": 0,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0.25,
+  "ShieldTimings": [
+    3.6
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1863099670352087,
+    "guid": "0e2211079ef12b54d935e42ac0d66ef3",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0
+}

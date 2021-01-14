@@ -1,0 +1,30 @@
+{
+  "guid": "d7a8dec4a19261c44b0a3df0a415c5d2",
+  "filename": "FishingRod+5",
+  "ID": 1508,
+  "Name": "Fishing Rod",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_fishing_rod",
+  "Attack": 205,
+  "Magic": 235,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": [],
+  "AddType": 1,
+  "BuffCount": 1
+}

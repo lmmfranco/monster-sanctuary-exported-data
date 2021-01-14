@@ -1,0 +1,47 @@
+{
+  "guid": "6f79c1050106fe54c903d75160f3b536",
+  "filename": "Needle+1",
+  "ID": 1041,
+  "Name": null,
+  "Price": 400,
+  "Type": 5,
+  "Icon": "icon_needle",
+  "Attack": 16,
+  "Magic": 16,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 28,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1914835732620687,
+    "guid": "4e1c3695f7fa21e47acf65a70c286af6",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1938666508179504,
+        "guid": "b8fd7e7e353ef0b41904cf951d27c922",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

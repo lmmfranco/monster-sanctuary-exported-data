@@ -1,0 +1,11 @@
+{
+  "guid": "bb28e6b3ea493a64cb8c0e1d9d78e124",
+  "filename": "Relentless",
+  "ID": 925,
+  "Name": "Relentless",
+  "Icon": "icon_dark_passive",
+  "Description": "Reduces the Mana Cost of all abilities by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ManaReduction": 0.25
+}

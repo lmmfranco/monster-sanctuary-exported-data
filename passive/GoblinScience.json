@@ -1,0 +1,12 @@
+{
+  "guid": "acf095bd25bc57749a29403fbe536090",
+  "filename": "GoblinScience",
+  "ID": 1541,
+  "Name": "Goblin Science",
+  "Icon": "icon_goblin_science",
+  "Description": "Every {Goblin} gains {0} {Charge} stacks at the end of their turn for every {Goblin} in the party.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "ChargeStacks": 2,
+  "TypeRestriction": 14
+}

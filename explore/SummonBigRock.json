@@ -1,0 +1,37 @@
+{
+  "guid": "f63911dc6a102c2409ce54df0b920d84",
+  "filename": "SummonBigRock",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Summon Big Rock",
+  "Description": "- Creates a big rock obstacle\n- Activates ground switches",
+  "Obstacle": {
+    "fileID": 1599907081792506,
+    "guid": "9e99ea8209c36fe43b8933646c346e48",
+    "type": 2
+  },
+  "Offset": {
+    "x": 32,
+    "true": 24,
+    "z": 0
+  },
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "13873b61ca9746f41ab1fbad816a08af",
+    "type": 3
+  },
+  "Duration": 0.6,
+  "CheckDamageObstacleMask": {
+    "serializedVersion": 2
+  },
+  "SummonFailAnim": {
+    "fileID": 1626599941861288,
+    "guid": "13e188f763d2ba14eb7ed71c87db381c",
+    "type": 2
+  },
+  "GroundHitTestDistance": 10,
+  "IsBigObstacle": 1
+}

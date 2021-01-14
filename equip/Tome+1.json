@@ -1,0 +1,47 @@
+{
+  "guid": "e6f3844b23e34cf45b40aa02a22ce03a",
+  "filename": "Tome+1",
+  "ID": 58,
+  "Name": "Tome",
+  "Price": 380,
+  "Type": 5,
+  "Icon": "icon_tome",
+  "Attack": 0,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 28,
+  "ManaRegeneration": 17,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1718912439816841,
+    "guid": "35ca69f0e9f5c7942aade3f2a68a3e06",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1676211359093659,
+        "guid": "1807da16437f9db438fe21142fc9ccf0",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1287074701737878,
+        "guid": "4cf122e3d9c9c3740a108f1e890998d7",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

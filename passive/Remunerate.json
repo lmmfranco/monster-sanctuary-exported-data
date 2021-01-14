@@ -1,0 +1,12 @@
+{
+  "guid": "6a65b0ba49b5d7e4f9c5cc2be0efe9c9",
+  "filename": "Remunerate",
+  "ID": 462,
+  "Name": "Remunerate",
+  "Icon": "icon_remunerate",
+  "Description": "When applying a Debuff, gain {Regeneration} (Buff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Buff": 5,
+  "TriggerType": 0
+}

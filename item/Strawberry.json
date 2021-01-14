@@ -1,0 +1,12 @@
+{
+  "guid": "a756b827242b8c64fb31940f24cbc133",
+  "filename": "Strawberry",
+  "ID": 811,
+  "Name": "Strawberry",
+  "Price": 300,
+  "Icon": "icon_strawberry",
+  "Description": null,
+  "Stat": 6,
+  "Amount": 0.08,
+  "Level": 3
+}

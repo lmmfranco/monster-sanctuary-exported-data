@@ -1,0 +1,61 @@
+{
+  "guid": "99e56fcff7a3dc04bb5bd02d7d5165e8",
+  "filename": "OccultPower",
+  "ID": 1307,
+  "Name": "Occult Power",
+  "Icon": "icon_occult_power",
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 200,
+  "TargetType": 3,
+  "Duration": 2.8,
+  "IsDefaultAction": 0,
+  "Tooltip": "Grants target {Goblin} or {Occult} Monster {4} random Buffs and a shield equal to {33%} of their Max Health.",
+  "ParentAction": {
+    "fileID": 0
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": null,
+  "ApplyDelay": 0.7,
+  "SecondaryBuffCount": 3,
+  "RandomBuffCount": 4,
+  "ShieldAmount": 0,
+  "ScaleDefense": 0,
+  "ScaleMagic": 0,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0.33,
+  "ShieldTimings": [
+    2.5
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1171418301270297,
+    "guid": "645f724baf46688478c1087e5c187be6",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Types": 90000000
+}

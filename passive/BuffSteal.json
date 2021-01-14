@@ -1,0 +1,10 @@
+{
+  "guid": "829afbfa07bac7a44b2a25b0483ca597",
+  "filename": "BuffSteal",
+  "ID": 1589,
+  "Name": "Buff Steal",
+  "Icon": "icon_buff_steal",
+  "Description": "Whenever an allied Monster removes a buff from an enemy, it steals that Buff instead.",
+  "IsAura": 1,
+  "IsUnique": 1
+}

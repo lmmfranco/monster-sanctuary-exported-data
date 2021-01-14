@@ -1,0 +1,11 @@
+{
+  "guid": "186abcea8da142b4086d311974b8ecfd",
+  "filename": "Bleed",
+  "ID": 468,
+  "Name": "Bleed",
+  "Icon": "icon_bleed",
+  "Description": "Critical Hits apply {Bleed} stacks qual to {0%} of the damage dealt.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BleedDamage": 0.2
+}

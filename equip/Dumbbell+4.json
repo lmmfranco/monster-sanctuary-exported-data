@@ -1,0 +1,57 @@
+{
+  "guid": "78d5a5f54c10ed54ba1366934a3c9ca6",
+  "filename": "Dumbbell+4",
+  "ID": 1586,
+  "Name": "Dumbbell",
+  "Price": 4500,
+  "Type": 5,
+  "Icon": "icon_dumbbell",
+  "Attack": 47,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 400,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1848243068160424,
+    "guid": "1ee6f425ab0216d4fbc9164770cec844",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1997347528458206,
+        "guid": "de2c4792aaaaaf245a313667f86698c9",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1859196778719966,
+        "guid": "507f3698a0f784542b241214d1bdd35a",
+        "type": 2
+      },
+      "Quantity": 2
+    },
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ],
+  "BuffStacks": 1310720,
+  "StackIncrease": 1
+}

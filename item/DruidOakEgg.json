@@ -1,0 +1,12 @@
+{
+  "guid": "1ae320e059852c24d98d4d61eaae9593",
+  "filename": "DruidOakEgg",
+  "ID": 456,
+  "Name": null,
+  "Price": 350,
+  "Monster": {
+    "fileID": 1938693750440221,
+    "guid": "37535f87cbe7adb47b6ceb4021ca2ec5",
+    "type": 2
+  }
+}

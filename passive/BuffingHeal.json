@@ -1,0 +1,11 @@
+{
+  "guid": "c0e142dec885a054cae982f71e368a00",
+  "filename": "BuffingHeal",
+  "ID": 548,
+  "Name": "Buffing Heal",
+  "Icon": "icon_buffing_heal",
+  "Description": "When applying a Buff, also heal the target by {0%} of this Monster's Magic.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ScaleMagic": 0.5
+}

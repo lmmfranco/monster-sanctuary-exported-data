@@ -1,0 +1,55 @@
+{
+  "guid": "a56babedddd70b947a2662c3b37951d2",
+  "filename": "Shield+3",
+  "ID": 798,
+  "Name": "Large Shield",
+  "Price": 3500,
+  "Type": 0,
+  "Icon": "icon_shield_armor",
+  "Attack": 65,
+  "Magic": 65,
+  "Defense": 85,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1677884719041272,
+    "guid": "6a6014e947acf6149aaa7aca4b49a578",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1236254572456791,
+        "guid": "907eade581dbacc4ebbf3880173e9561",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1168011990567236,
+        "guid": "ff548838b039fa74bbc9ee164dbfb189",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ]
+}

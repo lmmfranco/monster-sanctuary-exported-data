@@ -1,0 +1,12 @@
+{
+  "guid": "747cd8e7619c99e40b5207b03891fd5c",
+  "filename": "VodinoyEgg",
+  "ID": 1633,
+  "Name": null,
+  "Price": 2000,
+  "Monster": {
+    "fileID": 1492934283829715,
+    "guid": "514486272c6c15a4ea881e56c442677d",
+    "type": 2
+  }
+}

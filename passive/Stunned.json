@@ -1,0 +1,12 @@
+{
+  "guid": "67aed229d468c3a41871000ad7a3589f",
+  "filename": "Stunned",
+  "ID": 1136,
+  "Name": "Stunned",
+  "Icon": "icon_stunned",
+  "Description": "{Shock} (Debuff) also reduces enemy's Dodge Chance by {0%} and their Critical Chance by {1%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ReduceDodgeValue": 0.1,
+  "ReduceCritValue": 0.07
+}

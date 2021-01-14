@@ -1,0 +1,12 @@
+{
+  "guid": "e25f414261316b2439b2cf279281661f",
+  "filename": "RadugaEgg",
+  "ID": 580,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1276043585747787,
+    "guid": "c463b84d9dede7947837d037b3ec1d7f",
+    "type": 2
+  }
+}

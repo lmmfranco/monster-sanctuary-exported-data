@@ -1,0 +1,12 @@
+{
+  "guid": "118bd3ae044c4bb4d97ff48e71ecdd28",
+  "filename": "ChannelingBalance",
+  "ID": 1149,
+  "Name": "Channeling Balance",
+  "Icon": "icon_channeling_power",
+  "Description": "{Channel} Buff also increases the damage dealt by {0%} and reduces the damage taken by {1%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "DamageBonus": 0.075,
+  "ReductionBonus": 0.075
+}

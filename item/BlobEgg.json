@@ -1,0 +1,12 @@
+{
+  "guid": "f471ad90f7ee3ea4caf2db75219b6c46",
+  "filename": "BlobEgg",
+  "ID": 20,
+  "Name": null,
+  "Price": 200,
+  "Monster": {
+    "fileID": 1859148711493143,
+    "guid": "b127b30d1125f6644b843e26a0dbc3bc",
+    "type": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "b4015cd62291bb4498c7d645a82b7a2a",
+  "filename": "SorceryChannel1",
+  "ID": 343,
+  "Name": "Wizardry",
+  "Icon": "icon_sorcery_channel",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114212284976547920,
+    "guid": "cb81a0329db885c469d22fcf084d23cd",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 4398047559680,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

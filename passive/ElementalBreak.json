@@ -1,0 +1,11 @@
+{
+  "guid": "d30f6fc96318a5341b4fd7a707fcee77",
+  "filename": "ElementalBreak",
+  "ID": 1137,
+  "Name": "Elemental Break",
+  "Icon": "icon_elemental_break",
+  "Description": "{Armor Break} (Debuff) increases enemies' weaknesses by an additional {0%} and decreases their resistances by {0%}.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "ModifyValue": 0.1
+}

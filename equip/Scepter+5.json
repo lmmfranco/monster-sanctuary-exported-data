@@ -1,0 +1,28 @@
+{
+  "guid": "7998c4effbef7b94a9c50a428677cf92",
+  "filename": "Scepter+5",
+  "ID": 1518,
+  "Name": "Scepter",
+  "Price": 5000,
+  "Type": 0,
+  "Icon": "icon_scepter",
+  "Attack": 0,
+  "Magic": 240,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 80,
+  "ManaRegeneration": 18,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 1,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

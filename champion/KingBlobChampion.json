@@ -1,0 +1,24 @@
+{
+  "guid": "7449f9407cc848941ab501e250644538",
+  "filename": "KingBlobChampion",
+  "ID": 1709,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.2,
+  "ActionCount": 3,
+  "DamageMultiplier": 1.5,
+  "ManaMultiplier": 3.6,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 1600,
+  "EncounterLevel": 26,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1015158428184655,
+    "guid": "f59269ba47ca3c14889122e33e7a2fad",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

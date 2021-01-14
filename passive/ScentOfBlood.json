@@ -1,0 +1,12 @@
+{
+  "guid": "b206978db519ee14c8461b31ff82c4c7",
+  "filename": "ScentOfBlood",
+  "ID": 710,
+  "Name": "Scent of Blood",
+  "Icon": "icon_scent_of_blood",
+  "Description": "Your Monsters deal {0%} more damage when attacking an enemy with {Bleed} stacks.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Buff": 3,
+  "DamageBonus": 0.1
+}

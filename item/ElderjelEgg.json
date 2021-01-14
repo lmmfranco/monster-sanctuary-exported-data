@@ -1,0 +1,12 @@
+{
+  "guid": "b00f08f7fa554af4ebf05e0781188c1a",
+  "filename": "ElderjelEgg",
+  "ID": 1004,
+  "Name": null,
+  "Price": 800,
+  "Monster": {
+    "fileID": 1807725049856252,
+    "guid": "147e288f5b1782d48bf43ff5bddc4abc",
+    "type": 2
+  }
+}

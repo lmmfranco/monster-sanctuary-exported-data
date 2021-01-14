@@ -1,0 +1,12 @@
+{
+  "guid": "b018d9b9efc81074baad8268fd04ac45",
+  "filename": "TenguEgg",
+  "ID": 73,
+  "Name": null,
+  "Price": 300,
+  "Monster": {
+    "fileID": 1377659745900880,
+    "guid": "f9605403d0aa32640853b00c9c8379e8",
+    "type": 2
+  }
+}

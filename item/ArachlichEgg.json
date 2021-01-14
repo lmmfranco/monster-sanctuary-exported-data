@@ -1,0 +1,12 @@
+{
+  "guid": "99df7e443b30ab44a9bbf4090a9baf30",
+  "filename": "ArachlichEgg",
+  "ID": 1314,
+  "Name": null,
+  "Price": 600,
+  "Monster": {
+    "fileID": 1482466409136457,
+    "guid": "9da92dfdcb5de4b46b705af740f40b84",
+    "type": 2
+  }
+}

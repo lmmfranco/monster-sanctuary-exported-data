@@ -1,0 +1,15 @@
+{
+  "guid": "bccc50fdd6677ca4a9a8906e1db007ad",
+  "filename": "Potion",
+  "ID": 52,
+  "Name": "Potion",
+  "Price": 150,
+  "EffectAction": {
+    "fileID": 1114419253327474,
+    "guid": "4a319f5a91042484293a7f8bf1a8680e",
+    "type": 2
+  },
+  "Icon": "icon_potion",
+  "Description": null,
+  "RetreatItem": 0
+}

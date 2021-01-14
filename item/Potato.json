@@ -1,0 +1,12 @@
+{
+  "guid": "8603e1ba60b017a4182d2a172fd64f79",
+  "filename": "Potato",
+  "ID": 72,
+  "Name": "Potato",
+  "Price": 50,
+  "Icon": "icon_potato",
+  "Description": null,
+  "Stat": 3,
+  "Amount": 60,
+  "Level": 1
+}

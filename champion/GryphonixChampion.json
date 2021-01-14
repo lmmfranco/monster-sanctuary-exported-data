@@ -1,0 +1,24 @@
+{
+  "guid": "9947223c2d65b9d469f3cd982a0e4304",
+  "filename": "GryphonixChampion",
+  "ID": 1739,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4.4,
+  "ActionCount": 3,
+  "DamageMultiplier": 1.3,
+  "ManaMultiplier": 3.5,
+  "DebuffMultiplier": 0.85,
+  "DifficultyBonus": 1200,
+  "EncounterLevel": 40,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1036985526460713,
+    "guid": "baf9f1650a1bdbf4f91570e3b3db96fb",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

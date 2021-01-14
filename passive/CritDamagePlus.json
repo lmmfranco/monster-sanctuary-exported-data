@@ -1,0 +1,14 @@
+{
+  "guid": "ce1c68724db3d4c4792c458bdcc69059",
+  "filename": "CritDamagePlus",
+  "ID": 122,
+  "Name": "Crit Damage Plus",
+  "Icon": "icon_crit_damage_plus",
+  "Description": "+{0%} Critical Damage",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 6,
+  "Value": 0.15,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

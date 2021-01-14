@@ -1,0 +1,12 @@
+{
+  "guid": "e9b8bbe70c0f673439d5cc29f1fb4bb2",
+  "filename": "CriticalCurrent",
+  "ID": 1529,
+  "Name": "Critical Current",
+  "Icon": "icon_critical_current",
+  "Description": "Wind attacks have {0%} increased Critical Chance.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "CritBonus": 0.1,
+  "Element": 3
+}

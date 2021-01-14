@@ -1,0 +1,29 @@
+{
+  "guid": "a634de9e693d1504a9593f1afe2e9700",
+  "filename": "TorchCave",
+  "ID": -1,
+  "AppearBool": null,
+  "DisappearBool": null,
+  "InteractableType": 0,
+  "IsEnkindled": 1,
+  "timeOffset": 0,
+  "BrightTorch": {
+    "fileID": 114083028956585600
+  },
+  "TorchLight": {
+    "fileID": 114745770450970800
+  },
+  "Background": {
+    "fileID": 114574665981668210
+  },
+  "SpeedMultiplier": 1.5,
+  "InnerSpeedMultiplier": 8.25,
+  "InnerIntensity": 0.5,
+  "AlphaFlickerRange": 0.05,
+  "BackgroundFlickerRange": 0.5,
+  "SizeFlickerRange": 0.1,
+  "FlickerSpeedRange": 0.15,
+  "FlickerSpeedRate": 1.5,
+  "Particles": [],
+  "ActivatesBoolOnEnkindle": null
+}

@@ -1,0 +1,39 @@
+{
+  "guid": "966f501aa9b616f439e33e62ebbfb231",
+  "filename": "SpectralEagleNPC",
+  "PortraitOffset": {
+    "x": 4,
+    "true": -2
+  },
+  "Name": "Eagle",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1314339003503379,
+    "guid": "63ed3057225e90d4cbd5261c64a3103e",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1465913071165888,
+    "guid": "f7e3b592038acb64aa65a8c38d928178",
+    "type": 2
+  },
+  "FlyingOffset": 10,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 2,
+  "TargetDistanceRange": {
+    "Min": 40,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

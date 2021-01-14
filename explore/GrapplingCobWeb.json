@@ -1,0 +1,26 @@
+{
+  "guid": "7d6eac104c38841409e7d262b81bb856",
+  "filename": "GrapplingCobWeb",
+  "PlayerOffset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Name": "Grapple",
+  "Description": "- Pulls player towards a grappling anchor",
+  "MaxDistanceX": 320,
+  "MaxDistanceY": 180,
+  "ExpandDuration": 0.2,
+  "PullDuration": 0.5,
+  "HangDuration": 0.1,
+  "GrapplingVisuals": {
+    "fileID": 1520244786495263,
+    "guid": "531d62322333cbc488e5a53ab1692d7d",
+    "type": 2
+  },
+  "ShootSFX": {
+    "fileID": 8300000,
+    "guid": "4f570dc59576715469639e7253b175d2",
+    "type": 3
+  }
+}

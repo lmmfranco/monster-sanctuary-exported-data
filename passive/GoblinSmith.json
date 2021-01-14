@@ -1,0 +1,13 @@
+{
+  "guid": "fc2997f1eae5e374b8ade988f25e7fea",
+  "filename": "GoblinSmith",
+  "ID": 1060,
+  "Name": "Goblin Smith",
+  "Icon": "icon_goblin_smith",
+  "Description": "Increases {Defense}, {Health}, {Mana}, {Mana Regeneration}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied {Goblins}.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stats": 6.968983497616492e+41,
+  "Bonus": 0.15,
+  "TypeRestriction": 14
+}

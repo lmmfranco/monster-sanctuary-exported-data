@@ -1,0 +1,11 @@
+{
+  "guid": "dc1365542bd0a22498842beadaf836ee",
+  "filename": "DiseaseControl",
+  "ID": 446,
+  "Name": "Disease Control",
+  "Icon": "icon_disease_control",
+  "Description": "Receive {0%} reduced damage from a debuffed enemy for each Debuff on them.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageReduction": 0.04
+}

@@ -1,0 +1,17 @@
+{
+  "guid": "edfbd7af5b87dc64db34ab8fcd06bfcc",
+  "filename": "ShelteredNature",
+  "ID": 1148,
+  "Name": "Sheltered Nature",
+  "Icon": "icon_sheltered_nature",
+  "Description": "All {Nature} Monster in the party start the combat with a shield equal to {0%} of their Max Health.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Stat": 3,
+  "DualStat": 0,
+  "SecondaryStat": 0,
+  "Percent": 0.25,
+  "TypeRestriction": 4,
+  "TriggerForBackupMonsters": 1,
+  "BasedOnCastersStat": 0
+}

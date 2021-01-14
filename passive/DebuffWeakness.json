@@ -1,0 +1,12 @@
+{
+  "guid": "57bbcb03c8657db4e9e2d213ea012809",
+  "filename": "DebuffWeakness",
+  "ID": 871,
+  "Name": "Debuff Weakness",
+  "Icon": "icon_debuff_weakness",
+  "Description": "Debuff effects increased by {50%}",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Element": 7,
+  "Modifier": 0.5
+}

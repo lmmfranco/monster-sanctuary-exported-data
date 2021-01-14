@@ -1,0 +1,14 @@
+{
+  "guid": "b947eb340705fd3499aca50f6998b6b0",
+  "filename": "LightInstinct",
+  "ID": 902,
+  "Name": "Light Instinct",
+  "Icon": "icon_light_passive",
+  "Description": "Decrease damage taken by {0%}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 10,
+  "Value": 0.15,
+  "IsPercent": 1,
+  "IsNegative": 1
+}

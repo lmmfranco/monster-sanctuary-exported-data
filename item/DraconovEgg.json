@@ -1,0 +1,12 @@
+{
+  "guid": "bb9472ab9e1c3f6419145f18b53db2bf",
+  "filename": "DraconovEgg",
+  "ID": 1079,
+  "Name": null,
+  "Price": 500,
+  "Monster": {
+    "fileID": 1419693174018241,
+    "guid": "e60c34de05a3eed418269ea88f816cc8",
+    "type": 2
+  }
+}

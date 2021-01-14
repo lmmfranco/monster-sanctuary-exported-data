@@ -1,0 +1,20 @@
+{
+  "guid": "7a584bd56363dcd47b1cf4607acf7616",
+  "filename": "AttackProc",
+  "ID": 209,
+  "Name": "Attack Proc",
+  "Icon": "icon_attack_proc",
+  "Description": "Every attack triggers an additional hit equal to {1%} of Attack value.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "DamageValue": 0,
+  "StatScaling": 0.35,
+  "ScaleStat": 0,
+  "AnimElement": {
+    "fileID": 1393696802459613,
+    "guid": "856f88f9a32c6a0409b3798a4b1c6013",
+    "type": 2
+  },
+  "ElementRestriction": 8,
+  "TypeRestriction": 0
+}

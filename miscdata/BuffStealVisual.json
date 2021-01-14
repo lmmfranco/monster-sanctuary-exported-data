@@ -1,0 +1,19 @@
+{
+  "guid": "26e3e286756a6ac43b04f50378d682d0",
+  "filename": "BuffStealVisual",
+  "Sprite": {
+    "fileID": 114875815284055940
+  },
+  "MoveUpDuration": 0.5,
+  "MoveToTargetDuration": 0.5,
+  "Offset": {
+    "x": 10,
+    "true": 32,
+    "z": 0
+  },
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "85b2fc66f8c5ab944be1f9a6549469a3",
+    "type": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "3ed884eb80bf0a9469f94c4b6540e939",
+  "filename": "ImpactfulShock",
+  "ID": 1581,
+  "Name": "Impactful Shock",
+  "Icon": "icon_impactful_shock",
+  "Description": "{Shock} hits have {0%} increased critical chance and do {1%} increased base damage.",
+  "IsAura": 1,
+  "IsUnique": 1,
+  "CritChanceBonus": 0.4,
+  "DamageBonus": 0.1
+}

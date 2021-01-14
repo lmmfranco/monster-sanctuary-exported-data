@@ -1,0 +1,12 @@
+{
+  "guid": "bb2357e03cfbc734a9a8b6fab2b8f596",
+  "filename": "Stampede",
+  "ID": 1193,
+  "Name": "Stampede",
+  "Icon": "icon_stampede",
+  "Description": "When a {Beast} Monster in your party attacks, it deals {0%} more damage for each other {Beast} Monster that acted before it during that turn.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.1,
+  "TypeRestriction": 7
+}

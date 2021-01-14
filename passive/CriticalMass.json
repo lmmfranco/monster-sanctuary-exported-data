@@ -1,0 +1,12 @@
+{
+  "guid": "55bec2edb3f3c1a4ea4058ba8b84ed7e",
+  "filename": "CriticalMass",
+  "ID": 83,
+  "Name": "Critical Mass",
+  "Icon": "icon_critical_mass",
+  "Description": "{0%} chance to gain a random Buff when landing a Critical Hit.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Chance": 0.5,
+  "OnCriticalHit": 1
+}

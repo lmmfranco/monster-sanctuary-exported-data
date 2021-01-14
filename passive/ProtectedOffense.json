@@ -1,0 +1,11 @@
+{
+  "guid": "c0f04913ac7478f4582320009ffce283",
+  "filename": "ProtectedOffense",
+  "ID": 182,
+  "Name": "Protected Offense",
+  "Icon": "icon_protected_offense",
+  "Description": "While under the effect of a Shield, Monsters in the party deal {0%} increased damage. ",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "DamageBonus": 0.1
+}

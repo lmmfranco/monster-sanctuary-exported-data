@@ -1,0 +1,39 @@
+{
+  "guid": "2916d047ca24dca4b8b7f54fb98ca85f",
+  "filename": "Trident+3",
+  "ID": 1629,
+  "Name": "Trident",
+  "Price": 3500,
+  "Type": 0,
+  "Icon": "icon_trident",
+  "Attack": 110,
+  "Magic": 0,
+  "Defense": 30,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 330,
+  "Mana": 50,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1686287908838948,
+    "guid": "be96cc3fc7f20af4988c46ed001fd59b",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 2
+    }
+  ]
+}

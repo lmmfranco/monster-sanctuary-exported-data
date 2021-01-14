@@ -1,0 +1,36 @@
+{
+  "guid": "d6dcfe482d1f7f74aaf82ac8e39c8719",
+  "filename": "RegenerationGlory1",
+  "ID": 368,
+  "Name": "Lifeline",
+  "Icon": "icon_regeneration_glory",
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 90,
+  "TargetType": 4,
+  "Duration": 1.7,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114540298688124800,
+    "guid": "facbefa7ca14bfa459a0fd7511a9d8a6",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "Buffs": 21990233079808,
+  "ApplyDelay": 0.8,
+  "SecondaryBuffCount": 1,
+  "RandomBuffCount": 0,
+  "SFX": {
+    "fileID": 8300000,
+    "guid": "db1abbea248b0fc438d8288b22073e0c",
+    "type": 3
+  },
+  "Volume": 1,
+  "Pitch": 1,
+  "PitchIncrease": 0,
+  "SfxTimings": [
+    0
+  ]
+}

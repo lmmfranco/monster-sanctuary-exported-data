@@ -1,0 +1,63 @@
+{
+  "guid": "23a69e95c6d600d498e5a45bb73e9ff7",
+  "filename": "FireShield2",
+  "ID": 843,
+  "Name": null,
+  "Icon": null,
+  "Tier": 1,
+  "Ultimate": 0,
+  "Mana": 220,
+  "TargetType": 4,
+  "Duration": 2.8,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114450534368849390,
+    "guid": "e38c4a5e9e9891d44bc8fcf5117d362d",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "ShieldAmount": 250,
+  "ScaleDefense": 0.25,
+  "ScaleMagic": 0.25,
+  "ScaleAttack": 0,
+  "ScaleMana": 0,
+  "ScaleTargetHealth": 0,
+  "ShieldTimings": [
+    1.1,
+    1.6
+  ],
+  "ShieldCaster": 0,
+  "AnimElement": {
+    "fileID": 1223817747797648,
+    "guid": "ae56ab406d9e33c43a97fe686abe56fd",
+    "type": 2
+  },
+  "Offset": {
+    "x": -5,
+    "true": 0,
+    "z": -1
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 3,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Debuffs": 1048576,
+  "ApplyDelay": 2.2,
+  "ApplyChance": 1,
+  "TargetCount": 2
+}

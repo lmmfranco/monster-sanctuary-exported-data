@@ -1,0 +1,28 @@
+{
+  "guid": "eda4b470e64c1cd4da70431a20e3bdec",
+  "filename": "Claws+5",
+  "ID": 1507,
+  "Name": "Claws",
+  "Price": 3000,
+  "Type": 0,
+  "Icon": "icon_claws_weapon",
+  "Attack": 250,
+  "Magic": 0,
+  "Defense": 0,
+  "CritChance": 0,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 40,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 0
+  },
+  "UpgradeMaterials": []
+}

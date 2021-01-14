@@ -1,0 +1,39 @@
+{
+  "guid": "a68d8dc38631ec642831802c5b398023",
+  "filename": "CaraglowNPC",
+  "PortraitOffset": {
+    "x": 5,
+    "true": 2
+  },
+  "Name": "Caraglow",
+  "DialogueOffset": 0,
+  "FollowingMonster": {
+    "fileID": 0
+  },
+  "Shift": 0,
+  "FamiliarPrefab": {
+    "fileID": 1971725099732706,
+    "guid": "4571b692d3dfc264680863f8eaf16f99",
+    "type": 2
+  },
+  "WolfPrefab": {
+    "fileID": 1971725099732706,
+    "guid": "4571b692d3dfc264680863f8eaf16f99",
+    "type": 2
+  },
+  "FlyingOffset": 0,
+  "AutoUpdateFamiliarVisuals": 0,
+  "Shift__1": 1,
+  "TargetDistanceRange": {
+    "Min": 32,
+    "Max": 80
+  },
+  "SpeedDistanceScaling": {
+    "Min": 100,
+    "Max": 170
+  },
+  "Acceleration": 750,
+  "Monster": {
+    "fileID": 0
+  }
+}

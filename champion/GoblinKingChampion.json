@@ -1,0 +1,40 @@
+{
+  "guid": "9b483263d1efb554687a9c77eb1d86c5",
+  "filename": "GoblinKingChampion",
+  "ID": 557,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 4,
+  "ActionCount": 2,
+  "DamageMultiplier": 0.9,
+  "ManaMultiplier": 1.8,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 300,
+  "EncounterLevel": 12,
+  "EncounterMonsters": [
+    {
+      "fileID": 1145438024660206,
+      "guid": "e161f30504d5f594ca8352873eb1cb99",
+      "type": 2
+    },
+    {
+      "fileID": 1322929009526981,
+      "guid": "db2ffb110c10bc245a91b3b5912f3f2a",
+      "type": 2
+    },
+    {
+      "fileID": 1619421092630589,
+      "guid": "1ade1246c2a8df246b9a95ef47494de5",
+      "type": 2
+    }
+  ],
+  "Reward6thStar": {
+    "fileID": 1856722979648600,
+    "guid": "675492e64d239d3419d9148ac9908f70",
+    "type": 2
+  },
+  "RewardQuantity": 4
+}

@@ -1,0 +1,49 @@
+{
+  "guid": "ecea56e5a98fe3244a749aa83264ad40",
+  "filename": "PirateHook+3",
+  "ID": 1029,
+  "Name": "Pirate Hook",
+  "Price": 4000,
+  "Type": 0,
+  "Icon": "icon_pirate_hook",
+  "Attack": 100,
+  "Magic": 100,
+  "Defense": 0,
+  "CritChance": 0.08,
+  "CritDamage": 0,
+  "Health": 0,
+  "Mana": 0,
+  "ManaRegeneration": 0,
+  "DamageBonus": 0,
+  "NonCritDamage": 0,
+  "HealBonus": 0,
+  "DodgeChance": 0,
+  "Unique": 0,
+  "OnlyUnshifted": 0,
+  "OnlyFamiliars": 0,
+  "UpgradesTo": {
+    "fileID": 1328721063389244,
+    "guid": "40e2ef070e0a2034c80e22765130e674",
+    "type": 2
+  },
+  "UpgradeMaterials": [
+    {
+      "Item": {
+        "fileID": 1917030411297482,
+        "guid": "7bfe906e226521b47aaab6bfd17e30a8",
+        "type": 2
+      },
+      "Quantity": 1
+    },
+    {
+      "Item": {
+        "fileID": 1430211027732074,
+        "guid": "eef6eb4f3acbd5c49b57c6ba45ddf388",
+        "type": 2
+      },
+      "Quantity": 1
+    }
+  ],
+  "HealAmount": 320,
+  "HealType": 0
+}

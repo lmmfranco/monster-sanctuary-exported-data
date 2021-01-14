@@ -1,0 +1,13 @@
+{
+  "guid": "8ac1b57211b4ee94d82b39413c71d74e",
+  "filename": "Lifesteal",
+  "ID": 197,
+  "Name": "Lifesteal",
+  "Icon": "icon_lifesteal",
+  "Description": "Heal by {0%} of the damage dealt to enemies.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "LifestealPercent": 0.15,
+  "OnlyOnCriticalHits": 0,
+  "AffectsWholeParty": 0
+}

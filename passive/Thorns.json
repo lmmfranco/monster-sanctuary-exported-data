@@ -1,0 +1,12 @@
+{
+  "guid": "2abd7bdcc50a06445b834e115c5ccee4",
+  "filename": "Thorns",
+  "ID": 1771,
+  "Name": "Thorns",
+  "Icon": "icon_thorns",
+  "Description": "When getting hit there is a {0%} chance to apply a stack of {Bleed} onto the attacker equal to the damage received.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "ReflectChance": 0.35,
+  "TypeRestriction": 0
+}

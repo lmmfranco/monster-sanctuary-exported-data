@@ -1,0 +1,11 @@
+{
+  "guid": "f1e5426cb78614546b91b7c602385ff6",
+  "filename": "InitialWeakness",
+  "ID": 1327,
+  "Name": "Initial Weakness",
+  "Icon": "icon_initial_weakness",
+  "Description": "Apply {Weakness} (Debuff) to a random enemy at the start of combat.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 0
+}

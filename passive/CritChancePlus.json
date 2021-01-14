@@ -1,0 +1,14 @@
+{
+  "guid": "be50d663a2c42184a9127c2922bdebf1",
+  "filename": "CritChancePlus",
+  "ID": 227,
+  "Name": "Crit Chance Plus",
+  "Icon": "icon_crit_chance_plus",
+  "Description": "+{0%} Critical Chance",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Stat": 5,
+  "Value": 0.05,
+  "IsPercent": 0,
+  "IsNegative": 0
+}

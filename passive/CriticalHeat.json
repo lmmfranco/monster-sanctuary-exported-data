@@ -1,0 +1,11 @@
+{
+  "guid": "733bea0f6ffd5a2458125e80e6303ded",
+  "filename": "CriticalHeat",
+  "ID": 1106,
+  "Name": "Critical Heat",
+  "Icon": "icon_critical_burn",
+  "Description": "The first critical hit of an attack applies {Burn} (Debuff).",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 4
+}

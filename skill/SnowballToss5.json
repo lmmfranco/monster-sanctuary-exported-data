@@ -1,0 +1,72 @@
+{
+  "guid": "14b42dcffc2c88c46ae0c11ec97831db",
+  "filename": "SnowballToss5",
+  "ID": 1287,
+  "Name": null,
+  "Icon": null,
+  "Tier": 5,
+  "Ultimate": 0,
+  "Mana": 210,
+  "TargetType": 0,
+  "Duration": 1.4,
+  "IsDefaultAction": 0,
+  "Tooltip": null,
+  "ParentAction": {
+    "fileID": 114456030189398180,
+    "guid": "e30f371dcda57e84e94de7effc882f30",
+    "type": 2
+  },
+  "SpecialAttackAnimation": 0,
+  "IsPotion": 0,
+  "DamageMultiplicator": 5.4,
+  "TotalDamage": 5.4,
+  "CalculatedDamage": 5.376856,
+  "CalculatedTotalDamage": 5.376856,
+  "HitTimings": [
+    1
+  ],
+  "Element": 2,
+  "Type": 0,
+  "FlashDuration": 0.4,
+  "MultipleEnemiesDelay": 0.2,
+  "CritDamageBonus": 0,
+  "DefenseBypass": 0,
+  "DefenseBypassBurnCondition": 0,
+  "PlayHitAnimation": 1,
+  "TriggersBleed": 0,
+  "CannotBeDodged": 0,
+  "TriggersAllShocks": 0,
+  "LifestealAmount": 0,
+  "GravityMultiplier": 0,
+  "BuffMultiplier": 0,
+  "AnimElement": {
+    "fileID": 1838279302750927,
+    "guid": "3633c86639ff7d040904d9fd246f3c83",
+    "type": 2
+  },
+  "Offset": {
+    "x": 0,
+    "true": 0,
+    "z": 0
+  },
+  "Rotation": 0,
+  "Color": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1
+  },
+  "Orientation": 0,
+  "Delay": 0,
+  "FlipHorizontally": 0,
+  "FlipVertically": 0,
+  "FlipDependingOnEnemies": 1,
+  "TriggerOnEverySingleTarget": 1,
+  "MultipleEnemiesDelay__1": 0,
+  "Overrides": [],
+  "PositionOnGround": 0,
+  "IncludeDeadMonsterPosition": 0,
+  "Delay__1": 1,
+  "Duration__1": 0.2,
+  "TimeScale": 0.1
+}

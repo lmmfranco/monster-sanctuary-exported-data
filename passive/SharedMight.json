@@ -1,0 +1,11 @@
+{
+  "guid": "ac0ea733f164cdd4a871b0e4e0e0b727",
+  "filename": "SharedMight",
+  "ID": 1118,
+  "Name": "Shared Might",
+  "Icon": "icon_shared_might",
+  "Description": "Whenever this Monster gains {Might} (Buff), another random Monster in the party also gains {Might}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "BuffType": 0
+}

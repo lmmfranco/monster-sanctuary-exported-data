@@ -1,0 +1,24 @@
+{
+  "guid": "725311c863192f641a30d9f7567ea73e",
+  "filename": "DraconoirChampion",
+  "ID": 1348,
+  "Name": "Champion",
+  "Icon": "icon_champion",
+  "Description": "Increases Health, Damage and Mana Regeneration. Monster can act multiple times.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "HealthMultiplier": 3.8,
+  "ActionCount": 2,
+  "DamageMultiplier": 1.3,
+  "ManaMultiplier": 1.9,
+  "DebuffMultiplier": 1,
+  "DifficultyBonus": 800,
+  "EncounterLevel": 30,
+  "EncounterMonsters": [],
+  "Reward6thStar": {
+    "fileID": 1162076275095980,
+    "guid": "f602c959add108f479cd0d9d97824dec",
+    "type": 2
+  },
+  "RewardQuantity": 5
+}

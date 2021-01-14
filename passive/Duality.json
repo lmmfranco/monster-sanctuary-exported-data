@@ -1,0 +1,11 @@
+{
+  "guid": "1c4a33bcb371c404eb71d867fb22cb99",
+  "filename": "Duality",
+  "ID": 1076,
+  "Name": "Duality",
+  "Icon": "icon_duality",
+  "Description": "Whenever a Monster in the party gets {Might}, {0%} chance it also gets {Sorcery}, and vice versa. (Does not trigger with itself)",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "Chance": 0.5
+}

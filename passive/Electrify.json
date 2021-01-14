@@ -1,0 +1,14 @@
+{
+  "guid": "4b29be9aaec52e445af5f6a5c82a9248",
+  "filename": "Electrify",
+  "ID": 873,
+  "Name": "Electrify",
+  "Icon": "icon_electrify",
+  "Description": "Every hit has a {0%} chance to apply {Shock}.",
+  "IsAura": 0,
+  "IsUnique": 0,
+  "Debuff": 1,
+  "Chance": 0.1,
+  "RestrictToElement": 0,
+  "ElementRestriction": 0
+}

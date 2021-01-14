@@ -1,0 +1,12 @@
+{
+  "guid": "3ed29edc956f60d4189e9eb41fbd6c27",
+  "filename": "MultiGlory",
+  "ID": 869,
+  "Name": "Multi Glory",
+  "Icon": "icon_multi_glory",
+  "Description": "{Glory} (Buff) can be stacked two additional times. Additional stacks are only half as strong.",
+  "IsAura": 1,
+  "IsUnique": 0,
+  "stackCountIncrease": 2,
+  "Buff": 2
+}
