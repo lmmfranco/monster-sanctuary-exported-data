@@ -69,9 +69,7 @@
   "DebuffStacks": {
     "fileID": 114625592817580000
   },
-  "BuffStacks": {
-    "fileID": 114525367829165460
-  },
+  "BuffStacks": "{fileID: 114525367829165456}",
   "SpecialBuffPrefab": {
     "fileID": 1851414087052980,
     "guid": "0c0beaafa2795344da15e1feaea58a03",

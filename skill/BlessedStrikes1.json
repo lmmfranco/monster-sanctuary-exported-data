@@ -178,7 +178,7 @@
   "RotateTowardsEnemy": 0,
   "AllAllies": 0,
   "MiddleOfTheTeam": 0,
-  "Buffs": 524288,
+  "Buffs": "02000000",
   "ApplyDelay": 1,
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 0

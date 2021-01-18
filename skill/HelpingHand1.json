@@ -64,7 +64,7 @@
   "Overrides": [],
   "PositionOnGround": 0,
   "IncludeDeadMonsterPosition": 0,
-  "Buffs": 786432,
+  "Buffs": "03000000",
   "ApplyDelay": 2,
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 0

@@ -365,8 +365,7 @@
   "Overrides__11": [],
   "PositionOnGround__11": 0,
   "IncludeDeadMonsterPosition__11": 0,
-  "Buffs": null,
-  "ApplyDelay": 3.1,
+  "Buffs": "  ApplyDelay: 3.1",
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 2,
   "SFX": {

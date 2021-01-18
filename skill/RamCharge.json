@@ -137,7 +137,7 @@
   ],
   "PositionOnGround__2": 0,
   "IncludeDeadMonsterPosition__2": 0,
-  "Buffs": 8000000,
+  "Buffs": "08000000",
   "ApplyDelay": 2.5,
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 0,

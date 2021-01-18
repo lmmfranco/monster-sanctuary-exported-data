@@ -18,7 +18,7 @@
   },
   "SpecialAttackAnimation": 0,
   "IsPotion": 0,
-  "Buffs": 13194139533312,
+  "Buffs": "0300000000000000",
   "ApplyDelay": 0.8,
   "SecondaryBuffCount": 2,
   "RandomBuffCount": 0,

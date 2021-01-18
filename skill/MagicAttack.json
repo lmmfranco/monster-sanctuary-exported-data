@@ -58,8 +58,7 @@
     1.2,
     1.5
   ],
-  "Buffs": null,
-  "ApplyDelay": 1.9,
+  "Buffs": "  ApplyDelay: 1.9",
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 1
 }

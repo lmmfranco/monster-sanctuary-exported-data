@@ -46,7 +46,7 @@
   "ApplyDelay": 2.5,
   "ApplyChance": 1,
   "TargetCount": 1,
-  "Buffs": 8000000,
+  "Buffs": "0000000008000000",
   "ApplyDelay__1": 2.8,
   "SecondaryBuffCount": 3,
   "RandomBuffCount": 0,
