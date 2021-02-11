@@ -19323,7 +19323,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 1,
-      "IsMultiplicator": 0
+      "IsMultiplicator": 0,
+      "Stat": 5
     },
     {
       "guid": "97d72af805253a4489e44118b5ef5452",
@@ -19361,7 +19362,8 @@
       "Icon": "icon_armory",
       "Description": "Increases {Defense}, {Health}, {Mana} and {Mana Regeneration} from equipment by {0%} for allied {Warrior} Monsters.",
       "IsAura": 1,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.15
     },
     {
       "guid": "01d1ad350d21c2d4bb95131d972b8ebd",
@@ -19398,7 +19400,11 @@
       "Icon": "icon_attack_plus",
       "Description": null,
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 0,
+      "Value": 1,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "68bcee91202ed9342847d34e96d05d59",
@@ -19408,7 +19414,8 @@
       "Description": "At the start of combat, apply a Shield equal to {0%} of Attack value.",
       "IsAura": 0,
       "IsUnique": 0,
-      "BasedOnCastersStat": 0
+      "BasedOnCastersStat": 0,
+      "Stat": 0
     },
     {
       "guid": "7a584bd56363dcd47b1cf4607acf7616",
@@ -19481,7 +19488,8 @@
       "Icon": "icon_dark_passive",
       "Description": "Increases {Defense}, {Health}, {Mana}, {Mana Regeneration}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied monsters.",
       "IsAura": 1,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.15
     },
     {
       "guid": "186abcea8da142b4086d311974b8ecfd",
@@ -19731,7 +19739,8 @@
       "Icon": "icon_center_of_mass",
       "Description": "Multi-Target-Attacks deal {0%} extra damage to the enemy with the highest Health. Multi-Target-Heals heal the ally with the lowest Health by {0%} more.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.25
     },
     {
       "guid": "f746bbe18da72c64bac5fcb6e62906bc",
@@ -19768,7 +19777,8 @@
       "Icon": "icon_channeling_support",
       "Description": "{Channel} also improves all healing and shielding skills (active and passive) by {0%}.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Bonus": 0.15
     },
     {
       "guid": "85e74d31e6a7eeb4ab67b31bcd6e83b9",
@@ -19951,7 +19961,9 @@
       "Icon": "icon_crit_chance_focus",
       "Description": "Critical Chance values from equipment increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 5,
+      "Bonus": 0.25
     },
     {
       "guid": "be50d663a2c42184a9127c2922bdebf1",
@@ -19960,7 +19972,11 @@
       "Icon": "icon_crit_chance_plus",
       "Description": "+{0%} Critical Chance",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 5,
+      "Value": 0.05,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "f27fa9b55e4de7549bdae076a346a8b2",
@@ -19969,7 +19985,9 @@
       "Icon": "icon_crit_damage_focus",
       "Description": "Critical Damage values from equipment increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 6,
+      "Bonus": 0.5
     },
     {
       "guid": "ce1c68724db3d4c4792c458bdcc69059",
@@ -19978,7 +19996,11 @@
       "Icon": "icon_crit_damage_plus",
       "Description": "+{0%} Critical Damage",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 6,
+      "Value": 0.15,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "75f9926ee027fca42a4a25bd773c1bdd",
@@ -19996,7 +20018,8 @@
       "Icon": "icon_critical_basis",
       "Description": "Increases {Critical Chance} by {0%} while wearing no equipment that increases {Critical Chance}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.15
     },
     {
       "guid": "ceb6d960782dbe14daea4c40a1cbd500",
@@ -20078,7 +20101,8 @@
       "Icon": "icon_critical_exploit",
       "Description": "Attacks that exploit an enemy's weakness have {0%} increased Critical Chance.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.1
     },
     {
       "guid": "75c4476f476912e48a280c6902dd34cf",
@@ -20225,7 +20249,11 @@
       "Icon": "icon_dark_passive",
       "Description": "Increases damage dealt by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 9,
+      "Value": 0.15,
+      "IsPercent": 1,
+      "IsNegative": 0
     },
     {
       "guid": "11b6d13d39e62bd45bb8804374137374",
@@ -20279,7 +20307,9 @@
       "Icon": "icon_defense_focus",
       "Description": "Defense from equipment increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 2,
+      "Bonus": 0.25
     },
     {
       "guid": "3fc65e16e3c40574f8c7ce449acdc6a2",
@@ -20297,7 +20327,8 @@
       "Icon": "icon_defense_overload",
       "Description": "Increase Attack and Magic by {0%} of this Monster's Defense.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.15
     },
     {
       "guid": "1639172c2d846294bbe0885a54593ae7",
@@ -20306,7 +20337,11 @@
       "Icon": "icon_defense_plus",
       "Description": null,
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 2,
+      "Value": 1,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "8b3a6d153875a274b825a6c57beff6b8",
@@ -20455,7 +20490,9 @@
       "Icon": "icon_dark_passive",
       "Description": "Allows to equip two weapons. Second weapon values are reduced by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "IsWeapon": 1,
+      "StatReduction": 0.5
     },
     {
       "guid": "d3b651446c559264aba3d3af960b362c",
@@ -20586,7 +20623,9 @@
       "Icon": "icon_light_passive",
       "Description": "Allows to equip an additional Accessory.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "IsWeapon": 0,
+      "StatReduction": 0
     },
     {
       "guid": "e049545cc7f2d8d43bd5b3470363b69e",
@@ -20595,7 +20634,8 @@
       "Icon": "icon_light_passive",
       "Description": "This Monster's Max Health and Mana are increased by {0%} each.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.12
     },
     {
       "guid": "e87642257a8ce3c4bbfb8091a624fe2e",
@@ -20777,7 +20817,8 @@
       "Icon": "icon_gold_aura",
       "Description": "For each instance of \"Gold Sense\" in the party, every Monster in the party deals {0%} more damage and receives {0%} less damage.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Bonus": 0.05
     },
     {
       "guid": "f49367a6165675c44974a40d823e30ae",
@@ -20820,7 +20861,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 14,
-      "IsMultiplicator": 1
+      "IsMultiplicator": 1,
+      "Stat": 7
     },
     {
       "guid": "acf095bd25bc57749a29403fbe536090",
@@ -20838,7 +20880,8 @@
       "Icon": "icon_goblin_smith",
       "Description": "Increases {Defense}, {Health}, {Mana}, {Mana Regeneration}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied {Goblins}.",
       "IsAura": 1,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.15
     },
     {
       "guid": "4349f753901590e4ca45e8b222d00afc",
@@ -20910,7 +20953,9 @@
       "Icon": "icon_health_focus",
       "Description": "Health values from equipment increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 3,
+      "Bonus": 0.25
     },
     {
       "guid": "ec292d04f8d72bd41a8fdf50c5f2bd43",
@@ -20919,7 +20964,11 @@
       "Icon": "icon_health_plus",
       "Description": null,
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 3,
+      "Value": 1,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "219fd3ac01f6a70478a64ab6d1f7539f",
@@ -21022,7 +21071,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 0,
-      "IsMultiplicator": 0
+      "IsMultiplicator": 0,
+      "Stat": 5
     },
     {
       "guid": "92bf680f271809742a3d962744849058",
@@ -21041,7 +21091,8 @@
       "Description": "At the start of combat, apply a Shield equal to {0%} of Attack and Magic value.",
       "IsAura": 0,
       "IsUnique": 0,
-      "BasedOnCastersStat": 0
+      "BasedOnCastersStat": 0,
+      "Stat": 0
     },
     {
       "guid": "271ff778b22e20c4096dea3c4ff2fb3b",
@@ -21088,7 +21139,8 @@
       "Icon": "icon_improved_barrier",
       "Description": "{Barrier} (Buff) reduces damage received by an additional {0%}.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Value": 0.075
     },
     {
       "guid": "a06eebb5e8cbe8e49b074dd918a2d43d",
@@ -21097,7 +21149,8 @@
       "Icon": "icon_improved_glory",
       "Description": "{Glory} (Buff) increases Critical damage by an additional {0%}.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Value": 0.2
     },
     {
       "guid": "70ed061ecba09af4283e724d2ce335b9",
@@ -21106,7 +21159,11 @@
       "Icon": "icon_improved_mana_regen",
       "Description": "+{0%} Mana Regeneration ",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 7,
+      "Value": 0.2,
+      "IsPercent": 1,
+      "IsNegative": 0
     },
     {
       "guid": "4d3eb80016caff64ba8dc6fb673b3a72",
@@ -21115,7 +21172,8 @@
       "Icon": "icon_improved_regeneration",
       "Description": "{Regeneration} (Buff) regenerates an additional {0%} of Max Health.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Value": 0.075
     },
     {
       "guid": "c3579f1ca4c59324f8c86c24e33f2687",
@@ -21124,7 +21182,8 @@
       "Icon": "icon_improved_sidekick",
       "Description": "{Sidekick} (Buff) damage increased by an additional {0%}.",
       "IsAura": 1,
-      "IsUnique": 1
+      "IsUnique": 1,
+      "Value": 0.5
     },
     {
       "guid": "608b3a8ebf38a934abe83761558889bb",
@@ -21280,7 +21339,8 @@
       "Icon": "icon_life_overload",
       "Description": "Increase Attack and Magic by {0%} of this Monster's Max Health.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.015
     },
     {
       "guid": "0ad0e63be7fbe3c47af6c1c2baee4133",
@@ -21289,7 +21349,8 @@
       "Icon": "icon_life_stability",
       "Description": "Increase Defense by {0%} of this Monster's Max Health.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.015
     },
     {
       "guid": "8ac1b57211b4ee94d82b39413c71d74e",
@@ -21307,7 +21368,11 @@
       "Icon": "icon_light_passive",
       "Description": "Decrease damage taken by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 10,
+      "Value": 0.15,
+      "IsPercent": 1,
+      "IsNegative": 1
     },
     {
       "guid": "aae5b9e64de7dab498415bba3af11828",
@@ -21362,7 +21427,8 @@
       "Description": "All {Mage} Monster in the party start the combat with a shield equal to {0%} of their mana.",
       "IsAura": 1,
       "IsUnique": 0,
-      "BasedOnCastersStat": 0
+      "BasedOnCastersStat": 0,
+      "Stat": 4
     },
     {
       "guid": "3291da68dde01314c93d516ba9e25595",
@@ -21380,7 +21446,11 @@
       "Icon": "icon_magic_plus",
       "Description": null,
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 1,
+      "Value": 1,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "162b7b41baf17c343a13de44a0da82d5",
@@ -21390,7 +21460,8 @@
       "Description": "At the start of combat, apply a Shield equal to {0%} of Magic value.",
       "IsAura": 0,
       "IsUnique": 0,
-      "BasedOnCastersStat": 0
+      "BasedOnCastersStat": 0,
+      "Stat": 1
     },
     {
       "guid": "bc70906e192081941b9c7fb0c5dd0ed0",
@@ -21472,7 +21543,9 @@
       "Icon": "icon_mana_focus",
       "Description": "Mana and Mana Regeneration values from equipment increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 4,
+      "Bonus": 0.25
     },
     {
       "guid": "f319405cf46c00a41bd0b0e066cb163e",
@@ -21490,7 +21563,8 @@
       "Icon": "icon_mana_overload",
       "Description": "Increase Attack and Magic by {0%} of this Monster's Max Mana.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.15
     },
     {
       "guid": "6cf7e2dc91e400444912d62d1683a836",
@@ -21499,7 +21573,11 @@
       "Icon": "icon_mana_plus",
       "Description": null,
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Stat": 4,
+      "Value": 1,
+      "IsPercent": 0,
+      "IsNegative": 0
     },
     {
       "guid": "a896846f85415944ebb5accf0fe051a3",
@@ -21535,7 +21613,8 @@
       "Icon": "icon_mana_stability",
       "Description": "Increase Defense by {0%} of this Monster's Max Mana.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Value": 0.15
     },
     {
       "guid": "3ceafeacb4fa9f8438a64b98f39fbcf1",
@@ -21564,7 +21643,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 0,
-      "IsMultiplicator": 1
+      "IsMultiplicator": 1,
+      "Stat": 7
     },
     {
       "guid": "0b68a0c0a38aef84eab573237c0adb85",
@@ -21980,7 +22060,8 @@
       "Description": "At the start of combat, apply a Shield equal to {0%} of this Monster's Defense value to the whole party.",
       "IsAura": 1,
       "IsUnique": 0,
-      "BasedOnCastersStat": 1
+      "BasedOnCastersStat": 1,
+      "Stat": 2
     },
     {
       "guid": "6c39a2afea787744c94482aeba0bee38",
@@ -22065,7 +22146,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 7,
-      "IsMultiplicator": 0
+      "IsMultiplicator": 0,
+      "Stat": 5
     },
     {
       "guid": "1579dd40af1aafd42b0e86b072fdf875",
@@ -22159,7 +22241,8 @@
       "Icon": "icon_ring_focus",
       "Description": "Ring equipment values are increased by {0%}.",
       "IsAura": 0,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.8
     },
     {
       "guid": "6761f3e7bd89852418f35f6b0100976d",
@@ -22277,7 +22360,8 @@
       "Description": "All {Nature} Monster in the party start the combat with a shield equal to {0%} of their Max Health.",
       "IsAura": 1,
       "IsUnique": 0,
-      "BasedOnCastersStat": 0
+      "BasedOnCastersStat": 0,
+      "Stat": 3
     },
     {
       "guid": "8de13a95052126d458b27467060b0341",
@@ -22537,7 +22621,8 @@
       "IsAura": 1,
       "IsUnique": 0,
       "MonsterType": 2,
-      "IsMultiplicator": 0
+      "IsMultiplicator": 0,
+      "Stat": 5
     },
     {
       "guid": "54170f585de6a7c42bd01d6ed1417ded",
@@ -22754,7 +22839,8 @@
       "Icon": "icon_weaponry",
       "Description": "Increases {Attack}, {Magic}, {Critical Chance} and {Critical Damage} from equipment by {0%} for allied {Warrior} Monsters.",
       "IsAura": 1,
-      "IsUnique": 0
+      "IsUnique": 0,
+      "Bonus": 0.15
     },
     {
       "guid": "5ebc767e670b878409d769f26792d1d8",
